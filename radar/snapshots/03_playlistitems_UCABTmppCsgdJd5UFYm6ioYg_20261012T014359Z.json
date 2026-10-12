@@ -1,0 +1,776 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "eBsFE05XLJ-2bcQy1a9phdoDgrs",
+  "nextPageToken": "EAAaHlBUOkNBOGlFRFV4UmpRM01VVkdNekF5UWpkRk1qVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8LFxRi9bH7ZiRdEzm2sDKBshvp4",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLmxJQ2JOa3JIMXNn",
+      "snippet": {
+        "publishedAt": "2026-10-11T22:41:23Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Harold Shipman: The Doctor Who Killed 250 Patients | True Crime Documentary",
+        "description": "Harold Shipman was a trusted family doctor in Britain. His patients believed he was there to save their lives. But behind his professional reputation was a horrifying secret.\n\nFor more than two decades, Harold Shipman murdered patients under his care, becoming one of the most prolific serial killers in modern history.\n\nIn 1998, the suspicious death of 81-year-old Kathleen Grundy and a forged will finally exposed his crimes. What began as an investigation into a suspicious document soon uncovered a disturbing pattern of unexplained deaths, falsified medical records, and lethal drug injections.\n\nIn January 2000, Shipman was convicted of murdering 15 patients. But the official Shipman Inquiry later identified 218 victims and estimated that he had killed approximately 250 people.\n\nHow did a trusted doctor escape detection for so long? Why were the early warning signs missed? And could hundreds of lives have been saved?\n\nIn this CrimeLore true crime documentary, we investigate the full Harold Shipman case, from his early life and medical career to his arrest, trial, the official inquiry, and his death in prison.\n\n🔎 IN THIS DOCUMENTARY:\n• Harold Shipman's childhood and medical education\n• His drug addiction and early warning signs\n• The suspicious patient deaths in Hyde, England\n• Kathleen Grundy and the forged will\n• The police investigation and forensic evidence\n• The trial and 15 murder convictions\n• The Shipman Inquiry and estimated 250 victims\n• How the medical system failed to stop him\n• His death in prison and the lasting legacy\n\nHarold Shipman's case remains one of the most disturbing examples of abused medical trust in modern history.\n\nSubscribe to CrimeLore for detailed true crime documentaries, unsolved mysteries, serial killer investigations, and real criminal cases.\n\nWhat do you think was the biggest failure that allowed Harold Shipman to continue killing for so long? Share your thoughts in the comments.\n\nDISCLAIMER:\nThis documentary is intended for educational and informational purposes. It is based on historical investigations, court findings, and the official Shipman Inquiry. The figure of approximately 250 victims is an inquiry estimate, not the number of murders proven in court.\n\n#HaroldShipman #TrueCrimeDocumentary #DoctorDeath #CrimeLore #SerialKiller",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lICbNkrH1sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lICbNkrH1sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lICbNkrH1sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lICbNkrH1sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lICbNkrH1sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lICbNkrH1sg"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "lICbNkrH1sg",
+        "videoPublishedAt": "2026-10-11T22:41:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7y24q0Wo_adNO6jRJss41EutU38",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLlNEZWZ3X2hEY3Jn",
+      "snippet": {
+        "publishedAt": "2026-10-11T20:42:12Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Doctor Death: The Doctor Who Killed 250 Patients | Harold Shipman #shorts  #truecrimedocumentary",
+        "description": "He was a trusted family doctor. But behind his respected reputation was one of Britain's most notorious serial killers.\n\nDr. Harold Shipman was convicted of murdering 15 patients in 2000. The official Shipman Inquiry later estimated that he had killed approximately 250 people.\n\nHow did a doctor responsible for so many deaths avoid detection for years?\n\nDiscover the shocking true story of Harold Shipman, the investigation that exposed him, and the warning signs that were missed.\n\nSubscribe to CrimeLore for the full Harold Shipman documentary and more true crime investigations.\n\n#HaroldShipman #DoctorDeath #TrueCrime #CrimeLore #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SDefw_hDcrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SDefw_hDcrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SDefw_hDcrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SDefw_hDcrg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SDefw_hDcrg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SDefw_hDcrg"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "SDefw_hDcrg",
+        "videoPublishedAt": "2026-10-11T20:42:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-LeN4QCDB1VBndwGcuSTX6jcCgw",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLkRZd2t0blQyamRZ",
+      "snippet": {
+        "publishedAt": "2026-10-10T18:14:22Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "The Black Dahlia Murder: Who Killed Elizabeth Short? | Unsolved Mystery | True Crime Documentary",
+        "description": "On January 15, 1947, the body of 22-year-old Elizabeth Short was discovered in a vacant lot in Los Angeles. Her murder shocked America, triggered a massive police investigation, and became one of the most infamous unsolved cases in true crime history.\n\nThe press called her **The Black Dahlia**.\n\nBut who really killed Elizabeth Short? And why has the mystery remained unsolved for nearly eight decades?\n\nIn this CrimeLore documentary, we investigate the real Black Dahlia murder, separating historical evidence from speculation and examining the people, clues, and unanswered questions surrounding the case.\n\n**In this documentary:**\n- Elizabeth Short's childhood and personal life\n- Her journey to California\n- Robert Manley and the Biltmore Hotel\n- The mysterious six-day gap in January 1947\n- The discovery on South Norton Avenue\n- The LAPD investigation and FBI involvement\n- The mysterious package sent to a newspaper\n- False confessions and misleading leads\n- George Hodel and Leslie Dillon suspect theories\n- Why the Black Dahlia murder remains unsolved\n\nDespite decades of investigation, books, and competing theories, no one has been convicted of Elizabeth Short's murder.\n\nThis documentary examines the evidence while remembering the young woman behind the famous nickname.\n\n**What do you think happened to Elizabeth Short?** Share your thoughts in the comments.\n\nSubscribe to CrimeLore for more true crime documentaries, historical mysteries, cold cases, and unsolved investigations.\n\n**Sources and further reading:**\nFBI — Black Dahlia Case:\nhttps://www.fbi.gov/history/cases-and-criminals/black-dahlia\n\nFBI Vault — Black Dahlia Records:\nhttps://vault.fbi.gov/\n\nWikimedia Commons — Historical photographs:\nhttps://commons.wikimedia.org/wiki/Category:Black_Dahlia\n\nDisclaimer: This documentary is presented for historical, educational, and informational purposes. Suspect theories are discussed as allegations, not established findings.\n\n#BlackDahlia #ElizabethShort #TrueCrime #UnsolvedMystery #CrimeLore",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DYwktnT2jdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DYwktnT2jdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DYwktnT2jdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DYwktnT2jdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DYwktnT2jdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DYwktnT2jdY"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "DYwktnT2jdY",
+        "videoPublishedAt": "2026-10-10T18:14:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jiL6Vatgqdl6YsiH_c8Pf33MsdE",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLkgtTXFIU0NKTlRR",
+      "snippet": {
+        "publishedAt": "2026-10-10T11:36:16Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "The Black Dahlia  Hollywood's Most Infamous Unsolved Murder #Shorts #crimelore  #crimedocumentary",
+        "description": "In January 1947, Elizabeth Short was found murdered in Los Angeles. Her case became known worldwide as the Black Dahlia murder.\n\nDespite a major police investigation, the killer was never identified.\n\nWho murdered Elizabeth Short, and why does the mystery remain unsolved?\n\nExplore the Black Dahlia case with CrimeLore.\n\nSubscribe for more true crime documentaries and unsolved mysteries.\n\n#BlackDahlia #ElizabethShort #UnsolvedMystery #TrueCrime #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H-MqHSCJNTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H-MqHSCJNTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H-MqHSCJNTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H-MqHSCJNTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H-MqHSCJNTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H-MqHSCJNTQ"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "H-MqHSCJNTQ",
+        "videoPublishedAt": "2026-10-10T11:36:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OQiToz3Kf0_RprvMBsg7Y9v4LKM",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLnFfSDB2R2VJMzVn",
+      "snippet": {
+        "publishedAt": "2026-10-09T01:36:01Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Richard Chase: The Vampire of Sacramento | The Terrifying True Story | True Crime Documentary",
+        "description": "Richard Chase became known as the Vampire of Sacramento after a series of horrifying murders that shocked California in the late 1970s.\n\nBetween December 1977 and January 1978, six people were murdered in Sacramento. The man responsible had a documented history of severe psychiatric illness, disturbing delusions, and behavior that raised serious concerns before the killings began.\n\nBut how did Richard Chase become one of America's most infamous serial killers? What evidence finally led investigators to his apartment? And how did his psychiatric history affect the trial that followed?\n\nIn this CrimeLore true crime documentary, we examine the real Richard Chase case, including:\n\n- Richard Chase's early life and psychiatric history\n- The murder of Ambrose Griffin\n- The killing of Teresa Wallin\n- The murders at Evelyn Miroth's home\n- The Sacramento police investigation\n- Chase's arrest and the evidence against him\n- The 1979 murder trial and insanity defense\n- His death in San Quentin State Prison in 1980\n\nBeyond the disturbing nickname lies a real criminal investigation, six victims, and a case that continues to raise difficult questions about criminal responsibility and mental illness.\n\nThis documentary focuses on the documented case while distinguishing established facts from sensationalized retellings.\n\nSubscribe to CrimeLore for true crime documentaries, serial killer investigations, historical mysteries, and unsolved cases.\n\n**The victims:** Ambrose Griffin, Teresa Wallin, Evelyn Miroth, Daniel Meredith, Jason Miroth, and David Ferreira.\n\nDisclaimer: This documentary is intended for educational and documentary purposes. It does not glorify violence. Severe mental illness alone does not make someone violent.\n\n#RichardChase #VampireOfSacramento #TrueCrime #CrimeLore #TrueCrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q_H0vGeI35g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q_H0vGeI35g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q_H0vGeI35g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q_H0vGeI35g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q_H0vGeI35g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q_H0vGeI35g"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "q_H0vGeI35g",
+        "videoPublishedAt": "2026-10-09T01:36:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qng6TVYLIvKCEmH9EU3_q5Btii8",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLi10Z3kxZUxiQUJr",
+      "snippet": {
+        "publishedAt": "2026-10-08T20:44:09Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "The Vampire of Sacramento | Richard Chase's Disturbing True Story #shorts #truecrimedocumentary",
+        "description": "In 1978, Sacramento, California, was shaken by a series of terrifying murders.\n\nThe man responsible was Richard Chase, later known as the Vampire of Sacramento.\n\nBetween December 1977 and January 1978, Chase killed six people. But the warning signs had appeared long before his crimes came to an end.\n\nHow did investigators identify him? And what happened before his arrest?\n\nExplore the disturbing true story of Richard Chase on CrimeLore.\n\nSubscribe to CrimeLore for true crime documentaries, criminal investigations, serial killer cases, and unsolved mysteries.\n\n#RichardChase #VampireOfSacramento #TrueCrime #Shorts #CrimeLore",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tgy1eLbABk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tgy1eLbABk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tgy1eLbABk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-tgy1eLbABk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-tgy1eLbABk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-tgy1eLbABk"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "-tgy1eLbABk",
+        "videoPublishedAt": "2026-10-08T20:44:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FU48ZPwTcqMR_-Gur_X4LGsPTdo",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLlJnUTVTS21ZYWdj",
+      "snippet": {
+        "publishedAt": "2026-10-07T17:41:16Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "The Real Killer Who Inspired Hollywood’s Most Terrifying Movies | Ed Gein | True Crime Documentary",
+        "description": "The real killer who inspired some of Hollywood’s most terrifying characters.\n\nIn 1957, the disappearance of Bernice Worden led police to the isolated farmhouse of a quiet Wisconsin man named Ed Gein.\n\nWhat investigators discovered inside would make Gein one of the most infamous figures in American crime history.\n\nHuman remains. Evidence of grave robbing. And a disturbing collection that had been hidden for years.\n\nBut the true story of Ed Gein is often confused with the horror movies his crimes later helped inspire.\n\nNorman Bates in Psycho.\nLeatherface in The Texas Chain Saw Massacre.\nBuffalo Bill in The Silence of the Lambs.\n\nThe fictional killers became legendary — but what did Ed Gein actually do?\n\nThis CrimeLore documentary examines the real Ed Gein case, the murders of Mary Hogan and Bernice Worden, the investigation of his Plainfield farmhouse, his years of grave robbing, his mental competency proceedings and trial, and the myths that developed around his crimes.\n\nWas Ed Gein really the prolific serial killer popular culture made him out to be?\n\nHow did police finally discover what was happening at his farmhouse?\n\nAnd which parts of the Hollywood legend are actually true?\n\nThis is the disturbing true story of Ed Gein — and how a real criminal case helped influence some of the most recognizable horror characters ever created.\n\nSubscribe to CrimeLore for true crime documentaries, serial killer cases, criminal investigations, historical crimes, and unsolved mysteries.\n\nUntil the next case...\nstay curious.\nFollow the evidence.\n\nThis is CrimeLore.\n\n#EdGein #TrueCrime #CrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RgQ5SKmYagc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RgQ5SKmYagc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RgQ5SKmYagc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RgQ5SKmYagc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RgQ5SKmYagc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RgQ5SKmYagc"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "RgQ5SKmYagc",
+        "videoPublishedAt": "2026-10-07T17:41:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sDSHjsI2Mj09EAuW2sIDKoxhc2Y",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLlE1b3lOTEF5LXZJ",
+      "snippet": {
+        "publishedAt": "2026-10-05T22:31:30Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "The Serial Killer Police Questioned — Then Let Go | Khalil Wheeler-Weaver | True Crime Documentary",
+        "description": "The Serial Killer Police Questioned — Then Let Go.\n\nIn 2016, a series of disappearances and murders in New Jersey would eventually lead investigators to Khalil Wheeler-Weaver — a man police had already questioned earlier in the investigation.\n\nThis CrimeLore documentary examines the disturbing case of Khalil Wheeler-Weaver, the murders of Robin West, Joanne Brown, and Sarah Butler, the survival of Tiffany Taylor, and the digital evidence that ultimately helped investigators connect the cases.\n\nRobin West was 19 years old when she disappeared. One of her friends had recorded the license plate of the car she entered — a clue that led investigators to Wheeler-Weaver.\n\nPolice questioned him.\n\nHe admitted being with Robin.\n\nHe even showed detectives where he claimed he had left her.\n\nAt the time, investigators did not yet have the evidence that would later connect him to her murder.\n\nHe was allowed to leave.\n\nThen more women disappeared.\n\nJoanne Brown vanished in October 2016.\n\nTiffany Taylor survived a violent attack and would later become a crucial witness.\n\nThen 20-year-old college student Sarah Butler disappeared after communicating with a man online.\n\nBut Sarah's family refused to simply wait.\n\nThey searched her online accounts, discovered suspicious messages, created a fake profile, and helped arrange a meeting that brought police face-to-face with Wheeler-Weaver again.\n\nFrom there, investigators began examining phone records, location data, online conversations, witness testimony, and other evidence.\n\nCases that had initially appeared separate began connecting to the same man.\n\nIn 2019, Khalil Wheeler-Weaver was convicted of murdering Robin West, Joanne Brown, and Sarah Butler, along with crimes connected to the attack on Tiffany Taylor.\n\nHe was later sentenced to 160 years in prison.\n\nYears later, another case would emerge involving 15-year-old Mawa Doumbia, resulting in separate murder charges against Wheeler-Weaver.\n\nThis documentary follows the complete investigation — from the first disappearance and early police encounter to the digital trail, Sarah Butler's family's extraordinary role in the investigation, the trial, convictions, and the questions the case left behind.\n\nHow was Khalil Wheeler-Weaver finally caught?\n\nHow did phone records connect the cases?\n\nAnd how did a grieving family help uncover the digital trail that led investigators to a serial killer?\n\nThis is the case of Khalil Wheeler-Weaver.\n\nSubscribe to CrimeLore for true crime documentaries, serial killer cases, criminal investigations, historical crimes, and unsolved mysteries.\n\nUntil the next case...\nstay curious.\nFollow the evidence.\n\nThis is CrimeLore.\n\n#KhalilWheelerWeaver #TrueCrime #CrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q5oyNLAy-vI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q5oyNLAy-vI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q5oyNLAy-vI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q5oyNLAy-vI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q5oyNLAy-vI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q5oyNLAy-vI"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "Q5oyNLAy-vI",
+        "videoPublishedAt": "2026-10-05T22:31:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z5QE9W52Rd2T9k_sNS43s3qlqLw",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLm5McDlKUWpDejhv",
+      "snippet": {
+        "publishedAt": "2026-10-04T12:01:09Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Who Was the Zodiac Killer? The Evidence That Still Doesn’t Add Up | True Crime Documenta",
+        "description": "Who was the Zodiac Killer?\n\nMore than 50 years after a series of murders terrorized Northern California, the identity of the man behind the Zodiac name remains one of America's most famous unsolved mysteries.\n\nIn this CrimeLore documentary, we investigate the complete story of the Zodiac Killer — from the first confirmed attacks to the mysterious letters, coded messages, surviving witnesses, police investigation, and the suspects who have been accused of being the man behind the symbol.\n\nBetween 1968 and 1969, the Zodiac's confirmed attacks left five people dead and two survivors.\n\nDavid Faraday and Betty Lou Jensen.\nDarlene Ferrin and Michael Mageau.\nBryan Hartnell and Cecelia Shepard.\nPaul Stine.\n\nBut the murders were only part of the story.\n\nThe killer began communicating with newspapers, sending threatening letters and cryptic messages while using the now-infamous crossed-circle symbol and the name \"Zodiac.\"\n\nSome of those ciphers would remain unsolved for decades.\n\nWe examine the Z408 and Z340 ciphers, the attack at Lake Berryessa, the murder of Paul Stine, the Zodiac composite sketch, the school bus threat, and the critical police communication error that may have allowed the killer to escape only minutes after one of his murders.\n\nWe also examine the man who became the most famous Zodiac suspect:\n\nArthur Leigh Allen.\n\nWhy did investigators suspect him?\n\nWhat did Don Cheney claim?\n\nWhat was the significance of Allen's Zodiac watch?\n\nAnd why did fingerprints, handwriting comparisons, searches, and later forensic testing fail to conclusively identify him as the killer?\n\nWe also look beyond Allen at other suspects and theories, while examining one of the biggest problems surrounding the Zodiac mystery — the difference between compelling circumstantial evidence and actual proof.\n\nWas the Zodiac an extraordinary criminal mastermind?\n\nDid police unknowingly encounter him on the night Paul Stine was murdered?\n\nDid he really commit all the murders he claimed?\n\nWhy did the confirmed killings suddenly stop?\n\nAnd could modern forensic technology finally reveal his identity?\n\nMore than half a century later, we know his symbol.\n\nWe know his letters.\n\nWe know his ciphers.\n\nWe know his confirmed victims.\n\nBut we still don't know his real name.\n\nThis is the story of the Zodiac Killer — the evidence, the ciphers, the suspects, and the investigation that has remained unsolved for more than 50 years.\n\nSubscribe to CrimeLore for true crime documentaries, unsolved mysteries, historical crimes, and evidence-based investigations.\n\nStay curious.\nFollow the evidence.\n\nThis is CrimeLore.\n\n#ZodiacKiller #TrueCrime #UnsolvedMystery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLp9JQjCz8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLp9JQjCz8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLp9JQjCz8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nLp9JQjCz8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nLp9JQjCz8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nLp9JQjCz8o"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "nLp9JQjCz8o",
+        "videoPublishedAt": "2026-10-04T12:01:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2YJrBQ5_3lebWsRpRyFjEtrjpNg",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLnVwRm5zaUNjZTZF",
+      "snippet": {
+        "publishedAt": "2026-10-03T02:07:49Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Jack the Ripper: Who Was He Really? | The Evidence & Suspects (Part 2)| True Crime Documentary",
+        "description": "Part 1: https://youtu.be/103pDnpsT14\nWho was Jack the Ripper?\n\nMore than 135 years after the Whitechapel murders, the identity of one of history's most infamous unidentified killers remains a mystery.\n\nIn Part 2 of this CrimeLore documentary, we move beyond the murders themselves and examine what the surviving evidence may actually reveal about the man behind them.\n\nHow did Jack the Ripper move through Whitechapel without being caught?\n\nDid witnesses ever see him?\n\nDid he really have medical or anatomical knowledge?\n\nWas he a local man?\n\nWhy did the murders suddenly stop?\n\nAnd did Scotland Yard ever come closer to identifying him than the public realized?\n\nWe examine the witness descriptions, crime locations, police investigation, geographical patterns, psychological theories, and the evidence surrounding some of the most famous Jack the Ripper suspects.\n\nAaron Kosminski.\nMontague John Druitt.\nFrancis Tumblety.\nGeorge Chapman.\nWalter Sickert.\nMichael Ostrog.\nThomas Neill Cream.\nPrince Albert Victor.\n\nEach has been connected to the mystery.\n\nBut how much evidence actually supports those theories?\n\nWe also examine the myths that have shaped the Jack the Ripper legend for more than a century — from the mysterious man in a top hat and cape to claims about medical expertise, DNA evidence, secret identities, and the idea that the killer must have been a criminal mastermind.\n\nAfter separating the legend from the evidence, we return to the question at the center of the case:\n\nWho was Jack the Ripper?\n\nAnd is there still any realistic chance that his identity could one day be discovered?\n\nThis is Part 2 of CrimeLore's complete investigation into the Jack the Ripper case.\n\nIf you haven't watched Part 1, begin there for the complete story of the Whitechapel murders, the victims, crime scenes, mysterious letters, police investigation, and the suspects who became connected to the case.\n\nSubscribe to CrimeLore for true crime documentaries, unsolved mysteries, historical crimes, and evidence-based investigations.\n\nStay curious.\nFollow the evidence.\n\nThis is CrimeLore.\n\n#JackTheRipper #TrueCrime #UnsolvedMystery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/upFnsiCce6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/upFnsiCce6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/upFnsiCce6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/upFnsiCce6E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/upFnsiCce6E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "upFnsiCce6E"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "upFnsiCce6E",
+        "videoPublishedAt": "2026-10-03T02:07:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vuyaEldHrtY1gLwvKmT_sVYxehQ",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLjEwM3BEbnBzVDE0",
+      "snippet": {
+        "publishedAt": "2026-10-01T20:47:27Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Jack the Ripper: The Killer Who Was Never Caught | Victims, Evidence & Suspects (Part 1)| True Crime",
+        "description": "Jack the Ripper remains one of the most infamous unidentified killers in history.\n\nIn 1888, a series of brutal murders in London's Whitechapel district created fear across the city and gave birth to a mystery that remains unsolved more than a century later.\n\nBut how much of the Jack the Ripper story is actually supported by evidence?\n\nIn Part 1 of this CrimeLore documentary, we go back to Victorian London and examine the Whitechapel murders from the beginning — the victims, crime scenes, witness accounts, mysterious letters, police investigation, and the suspects who have been accused of being Jack the Ripper.\n\nWe examine the cases of Mary Ann Nichols, Annie Chapman, Elizabeth Stride, Catherine Eddowes, and Mary Jane Kelly — the women traditionally known as the Canonical Five — while also exploring whether Jack the Ripper may have had other victims.\n\nWe also investigate some of the most famous suspects and theories surrounding the case, including Aaron Kosminski, Montague John Druitt, Francis Tumblety, George Chapman, Walter Sickert, the Royal Conspiracy theory, and the controversial DNA evidence that some have claimed could finally reveal the killer's identity.\n\nWas Jack the Ripper really one man?\n\nDid Scotland Yard know who he was?\n\nCan modern DNA evidence solve a mystery from 1888?\n\nOr has the killer's real identity been lost forever?\n\nThis is the story of Jack the Ripper — the victims, the evidence, the suspects, and one of history's greatest unsolved murder mysteries.\n\nPart 2 will continue the investigation by examining the killer's movements through Whitechapel, his possible profile, the myths surrounding the case, and what the murders themselves may reveal about the man police were hunting.\n\nSubscribe to CrimeLore for more true crime documentaries, unsolved mysteries, criminal investigations, and historical crime cases.\n\n#JackTheRipper #TrueCrime #UnsolvedMystery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/103pDnpsT14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/103pDnpsT14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/103pDnpsT14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/103pDnpsT14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/103pDnpsT14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "103pDnpsT14"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "103pDnpsT14",
+        "videoPublishedAt": "2026-10-01T20:47:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6hHbaXX5rQBnUKO2OKlsRG6DfZI",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLkhKZ25zZDZRaVlJ",
+      "snippet": {
+        "publishedAt": "2026-09-30T02:51:13Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Police Found a Woman’s Body |Then One Clue Led to His Van |Steven Matthew Wolf |Crime Documentary",
+        "description": "A woman is found dead near a bridge in Marathon, Florida, with no identification and seemingly few clues pointing to her killer.\nBut one tiny piece of a damaged vehicle would change everything.\nAs detectives begin reconstructing the victim's final hours, they identify her as Michelle and uncover a connection to Steven Matthew Wolf — a man with a violent past dating back decades.\nWhat follows is an intense investigation involving surveillance footage, a damaged van, witness interviews, forensic evidence, and an interrogation in which Steven offers investigators a completely different explanation for what happened.\nIn this CrimeLore documentary, we break down the investigation, the evidence discovered inside Steven's van, Detective Matt Pitcher's interrogation strategy, the case that ultimately led to Steven's conviction, and the disturbing question investigators were left with:\nCould there be other victims?\nThis video is presented for documentary and educational purposes. Our focus is on the investigation while remembering the victim and the people affected by the crime.\nLet us know your thoughts on the case respectfully in the comments.\nSubscribe to CrimeLore for more true crime documentaries, solved cases, criminal investigations, and stories that go beyond the headlines.\n#StevenMatthewWolf #TrueCrime #CrimeLore #TrueCrimeDocumentary #FloridaCrime #CriminalInvestigation #SolvedCase",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJgnsd6QiYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJgnsd6QiYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJgnsd6QiYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HJgnsd6QiYI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HJgnsd6QiYI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HJgnsd6QiYI"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "HJgnsd6QiYI",
+        "videoPublishedAt": "2026-09-30T02:51:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tnnA7Grw_wR1QIaMDboM6gDZHK0",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLllHa1YwZjZvWGcw",
+      "snippet": {
+        "publishedAt": "2026-09-29T03:23:09Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Lindsay Clancy: The Mother Who Killed Her 3 Children | Full Case | True Crime Documentary",
+        "description": "The Lindsay Clancy case became one of the most disturbing and complicated criminal cases to emerge from Massachusetts.\n\nOn January 24, 2023, Lindsay Clancy — a labor and delivery nurse and mother of three — was accused of killing her three young children, Cora, Dawson, and Callan, inside their family home in Duxbury, Massachusetts, before attempting to take her own life.\n\nBut as investigators examined what happened, the case developed into a much larger debate surrounding mental health, postpartum depression, postpartum psychosis, criminal responsibility, and whether Lindsay understood the nature of her actions that night.\n\nThe prosecution argued that the killings were deliberate and planned. The defense argued that Lindsay had been experiencing a severe psychiatric crisis and postpartum psychosis.\n\nHer husband, Patrick Clancy, publicly spoke about forgiveness and described Lindsay as someone who had become sick rather than the person the public imagined her to be.\n\nYears later, Lindsay Clancy's trial placed these two dramatically different interpretations before a jury.\n\nAfter examining medical records, physical evidence, testimony, and arguments surrounding Lindsay's mental state, the jury reached an extraordinary split:\n\n11–1.\n\nOne juror refused to join the others.\n\nThe jury could not reach a unanimous verdict, resulting in a mistrial.\n\nIn this CrimeLore documentary, we explore the Lindsay Clancy case from the beginning — her life before the tragedy, the deaths of Cora, Dawson and Callan, Lindsay's mental-health history, Patrick Clancy's response, the prosecution and defense arguments, the trial, the controversial 11–1 jury deadlock, and the questions that remain.\n\nThis case involves extremely sensitive discussions of child deaths, suicide/self-harm, postpartum mental health, and psychiatric illness. The Lindsay Clancy case should not be considered representative of people experiencing postpartum depression, postpartum psychosis, or other mental-health conditions.\n\nWhat do you think was the most important evidence presented in this case?\n\nShare your thoughts respectfully in the comments.\n\nSubscribe to CrimeLore for more true crime documentaries, criminal investigations, courtroom cases, unsolved mysteries, and stories that go beyond the headlines.\n\n#LindsayClancy #TrueCrime #CrimeLore #LindsayClancyTrial #TrueCrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YGkV0f6oXg0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YGkV0f6oXg0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YGkV0f6oXg0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YGkV0f6oXg0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YGkV0f6oXg0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YGkV0f6oXg0"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "YGkV0f6oXg0",
+        "videoPublishedAt": "2026-09-29T03:23:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7dmi9srietIWqubssyAkLYJoDSI",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLklfQnZlTXVPZi1j",
+      "snippet": {
+        "publishedAt": "2026-09-27T23:30:08Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "She Had No Idea She Was Living With a Serial Killer | Sean Vincent Gillis |True Crime Documentary",
+        "description": "For years, Sean Vincent Gillis appeared to live an ordinary life in Baton Rouge, Louisiana. Even the woman closest to him had no idea that behind his seemingly harmless personality was a disturbing secret.\nBeginning in the 1990s, a series of brutal murders left women dead across the Baton Rouge area. As investigators struggled to connect the cases, Gillis continued living largely outside their suspicion. It wasn't until evidence from the murder of Donna Bennett Johnston gave investigators a crucial lead that the truth began to unravel.\nIn this CrimeLore documentary, we explore the case of Sean Vincent Gillis — his background, his relationship with Terry Lemoine, the murders attributed to him, the disturbing behavior investigators uncovered, the evidence that finally led police to his door, his confession, and the questions surrounding how he managed to hide his double life for so long.\nMost importantly, behind this case were real victims and families whose lives were permanently changed. Their stories should never be overshadowed by the person responsible.\nWhat stands out to you most about this case? Share your thoughts respectfully in the comments.\nSubscribe to CrimeLore for more true crime documentaries, disturbing cases, unsolved mysteries, and stories that go beyond the headlines.\n#SeanVincentGillis #truecrimecommunity  #CrimeLore #serialkillercase  #batonrouge  #truecrimedocumentary  #crimedocumentary  #truecrimestory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_BveMuOf-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_BveMuOf-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_BveMuOf-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_BveMuOf-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_BveMuOf-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_BveMuOf-c"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "I_BveMuOf-c",
+        "videoPublishedAt": "2026-09-27T23:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5MsQ9fcJIstmA7eAxkFOzkOfKE0",
+      "id": "VVVBQlRtcHBDc2dkSmQ1VUZZbTZpb1lnLjRMbmU5WmdxeFI4",
+      "snippet": {
+        "publishedAt": "2026-09-26T22:20:48Z",
+        "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+        "title": "Big Ed  The Serial Killer Police Never Suspected | True Crime Documentary",
+        "description": "He was friendly with the very police officers hunting a serial killer.\n\nWhat they didn't realize was that the man they knew as \"Big Ed\" was the killer they were searching for.\n\nIn the early 1970s, young women began disappearing around Santa Cruz, California. As investigators struggled to connect the disappearances and disturbing discoveries, Edmund Kemper remained almost completely outside their suspicion — even spending time with local police officers and listening as they discussed the investigation.\n\nBehind his calm and intelligent personality was a disturbing history stretching back to his teenage years.\n\nIn this CrimeLore documentary, we explore the Edmund Kemper case — his troubled early life, the murders that earned him the name \"Co-Ed Killer,\" how he avoided suspicion, his shocking confession, and the questions surrounding what shaped one of America's most infamous serial killers.\n\nMost importantly, we remember that behind every true crime case are real victims and families whose lives were permanently changed.\n\nWhat stands out to you most about this case? Share your thoughts respectfully in the comments.\n\nSubscribe to CrimeLore for more true crime documentaries, disturbing cases, unsolved mysteries, and stories that go beyond the headlines.\n\n#EdmundKemper #TrueCrime #CrimeLore #CoEdKiller #TrueCrimeDocumentary #SerialKiller #CrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Lne9ZgqxR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Lne9ZgqxR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Lne9ZgqxR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Lne9ZgqxR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Lne9ZgqxR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Crime Lore",
+        "playlistId": "UUABTmppCsgdJd5UFYm6ioYg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Lne9ZgqxR8"
+        },
+        "videoOwnerChannelTitle": "Crime Lore",
+        "videoOwnerChannelId": "UCABTmppCsgdJd5UFYm6ioYg"
+      },
+      "contentDetails": {
+        "videoId": "4Lne9ZgqxR8",
+        "videoPublishedAt": "2026-09-26T22:20:48Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 21,
+    "resultsPerPage": 15
+  }
+}

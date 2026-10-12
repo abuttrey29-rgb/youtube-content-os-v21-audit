@@ -1,0 +1,781 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "_RahIF5JoiCzSjALzLbE6gFXLBQ",
+  "nextPageToken": "EAAaHlBUOkNBOGlFRFpDT1RjNVJETTRPRUpDTnpNMk9VTQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V6SOe-Tt1UMBHk7xORQvM1rEhzE",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLlU2d1hXdFljd0pn",
+      "snippet": {
+        "publishedAt": "2026-10-11T15:00:25Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "\"There was no town before the factory\" was true once",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6wXWtYcwJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6wXWtYcwJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6wXWtYcwJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U6wXWtYcwJg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U6wXWtYcwJg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U6wXWtYcwJg"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "U6wXWtYcwJg",
+        "videoPublishedAt": "2026-10-11T15:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b61lVkCs8k3UfwRiMQwKDecxbd4",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLkZRN3liQ1FUYmhN",
+      "snippet": {
+        "publishedAt": "2026-10-11T07:00:31Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "The Lumon building introduces itself",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQ7ybCQTbhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQ7ybCQTbhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQ7ybCQTbhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FQ7ybCQTbhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FQ7ybCQTbhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FQ7ybCQTbhM"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "FQ7ybCQTbhM",
+        "videoPublishedAt": "2026-10-11T07:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "69sJKfIXA5TpTPJmyiBXO7v6_m4",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLjE5OFFwS09YaV9j",
+      "snippet": {
+        "publishedAt": "2026-10-10T23:24:32Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "The ducks left in season one. Their food brought a bear #TheSopranos #TonySoprano #videoessay",
+        "description": "Full essay on the channel: The Sopranos: The ducks left. Their food stayed for six seasons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/198QpKOXi_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/198QpKOXi_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/198QpKOXi_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/198QpKOXi_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/198QpKOXi_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "198QpKOXi_c"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "198QpKOXi_c",
+        "videoPublishedAt": "2026-10-10T23:24:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mWNfnwT_-8DeNMmiTB0QT2xL9GY",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLjdKVFduaUhCZDNF",
+      "snippet": {
+        "publishedAt": "2026-10-10T15:00:12Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "The man who invented the cubicle called it \"monolithic insanity\"",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JTWniHBd3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JTWniHBd3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JTWniHBd3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7JTWniHBd3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7JTWniHBd3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7JTWniHBd3E"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "7JTWniHBd3E",
+        "videoPublishedAt": "2026-10-10T15:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T1Oc89Pp-abuzcs_jGzWXGUFiMo",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLlVkdExuS0U4WEZJ",
+      "snippet": {
+        "publishedAt": "2026-10-10T07:00:11Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Severance: Lumon pays for Mark's house too",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UdtLnKE8XFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UdtLnKE8XFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UdtLnKE8XFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UdtLnKE8XFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UdtLnKE8XFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UdtLnKE8XFI"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "UdtLnKE8XFI",
+        "videoPublishedAt": "2026-10-10T07:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "08RXdg4SnvAWZ0sHSrwxBLNkCmY",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLmVHSmlRTXdGWHpJ",
+      "snippet": {
+        "publishedAt": "2026-10-09T15:00:13Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "What 100% gets you at Lumon",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eGJiQMwFXzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eGJiQMwFXzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eGJiQMwFXzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eGJiQMwFXzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eGJiQMwFXzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eGJiQMwFXzI"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "eGJiQMwFXzI",
+        "videoPublishedAt": "2026-10-09T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xp3f4d8Y4GLn2Ol15VhKkrHUFiI",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLkNlOG80Slh5b2Y4",
+      "snippet": {
+        "publishedAt": "2026-10-09T07:00:10Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Severance: why Lumon painted the same massacre twice",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ce8o4JXyof8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ce8o4JXyof8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ce8o4JXyof8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ce8o4JXyof8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ce8o4JXyof8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ce8o4JXyof8"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "Ce8o4JXyof8",
+        "videoPublishedAt": "2026-10-09T07:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yud_NFft9uKH-nvs_4r5RAZfgcY",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLm1YdHZHVnQ1U0JF",
+      "snippet": {
+        "publishedAt": "2026-10-08T22:44:55Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Severance: the one thing Lumon employees can't draw",
+        "description": "Full essay on the channel: Severance: why nobody is allowed to draw a map\n\n#Severance #AppleTV #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mXtvGVt5SBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mXtvGVt5SBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mXtvGVt5SBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mXtvGVt5SBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mXtvGVt5SBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mXtvGVt5SBE"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "mXtvGVt5SBE",
+        "videoPublishedAt": "2026-10-08T22:44:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BEcRfhpjqpSkuW3Vl_C6QYKncxs",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLlBmbXhjRlphb1dv",
+      "snippet": {
+        "publishedAt": "2026-10-08T18:21:17Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Severance: why nobody is allowed to draw a map",
+        "description": "Nobody on the severed floor in Severance is allowed to draw a map of it. The building above that floor is real, though: Bell Labs in Holmdel, New Jersey, designed by Eero Saarinen and opened in 1962, and its floor plan explains more about Lumon than the show ever says out loud.\n\nThis essay goes through both seasons with that plan open: the corridors, the rooms without windows, the green carpet, the desk with four seats, the break room and the door. It also goes to Columbus, Indiana, where the same architect built a bank out of the same glass for a client who wanted the opposite from it, and to Columbus (2017), the film Kogonada shot there years before he was reported to be directing season three.\n\n0:00 Nobody is allowed to draw a map\n0:39 I. The map\n3:07 II. Glass: the real building\n6:33 III. The bank in Columbus, Indiana\n8:32 IV. The bridge: three kinds of corridor\n10:57 V. The desk\n16:09 VI. Care\n25:02 VII. The town\n32:15 VIII. The door\n37:06 IX. The essayist\n\n—\n\nSeverance, seasons 1–2 (2022–2025), created by Dan Erickson. Apple TV+.\nColumbus (2017), written and directed by Kogonada.\nVideo essays by Kogonada: Ozu // Passageways (2012), Kubrick // One-Point Perspective (2012), Wes Anderson // Centered (2014), Hands of Bresson (2014).\nStills from After Yang (2021). Photograph of Bell Works by MiracleMiles (CC BY 4.0, Wikimedia Commons).\nReading: Louise A. Mozingo, Pastoral Capitalism (2011); interviews with production designer Jeremy Hindle in The Hollywood Reporter, Metropolis and The Credits.\nAll footage is used for commentary and criticism.\n\nWritten and edited by Timofey P.\nContact: [EMAIL-REDACTED]\n\nNo Signal After Four.\n\n#Severance #Lumon #VideoEssay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "fhd": {
+            "url": "https://i.ytimg.com/vi/PfmxcFZaoWo/fhddefault.jpg",
+            "width": 1920,
+            "height": 1080
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PfmxcFZaoWo"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "PfmxcFZaoWo",
+        "videoPublishedAt": "2026-10-08T18:21:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eJoTHfwl1QyhTyFPQSRZHglEz8k",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLjB5RzA5WUV3Rkcw",
+      "snippet": {
+        "publishedAt": "2026-10-07T15:00:37Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "The last bird scene in The Sopranos is Uncle Junior at a window #Sopranos #TonySoprano #videoessay",
+        "description": "Full essay on the channel: The Sopranos: The ducks left. Their food stayed for six seasons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yG09YEwFG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yG09YEwFG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yG09YEwFG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yG09YEwFG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0yG09YEwFG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0yG09YEwFG0"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "0yG09YEwFG0",
+        "videoPublishedAt": "2026-10-07T15:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6ZP6k7sKur7q56DYKxQXNsekZxA",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLlpxYlhoaXMzb0Zz",
+      "snippet": {
+        "publishedAt": "2026-10-06T15:00:33Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Tony drains the pool with Carmela's excuse, two seasons later #TheSopranos #TonySoprano #videoessay",
+        "description": "Full essay on the channel: The Sopranos: The ducks left. Their food stayed for six seasons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqbXhis3oFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqbXhis3oFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqbXhis3oFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZqbXhis3oFs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZqbXhis3oFs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZqbXhis3oFs"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "ZqbXhis3oFs",
+        "videoPublishedAt": "2026-10-06T15:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4hPSprhImEGGffAczTrRBFjojH8",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLlp2TnowX2xqd0J3",
+      "snippet": {
+        "publishedAt": "2026-10-05T15:00:25Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "SPOILER: Digger's twist changes the whole film #Digger #TomCruise #Shorts",
+        "description": "Full essay on the channel: Digger — critics gave it 50%, I think it's the best film of 2026.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvNz0_ljwBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvNz0_ljwBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvNz0_ljwBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvNz0_ljwBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZvNz0_ljwBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZvNz0_ljwBw"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "ZvNz0_ljwBw",
+        "videoPublishedAt": "2026-10-05T15:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9FNxtEWgXVdIZ33ZepNp6xvL-Xo",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLldPeFFvQXd6cGdV",
+      "snippet": {
+        "publishedAt": "2026-10-04T20:30:39Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Tony Soprano's best excuse is about Canadian ducks #TheSopranos #TonySoprano #videoessay",
+        "description": "Full essay on the channel: The Sopranos: The ducks left. Their food stayed for six seasons",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WOxQoAwzpgU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WOxQoAwzpgU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WOxQoAwzpgU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WOxQoAwzpgU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WOxQoAwzpgU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WOxQoAwzpgU"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "WOxQoAwzpgU",
+        "videoPublishedAt": "2026-10-04T20:30:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2dVT7ILbz7RKt9dnABIk31Kabek",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLkZQUzN2eG9qZmxj",
+      "snippet": {
+        "publishedAt": "2026-10-04T16:00:09Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "Why half the critics hate Digger #Digger #TomCruise #Shorts",
+        "description": "Full essay on the channel: Digger — critics gave it 50%, I think it's the best film of 2026.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FPS3vxojflc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FPS3vxojflc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPS3vxojflc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FPS3vxojflc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FPS3vxojflc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FPS3vxojflc"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "FPS3vxojflc",
+        "videoPublishedAt": "2026-10-04T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DpofDqXmGC-L0XL-jUcIusHprq0",
+      "id": "VVVrd0FRR1RhRmphV1BwRGNFUTh5cnFBLkc4cTE2Z2VfZ3c4",
+      "snippet": {
+        "publishedAt": "2026-10-04T13:47:30Z",
+        "channelId": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "This is Tom Cruise. Critics gave his new film 50% #Digger #TomCruise #Shorts",
+        "description": "Full essay on the channel: Digger — critics gave it 50%, I think it's the best film of 2026.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G8q16ge_gw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G8q16ge_gw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G8q16ge_gw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G8q16ge_gw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G8q16ge_gw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Signal After Four",
+        "playlistId": "UUkwAQGTaFjaWPpDcEQ8yrqA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G8q16ge_gw8"
+        },
+        "videoOwnerChannelTitle": "No Signal After Four",
+        "videoOwnerChannelId": "UCkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "contentDetails": {
+        "videoId": "G8q16ge_gw8",
+        "videoPublishedAt": "2026-10-04T13:47:30Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 39,
+    "resultsPerPage": 15
+  }
+}

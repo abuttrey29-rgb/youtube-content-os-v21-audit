@@ -1,0 +1,2249 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "L-n7NTiyvDdfxBJMB8NxW8rCa5A",
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "CxHESTbZDiH4BtnTXIIH9VFnx-I",
+      "id": "UC5c0sboxB2T0TfBuoOKIkHw",
+      "snippet": {
+        "title": "LEN ENGLISH",
+        "description": "Welcome to our Daily Cooking Channel! 🍲\nWelcome to our kitchen! ❤️ Here, we share delicious and easy-to-follow daily cooking recipes that you can make at home.\n🥘 Easy Everyday Recipes\n🍜 Traditional & Homemade Dishes\n🥗 Simple and Delicious Meals\n🍳 Step-by-Step Cooking Videos\n❤️ Family-Friendly Food Ideas\nOur goal is to inspire you with new cooking ideas and show you how to prepare tasty homemade meals using simple ingredients and easy cooking techniques.\nWhether you are looking for a quick meal, a traditional recipe, or something new to try, you’ll find plenty of delicious ideas here!\n👉 Subscribe and turn on 🔔 notifications so you never miss our latest cooking videos.\nHappy Cooking! 👩‍🍳🍴❤️\n\n\n",
+        "customUrl": "@lenenglish-y8j",
+        "publishedAt": "2026-07-21T15:49:12.514696Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/YP73pnkYzj2flcTqWgrtjUn7kpuwb8n1DGS5WCdOmlx4GBvKMqoVmC1-XmaD2BV35T5Awyzb=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/YP73pnkYzj2flcTqWgrtjUn7kpuwb8n1DGS5WCdOmlx4GBvKMqoVmC1-XmaD2BV35T5Awyzb=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/YP73pnkYzj2flcTqWgrtjUn7kpuwb8n1DGS5WCdOmlx4GBvKMqoVmC1-XmaD2BV35T5Awyzb=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LEN ENGLISH",
+          "description": "Welcome to our Daily Cooking Channel! 🍲\nWelcome to our kitchen! ❤️ Here, we share delicious and easy-to-follow daily cooking recipes that you can make at home.\n🥘 Easy Everyday Recipes\n🍜 Traditional & Homemade Dishes\n🥗 Simple and Delicious Meals\n🍳 Step-by-Step Cooking Videos\n❤️ Family-Friendly Food Ideas\nOur goal is to inspire you with new cooking ideas and show you how to prepare tasty homemade meals using simple ingredients and easy cooking techniques.\nWhether you are looking for a quick meal, a traditional recipe, or something new to try, you’ll find plenty of delicious ideas here!\n👉 Subscribe and turn on 🔔 notifications so you never miss our latest cooking videos.\nHappy Cooking! 👩‍🍳🍴❤️\n\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU5c0sboxB2T0TfBuoOKIkHw"
+        }
+      },
+      "statistics": {
+        "viewCount": "70259",
+        "subscriberCount": "127",
+        "hiddenSubscriberCount": false,
+        "videoCount": "99"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "5R0GGsZz-yFaTEOKA-jUetP0ra4",
+      "id": "UCiWUhT16MOwffjC6r2Fb6zA",
+      "snippet": {
+        "title": "The Mitul Art",
+        "description": "The mitul art.....🌈\n                 * It's me mitul * welcome to my channel I make art like sketching , clay art , colourful Drawing , and etc... Types of art I love to do it...💛💫\nAnd I also love to connect with you ❤️... to share my talent with you i sure you loved my video 🌈💫....\nPlease always support me to make more interesting videos to you...💖",
+        "customUrl": "@themitulart7544",
+        "publishedAt": "2015-05-27T13:36:11Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/72IKlFxEe7TEaK_NC_THiBWPgo1PnJqsaDNllkqQViSy_fnZiUJldY9yl7k1ZE7bXqTJAREf3to=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/72IKlFxEe7TEaK_NC_THiBWPgo1PnJqsaDNllkqQViSy_fnZiUJldY9yl7k1ZE7bXqTJAREf3to=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/72IKlFxEe7TEaK_NC_THiBWPgo1PnJqsaDNllkqQViSy_fnZiUJldY9yl7k1ZE7bXqTJAREf3to=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Mitul Art",
+          "description": "The mitul art.....🌈\n                 * It's me mitul * welcome to my channel I make art like sketching , clay art , colourful Drawing , and etc... Types of art I love to do it...💛💫\nAnd I also love to connect with you ❤️... to share my talent with you i sure you loved my video 🌈💫....\nPlease always support me to make more interesting videos to you...💖"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUiWUhT16MOwffjC6r2Fb6zA"
+        }
+      },
+      "statistics": {
+        "viewCount": "568995",
+        "subscriberCount": "1860",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1222"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "c8-1nX51BtBbxAlQcjrveQoujD0",
+      "id": "UC9wcnGLQE6YrD5iVxtXBgCA",
+      "snippet": {
+        "title": "The Stay At Home Chef",
+        "description": "The Stay At Home Chef offers restaurant quality recipes you can easily make at home. If you want to become a better cook, learn how to cook, or just need dinner ideas for your family, this channel is for you. We’re taking really good recipes and making them easy recipes that you can make at home in your own kitchen. Cooking, baking, how to, all things food, and more!\n\nFollow me as I share recipes, tips, and tricks to help you become a great home chef! All written and printable recipes can be found on my website at www.thestayathomechef.com\n\nOrder my cookbook here: https://geni.us/hG7lIm\n",
+        "customUrl": "@thestayathomechef",
+        "publishedAt": "2013-08-31T01:35:25Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/AkZfvlK0DEA3rCx-SvkK-9Ih5sN8MdUMvr7XNRz2IIBGCJ6Ru8-vByLSIfz1O-AImpYSIz8ekWc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/AkZfvlK0DEA3rCx-SvkK-9Ih5sN8MdUMvr7XNRz2IIBGCJ6Ru8-vByLSIfz1O-AImpYSIz8ekWc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/AkZfvlK0DEA3rCx-SvkK-9Ih5sN8MdUMvr7XNRz2IIBGCJ6Ru8-vByLSIfz1O-AImpYSIz8ekWc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Stay At Home Chef",
+          "description": "The Stay At Home Chef offers restaurant quality recipes you can easily make at home. If you want to become a better cook, learn how to cook, or just need dinner ideas for your family, this channel is for you. We’re taking really good recipes and making them easy recipes that you can make at home in your own kitchen. Cooking, baking, how to, all things food, and more!\n\nFollow me as I share recipes, tips, and tricks to help you become a great home chef! All written and printable recipes can be found on my website at www.thestayathomechef.com\n\nOrder my cookbook here: https://geni.us/hG7lIm\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9wcnGLQE6YrD5iVxtXBgCA"
+        }
+      },
+      "statistics": {
+        "viewCount": "209814803",
+        "subscriberCount": "1330000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1453"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "pZhI7ted8PLpSS8Bqwf1MKQVFm4",
+      "id": "UCn0upREQzwX-NqOarENHWrg",
+      "snippet": {
+        "title": "Gadget Sphere\n\n",
+        "description": "Gadget Sphere: Where the Future Comes Live.\n\n​Tired of searching for the latest and coolest tech? Look no further!\n\n​At Gadget Sphere, we're obsessive about bringing you the best in cutting-edge tech discoveries, innovation insights, and a glimpse into the future-ready tech world.\n\n​Expect in-depth look into:\n\n​The coolest gadgets you've never seen.\n\n​Next-gen technology and how it will impact you.\n\n​Expert insights on emerging tech trends.\n\n​Whether you're a devout tech enthusiast or simply curious about what the future holds, Gadget Sphere is your ultimate destination. We're here to make the complex simple, the futuristic accessible, and the impossible, well, possible.\n\n​Join our growing community and let's explore the future of tech together!\n\n​Subscribe now and never miss a beat in the rapidly evolving world of gadgets and innovation.\n\n",
+        "customUrl": "@gadgetsphere1-09",
+        "publishedAt": "2026-08-16T04:51:58.411821Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/o0zMvHt9qY2y83KdkCvQwYNVip250NeXD02xzBaIt7UnxkOQb1AhmgxKTeQgAUC3KFBOneJPgA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/o0zMvHt9qY2y83KdkCvQwYNVip250NeXD02xzBaIt7UnxkOQb1AhmgxKTeQgAUC3KFBOneJPgA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/o0zMvHt9qY2y83KdkCvQwYNVip250NeXD02xzBaIt7UnxkOQb1AhmgxKTeQgAUC3KFBOneJPgA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Gadget Sphere\n\n",
+          "description": "Gadget Sphere: Where the Future Comes Live.\n\n​Tired of searching for the latest and coolest tech? Look no further!\n\n​At Gadget Sphere, we're obsessive about bringing you the best in cutting-edge tech discoveries, innovation insights, and a glimpse into the future-ready tech world.\n\n​Expect in-depth look into:\n\n​The coolest gadgets you've never seen.\n\n​Next-gen technology and how it will impact you.\n\n​Expert insights on emerging tech trends.\n\n​Whether you're a devout tech enthusiast or simply curious about what the future holds, Gadget Sphere is your ultimate destination. We're here to make the complex simple, the futuristic accessible, and the impossible, well, possible.\n\n​Join our growing community and let's explore the future of tech together!\n\n​Subscribe now and never miss a beat in the rapidly evolving world of gadgets and innovation.\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUn0upREQzwX-NqOarENHWrg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1321",
+        "subscriberCount": "4",
+        "hiddenSubscriberCount": false,
+        "videoCount": "12"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "rlX797ORE0jJu25oHR-8k7ba2Ok",
+      "id": "UC1kJk0mRyQOpttG2emJOvOQ",
+      "snippet": {
+        "title": "Fatima shaikh ",
+        "description": "Hey! welcome to my channel....🌺\n\n\ncontent : cooking | vlogs | Daily routine |  & more !\n\n\nMake sure you hit the like button and most importantly_ SUBSCRIBE_ to my channel !\n I hope u enjoy my vlogs \n\n\n📱socials📱\ninsta-@Fatimashaikh\n\n\n\nSTAY POSITIVE!!!!!\n\n\n\n\n\n",
+        "customUrl": "@fatimashaikh-n1d",
+        "publishedAt": "2025-02-18T18:17:06.725152Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/5klaG8fCunyE4xJIs3V3izW8SbkpgQXi8c0DRw02LsHVnorOg-2lg2P7rr3gQzlg5PkJWs3Q1w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/5klaG8fCunyE4xJIs3V3izW8SbkpgQXi8c0DRw02LsHVnorOg-2lg2P7rr3gQzlg5PkJWs3Q1w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/5klaG8fCunyE4xJIs3V3izW8SbkpgQXi8c0DRw02LsHVnorOg-2lg2P7rr3gQzlg5PkJWs3Q1w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Fatima shaikh ",
+          "description": "Hey! welcome to my channel....🌺\n\n\ncontent : cooking | vlogs | Daily routine |  & more !\n\n\nMake sure you hit the like button and most importantly_ SUBSCRIBE_ to my channel !\n I hope u enjoy my vlogs \n\n\n📱socials📱\ninsta-@Fatimashaikh\n\n\n\nSTAY POSITIVE!!!!!\n\n\n\n\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU1kJk0mRyQOpttG2emJOvOQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "17579",
+        "subscriberCount": "32",
+        "hiddenSubscriberCount": false,
+        "videoCount": "74"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8f_bGLM3SW72G5FZrzbjUyr8fbg",
+      "id": "UCl2nMhlYf9kunGlyhmiZxTw",
+      "snippet": {
+        "title": "VolgTech",
+        "description": "🎮 Bienvenue dans l’arène de la tech & du gaming !\nIci, on démonte les setups, on teste les périphériques, on parle matos, performance et e-sport sans filtre.\nSi tu veux booster ton setup, découvrir les dernières innovations ou juste vivre ta passion gaming à fond — t’es au bon endroit.\n🔔 Abonne-toi et entre dans le game !\n",
+        "customUrl": "@volgtv",
+        "publishedAt": "2019-05-04T23:44:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/hI8lJLaQnC_V1HT21cEo_SWv_ZW8erg6AiYD_ZO6Qricm5S9fHf8pCUq0ow-II59YT9uPmhl2g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/hI8lJLaQnC_V1HT21cEo_SWv_ZW8erg6AiYD_ZO6Qricm5S9fHf8pCUq0ow-II59YT9uPmhl2g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/hI8lJLaQnC_V1HT21cEo_SWv_ZW8erg6AiYD_ZO6Qricm5S9fHf8pCUq0ow-II59YT9uPmhl2g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "fr",
+        "localized": {
+          "title": "VolgTech",
+          "description": "🎮 Bienvenue dans l’arène de la tech & du gaming !\nIci, on démonte les setups, on teste les périphériques, on parle matos, performance et e-sport sans filtre.\nSi tu veux booster ton setup, découvrir les dernières innovations ou juste vivre ta passion gaming à fond — t’es au bon endroit.\n🔔 Abonne-toi et entre dans le game !\n"
+        },
+        "country": "FR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUl2nMhlYf9kunGlyhmiZxTw"
+        }
+      },
+      "statistics": {
+        "viewCount": "125203",
+        "subscriberCount": "345",
+        "hiddenSubscriberCount": false,
+        "videoCount": "221"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "kHZAbjNReeJDcN-y8JxWRhmHhqQ",
+      "id": "UC1OWXfrq2FIK5gzo6T3reqg",
+      "snippet": {
+        "title": "Blocked Minds",
+        "description": "Blocked Minds unlocks the stories your brain has never been shown. In under a minute, we explain the world’s biggest scams, forgotten history, strange psychology, money secrets, and mind-bending space facts.\n\nNew Shorts every day. One idea. One twist. Zero fluff.\n\n🧠 Famous scams and frauds\n🌍 Hidden history and mysteries\n💰 How money really works\n🚀 Space and “what if” scenarios\n🔍 Psychology and human behavior\n\nSubscribe and unblock your mind.\n",
+        "customUrl": "@blockedminds",
+        "publishedAt": "2026-10-09T04:18:38.586224Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/IHlHlQzHOuGKaSwadUCxqGTldK9VFRGMmD_3yZs6NQkylUCoD_JHqz2v53t4LvO21EjGtU6ttA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/IHlHlQzHOuGKaSwadUCxqGTldK9VFRGMmD_3yZs6NQkylUCoD_JHqz2v53t4LvO21EjGtU6ttA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/IHlHlQzHOuGKaSwadUCxqGTldK9VFRGMmD_3yZs6NQkylUCoD_JHqz2v53t4LvO21EjGtU6ttA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Blocked Minds",
+          "description": "Blocked Minds unlocks the stories your brain has never been shown. In under a minute, we explain the world’s biggest scams, forgotten history, strange psychology, money secrets, and mind-bending space facts.\n\nNew Shorts every day. One idea. One twist. Zero fluff.\n\n🧠 Famous scams and frauds\n🌍 Hidden history and mysteries\n💰 How money really works\n🚀 Space and “what if” scenarios\n🔍 Psychology and human behavior\n\nSubscribe and unblock your mind.\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU1OWXfrq2FIK5gzo6T3reqg"
+        }
+      },
+      "statistics": {
+        "viewCount": "2",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "AufjrRcnD7UwamMVM43XQ5Ohjtk",
+      "id": "UCUjAvKGKLeD0dvt52klWYgg",
+      "snippet": {
+        "title": "GadiAurMobile",
+        "description": "Gadi Aur Mobile is your one-stop destination for auto and tech reviews. We bring you honest, easy-to-understand reviews of cars, bikes, smartphones, gadgets, and latest technology trends Worldwide.\n\n🚘 Car Reviews & Comparisons\n🏍️ Bike & Two-Wheeler Reviews\n📱 Mobile Reviews & Camera Tests\n🔧 Tech News, Tips & Buying Guides\n💰 Mileage, Price, Pros & Cons Explained\n",
+        "customUrl": "@gadiaurmobile",
+        "publishedAt": "2022-06-07T14:00:16.282071Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/aiwnoknQ-MA2ewZPruJO5AaKP4h20uZEhf67m78a82jkjpQhXXToU4ij8dPh79HHqcWEr2zR=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/aiwnoknQ-MA2ewZPruJO5AaKP4h20uZEhf67m78a82jkjpQhXXToU4ij8dPh79HHqcWEr2zR=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/aiwnoknQ-MA2ewZPruJO5AaKP4h20uZEhf67m78a82jkjpQhXXToU4ij8dPh79HHqcWEr2zR=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GadiAurMobile",
+          "description": "Gadi Aur Mobile is your one-stop destination for auto and tech reviews. We bring you honest, easy-to-understand reviews of cars, bikes, smartphones, gadgets, and latest technology trends Worldwide.\n\n🚘 Car Reviews & Comparisons\n🏍️ Bike & Two-Wheeler Reviews\n📱 Mobile Reviews & Camera Tests\n🔧 Tech News, Tips & Buying Guides\n💰 Mileage, Price, Pros & Cons Explained\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUUjAvKGKLeD0dvt52klWYgg"
+        }
+      },
+      "statistics": {
+        "viewCount": "257435",
+        "subscriberCount": "345",
+        "hiddenSubscriberCount": false,
+        "videoCount": "449"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "7-3YKHd5d0fnyy-_FlwBiLtssfM",
+      "id": "UCd2Lo4MV4QuOrHgetI8rdTA",
+      "snippet": {
+        "title": "success track 2.0",
+        "description": "Target 1K pls Subscribe kijiye 🙏- SAHIL .\n\nमेरा लक्ष्य अपने Viewers को बहुमूल्य जानकारी प्रदान करना है🤝\n\nMy Goal is to provide valueable information to my viewers.\n\n  हमेशा कुछ नया सीखने के लिए चैनल को जरूर सब्सक्राइब करें. \n\n\nWhatsApp:- +91 9229757836\n",
+        "customUrl": "@success_track2.0",
+        "publishedAt": "2023-10-24T14:23:47.262282Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/OIdFXiXSAAYjdi2zRHk5-mo5xjpzqsW_-0BpAFgBYWpT8-6nmvKjfM-GmxDeh4zMpcqq5GS60g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/OIdFXiXSAAYjdi2zRHk5-mo5xjpzqsW_-0BpAFgBYWpT8-6nmvKjfM-GmxDeh4zMpcqq5GS60g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/OIdFXiXSAAYjdi2zRHk5-mo5xjpzqsW_-0BpAFgBYWpT8-6nmvKjfM-GmxDeh4zMpcqq5GS60g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "success track 2.0",
+          "description": "Target 1K pls Subscribe kijiye 🙏- SAHIL .\n\nमेरा लक्ष्य अपने Viewers को बहुमूल्य जानकारी प्रदान करना है🤝\n\nMy Goal is to provide valueable information to my viewers.\n\n  हमेशा कुछ नया सीखने के लिए चैनल को जरूर सब्सक्राइब करें. \n\n\nWhatsApp:- +91 9229757836\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUd2Lo4MV4QuOrHgetI8rdTA"
+        }
+      },
+      "statistics": {
+        "viewCount": "305996",
+        "subscriberCount": "421",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "spHFqKzB1RuuFrokmDRpMyzTPW4",
+      "id": "UCl4su7ohT3QAdPa0pkofrfQ",
+      "snippet": {
+        "title": "Life with Aparna ",
+        "description": "\n**🌿 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʟɪꜰᴇ ᴡɪᴛʜ ᴀᴘᴀʀɴᴀ 🤍**\n\nʜᴇʟʟᴏ ᴀɴᴅ ᴡᴇʟᴄᴏᴍᴇ! ɪ'ᴍ ᴀᴘᴀʀɴᴀ, ᴀɴᴅ ᴛʜɪꜱ ɪꜱ ᴍʏ ʜᴀᴘᴘʏ ʟɪᴛᴛʟᴇ ꜱᴘᴀᴄᴇ ᴡʜᴇʀᴇ ɪ ꜱʜᴀʀᴇ ᴛʜᴇ ʙᴇᴀᴜᴛʏ ᴏꜰ ᴇᴠᴇʀʏᴅᴀʏ ʟɪꜰᴇ. ꜰʀᴏᴍ ᴄᴏᴢʏ ᴅᴀɪʟʏ ᴠʟᴏɢꜱ ᴀɴᴅ ʟɪꜰᴇꜱᴛʏʟᴇ ᴄᴏɴᴛᴇɴᴛ ᴛᴏ ꜰᴀꜱʜɪᴏɴ, ꜰᴏᴏᴅ, ᴛʀᴀᴠᴇʟ, ꜱᴇʟꜰ-ᴄᴀʀᴇ, ᴀɴᴅ ᴜɴꜰᴏʀɢᴇᴛᴛᴀʙʟᴇ ᴍᴏᴍᴇɴᴛꜱ—ᴄᴏᴍᴇ ᴀʟᴏɴɢ ᴀꜱ ɪ ᴄᴀᴘᴛᴜʀᴇ ʟɪꜰᴇ'ꜱ ꜱɪᴍᴘʟᴇ ᴊᴏʏꜱ.\n\nᴛʜɪꜱ ᴄʜᴀɴɴᴇʟ ɪꜱ ᴀʟʟ ᴀʙᴏᴜᴛ ᴇᴍʙʀᴀᴄɪɴɢ ᴘᴏꜱɪᴛɪᴠɪᴛʏ, ᴄʀᴇᴀᴛɪɴɢ ᴍᴇᴍᴏʀɪᴇꜱ, ᴀɴᴅ ꜰɪɴᴅɪɴɢ ʙᴇᴀᴜᴛʏ ɪɴ ᴛʜᴇ ʟɪᴛᴛʟᴇ ᴛʜɪɴɢꜱ. ᴡʜᴇᴛʜᴇʀ ʏᴏᴜ'ʀᴇ ʜᴇʀᴇ ꜰᴏʀ ɪɴꜱᴘɪʀᴀᴛɪᴏɴ, ʀᴇʟᴀxᴀᴛɪᴏɴ, ᴏʀ ᴊᴜꜱᴛ ᴛᴏ ꜱᴘᴇɴᴅ ᴀ ꜰᴇᴡ ᴘᴇᴀᴄᴇꜰᴜʟ ᴍɪɴᴜᴛᴇꜱ, ɪ'ᴍ ꜱᴏ ʜᴀᴘᴘʏ ʏᴏᴜ'ʀᴇ ʜᴇʀᴇ.\n\n✨ ᴀᴇꜱᴛʜᴇᴛɪᴄ ᴠʟᴏɢs\n🤍 ʟɪꜰᴇꜱᴛʏʟᴇ & ꜱᴇʟꜰ-ᴄᴀʀᴇ\n🌸 ꜰᴀꜱʜɪᴏɴ & ʙᴇᴀᴜᴛʏ\n🍜 ꜰᴏᴏᴅ & ᴄᴀꜰÉ ᴍᴏᴍᴇɴᴛꜱ\n✈️ ᴛʀᴀᴠᴇʟ & ɴᴇᴡ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ\n💫 ʀᴇᴀʟ ʟɪꜰᴇ • ʀᴇᴀʟ ᴍᴏᴍᴇɴᴛꜱ • ᴘᴏꜱɪᴛɪᴠᴇ ᴠɪʙᴇꜱ\n\nᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʙᴇɪɴɢ ᴘᴀʀᴛ ᴏꜰ ᴛʜɪꜱ ᴊᴏᴜʀɴᴇʏ. ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ **ꜱᴜʙꜱᴄʀɪʙᴇ** ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ **🔔 ɴᴏᴛɪꜰɪᴄᴀᴛɪᴏɴ ʙᴇʟʟ** ꜱᴏ ʏᴏᴜ ɴᴇᴠᴇʀ ᴍɪꜱꜱ ᴀ ɴᴇᴡ ᴠɪᴅᴇᴏ.\n\n**ʟɪꜰᴇ ᴡɪᴛʜ ᴀᴘᴀʀɴᴀ** — *ᴇᴠᴇʀʏᴅᴀʏ ᴍᴏᴍᴇɴᴛꜱ. ʙᴇᴀᴜᴛɪꜰᴜʟ ᴍᴇᴍᴏʀɪᴇꜱ. ᴇɴᴅʟᴇꜱꜱ ꜱᴍɪʟᴇꜱ.* 🤍✨\n \n",
+        "customUrl": "@lifewithaparna12",
+        "publishedAt": "2023-07-04T12:20:01.84375Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dSao9IU-gYU8qRaPBN-iOnd8nsUMLVyoLwyyQ9CIdCDVv2ZQnQM5gA_91uIXzXBNbMYeUPPL9w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dSao9IU-gYU8qRaPBN-iOnd8nsUMLVyoLwyyQ9CIdCDVv2ZQnQM5gA_91uIXzXBNbMYeUPPL9w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dSao9IU-gYU8qRaPBN-iOnd8nsUMLVyoLwyyQ9CIdCDVv2ZQnQM5gA_91uIXzXBNbMYeUPPL9w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Life with Aparna ",
+          "description": "\n**🌿 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʟɪꜰᴇ ᴡɪᴛʜ ᴀᴘᴀʀɴᴀ 🤍**\n\nʜᴇʟʟᴏ ᴀɴᴅ ᴡᴇʟᴄᴏᴍᴇ! ɪ'ᴍ ᴀᴘᴀʀɴᴀ, ᴀɴᴅ ᴛʜɪꜱ ɪꜱ ᴍʏ ʜᴀᴘᴘʏ ʟɪᴛᴛʟᴇ ꜱᴘᴀᴄᴇ ᴡʜᴇʀᴇ ɪ ꜱʜᴀʀᴇ ᴛʜᴇ ʙᴇᴀᴜᴛʏ ᴏꜰ ᴇᴠᴇʀʏᴅᴀʏ ʟɪꜰᴇ. ꜰʀᴏᴍ ᴄᴏᴢʏ ᴅᴀɪʟʏ ᴠʟᴏɢꜱ ᴀɴᴅ ʟɪꜰᴇꜱᴛʏʟᴇ ᴄᴏɴᴛᴇɴᴛ ᴛᴏ ꜰᴀꜱʜɪᴏɴ, ꜰᴏᴏᴅ, ᴛʀᴀᴠᴇʟ, ꜱᴇʟꜰ-ᴄᴀʀᴇ, ᴀɴᴅ ᴜɴꜰᴏʀɢᴇᴛᴛᴀʙʟᴇ ᴍᴏᴍᴇɴᴛꜱ—ᴄᴏᴍᴇ ᴀʟᴏɴɢ ᴀꜱ ɪ ᴄᴀᴘᴛᴜʀᴇ ʟɪꜰᴇ'ꜱ ꜱɪᴍᴘʟᴇ ᴊᴏʏꜱ.\n\nᴛʜɪꜱ ᴄʜᴀɴɴᴇʟ ɪꜱ ᴀʟʟ ᴀʙᴏᴜᴛ ᴇᴍʙʀᴀᴄɪɴɢ ᴘᴏꜱɪᴛɪᴠɪᴛʏ, ᴄʀᴇᴀᴛɪɴɢ ᴍᴇᴍᴏʀɪᴇꜱ, ᴀɴᴅ ꜰɪɴᴅɪɴɢ ʙᴇᴀᴜᴛʏ ɪɴ ᴛʜᴇ ʟɪᴛᴛʟᴇ ᴛʜɪɴɢꜱ. ᴡʜᴇᴛʜᴇʀ ʏᴏᴜ'ʀᴇ ʜᴇʀᴇ ꜰᴏʀ ɪɴꜱᴘɪʀᴀᴛɪᴏɴ, ʀᴇʟᴀxᴀᴛɪᴏɴ, ᴏʀ ᴊᴜꜱᴛ ᴛᴏ ꜱᴘᴇɴᴅ ᴀ ꜰᴇᴡ ᴘᴇᴀᴄᴇꜰᴜʟ ᴍɪɴᴜᴛᴇꜱ, ɪ'ᴍ ꜱᴏ ʜᴀᴘᴘʏ ʏᴏᴜ'ʀᴇ ʜᴇʀᴇ.\n\n✨ ᴀᴇꜱᴛʜᴇᴛɪᴄ ᴠʟᴏɢs\n🤍 ʟɪꜰᴇꜱᴛʏʟᴇ & ꜱᴇʟꜰ-ᴄᴀʀᴇ\n🌸 ꜰᴀꜱʜɪᴏɴ & ʙᴇᴀᴜᴛʏ\n🍜 ꜰᴏᴏᴅ & ᴄᴀꜰÉ ᴍᴏᴍᴇɴᴛꜱ\n✈️ ᴛʀᴀᴠᴇʟ & ɴᴇᴡ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ\n💫 ʀᴇᴀʟ ʟɪꜰᴇ • ʀᴇᴀʟ ᴍᴏᴍᴇɴᴛꜱ • ᴘᴏꜱɪᴛɪᴠᴇ ᴠɪʙᴇꜱ\n\nᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ʙᴇɪɴɢ ᴘᴀʀᴛ ᴏꜰ ᴛʜɪꜱ ᴊᴏᴜʀɴᴇʏ. ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ **ꜱᴜʙꜱᴄʀɪʙᴇ** ᴀɴᴅ ᴛᴜʀɴ ᴏɴ ᴛʜᴇ **🔔 ɴᴏᴛɪꜰɪᴄᴀᴛɪᴏɴ ʙᴇʟʟ** ꜱᴏ ʏᴏᴜ ɴᴇᴠᴇʀ ᴍɪꜱꜱ ᴀ ɴᴇᴡ ᴠɪᴅᴇᴏ.\n\n**ʟɪꜰᴇ ᴡɪᴛʜ ᴀᴘᴀʀɴᴀ** — *ᴇᴠᴇʀʏᴅᴀʏ ᴍᴏᴍᴇɴᴛꜱ. ʙᴇᴀᴜᴛɪꜰᴜʟ ᴍᴇᴍᴏʀɪᴇꜱ. ᴇɴᴅʟᴇꜱꜱ ꜱᴍɪʟᴇꜱ.* 🤍✨\n \n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUl4su7ohT3QAdPa0pkofrfQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "67070",
+        "subscriberCount": "191",
+        "hiddenSubscriberCount": false,
+        "videoCount": "126"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1xrddnU_WnZPjzHCC2cTPbrX768",
+      "id": "UCh-QV-Oskk916Xi2hGIL28g",
+      "snippet": {
+        "title": "Cooking With Me 🧑‍🍳",
+        "description": "Hello Friends,👋 \n\n\nMyself Madhuri 🌸.\n\nWelcome to my kitchen!\nEasy, tasty and fun recipes for everyone.\nFrom snacks to sweets, everything made with love ❤️\nCook simple. Eat Healthy, and be happy! 😊 \n\n\nMake Sure to Subscribe! 😘",
+        "customUrl": "@cookingwithme-v3g",
+        "publishedAt": "2025-12-11T10:47:10.909682Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/WWrusVM_EmAJDY0Ko-Skry4Kj_Pc7O8WUj7Eglo6ROatyoWOk6PxAswP0rozVfczk3XKSpddiQI=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/WWrusVM_EmAJDY0Ko-Skry4Kj_Pc7O8WUj7Eglo6ROatyoWOk6PxAswP0rozVfczk3XKSpddiQI=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/WWrusVM_EmAJDY0Ko-Skry4Kj_Pc7O8WUj7Eglo6ROatyoWOk6PxAswP0rozVfczk3XKSpddiQI=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Cooking With Me 🧑‍🍳",
+          "description": "Hello Friends,👋 \n\n\nMyself Madhuri 🌸.\n\nWelcome to my kitchen!\nEasy, tasty and fun recipes for everyone.\nFrom snacks to sweets, everything made with love ❤️\nCook simple. Eat Healthy, and be happy! 😊 \n\n\nMake Sure to Subscribe! 😘"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUh-QV-Oskk916Xi2hGIL28g"
+        }
+      },
+      "statistics": {
+        "viewCount": "54346",
+        "subscriberCount": "138",
+        "hiddenSubscriberCount": false,
+        "videoCount": "102"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "N6vPahx37_0yqYz8AjmRRgpeyLc",
+      "id": "UCEjOSTwjqNVxVKPnmi8BNyQ",
+      "snippet": {
+        "title": "Zoytec",
+        "description": "Bienvenido al canal donde la tecnología cobra vida ⚡. Aquí descubrirás reseñas honestas, comparativas detalladas y análisis completos de los mejores dispositivos del momento: smartphones, tablets, laptops, accesorios y gadgets innovadores.\nSi te apasiona conocer lo último en tecnología, entender qué producto vale realmente la pena, o simplemente mantenerte al día con las tendencias tecnológicas de 2025, este canal es para ti.\n\n🔹 Analizamos marcas como Xiaomi, Samsung, Apple, Lenovo, Huawei, ASUS y más.\n🔹 Te mostramos pruebas reales, opiniones sinceras y guías de compra para que elijas con inteligencia.\n🔹 Desde los mejores teléfonos calidad-precio hasta los gadgets más sorprendentes, aquí encontrarás todo lo que necesitas saber antes de comprar.\n\nSuscríbete y activa la campanita 🔔 para no perderte ninguna reseña.\nPorque en este canal, la tecnología se entiende fácil y se disfruta más. 🚀\n\n",
+        "customUrl": "@zoytec",
+        "publishedAt": "2021-02-12T04:01:22.490192Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iR5b1BBJrz0DLKM6PFa1kW4O8dOeYRC-HhzNsa6usxI1-YxKWFFgr-7WYcM6h5O-GpRtGP16Pw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iR5b1BBJrz0DLKM6PFa1kW4O8dOeYRC-HhzNsa6usxI1-YxKWFFgr-7WYcM6h5O-GpRtGP16Pw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iR5b1BBJrz0DLKM6PFa1kW4O8dOeYRC-HhzNsa6usxI1-YxKWFFgr-7WYcM6h5O-GpRtGP16Pw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Zoytec",
+          "description": "Bienvenido al canal donde la tecnología cobra vida ⚡. Aquí descubrirás reseñas honestas, comparativas detalladas y análisis completos de los mejores dispositivos del momento: smartphones, tablets, laptops, accesorios y gadgets innovadores.\nSi te apasiona conocer lo último en tecnología, entender qué producto vale realmente la pena, o simplemente mantenerte al día con las tendencias tecnológicas de 2025, este canal es para ti.\n\n🔹 Analizamos marcas como Xiaomi, Samsung, Apple, Lenovo, Huawei, ASUS y más.\n🔹 Te mostramos pruebas reales, opiniones sinceras y guías de compra para que elijas con inteligencia.\n🔹 Desde los mejores teléfonos calidad-precio hasta los gadgets más sorprendentes, aquí encontrarás todo lo que necesitas saber antes de comprar.\n\nSuscríbete y activa la campanita 🔔 para no perderte ninguna reseña.\nPorque en este canal, la tecnología se entiende fácil y se disfruta más. 🚀\n\n"
+        },
+        "country": "EC"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUEjOSTwjqNVxVKPnmi8BNyQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "12881526",
+        "subscriberCount": "90400",
+        "hiddenSubscriberCount": false,
+        "videoCount": "790"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1TpNNWicdhRWodisokmFrwrQKjE",
+      "id": "UCYr0aqdTcFkbhZWKyOYMvsQ",
+      "snippet": {
+        "title": "Buried Verdict",
+        "description": "Buried Verdict is a true-crime documentary channel. We reopen cold cases, wrongful convictions, and buried courtroom stories — told through evidence, timelines, and court records, not sensationalism.\n\nNew cinematic documentaries every week.\n\nAll stories are based on publicly available records, court documents, and credible reporting. Allegations are presented as allegations until proven in court.\n\nBusiness inquiries: [EMAIL-REDACTED]\n\n",
+        "customUrl": "@buriedverdicttv",
+        "publishedAt": "2026-09-19T16:53:16.621509Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dbIyN-DYXSndqg1GZ791aaMvS4ZXUmXTmzmwT7TZjEg_KxQYUTqnwqCGnEneazBKnExEvYZLGF0=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dbIyN-DYXSndqg1GZ791aaMvS4ZXUmXTmzmwT7TZjEg_KxQYUTqnwqCGnEneazBKnExEvYZLGF0=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dbIyN-DYXSndqg1GZ791aaMvS4ZXUmXTmzmwT7TZjEg_KxQYUTqnwqCGnEneazBKnExEvYZLGF0=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Buried Verdict",
+          "description": "Buried Verdict is a true-crime documentary channel. We reopen cold cases, wrongful convictions, and buried courtroom stories — told through evidence, timelines, and court records, not sensationalism.\n\nNew cinematic documentaries every week.\n\nAll stories are based on publicly available records, court documents, and credible reporting. Allegations are presented as allegations until proven in court.\n\nBusiness inquiries: [EMAIL-REDACTED]\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUYr0aqdTcFkbhZWKyOYMvsQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1282",
+        "subscriberCount": "11",
+        "hiddenSubscriberCount": false,
+        "videoCount": "9"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "UB6JdNjNnZDGCuxSqIyxeoJNrD8",
+      "id": "UCL2M5u6HcFO6XxMGm7LqmXw",
+      "snippet": {
+        "title": "The Cold Dossier",
+        "description": "The Cold Dossier explores true crime cases through documented facts, timelines, evidence, contradictions and unanswered questions.\n\nWe investigate disappearances, unsolved cases, disturbing crimes, historical mysteries, cults, frauds and criminal investigations from around the world.\n\nEvery documentary is built from publicly available and verifiable sources. Facts, allegations, theories and speculation are clearly separated.\n\nNo sensationalism. No invented evidence. No unnecessary graphic imagery.\n\nJust the people, the cases, the evidence — and the questions that remain.\n\nNew true crime documentaries regularly.\n\nEnglish audio and subtitles.\nSpanish audio and subtitles available on selected documentaries.\n\n",
+        "customUrl": "@thecolddossierdocs",
+        "publishedAt": "2006-06-06T19:20:27Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/9AigShyfDH3SHcYkhQr1S9RRlVLHtx-tjSTpBmEud-NkB9tvWiFxpvFN5FaD8d3fSvLEIV76=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/9AigShyfDH3SHcYkhQr1S9RRlVLHtx-tjSTpBmEud-NkB9tvWiFxpvFN5FaD8d3fSvLEIV76=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/9AigShyfDH3SHcYkhQr1S9RRlVLHtx-tjSTpBmEud-NkB9tvWiFxpvFN5FaD8d3fSvLEIV76=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Cold Dossier",
+          "description": "The Cold Dossier explores true crime cases through documented facts, timelines, evidence, contradictions and unanswered questions.\n\nWe investigate disappearances, unsolved cases, disturbing crimes, historical mysteries, cults, frauds and criminal investigations from around the world.\n\nEvery documentary is built from publicly available and verifiable sources. Facts, allegations, theories and speculation are clearly separated.\n\nNo sensationalism. No invented evidence. No unnecessary graphic imagery.\n\nJust the people, the cases, the evidence — and the questions that remain.\n\nNew true crime documentaries regularly.\n\nEnglish audio and subtitles.\nSpanish audio and subtitles available on selected documentaries.\n\n"
+        },
+        "country": "ES"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUL2M5u6HcFO6XxMGm7LqmXw"
+        }
+      },
+      "statistics": {
+        "viewCount": "99",
+        "subscriberCount": "2",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Od01U401Sq98-Y_if6P91-zuoUo",
+      "id": "UCRg4Y3RTabf3-2L9NMBVQFA",
+      "snippet": {
+        "title": "Reshma Begum ⭐",
+        "description": "assalamu alaikum welcome to my new channel# viral  #shorts#😊👍🏻 like and share my 👍🏻 videos ♥️#post and videos ⭐ Rubina Begum #⭐ please support me ",
+        "customUrl": "@rubeenabegum-k4o",
+        "publishedAt": "2024-07-25T15:42:29.432281Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/WeLDJGt0zxUnjlMDeGqogfnY9oQ-FmexUzTzJCrMA4BYxoUJJNsGz5UomlpcDrJfiG7aLLs6Wg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/WeLDJGt0zxUnjlMDeGqogfnY9oQ-FmexUzTzJCrMA4BYxoUJJNsGz5UomlpcDrJfiG7aLLs6Wg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/WeLDJGt0zxUnjlMDeGqogfnY9oQ-FmexUzTzJCrMA4BYxoUJJNsGz5UomlpcDrJfiG7aLLs6Wg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Reshma Begum ⭐",
+          "description": "assalamu alaikum welcome to my new channel# viral  #shorts#😊👍🏻 like and share my 👍🏻 videos ♥️#post and videos ⭐ Rubina Begum #⭐ please support me "
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UURg4Y3RTabf3-2L9NMBVQFA"
+        }
+      },
+      "statistics": {
+        "viewCount": "51206",
+        "subscriberCount": "71",
+        "hiddenSubscriberCount": false,
+        "videoCount": "203"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "j1dFb_vPUhFUN6n2XKh7OTugFqc",
+      "id": "UCD1dpAbWbQkwumwjS4njSCA",
+      "snippet": {
+        "title": "SoyLian",
+        "description": "Hola, nombre es Lian, me encanta la Tecnologia y en este canal comparto todo sobre ella, con honestidad y sin muchos rodeos, espero disfrutes mis videos",
+        "customUrl": "@soylian00",
+        "publishedAt": "2019-02-22T23:17:20Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/sMzoUWT-nPmqq1ANv8frxAyeawHl8J7juo5rWNiiJ2hc7HVarTGyAG6Jz9HRyEpTcOMDlje-3w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/sMzoUWT-nPmqq1ANv8frxAyeawHl8J7juo5rWNiiJ2hc7HVarTGyAG6Jz9HRyEpTcOMDlje-3w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/sMzoUWT-nPmqq1ANv8frxAyeawHl8J7juo5rWNiiJ2hc7HVarTGyAG6Jz9HRyEpTcOMDlje-3w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SoyLian",
+          "description": "Hola, nombre es Lian, me encanta la Tecnologia y en este canal comparto todo sobre ella, con honestidad y sin muchos rodeos, espero disfrutes mis videos"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUD1dpAbWbQkwumwjS4njSCA"
+        }
+      },
+      "statistics": {
+        "viewCount": "63361",
+        "subscriberCount": "145",
+        "hiddenSubscriberCount": false,
+        "videoCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "sLPK5ytibYb5Q2ner4y5phrg4Lg",
+      "id": "UCmU-rUliJKUQsFMBAC4zc3g",
+      "snippet": {
+        "title": "recpie world ",
+        "description": " hello everyone welcome back to my channel 😊amazing easy cooking 🍳 😀 and tasty 😋 like and subscribe for yummy 😋 recpies",
+        "customUrl": "@story-teller-b3g",
+        "publishedAt": "2024-04-13T13:42:03.17744Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-TzCdkai-JWdwqwyw0QOdLm0Spp92v3GEPTbEoBox1Pg9lWK5QJBB7Bv579sKisfNtYQj_7cJA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-TzCdkai-JWdwqwyw0QOdLm0Spp92v3GEPTbEoBox1Pg9lWK5QJBB7Bv579sKisfNtYQj_7cJA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-TzCdkai-JWdwqwyw0QOdLm0Spp92v3GEPTbEoBox1Pg9lWK5QJBB7Bv579sKisfNtYQj_7cJA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "recpie world ",
+          "description": " hello everyone welcome back to my channel 😊amazing easy cooking 🍳 😀 and tasty 😋 like and subscribe for yummy 😋 recpies"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmU-rUliJKUQsFMBAC4zc3g"
+        }
+      },
+      "statistics": {
+        "viewCount": "48",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "MY-itGlPd2Z_R891F-uApSK8MUY",
+      "id": "UCOXAeTdPfJwq9ZwPXEEzLug",
+      "snippet": {
+        "title": "SPICE MANE ",
+        "description": "Every bite can make you feel mother’s love!!",
+        "customUrl": "@spice-mane",
+        "publishedAt": "2026-02-27T17:05:13.78632Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/9UG1FGO04G_6IQskPqMKQEbWhO4hV59litLZhu3P1DFYSWlbv1hgiXrpY1d8cv8Wkd_RjOUD=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/9UG1FGO04G_6IQskPqMKQEbWhO4hV59litLZhu3P1DFYSWlbv1hgiXrpY1d8cv8Wkd_RjOUD=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/9UG1FGO04G_6IQskPqMKQEbWhO4hV59litLZhu3P1DFYSWlbv1hgiXrpY1d8cv8Wkd_RjOUD=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SPICE MANE ",
+          "description": "Every bite can make you feel mother’s love!!"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOXAeTdPfJwq9ZwPXEEzLug"
+        }
+      },
+      "statistics": {
+        "viewCount": "3371",
+        "subscriberCount": "94",
+        "hiddenSubscriberCount": false,
+        "videoCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "CWuubgKlvzxpBnmzBaM26wyM49w",
+      "id": "UCiq5x3p540SN5ZsqqTlThfA",
+      "snippet": {
+        "title": "chatora safar",
+        "description": "HELLO EVERYONE.. HERE I MAKE INTERESTING AND FUN RECIPES ❤️.....\nSUBSCRIBE TO MY CHANNEL FOR MORE SUCH AMAZING EASY RECIPES❤️",
+        "customUrl": "@chatorasafar",
+        "publishedAt": "2026-01-26T08:01:47.373233Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/2UtA64vtfGjyCtte3uPu0AJoSYB_KWluskyNC_aP28hq0cfQEQKEupsBkk4eC7NotEQqGva9=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/2UtA64vtfGjyCtte3uPu0AJoSYB_KWluskyNC_aP28hq0cfQEQKEupsBkk4eC7NotEQqGva9=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/2UtA64vtfGjyCtte3uPu0AJoSYB_KWluskyNC_aP28hq0cfQEQKEupsBkk4eC7NotEQqGva9=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "chatora safar",
+          "description": "HELLO EVERYONE.. HERE I MAKE INTERESTING AND FUN RECIPES ❤️.....\nSUBSCRIBE TO MY CHANNEL FOR MORE SUCH AMAZING EASY RECIPES❤️"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUiq5x3p540SN5ZsqqTlThfA"
+        }
+      },
+      "statistics": {
+        "viewCount": "207087",
+        "subscriberCount": "158",
+        "hiddenSubscriberCount": false,
+        "videoCount": "255"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "t0PMFy2261l2ze8D_43eeXU7zzE",
+      "id": "UCius8Np_f5UMjA2Tw5r21Lg",
+      "snippet": {
+        "title": "Flavour Phonic",
+        "description": "We are presenting Flavour Phonic! 🎧✨\n\nOn this channel, we satisfy  your food cravings with relaxing sounds and delicious bites. Put on your headphones, relax, and enjoy the ultimate food ASMR experience!\n\nDon't forget to Like, Share, and Subscribe.\n\n",
+        "customUrl": "@flavourphonic",
+        "publishedAt": "2026-09-08T15:37:24.984132Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/zYK9syk7C3oB3PE6rBe4E8U4RO_YnMvHArC3gPMLVO7j9Z06HDiZVURS2K498XbjFBm6A2U48w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/zYK9syk7C3oB3PE6rBe4E8U4RO_YnMvHArC3gPMLVO7j9Z06HDiZVURS2K498XbjFBm6A2U48w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/zYK9syk7C3oB3PE6rBe4E8U4RO_YnMvHArC3gPMLVO7j9Z06HDiZVURS2K498XbjFBm6A2U48w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Flavour Phonic",
+          "description": "We are presenting Flavour Phonic! 🎧✨\n\nOn this channel, we satisfy  your food cravings with relaxing sounds and delicious bites. Put on your headphones, relax, and enjoy the ultimate food ASMR experience!\n\nDon't forget to Like, Share, and Subscribe.\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUius8Np_f5UMjA2Tw5r21Lg"
+        }
+      },
+      "statistics": {
+        "viewCount": "77807",
+        "subscriberCount": "83",
+        "hiddenSubscriberCount": false,
+        "videoCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "LxeVgMTnA-MDlle0h9FemQCYHEs",
+      "id": "UCu2VPujn7FYnT_uIPDij2qA",
+      "snippet": {
+        "title": "Priti's_kitchen1",
+        "description": "Hello meri pyari family jaishree krishana mai aap sbhi ke sath yaha share kar rahi hu new, easy, innovative, tasty recipe aur difficult recipe ko bhi asaan tareeke se bana kar dikhati hu taki koi bhi bana sake\nQuick and easy cooking for beginners , tiffin ideas , kid's favorite snacks, healthy food, dinner recipe, 10 Minutes Instant Dinner Recipe| Easy Dinner Recipe| Quick Dinner Recipe| Veg Dinner Recipes Indian\n\n\nEat healthy think better",
+        "customUrl": "@pritivaria3394",
+        "publishedAt": "2021-05-24T07:25:30.210404Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/DwoQInOERJllJBUUtY_PgRrtVYrmrXrWy8wx24OmrTXMCauxW84oS73KlfG0MRQ3P5aGCJ_Z=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/DwoQInOERJllJBUUtY_PgRrtVYrmrXrWy8wx24OmrTXMCauxW84oS73KlfG0MRQ3P5aGCJ_Z=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/DwoQInOERJllJBUUtY_PgRrtVYrmrXrWy8wx24OmrTXMCauxW84oS73KlfG0MRQ3P5aGCJ_Z=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Priti's_kitchen1",
+          "description": "Hello meri pyari family jaishree krishana mai aap sbhi ke sath yaha share kar rahi hu new, easy, innovative, tasty recipe aur difficult recipe ko bhi asaan tareeke se bana kar dikhati hu taki koi bhi bana sake\nQuick and easy cooking for beginners , tiffin ideas , kid's favorite snacks, healthy food, dinner recipe, 10 Minutes Instant Dinner Recipe| Easy Dinner Recipe| Quick Dinner Recipe| Veg Dinner Recipes Indian\n\n\nEat healthy think better"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUu2VPujn7FYnT_uIPDij2qA"
+        }
+      },
+      "statistics": {
+        "viewCount": "17257822",
+        "subscriberCount": "15500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3216"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "IKSxxsG_8G8LBESqQdTqYUTS_Sc",
+      "id": "UCKgFa4A1B5zoo6n3qZPlh9A",
+      "snippet": {
+        "title": "Well ASMR",
+        "description": "\"Welcome to Well ASMR! 🌙✨\n\nYour dedicated space for ultimate relaxation, deep sleep, and stress relief. Explore high-quality ASMR triggers, whispers, tapping, visual triggers, and cozy sounds crafted to help you unwind after a long day.\n\nDon't forget to subscribe and put on your headphones for the best audio experience!🎧\"",
+        "customUrl": "@well_asmr1",
+        "publishedAt": "2024-08-29T12:53:33.465289Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1URRMK5mSQ7rhYDPMLB5FyOMUKzhC2tD1b2fbwSvevQx7CIO1rLXaLhcFEzbr6EJ7fbQDhgzDQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1URRMK5mSQ7rhYDPMLB5FyOMUKzhC2tD1b2fbwSvevQx7CIO1rLXaLhcFEzbr6EJ7fbQDhgzDQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1URRMK5mSQ7rhYDPMLB5FyOMUKzhC2tD1b2fbwSvevQx7CIO1rLXaLhcFEzbr6EJ7fbQDhgzDQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Well ASMR",
+          "description": "\"Welcome to Well ASMR! 🌙✨\n\nYour dedicated space for ultimate relaxation, deep sleep, and stress relief. Explore high-quality ASMR triggers, whispers, tapping, visual triggers, and cozy sounds crafted to help you unwind after a long day.\n\nDon't forget to subscribe and put on your headphones for the best audio experience!🎧\""
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUKgFa4A1B5zoo6n3qZPlh9A"
+        }
+      },
+      "statistics": {
+        "viewCount": "27399",
+        "subscriberCount": "32",
+        "hiddenSubscriberCount": false,
+        "videoCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "GwnmjQaYo98CwKMzRtR1WLcqqWU",
+      "id": "UCzh2lf3Rfi5GVxMZuIgGfaw",
+      "snippet": {
+        "title": "Mini munch crew",
+        "description": "🍳✨ Welcome to Mini Munch Crew! ✨🍴\nWelcome to our fun cooking & food vlog family! 🥰\nYahan milega tasty recipes, fun cooking, food challenges, cute moments aur entertaining food videos. 🌮🍕🍔🍰\n👩‍🍳 Cook • 🎥 Vlog • 😋 Taste • 😂 Fun\nHar video mein kuch naya, yummy aur entertaining! ❤️\nAgar aapko cooking, food & fun pasand hai, to Mini Munch Crew ko Subscribe karke hamari foodie family ka part zaroor banein! 🔔💖",
+        "customUrl": "@minimunchcrew",
+        "publishedAt": "2026-08-18T07:47:29.292734Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/c6J2vI-XaO8Ll0y2emv_Ei_lBQZme6SymWU-W559J5_WTHtrMhIrDcG6BMOMfLJCBLuR_yPbxN8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/c6J2vI-XaO8Ll0y2emv_Ei_lBQZme6SymWU-W559J5_WTHtrMhIrDcG6BMOMfLJCBLuR_yPbxN8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/c6J2vI-XaO8Ll0y2emv_Ei_lBQZme6SymWU-W559J5_WTHtrMhIrDcG6BMOMfLJCBLuR_yPbxN8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Mini munch crew",
+          "description": "🍳✨ Welcome to Mini Munch Crew! ✨🍴\nWelcome to our fun cooking & food vlog family! 🥰\nYahan milega tasty recipes, fun cooking, food challenges, cute moments aur entertaining food videos. 🌮🍕🍔🍰\n👩‍🍳 Cook • 🎥 Vlog • 😋 Taste • 😂 Fun\nHar video mein kuch naya, yummy aur entertaining! ❤️\nAgar aapko cooking, food & fun pasand hai, to Mini Munch Crew ko Subscribe karke hamari foodie family ka part zaroor banein! 🔔💖"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUzh2lf3Rfi5GVxMZuIgGfaw"
+        }
+      },
+      "statistics": {
+        "viewCount": "50848",
+        "subscriberCount": "59",
+        "hiddenSubscriberCount": false,
+        "videoCount": "43"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "D32B3AYWCQNvAdCYy36_oaTzgcw",
+      "id": "UCq-X2uoFpvBxHR2fC2_IzPg",
+      "snippet": {
+        "title": "Nini_Tecno",
+        "description": "🍿 La tua dose quotidiana di tecnologia\n📱 Meno chiacchiere, più test reali sul campo.\n💥 Dispositivi assurdi, trucchi utili e recensioni in un unico posto.\n",
+        "customUrl": "@nini_tecno",
+        "publishedAt": "2026-10-09T09:10:33.92373Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/w0_1zWF7SDKaRTbLGwCd-YAAlVcbSPRlcz60ZvTXX3bx_UycmE1Yk9HHzSkoUJA03XevV0Dlmg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/w0_1zWF7SDKaRTbLGwCd-YAAlVcbSPRlcz60ZvTXX3bx_UycmE1Yk9HHzSkoUJA03XevV0Dlmg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/w0_1zWF7SDKaRTbLGwCd-YAAlVcbSPRlcz60ZvTXX3bx_UycmE1Yk9HHzSkoUJA03XevV0Dlmg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Nini_Tecno",
+          "description": "🍿 La tua dose quotidiana di tecnologia\n📱 Meno chiacchiere, più test reali sul campo.\n💥 Dispositivi assurdi, trucchi utili e recensioni in un unico posto.\n"
+        },
+        "country": "IT"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUq-X2uoFpvBxHR2fC2_IzPg"
+        }
+      },
+      "statistics": {
+        "viewCount": "62",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "sVxCv0vrGh2HfMQ2RDUc1ApuENY",
+      "id": "UCkZsup2KGVO0UzzBLarTRfg",
+      "snippet": {
+        "title": "Queen Recipes ",
+        "description": "This channel about my cooking and remedies videos.Also I will upload some my excitement videos like as travel vlogs and my journey. \nDo support and subscribe my channel don't forget to press bell icon for notification of my letest upload.\nAlso join me on other social media platefroms like facebook and instagram as well.\n\nEmail:  [EMAIL-REDACTED]",
+        "customUrl": "@queenrecipes11",
+        "publishedAt": "2022-06-04T20:40:41.939105Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/r8YWWpzqMb3DuPGDeH21SIugJkLDCEDEPULoi7U_0jLRGFvT1_ZQiyr0E6Gc9rpIANgopfJosQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/r8YWWpzqMb3DuPGDeH21SIugJkLDCEDEPULoi7U_0jLRGFvT1_ZQiyr0E6Gc9rpIANgopfJosQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/r8YWWpzqMb3DuPGDeH21SIugJkLDCEDEPULoi7U_0jLRGFvT1_ZQiyr0E6Gc9rpIANgopfJosQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Queen Recipes ",
+          "description": "This channel about my cooking and remedies videos.Also I will upload some my excitement videos like as travel vlogs and my journey. \nDo support and subscribe my channel don't forget to press bell icon for notification of my letest upload.\nAlso join me on other social media platefroms like facebook and instagram as well.\n\nEmail:  [EMAIL-REDACTED]"
+        },
+        "country": "PK"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUkZsup2KGVO0UzzBLarTRfg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1257860",
+        "subscriberCount": "3680",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1029"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "0bpoppsiqR5PB-SFHj6Egoib4E4",
+      "id": "UC8TBTt1BEOEB9NNKwLeRk8g",
+      "snippet": {
+        "title": "MarquesClips",
+        "description": "Original content from @mkbhd",
+        "customUrl": "@lilblue9575",
+        "publishedAt": "2020-10-05T13:01:59.110661Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-ugwSpn_DUK8V6PPqcs4ItA6fNss3FDcHel4i_72o6-lOxr2-v36VgBxbW4oZWGCMQbdBq__=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-ugwSpn_DUK8V6PPqcs4ItA6fNss3FDcHel4i_72o6-lOxr2-v36VgBxbW4oZWGCMQbdBq__=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-ugwSpn_DUK8V6PPqcs4ItA6fNss3FDcHel4i_72o6-lOxr2-v36VgBxbW4oZWGCMQbdBq__=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MarquesClips",
+          "description": "Original content from @mkbhd"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU8TBTt1BEOEB9NNKwLeRk8g"
+        }
+      },
+      "statistics": {
+        "viewCount": "13401",
+        "subscriberCount": "13",
+        "hiddenSubscriberCount": false,
+        "videoCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "EqhfojssDyBov4N__a6qCcJuLLg",
+      "id": "UCAwu2skfd3O0yK7Ml_OHaWg",
+      "snippet": {
+        "title": "theeasybite",
+        "description": "Welcome to The Easy Bite! 🍴✨️ \n\nEasy recipes, quick snacks, delicious desserts, and satisfying food ideas you can make at home.\n\nSweet treats 🍫\nQuick snacks 🍿\nEasy meals 🍝\nSimple recipes 🥗\n\nNew food videos regularly!! \n\nSubscribe and find your next easy bite.❤️🌸",
+        "customUrl": "@theeasybite",
+        "publishedAt": "2026-10-01T04:12:01.896048Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/quAYKmYPO05GvXVhz9MXbneknES_tQHBQc5kpt686fusraEvFY-ROf7WKRPbDsUAu1z8t6Ts=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/quAYKmYPO05GvXVhz9MXbneknES_tQHBQc5kpt686fusraEvFY-ROf7WKRPbDsUAu1z8t6Ts=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/quAYKmYPO05GvXVhz9MXbneknES_tQHBQc5kpt686fusraEvFY-ROf7WKRPbDsUAu1z8t6Ts=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "theeasybite",
+          "description": "Welcome to The Easy Bite! 🍴✨️ \n\nEasy recipes, quick snacks, delicious desserts, and satisfying food ideas you can make at home.\n\nSweet treats 🍫\nQuick snacks 🍿\nEasy meals 🍝\nSimple recipes 🥗\n\nNew food videos regularly!! \n\nSubscribe and find your next easy bite.❤️🌸"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUAwu2skfd3O0yK7Ml_OHaWg"
+        }
+      },
+      "statistics": {
+        "viewCount": "7724",
+        "subscriberCount": "9",
+        "hiddenSubscriberCount": false,
+        "videoCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3TDgBxkV0h1SBtRNwOFN6epEJTE",
+      "id": "UCwDkeH7zk7Ke9ZfaUYf-ZFQ",
+      "snippet": {
+        "title": "Stateside Hub",
+        "description": "🇺🇸🔥 WELCOME TO STATESIDE HUB! 🔥🇺🇸\n\nYour home for AI-powered USA content, amazing stories, incredible places, trending topics, and unforgettable experiences! 🤖🎬\n\n✨ What you’ll discover here: 🏙️ Amazing American Cities & Places\n🇺🇸 USA Stories & Interesting Facts\n🎉 Events, Festivals & Experiences\n🤯 Mind-Blowing Facts & Discoveries\n🤖 AI-Generated Videos & Visuals\n🔥 Trending & Entertaining USA Content\n\nFrom New York to California, from hidden gems to unbelievable stories — Stateside Hub brings America to your screen! 📺🇺🇸\n\n🔔 SUBSCRIBE NOW and join the Stateside Hub community!\n\n🎬 New AI-powered videos coming regularly!\n\n⚠️ Some visuals and scenes may be AI-generated and are created for entertainment and storytelling purposes.\n\n#StatesideHub #USA #America #AIContent #AIVideos #USAContent #AmericanStories #Trending #Viral #Shorts\n\n",
+        "customUrl": "@statesidehub-b1m",
+        "publishedAt": "2026-08-14T02:29:09.866016Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/K-p0ycjA4uDetgX3by8ydSWzklgj9Sbj8bKbaHgfhjjWe_SroNlqQk4KbmrTT2eMEEWJLFm0jA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/K-p0ycjA4uDetgX3by8ydSWzklgj9Sbj8bKbaHgfhjjWe_SroNlqQk4KbmrTT2eMEEWJLFm0jA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/K-p0ycjA4uDetgX3by8ydSWzklgj9Sbj8bKbaHgfhjjWe_SroNlqQk4KbmrTT2eMEEWJLFm0jA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Stateside Hub",
+          "description": "🇺🇸🔥 WELCOME TO STATESIDE HUB! 🔥🇺🇸\n\nYour home for AI-powered USA content, amazing stories, incredible places, trending topics, and unforgettable experiences! 🤖🎬\n\n✨ What you’ll discover here: 🏙️ Amazing American Cities & Places\n🇺🇸 USA Stories & Interesting Facts\n🎉 Events, Festivals & Experiences\n🤯 Mind-Blowing Facts & Discoveries\n🤖 AI-Generated Videos & Visuals\n🔥 Trending & Entertaining USA Content\n\nFrom New York to California, from hidden gems to unbelievable stories — Stateside Hub brings America to your screen! 📺🇺🇸\n\n🔔 SUBSCRIBE NOW and join the Stateside Hub community!\n\n🎬 New AI-powered videos coming regularly!\n\n⚠️ Some visuals and scenes may be AI-generated and are created for entertainment and storytelling purposes.\n\n#StatesideHub #USA #America #AIContent #AIVideos #USAContent #AmericanStories #Trending #Viral #Shorts\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwDkeH7zk7Ke9ZfaUYf-ZFQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "6834",
+        "subscriberCount": "5",
+        "hiddenSubscriberCount": false,
+        "videoCount": "13"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "LiwbXFoA4MVJx_Ruu68HaL9kXsU",
+      "id": "UClvJK20S4uKZHoEEeHDxurA",
+      "snippet": {
+        "title": "Everyday Home Utilities",
+        "description": "Hello,\nMy name is Mayur and I am passionate about home utility gadgets in budget and simple life solutions.\nYour go-to channel for smart home products, useful household gadgets, cleaning essentials, kitchen tools, storage solutions, and everyday utility tips.\n\n📌 What you’ll find here:\n✔ Home utility product reviews\n✔ Smart  gadgets\n✔ Cleaning tools & tips\n✔ Storage & organization ideas\n✔ Daily life improvement hacks\n✔ Budget-friendly home essentials\n\nSmart Ideas. Better Living. Everyday Better.\nSubscribe and join us on the journey to make your home smarter and life simpler! 🔔\n",
+        "customUrl": "@everydayhomeutilities",
+        "publishedAt": "2026-06-23T08:29:45.031121Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/7SybloJAt4tiWU48oJbwctrYtCH1p1_V_dBXgIhV3LpcvHL_2-HfK-i9kbsTRqH1fcwG1b5C=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/7SybloJAt4tiWU48oJbwctrYtCH1p1_V_dBXgIhV3LpcvHL_2-HfK-i9kbsTRqH1fcwG1b5C=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/7SybloJAt4tiWU48oJbwctrYtCH1p1_V_dBXgIhV3LpcvHL_2-HfK-i9kbsTRqH1fcwG1b5C=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Everyday Home Utilities",
+          "description": "Hello,\nMy name is Mayur and I am passionate about home utility gadgets in budget and simple life solutions.\nYour go-to channel for smart home products, useful household gadgets, cleaning essentials, kitchen tools, storage solutions, and everyday utility tips.\n\n📌 What you’ll find here:\n✔ Home utility product reviews\n✔ Smart  gadgets\n✔ Cleaning tools & tips\n✔ Storage & organization ideas\n✔ Daily life improvement hacks\n✔ Budget-friendly home essentials\n\nSmart Ideas. Better Living. Everyday Better.\nSubscribe and join us on the journey to make your home smarter and life simpler! 🔔\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUlvJK20S4uKZHoEEeHDxurA"
+        }
+      },
+      "statistics": {
+        "viewCount": "0",
+        "subscriberCount": "12",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Ol0F616EZuOQeZNVTba1Ew6oMhE",
+      "id": "UCCRWpzTOnoLXL7-Wn3hY6Ew",
+      "snippet": {
+        "title": "Аня Липкина",
+        "description": "Watch T£OS or be Eliminated.\n\n\nSquarey Plushie on Makeship: October 7, 2026",
+        "customUrl": "@анялипкина-д3ш",
+        "publishedAt": "2026-10-05T15:48:21.50163Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ULlQosqjlRbI2mo8wK57D1gqbymGoPFnFm-XvGervNecsOYtOXCeF0BfNyI-X0_08ip7sXS3bQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ULlQosqjlRbI2mo8wK57D1gqbymGoPFnFm-XvGervNecsOYtOXCeF0BfNyI-X0_08ip7sXS3bQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ULlQosqjlRbI2mo8wK57D1gqbymGoPFnFm-XvGervNecsOYtOXCeF0BfNyI-X0_08ip7sXS3bQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Аня Липкина",
+          "description": "Watch T£OS or be Eliminated.\n\n\nSquarey Plushie on Makeship: October 7, 2026"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUCRWpzTOnoLXL7-Wn3hY6Ew"
+        }
+      },
+      "statistics": {
+        "viewCount": "4226",
+        "subscriberCount": "9",
+        "hiddenSubscriberCount": false,
+        "videoCount": "66"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "U06ouImC97pWR_PtJXSPD7-MNAI",
+      "id": "UC-XkrO6y251779t_fBOUjaQ",
+      "snippet": {
+        "title": "Mumbai Biryani kitchen",
+        "description": "://www.youtube.com/@TarannumParween Mumbai Biryani kitchen",
+        "customUrl": "@tarannumparween-n3h",
+        "publishedAt": "2025-04-17T08:17:13.03034Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3t5HKw6wrXonmv8hCXR0FXAymIzs8b-1Xal-hjklOu4eDkanjW8Z3s17_XyZ0IYIkgkEEIkTSQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3t5HKw6wrXonmv8hCXR0FXAymIzs8b-1Xal-hjklOu4eDkanjW8Z3s17_XyZ0IYIkgkEEIkTSQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3t5HKw6wrXonmv8hCXR0FXAymIzs8b-1Xal-hjklOu4eDkanjW8Z3s17_XyZ0IYIkgkEEIkTSQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Mumbai Biryani kitchen",
+          "description": "://www.youtube.com/@TarannumParween Mumbai Biryani kitchen"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-XkrO6y251779t_fBOUjaQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "521842",
+        "subscriberCount": "1420",
+        "hiddenSubscriberCount": false,
+        "videoCount": "544"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ULb0qBBl2NBfdHLsj4Hnj50aaOI",
+      "id": "UClI_2VeDqIXU8viA1wCnAZQ",
+      "snippet": {
+        "title": "Cooking Safe",
+        "description": "👩‍🍳 Kitchen में प्यार, प्लेट में स्वाद ❤️\n🍲 Homemade Recipes | 😋 Food Lover🥘 आसान और स्वादिष्ट Recipes\n🔥 स्वाद ऐसा कि बार-बार खाओ!",
+        "customUrl": "@cookingsafe-s8q",
+        "publishedAt": "2026-10-06T04:38:24.209803Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/M0gZjcKxp6zzU_nUDHFNT_qHTIJ0dWsOx3p-iXCZRogrH6gk6F6bH796_W_eZuhOIHvUa20e=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/M0gZjcKxp6zzU_nUDHFNT_qHTIJ0dWsOx3p-iXCZRogrH6gk6F6bH796_W_eZuhOIHvUa20e=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/M0gZjcKxp6zzU_nUDHFNT_qHTIJ0dWsOx3p-iXCZRogrH6gk6F6bH796_W_eZuhOIHvUa20e=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Cooking Safe",
+          "description": "👩‍🍳 Kitchen में प्यार, प्लेट में स्वाद ❤️\n🍲 Homemade Recipes | 😋 Food Lover🥘 आसान और स्वादिष्ट Recipes\n🔥 स्वाद ऐसा कि बार-बार खाओ!"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUlI_2VeDqIXU8viA1wCnAZQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "98",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "vx_SrIrQLdGII0Atyim7HEBZokg",
+      "id": "UCUJoSIkhzjaI5mGNZVfCtlA",
+      "snippet": {
+        "title": "F Files Audio",
+        "description": "",
+        "customUrl": "@ffilesaudio",
+        "publishedAt": "2009-10-23T00:07:07Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/U5YjlyzR3MWsOUHzVd-rt1-4sT1S8_mPLBKLB9V5szg-lx1GyhYNq8gBZSoL_Ip426P4t0zK=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/U5YjlyzR3MWsOUHzVd-rt1-4sT1S8_mPLBKLB9V5szg-lx1GyhYNq8gBZSoL_Ip426P4t0zK=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/U5YjlyzR3MWsOUHzVd-rt1-4sT1S8_mPLBKLB9V5szg-lx1GyhYNq8gBZSoL_Ip426P4t0zK=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "F Files Audio",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUUJoSIkhzjaI5mGNZVfCtlA"
+        }
+      },
+      "statistics": {
+        "viewCount": "14",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "QInjOYDYR1nV0Us5SVAzCIY4OJQ",
+      "id": "UCMHVsnKP50BizIB9Q9AI3jw",
+      "snippet": {
+        "title": "David - True Crime",
+        "description": "Hello everyone, my name is David. \n\nWelcome to the channel of documentary stories and real crimes! Here we publish crime stories about mysterious disappearances, shocking crimes, stories about criminals, exciting investigations that shook the world at large. \n\nThank you for your attention and support! Subscribe to the channel! \n\nWarning!\n\nAny creator should not copy scripts from our channel's videos, nor should anyone modify our scripts and use them. If anyone is found doing so, we will issue a copyright strike against them.\n\nAttention! \n\nVideos on the channel are exclusively documentary, informational and narrative in nature. All information about the case is taken from various sources on the Internet! The author is not engaged in his own investigation and does not try to hurt anyone's feelings, as well as does not encourage you to illegal actions! \n\n\nAny Business Offers, Sponsorships & Promotions should be sent to:\n[EMAIL-REDACTED]",
+        "customUrl": "@truecrimewithdavid",
+        "publishedAt": "2023-11-22T19:41:16.212822Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Of30uO2KzTaXoJM-ZKYiUy_kGh4EnGWqCRqJcjO-ECsWrL7BUPvX_eCvz02AmU7bqqr5ypTU=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Of30uO2KzTaXoJM-ZKYiUy_kGh4EnGWqCRqJcjO-ECsWrL7BUPvX_eCvz02AmU7bqqr5ypTU=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Of30uO2KzTaXoJM-ZKYiUy_kGh4EnGWqCRqJcjO-ECsWrL7BUPvX_eCvz02AmU7bqqr5ypTU=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "David - True Crime",
+          "description": "Hello everyone, my name is David. \n\nWelcome to the channel of documentary stories and real crimes! Here we publish crime stories about mysterious disappearances, shocking crimes, stories about criminals, exciting investigations that shook the world at large. \n\nThank you for your attention and support! Subscribe to the channel! \n\nWarning!\n\nAny creator should not copy scripts from our channel's videos, nor should anyone modify our scripts and use them. If anyone is found doing so, we will issue a copyright strike against them.\n\nAttention! \n\nVideos on the channel are exclusively documentary, informational and narrative in nature. All information about the case is taken from various sources on the Internet! The author is not engaged in his own investigation and does not try to hurt anyone's feelings, as well as does not encourage you to illegal actions! \n\n\nAny Business Offers, Sponsorships & Promotions should be sent to:\n[EMAIL-REDACTED]"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUMHVsnKP50BizIB9Q9AI3jw"
+        }
+      },
+      "statistics": {
+        "viewCount": "5163651",
+        "subscriberCount": "90000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "XgZ5SD3krpT-hf_Ss6OlBCYow5U",
+      "id": "UCJ5FPSZ4LWFYXpfsV2aCwGg",
+      "snippet": {
+        "title": "Sad Crime",
+        "description": "Welcome to our true crime channel, where mysteries unfold and investigations come to life. Join us as we delve into chilling cases, untangle webs of deception, and explore the darkest corners of the human psyche. Subscribe for riveting storytelling, in-depth analysis, and a journey into the minds of both criminals and those who seek justice. Uncover the truth with us – it's a real-life thriller waiting to be unraveled.\n\n\n\nI dive deep into the most haunting and heartbreaking true crime cases, revealing the hidden truths behind every story. If you appreciate the research, storytelling, and dedication that goes into each video, consider supporting my work on Buy Me a Coffee. Your support helps keep these stories coming and ensures that the victims’ voices are never forgotten.\n\n☕ Buy me a coffee here:  https://buymeacoffee.com/sadcrime\n\nThank you for watching and being part of this journey!\n\n\n",
+        "customUrl": "@sadcrime7",
+        "publishedAt": "2023-06-01T08:32:19.91041Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Ii3XVbOAzb37ztqPi8eudOc7nbBLfpBa30pSvO1LN1Rs9umTJ9kTPbRlpuPsYGhFUrdexuE3IQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Ii3XVbOAzb37ztqPi8eudOc7nbBLfpBa30pSvO1LN1Rs9umTJ9kTPbRlpuPsYGhFUrdexuE3IQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Ii3XVbOAzb37ztqPi8eudOc7nbBLfpBa30pSvO1LN1Rs9umTJ9kTPbRlpuPsYGhFUrdexuE3IQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Sad Crime",
+          "description": "Welcome to our true crime channel, where mysteries unfold and investigations come to life. Join us as we delve into chilling cases, untangle webs of deception, and explore the darkest corners of the human psyche. Subscribe for riveting storytelling, in-depth analysis, and a journey into the minds of both criminals and those who seek justice. Uncover the truth with us – it's a real-life thriller waiting to be unraveled.\n\n\n\nI dive deep into the most haunting and heartbreaking true crime cases, revealing the hidden truths behind every story. If you appreciate the research, storytelling, and dedication that goes into each video, consider supporting my work on Buy Me a Coffee. Your support helps keep these stories coming and ensures that the victims’ voices are never forgotten.\n\n☕ Buy me a coffee here:  https://buymeacoffee.com/sadcrime\n\nThank you for watching and being part of this journey!\n\n\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUJ5FPSZ4LWFYXpfsV2aCwGg"
+        }
+      },
+      "statistics": {
+        "viewCount": "16491705",
+        "subscriberCount": "79600",
+        "hiddenSubscriberCount": false,
+        "videoCount": "310"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8GmpcvqR9FouYSuz0C-qf3lmgog",
+      "id": "UC__uIZXHumIvx384xQKVrPQ",
+      "snippet": {
+        "title": "Easy cooking by Sufia",
+        "description": "",
+        "customUrl": "@ferdussufiavlogs",
+        "publishedAt": "2019-04-30T07:43:20Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ZjjDmjl4UKfPetTSvV_sD4xJ0n669SwWTEdKv9sNmwYfDa0M0b0QG9fnXwwFbofXVxPT4pSabQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ZjjDmjl4UKfPetTSvV_sD4xJ0n669SwWTEdKv9sNmwYfDa0M0b0QG9fnXwwFbofXVxPT4pSabQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ZjjDmjl4UKfPetTSvV_sD4xJ0n669SwWTEdKv9sNmwYfDa0M0b0QG9fnXwwFbofXVxPT4pSabQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Easy cooking by Sufia",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU__uIZXHumIvx384xQKVrPQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "3709859",
+        "subscriberCount": "8530",
+        "hiddenSubscriberCount": false,
+        "videoCount": "937"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jX-NnxdhKkojPLnP3zGyQqm4JtI",
+      "id": "UCc_PC851MwQ8D50pWkkmb3w",
+      "snippet": {
+        "title": "Amreen ,kitchen ",
+        "description": "Assalamu Alaikum! Welcome to Amreen's Kitchen. Yahan aapko easy, tasty aur restaurant-style recipes milengi. Hyderabadi recipes, chicken recipes, snacks, desserts aur daily home cooking ke naye videos regularly upload kiye jaate hain. Hamare channel ko Subscribe karna na bhooliye!",
+        "customUrl": "@amreenbegum-t8s",
+        "publishedAt": "2026-07-27T19:53:35.101552Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/NXTk1SqoWk45wxsWBkPjngZ6HASKccnqmOH-OiVZE72OkSrnvR-gTsCKVeC5i6102NG1UdjWV_w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/NXTk1SqoWk45wxsWBkPjngZ6HASKccnqmOH-OiVZE72OkSrnvR-gTsCKVeC5i6102NG1UdjWV_w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/NXTk1SqoWk45wxsWBkPjngZ6HASKccnqmOH-OiVZE72OkSrnvR-gTsCKVeC5i6102NG1UdjWV_w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Amreen ,kitchen ",
+          "description": "Assalamu Alaikum! Welcome to Amreen's Kitchen. Yahan aapko easy, tasty aur restaurant-style recipes milengi. Hyderabadi recipes, chicken recipes, snacks, desserts aur daily home cooking ke naye videos regularly upload kiye jaate hain. Hamare channel ko Subscribe karna na bhooliye!"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUc_PC851MwQ8D50pWkkmb3w"
+        }
+      },
+      "statistics": {
+        "viewCount": "8027",
+        "subscriberCount": "8",
+        "hiddenSubscriberCount": false,
+        "videoCount": "26"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "XuJiVkrE31XxczYRKTlwmSCyzII",
+      "id": "UClSdz9l2XSfBzuFTMJfZSBQ",
+      "snippet": {
+        "title": "Hexagon Motoring Archive",
+        "description": "French cars have always done things differently.\n\nHexagon Motoring explores the cars, generations and engineering ideas that shaped the French automotive industry — from everyday hatchbacks and family cars to hot hatches, luxury sedans, sports cars, MPVs, SUVs and modern electric vehicles.\n\nEach video focuses on one specific model or genuine generation, covering its design, engines, technology, driving character, strengths, weaknesses, reliability, ownership experience and place in automotive history.\n\nExpect detailed stories about Renault, Peugeot, Citroën, DS Automobiles, Alpine, Bugatti and important historic French manufacturers including Simca, Talbot, Matra, Panhard, Facel Vega, Delage, Delahaye and Venturi.\n\nFrom the Citroën DS and Renault 5 to the Peugeot 205 GTI, Alpine A110, Renault Clio, Peugeot 308 and the newest generation of French EVs, Hexagon Motoring documents how French cars evolved — one generation at a time.\n\nNew automotive documentaries regularly.\n",
+        "customUrl": "@hexagonmotoring",
+        "publishedAt": "2025-08-22T11:11:23.639211Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/rhuzDAOmyyRbU7Xp_6_BfwdRO24UW3Y30wuNk7wbI6tQWjKSfG-qIMewdonjDk_ayMn5B1JP=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/rhuzDAOmyyRbU7Xp_6_BfwdRO24UW3Y30wuNk7wbI6tQWjKSfG-qIMewdonjDk_ayMn5B1JP=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/rhuzDAOmyyRbU7Xp_6_BfwdRO24UW3Y30wuNk7wbI6tQWjKSfG-qIMewdonjDk_ayMn5B1JP=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Hexagon Motoring Archive",
+          "description": "French cars have always done things differently.\n\nHexagon Motoring explores the cars, generations and engineering ideas that shaped the French automotive industry — from everyday hatchbacks and family cars to hot hatches, luxury sedans, sports cars, MPVs, SUVs and modern electric vehicles.\n\nEach video focuses on one specific model or genuine generation, covering its design, engines, technology, driving character, strengths, weaknesses, reliability, ownership experience and place in automotive history.\n\nExpect detailed stories about Renault, Peugeot, Citroën, DS Automobiles, Alpine, Bugatti and important historic French manufacturers including Simca, Talbot, Matra, Panhard, Facel Vega, Delage, Delahaye and Venturi.\n\nFrom the Citroën DS and Renault 5 to the Peugeot 205 GTI, Alpine A110, Renault Clio, Peugeot 308 and the newest generation of French EVs, Hexagon Motoring documents how French cars evolved — one generation at a time.\n\nNew automotive documentaries regularly.\n"
+        },
+        "country": "EE"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUlSdz9l2XSfBzuFTMJfZSBQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "4078",
+        "subscriberCount": "115",
+        "hiddenSubscriberCount": false,
+        "videoCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "wmqkp8bP7zTSbWFZm3hpFRBa6cc",
+      "id": "UCOX9d53FLXtZcVotybLlj7w",
+      "snippet": {
+        "title": "Ajay Tech reviews",
+        "description": "",
+        "customUrl": "@ajaytechreviews19",
+        "publishedAt": "2026-09-13T08:46:27.036224Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/LfdCixtHJSz2CtfVzz0P5C-fIBX8GPYLOQawb32Y3sjjmGZpZi47EE9XjIQifINLdZY2uvYQew=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/LfdCixtHJSz2CtfVzz0P5C-fIBX8GPYLOQawb32Y3sjjmGZpZi47EE9XjIQifINLdZY2uvYQew=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/LfdCixtHJSz2CtfVzz0P5C-fIBX8GPYLOQawb32Y3sjjmGZpZi47EE9XjIQifINLdZY2uvYQew=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Ajay Tech reviews",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOX9d53FLXtZcVotybLlj7w"
+        }
+      },
+      "statistics": {
+        "viewCount": "19",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3nF_vaJgouavcLVehFi_r8nLFHE",
+      "id": "UCOpmb6UivaTVGjrMpsoWu_A",
+      "snippet": {
+        "title": "Tech Gali",
+        "description": "Welcome to Tech Gali — your go-to destination for everything Tech, Gadgets, Tips & Reviews! \n\nWe bring you the latest technology updates, useful tech tips, gadget reviews, smartphone tricks, apps, AI tools, and exciting tech discoveries — all explained in a simple and easy-to-understand way.\n\nOur second channel is called “Bhartiya Kisaan.”\n🌐 Follow us on social media:\n\n🔗 Social Links:\nhttps://youtube.com/@bhartiyakisaan_bk\nhttps://www.instagram.com/Bhartiyakisaan_bk\nhttps://www.facebook.com/people/Bhartiya-Kisaan/61571004604494/?mibextid=ZbWKwL\nhttp://www.bhartiyakisaan.com/\n\nFor Business Queries\nCollaboration And Promotion\n8445984527, 9193930058",
+        "customUrl": "@techgali_tg",
+        "publishedAt": "2016-01-21T06:44:54Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MnuexM04SkVBKn3vU9ImBH-rAKrTirquUOcElKtS6KjotuMkVJu_XhnM-Y5DCpLo-JTtu6VdzA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MnuexM04SkVBKn3vU9ImBH-rAKrTirquUOcElKtS6KjotuMkVJu_XhnM-Y5DCpLo-JTtu6VdzA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MnuexM04SkVBKn3vU9ImBH-rAKrTirquUOcElKtS6KjotuMkVJu_XhnM-Y5DCpLo-JTtu6VdzA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Tech Gali",
+          "description": "Welcome to Tech Gali — your go-to destination for everything Tech, Gadgets, Tips & Reviews! \n\nWe bring you the latest technology updates, useful tech tips, gadget reviews, smartphone tricks, apps, AI tools, and exciting tech discoveries — all explained in a simple and easy-to-understand way.\n\nOur second channel is called “Bhartiya Kisaan.”\n🌐 Follow us on social media:\n\n🔗 Social Links:\nhttps://youtube.com/@bhartiyakisaan_bk\nhttps://www.instagram.com/Bhartiyakisaan_bk\nhttps://www.facebook.com/people/Bhartiya-Kisaan/61571004604494/?mibextid=ZbWKwL\nhttp://www.bhartiyakisaan.com/\n\nFor Business Queries\nCollaboration And Promotion\n8445984527, 9193930058"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOpmb6UivaTVGjrMpsoWu_A"
+        }
+      },
+      "statistics": {
+        "viewCount": "7189013",
+        "subscriberCount": "77000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "549"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "H5bhyEUgl3BArXUN_av7gMCKLiI",
+      "id": "UCXnpgdjWIO5CGHP3mSCAcig",
+      "snippet": {
+        "title": "TECH SCHOOL - TS",
+        "description": "Hello......\n\"TECH SCHOOL - TS\" is one of the most popular tech-oriented YouTube channels in Bangladesh. Bringing you quality tech tutorials, tips and tricks and gadget reviews in Bengali. Subscribe to the channel and stay tuned.\n======================================================\nSponsors can contact me on below e-mail: [EMAIL-REDACTED]\n====================================================\nTHANK YOU ALL for your great support.\n\nNote: Copying or Reproduction of Logo or content from this channel is strictly prohibited.\n#learning #tutorial #review #gadgetreview #unboxing #tech \n",
+        "customUrl": "@techschoolyt",
+        "publishedAt": "2022-07-19T09:18:03.658537Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/TGIEqHmDqZDcviH1l0dpAn5f58DtGCCUg6Of6P_X9uQ9b0lLjCloy3gE_sB-6afb0wljzo_pA9g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/TGIEqHmDqZDcviH1l0dpAn5f58DtGCCUg6Of6P_X9uQ9b0lLjCloy3gE_sB-6afb0wljzo_pA9g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/TGIEqHmDqZDcviH1l0dpAn5f58DtGCCUg6Of6P_X9uQ9b0lLjCloy3gE_sB-6afb0wljzo_pA9g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "bn",
+        "localized": {
+          "title": "TECH SCHOOL - TS",
+          "description": "Hello......\n\"TECH SCHOOL - TS\" is one of the most popular tech-oriented YouTube channels in Bangladesh. Bringing you quality tech tutorials, tips and tricks and gadget reviews in Bengali. Subscribe to the channel and stay tuned.\n======================================================\nSponsors can contact me on below e-mail: [EMAIL-REDACTED]\n====================================================\nTHANK YOU ALL for your great support.\n\nNote: Copying or Reproduction of Logo or content from this channel is strictly prohibited.\n#learning #tutorial #review #gadgetreview #unboxing #tech \n"
+        },
+        "country": "BD"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUXnpgdjWIO5CGHP3mSCAcig"
+        }
+      },
+      "statistics": {
+        "viewCount": "311528",
+        "subscriberCount": "2400",
+        "hiddenSubscriberCount": false,
+        "videoCount": "183"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "rYqyYsiYB_Y_Z0Tq8ceygY0lcYo",
+      "id": "UCsvJOs6cCzFQYTT7JIhQ7mQ",
+      "snippet": {
+        "title": "ভোজনরসিক ",
+        "description": "",
+        "customUrl": "@ভেজনরসিক6244",
+        "publishedAt": "2017-02-14T17:26:49Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CvBqNqHjrBGKgCOx7bFfLxuSeiZpMC5ZPhec-KyX63YTP9omc0kajdWCxvyr0BTFigAeARmk=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CvBqNqHjrBGKgCOx7bFfLxuSeiZpMC5ZPhec-KyX63YTP9omc0kajdWCxvyr0BTFigAeARmk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CvBqNqHjrBGKgCOx7bFfLxuSeiZpMC5ZPhec-KyX63YTP9omc0kajdWCxvyr0BTFigAeARmk=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ভোজনরসিক ",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUsvJOs6cCzFQYTT7JIhQ7mQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "142061",
+        "subscriberCount": "102",
+        "hiddenSubscriberCount": false,
+        "videoCount": "106"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "M6763kHnyFdOh0CNCarzdvxIQsc",
+      "id": "UCoXFUhK9ci5eiTJA3qtJcyQ",
+      "snippet": {
+        "title": "KK Techtree",
+        "description": "🌳Welcome to KK Techtree - your destination for everything tech! 💻📱\n\nWe make technology simple, useful, and easy to understand. From the latest gadgets and honest product reviews to helpful tips, tutorials, tech news, and exciting updates, we bring you content that helps you make smarter tech choices.\n\n\n✨ What you'll find here:\n\n📱Smartphone & Gadget Reviews\n💻Laptop & Computer Reviews\n🔧Tech Tips & Tricks\n🧠How-To Guides & Tutorials\n📰Latest Tech News & Updates\n⭐ Useful Apps, Tools & Accessories\n🚀New & Emerging Technology\n\n\n🌿KK Techtree - Tech Simplified, Life  Upgraded {Explore. Learn.Upgrade}\n\nSubscribe and join our growing tech community! 🔔\n\n#KKTechtree #TechReviews #TechTips\n#Technology #Gadgets #TechNews\n#Tutorials",
+        "customUrl": "@kktechtree",
+        "publishedAt": "2026-08-30T07:23:48.595765Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/DQ1ezpYcZiysSKQk1iG1NBWmWqzsg_EGVL7Xk-VN7yrXBuEmWLPdeIbVN29-KNwxWOMHtI_Jgw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/DQ1ezpYcZiysSKQk1iG1NBWmWqzsg_EGVL7Xk-VN7yrXBuEmWLPdeIbVN29-KNwxWOMHtI_Jgw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/DQ1ezpYcZiysSKQk1iG1NBWmWqzsg_EGVL7Xk-VN7yrXBuEmWLPdeIbVN29-KNwxWOMHtI_Jgw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "KK Techtree",
+          "description": "🌳Welcome to KK Techtree - your destination for everything tech! 💻📱\n\nWe make technology simple, useful, and easy to understand. From the latest gadgets and honest product reviews to helpful tips, tutorials, tech news, and exciting updates, we bring you content that helps you make smarter tech choices.\n\n\n✨ What you'll find here:\n\n📱Smartphone & Gadget Reviews\n💻Laptop & Computer Reviews\n🔧Tech Tips & Tricks\n🧠How-To Guides & Tutorials\n📰Latest Tech News & Updates\n⭐ Useful Apps, Tools & Accessories\n🚀New & Emerging Technology\n\n\n🌿KK Techtree - Tech Simplified, Life  Upgraded {Explore. Learn.Upgrade}\n\nSubscribe and join our growing tech community! 🔔\n\n#KKTechtree #TechReviews #TechTips\n#Technology #Gadgets #TechNews\n#Tutorials"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUoXFUhK9ci5eiTJA3qtJcyQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "10382",
+        "subscriberCount": "12",
+        "hiddenSubscriberCount": false,
+        "videoCount": "23"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "br3RQ-mt5Yb-dPB29L_Ow8XSc6k",
+      "id": "UCfgM38DAD2_4BBAcAnayY3Q",
+      "snippet": {
+        "title": "Kalyan Dairies ",
+        "description": "Welcome to **KalyanDairies– your ultimate destination for trending stories, real-life incidents, unsolved mysteries, and viral topics in Telugu!\n\nOn this channel, we bring you:\n🔥 Latest trending topics\n🕵️‍♂️ Unsolved mystery cases\n🎬 Real-life incidents & crime stories\n🌍 Viral news and social awareness content\n📖 Motivational and inspiring stories\n\nOur goal is to deliver engaging, informative, and thought-provoking content in **Telugu language** that keeps you updated and entertained.\n\nIf you love exploring **mysteries, real घटनలు (real incidents), trending news, and deep stories**, this channel is perfect for you!\n\n👉 Subscribe now and join the **KalyanTrendsTelugu family**\n🔔 Turn on notifications so you never miss an update\n\nFor Business & Collaborations: [Your Email Here]\n\n#TeluguYouTubeChannel #TrendingTelugu #UnsolvedMysteries #TeluguStories #KalyanTrendsTelugu\n",
+        "customUrl": "@kalyandairies",
+        "publishedAt": "2026-03-26T09:41:09.155159Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/gZLSlt2wfZ62IsA4YReGDSayGLXsf46x01TinRFH-o5UeNfwztzvFxhkrRpCl8Xq2Wnu773cdg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/gZLSlt2wfZ62IsA4YReGDSayGLXsf46x01TinRFH-o5UeNfwztzvFxhkrRpCl8Xq2Wnu773cdg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/gZLSlt2wfZ62IsA4YReGDSayGLXsf46x01TinRFH-o5UeNfwztzvFxhkrRpCl8Xq2Wnu773cdg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Kalyan Dairies ",
+          "description": "Welcome to **KalyanDairies– your ultimate destination for trending stories, real-life incidents, unsolved mysteries, and viral topics in Telugu!\n\nOn this channel, we bring you:\n🔥 Latest trending topics\n🕵️‍♂️ Unsolved mystery cases\n🎬 Real-life incidents & crime stories\n🌍 Viral news and social awareness content\n📖 Motivational and inspiring stories\n\nOur goal is to deliver engaging, informative, and thought-provoking content in **Telugu language** that keeps you updated and entertained.\n\nIf you love exploring **mysteries, real घटनలు (real incidents), trending news, and deep stories**, this channel is perfect for you!\n\n👉 Subscribe now and join the **KalyanTrendsTelugu family**\n🔔 Turn on notifications so you never miss an update\n\nFor Business & Collaborations: [Your Email Here]\n\n#TeluguYouTubeChannel #TrendingTelugu #UnsolvedMysteries #TeluguStories #KalyanTrendsTelugu\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfgM38DAD2_4BBAcAnayY3Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "3047521",
+        "subscriberCount": "6090",
+        "hiddenSubscriberCount": false,
+        "videoCount": "165"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ILvdQDs9-tk087s1sAF2X5YL8OY",
+      "id": "UCvS0HuI3-c9PK0xBbqVrSog",
+      "snippet": {
+        "title": "stuffedcice",
+        "description": "",
+        "customUrl": "@stuffedcice",
+        "publishedAt": "2026-09-12T08:47:45.409996Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iys0d6GuEUN_MT5yiTHHrjopXna0jXdLlz8Ot1ySw6md1P8-lY_f6paMDRAl5jxK1jgRsH9_0sA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iys0d6GuEUN_MT5yiTHHrjopXna0jXdLlz8Ot1ySw6md1P8-lY_f6paMDRAl5jxK1jgRsH9_0sA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iys0d6GuEUN_MT5yiTHHrjopXna0jXdLlz8Ot1ySw6md1P8-lY_f6paMDRAl5jxK1jgRsH9_0sA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "stuffedcice",
+          "description": ""
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUvS0HuI3-c9PK0xBbqVrSog"
+        }
+      },
+      "statistics": {
+        "viewCount": "12675",
+        "subscriberCount": "72",
+        "hiddenSubscriberCount": false,
+        "videoCount": "26"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "SR2poPt9wZ29hUKxV7OreGsIx7k",
+      "id": "UCrCq-3EBqcL7YoU3Zo15Yrg",
+      "snippet": {
+        "title": "Westrn Sun",
+        "description": "The East Sun, where we explore true events, true crime, disturbing mysteries, terrifying stories, dark horror, biopics, and the real stories behind inspiring movies.\n\nFrom shocking real-life cases and unexplained mysteries to terrifying events portrayed on screen, we break down the stories, characters, and events that blur the line between reality and fiction.\n\nCopyright & Content Disclaimer\n\nDISCLAIMER:\nThis channel is created for commentary, education, criticism, analysis, and documentary purposes. We do not claim ownership of third-party footage, photographs, music, or other copyrighted materials that may appear in our videos.\n\nIf you believe any copyrighted has been featured without your permission or contains material you do not wish to be publicly exposed, we sincerely apologize. Please contact us directly at [EMAIL-REDACTED] so we can review the matter and take appropriate action.\n\nWe respect the rights, privacy, and dignity of individuals featured in the stories we cover.\n",
+        "customUrl": "@westrnsun",
+        "publishedAt": "2026-08-09T22:09:32.050427Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/BOCJ06wEF4VYL75oWkwdRy694w_Jn6dWgfDGQvdn6IunsY89kbDdinBqDWds6KS5QWuJ-Jub=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/BOCJ06wEF4VYL75oWkwdRy694w_Jn6dWgfDGQvdn6IunsY89kbDdinBqDWds6KS5QWuJ-Jub=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/BOCJ06wEF4VYL75oWkwdRy694w_Jn6dWgfDGQvdn6IunsY89kbDdinBqDWds6KS5QWuJ-Jub=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Westrn Sun",
+          "description": "The East Sun, where we explore true events, true crime, disturbing mysteries, terrifying stories, dark horror, biopics, and the real stories behind inspiring movies.\n\nFrom shocking real-life cases and unexplained mysteries to terrifying events portrayed on screen, we break down the stories, characters, and events that blur the line between reality and fiction.\n\nCopyright & Content Disclaimer\n\nDISCLAIMER:\nThis channel is created for commentary, education, criticism, analysis, and documentary purposes. We do not claim ownership of third-party footage, photographs, music, or other copyrighted materials that may appear in our videos.\n\nIf you believe any copyrighted has been featured without your permission or contains material you do not wish to be publicly exposed, we sincerely apologize. Please contact us directly at [EMAIL-REDACTED] so we can review the matter and take appropriate action.\n\nWe respect the rights, privacy, and dignity of individuals featured in the stories we cover.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUrCq-3EBqcL7YoU3Zo15Yrg"
+        }
+      },
+      "statistics": {
+        "viewCount": "79625",
+        "subscriberCount": "320",
+        "hiddenSubscriberCount": false,
+        "videoCount": "43"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "wXyUb6PY1dYRoHTkohYvRk1_Vj0",
+      "id": "UCyWG12CuZqJQzZfpsXgXSEQ",
+      "snippet": {
+        "title": "Jamie Oliver TV",
+        "description": "The Jamie Oliver Channel! Full Episodes packed with the finest recipes! \nFull episodes available only in the US include;\nJamie's 15 Minute Meals\nJamie's 30 Minute Meals\nJamie's American Road Trip\nJamie At Home\nPLUS More to be added soon! \n\n",
+        "customUrl": "@jamieolivertv",
+        "publishedAt": "2024-04-24T15:43:49.03292Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/svgl9EG8uBPnHzHYqQeUW7ore9QhdF0bgPbhXhqdJQ3n5-zFUp45TAD4wGT99npU4U5UsRMd=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/svgl9EG8uBPnHzHYqQeUW7ore9QhdF0bgPbhXhqdJQ3n5-zFUp45TAD4wGT99npU4U5UsRMd=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/svgl9EG8uBPnHzHYqQeUW7ore9QhdF0bgPbhXhqdJQ3n5-zFUp45TAD4wGT99npU4U5UsRMd=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Jamie Oliver TV",
+          "description": "The Jamie Oliver Channel! Full Episodes packed with the finest recipes! \nFull episodes available only in the US include;\nJamie's 15 Minute Meals\nJamie's 30 Minute Meals\nJamie's American Road Trip\nJamie At Home\nPLUS More to be added soon! \n\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUyWG12CuZqJQzZfpsXgXSEQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "29679741",
+        "subscriberCount": "229000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "575"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3mlFS2g0OoK04K59ig_3W8UoIK8",
+      "id": "UCxPNHSW2k0gCZWzESn2lp5g",
+      "snippet": {
+        "title": "The Happy Lounge",
+        "description": "The Happy Lounge — YouTube Channel Description\n\nWelcome to The Happy Lounge! 🌸✨\n\nYour happy place for fun, creativity, entertainment, and everyday moments! 💕\n\nOn this channel, you’ll find:\n🍳 Delicious Cooking & Food Videos\n🎥 Fun & Interesting Vlogs\n😂 Funny & Entertaining Videos\n🤖 Creative AI-Generated Videos\n✨ Lifestyle, Ideas & Much More!\n\nEvery video is made to bring a little happiness, fun, and positivity to your day. 🌷\n\nSubscribe to The Happy Lounge and join our happy little family! 💗\n\n✨ The Happy Lounge — A Place for Fun, Creativity & Happiness! ✨\n🌚🦢🤍",
+        "customUrl": "@thehappylounge-c2w",
+        "publishedAt": "2022-09-15T09:48:23.934033Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wY2uncAJKi_ZpY3jSwwYaZAPOABXnNCP69XFUH7PwMnh2wgysgDJnUXlKp0aV3bw4kMxHYwG=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wY2uncAJKi_ZpY3jSwwYaZAPOABXnNCP69XFUH7PwMnh2wgysgDJnUXlKp0aV3bw4kMxHYwG=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wY2uncAJKi_ZpY3jSwwYaZAPOABXnNCP69XFUH7PwMnh2wgysgDJnUXlKp0aV3bw4kMxHYwG=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Happy Lounge",
+          "description": "The Happy Lounge — YouTube Channel Description\n\nWelcome to The Happy Lounge! 🌸✨\n\nYour happy place for fun, creativity, entertainment, and everyday moments! 💕\n\nOn this channel, you’ll find:\n🍳 Delicious Cooking & Food Videos\n🎥 Fun & Interesting Vlogs\n😂 Funny & Entertaining Videos\n🤖 Creative AI-Generated Videos\n✨ Lifestyle, Ideas & Much More!\n\nEvery video is made to bring a little happiness, fun, and positivity to your day. 🌷\n\nSubscribe to The Happy Lounge and join our happy little family! 💗\n\n✨ The Happy Lounge — A Place for Fun, Creativity & Happiness! ✨\n🌚🦢🤍"
+        },
+        "country": "PK"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUxPNHSW2k0gCZWzESn2lp5g"
+        }
+      },
+      "statistics": {
+        "viewCount": "2820795",
+        "subscriberCount": "2330",
+        "hiddenSubscriberCount": false,
+        "videoCount": "776"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ZApx685VqUKvsy3JYUrmn5BRNiM",
+      "id": "UCfW7v90A7fyG7pBG2248v5A",
+      "snippet": {
+        "title": "UltraTech Zone",
+        "description": "Welcome to UltraTech Zone 🚀\n\nYour ultimate destination for the latest technology, smartphone reviews, gadget unboxing, product testing, and exciting tech discoveries!\n\n📱 Smartphone Reviews & Comparisons\n🔥 Trending Tech Gadgets\n🎬 Unboxing & Product Testing\n⚡ Latest Technology & Innovations\n💻 Smart Devices & Tech Tips\n\nOur mission is to bring you engaging, informative, and entertaining tech content to help you explore the world of technology.\n\nSubscribe to UltraTech Zone and join our growing tech community!\n\n🔔 Turn on notifications so you never miss a new video.\n\nUltraTech Zone — Explore. Test. Discover.\n\n#UltraTechZone #TechReviews #Gadgets #Smartphones #Technology #TechShorts",
+        "customUrl": "@ultratachzone",
+        "publishedAt": "2026-09-22T16:41:21.424685Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/hsKv-BGEuaJ7l3kDGt7jckE3dDOpCtS_UlbITFwInf3i9X89tkn-U990Y2hy8vvsamZMO0vc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/hsKv-BGEuaJ7l3kDGt7jckE3dDOpCtS_UlbITFwInf3i9X89tkn-U990Y2hy8vvsamZMO0vc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/hsKv-BGEuaJ7l3kDGt7jckE3dDOpCtS_UlbITFwInf3i9X89tkn-U990Y2hy8vvsamZMO0vc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "UltraTech Zone",
+          "description": "Welcome to UltraTech Zone 🚀\n\nYour ultimate destination for the latest technology, smartphone reviews, gadget unboxing, product testing, and exciting tech discoveries!\n\n📱 Smartphone Reviews & Comparisons\n🔥 Trending Tech Gadgets\n🎬 Unboxing & Product Testing\n⚡ Latest Technology & Innovations\n💻 Smart Devices & Tech Tips\n\nOur mission is to bring you engaging, informative, and entertaining tech content to help you explore the world of technology.\n\nSubscribe to UltraTech Zone and join our growing tech community!\n\n🔔 Turn on notifications so you never miss a new video.\n\nUltraTech Zone — Explore. Test. Discover.\n\n#UltraTechZone #TechReviews #Gadgets #Smartphones #Technology #TechShorts"
+        },
+        "country": "BD"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfW7v90A7fyG7pBG2248v5A"
+        }
+      },
+      "statistics": {
+        "viewCount": "4291",
+        "subscriberCount": "14",
+        "hiddenSubscriberCount": false,
+        "videoCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "hExrhhc8QTPOncM_60r2_M-PgkE",
+      "id": "UCBcrqkVgolyYot4IofnYZcA",
+      "snippet": {
+        "title": "ky baca ",
+        "description": "Just a girl and her plus 3 💍💕🪿🌷",
+        "customUrl": "@kybaca",
+        "publishedAt": "2017-06-17T22:45:38Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ZgjGQ1dXUum_hJFSMYmYWei6AoAzmda2a4fEb5ERq3RwyCQUXmxhAqyRutnW6Ika_2AIudQA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ZgjGQ1dXUum_hJFSMYmYWei6AoAzmda2a4fEb5ERq3RwyCQUXmxhAqyRutnW6Ika_2AIudQA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ZgjGQ1dXUum_hJFSMYmYWei6AoAzmda2a4fEb5ERq3RwyCQUXmxhAqyRutnW6Ika_2AIudQA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ky baca ",
+          "description": "Just a girl and her plus 3 💍💕🪿🌷"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUBcrqkVgolyYot4IofnYZcA"
+        }
+      },
+      "statistics": {
+        "viewCount": "358379",
+        "subscriberCount": "402",
+        "hiddenSubscriberCount": false,
+        "videoCount": "227"
+      }
+    }
+  ]
+}

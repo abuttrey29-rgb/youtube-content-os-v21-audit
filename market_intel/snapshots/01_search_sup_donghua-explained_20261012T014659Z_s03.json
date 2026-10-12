@@ -1,0 +1,1110 @@
+{
+  "query": "donghua explained",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wI0v4iaFCkWmzjc4GvDqB_UtFkQ",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 97041,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aE-msbaGrE0hA8u5chQfeOxJVrM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5Ycyvh1pu6U"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:30:21Z",
+          "channelId": "UCeVgVc7AL8QUFdzhTjwAeGg",
+          "title": "सबसे खतरनाक शक्ति का मालिक बना MC 😱🔥 | Hindi Anime Explained",
+          "description": "एक ऐसी दुनिया जहाँ ताकत ही सबसे बड़ा हथियार है! यहाँ MC की शक्ति और ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5Ycyvh1pu6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5Ycyvh1pu6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5Ycyvh1pu6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5Ycyvh1pu6U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5Ycyvh1pu6U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "donghua story explained,",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:30:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r80CWnIlRk0hK0ZDlabstlv_Tx4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "thTfbe4VH3E"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:59:25Z",
+          "channelId": "UCq79FgpfxeK2zmYV-EplBiQ",
+          "title": "SPIRIT REALM WALKER EPISODE-3 SERIES LIKE | FIRST ORDER | DONGHUA EXPLAIN IN HINDI Renegade Immortal",
+          "description": "SPIRIT REALM WALKER EPISODE-3 SERIES LIKE | FIRST ORDER | DONGHUA EXPLAIN IN HINDI Renegade Immortal Is video ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/thTfbe4VH3E/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/thTfbe4VH3E/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/thTfbe4VH3E/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/thTfbe4VH3E/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/thTfbe4VH3E/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr.StarExplainer-YT",
+          "liveBroadcastContent": "upcoming",
+          "publishTime": "2026-10-11T23:59:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YldOs1w8EQH89_WMVlw9ylK_otE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jb3bBEG-Oj8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:30:08Z",
+          "channelId": "UC7lmaDhbKAuEv4f5FfruvlA",
+          "title": "Sovereign Of Three Realm Manhwa Explained In Hindi part 14",
+          "description": "FAIR USE Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jb3bBEG-Oj8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jb3bBEG-Oj8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jb3bBEG-Oj8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jb3bBEG-Oj8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jb3bBEG-Oj8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Manhwa zone",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:30:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8hrs1-_WO1rfVqKnFqCMjkd6cig",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "10rzt4vjDCI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:47:49Z",
+          "channelId": "UC_UDxZaC908YcZXnzSEVGmg",
+          "title": "Dragon 🐉 king dekhiye dhamakedar action video #manhwa #donghua #anime ",
+          "description": "DRAGON KING जैसी दमदार कहानी | Chinese Donghua Explain in Hindi आज की इस वीडियो में ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/10rzt4vjDCI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/10rzt4vjDCI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/10rzt4vjDCI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/10rzt4vjDCI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/10rzt4vjDCI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "𝐀𝐥𝐥 𝐜𝐡𝐨𝐢𝐜𝐞 ⸙",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:47:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pQbGGR559R4HWBc5X6_fqxRcVV4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Asci6TzF3lk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:06:43Z",
+          "channelId": "UCETmCiJiWFblAllhGAwni3Q",
+          "title": "Soul land 2.5 explanation trailer #donghua #soulland #btth",
+          "description": "soul land 2, kyoto explained soul land 2, soul land 2: the peerless tang clan, soul land 2 new episode, kytto explained, soul land, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Asci6TzF3lk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Asci6TzF3lk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Asci6TzF3lk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Asci6TzF3lk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Asci6TzF3lk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ice Queen Anime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:06:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pVAmm1FuSdR8YmfnO4Hoc6WR418",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_XV6K4HyC-U"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:36:53Z",
+          "channelId": "UCT79Vqd__3Xc122-FGU6WAw",
+          "title": "🥵 Renegade Immortal Episode 162 Explained in Hindi 🔥 | Renegade Immortal | ✨ @AnimeAlfaazs #donghua",
+          "description": "Renegade Immortal Episode 162 Explained in Hindi | Renegade Immortal | ✨ @AnimeAlfaazs #donghua ♡ ㅤ ❍ㅤ ⎙ㅤ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_XV6K4HyC-U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_XV6K4HyC-U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_XV6K4HyC-U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_XV6K4HyC-U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_XV6K4HyC-U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Alfaaz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:36:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WA8gSEEfcmLOUZJbAzxH_MqZhWs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lpVK3GP71zM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:30:01Z",
+          "channelId": "UCN8vYBKOwHTntFRN_kDrKcw",
+          "title": "They Mocked My Beast Until He Devour Monster Beast Manhwa Explained In Hindi Chapter 300-320",
+          "description": "They Mocked My Beast Until He Devour Monster Beast Manhwa Explained In Hindi Chapter300-320 #newanime #newmanhua ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpVK3GP71zM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpVK3GP71zM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpVK3GP71zM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lpVK3GP71zM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lpVK3GP71zM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rvo_Novel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:30:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Pva0FhAOnNFMLC8fQGBijIFOgeg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OJ0-bbFogxQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:06:07Z",
+          "channelId": "UC1yGQPVPhalnQO91TB7sP0g",
+          "title": "Renegade Immortal Anime season 3 Episode 133 Explained in Hindi | WangLin Heaven Avoiding Coffin Arc",
+          "description": "Renegade Immortal Anime season 3 Episode 132 Explained in Hindi | Renegade Immortal watch every Sunday renegade ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OJ0-bbFogxQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OJ0-bbFogxQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OJ0-bbFogxQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OJ0-bbFogxQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OJ0-bbFogxQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rehman Explainer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:06:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4ZB_vj7Fu4EO8mqZhuGwi3j5Kw8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6R5u6J9bZNQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T13:09:39Z",
+          "channelId": "UChvS82vaIauhTwvXUDcTeVg",
+          "title": "✨Martial Universe Season 7 New Episode Explained In Hindi | Donghua Anime ",
+          "description": "Martial Universe Season 7 New Episode Explained In Hindi | Donghua Anime ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6R5u6J9bZNQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6R5u6J9bZNQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6R5u6J9bZNQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6R5u6J9bZNQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6R5u6J9bZNQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "𝔻𝕠𝕟𝕘𝕙𝕦𝕒 𝔸𝕟𝕚𝕞𝕖 𝕍𝕚𝕕𝕖𝕠",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T13:09:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9Kd7WJK7RNnsripxwi5J63yctUk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_Vyiapb_pmw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T13:00:08Z",
+          "channelId": "UCcXIKVPe0MSIOH2AqiwQmVA",
+          "title": "Perfect World Episode 113 Explained in Bangla | Perfect World Donghua বাংলা",
+          "description": "Perfect World Episode 113 Explained in Bangla | Perfect World Donghua Bangla ⚠️ Disclaimer: This video is created for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Vyiapb_pmw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Vyiapb_pmw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Vyiapb_pmw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_Vyiapb_pmw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_Vyiapb_pmw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hale Eaysin Explain",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T13:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YCzQnTRMyrDkdfhsWm8RD_3cmQI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "X5mxTj_Ex3M"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T12:16:24Z",
+          "channelId": "UCETmCiJiWFblAllhGAwni3Q",
+          "title": "Renegade immortal upcaming episode Explain #donghua",
+          "description": "renegade immortal Wang Lin #donghua​ #shortvideo​ renegade immortal explain renegade immortal new preview explain ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X5mxTj_Ex3M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X5mxTj_Ex3M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X5mxTj_Ex3M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/X5mxTj_Ex3M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/X5mxTj_Ex3M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ice Queen Anime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T12:16:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-AZ0pMWDVzCpW0UKqw7Znki2O0U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V7lbviD6zd8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:30:05Z",
+          "channelId": "UCStahBa8Jq7zG6Lle5xXK0g",
+          "title": "The Great Ruler Anime Season 2 Part 40 Explained in Hindi |BTTH, Martial Universe,Dragon Prince Yuan",
+          "description": "The Great Ruler Anime Season 2 Part 40 Explained in Hindi |BTTH, Martial Universe,Dragon Prince Yuan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V7lbviD6zd8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V7lbviD6zd8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V7lbviD6zd8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V7lbviD6zd8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "ExplainerYT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:30:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hvAZ8T5xKmWsMTbM_qCJlPZS9cY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yWoy_5dXno0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T08:28:27Z",
+          "channelId": "UCHwqAcL08jYdPnQJfo1tlfg",
+          "title": "The Song of Qin Explained in Hindi 🔥 | Powerful Warrior&#39;s Story | Donghua Anime Recap #anime ",
+          "description": "The Song of Qin Explained in Hindi | Anime Bond Explained Hindi Ek powerful warrior, khatarnak dushman aur action se bhari ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yWoy_5dXno0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yWoy_5dXno0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yWoy_5dXno0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yWoy_5dXno0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yWoy_5dXno0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Bond Explained Hindi ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T08:28:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8beJU1HhSGslV780v101-8N62YA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9aJJ2Ni0vGA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T06:30:06Z",
+          "channelId": "UCFv4_rY8dftCVUo17Zkz0ow",
+          "title": "Spirit Master 🐉 | The Young Cultivator’s Incredible Journey Begins! | Chinese Donghua Explained ",
+          "description": "Enter an incredible world of Chinese fantasy animation with Spirit Master! ⚔️   Follow a young cultivator on an extraordinary ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9aJJ2Ni0vGA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9aJJ2Ni0vGA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9aJJ2Ni0vGA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9aJJ2Ni0vGA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9aJJ2Ni0vGA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PRIME ANIME TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T06:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DGq7IDCFbFCXNWnvwmeEQIGvRvU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "X7U2wUnR1gA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T05:54:43Z",
+          "channelId": "UCnujw-Zjo5viOLij14Se1hA",
+          "title": "Tales Of Herding Gods Anime Part 104 Explained in Hindi || Anime Explained in Hindi",
+          "description": "Tales Of Herding Gods Anime Part 104 Explained in Hindi || Anime Explained in Hindi Copyright Disclaimer : Copyright ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X7U2wUnR1gA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X7U2wUnR1gA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X7U2wUnR1gA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/X7U2wUnR1gA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/X7U2wUnR1gA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mifra Explains",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T05:54:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "emiDeE-lb6nj7Bf3zvYMopD6Je8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uGfv33Eqjhw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T03:30:26Z",
+          "channelId": "UC0dnTPv1YkdtYT9vck7Svbw",
+          "title": "Doulou मे पुनर्जन्म लेते ही मैने Shadow Monarch सोल जगाकर Evil God का वारिस बन गया- Explain in hindi",
+          "description": "Doulou में पुनर्जन्म लेते ही मैंने Shadow Monarch सोल जगाकर Evil God का वारिस बन ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uGfv33Eqjhw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uGfv33Eqjhw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uGfv33Eqjhw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uGfv33Eqjhw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uGfv33Eqjhw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Socks Gamer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T03:30:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2_5AST2lKaj4kPh0yUdkF8gksdA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fVL72twvfKg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T03:30:31Z",
+          "channelId": "UCwzF2hUHouTtck7jBHFAO2w",
+          "title": "Boy And Her Family manhwa explained in hindi Part-02 @AnimeX-xx",
+          "description": "boy And Her Family manhwa explained in hindi Part manhwa recap Part-02 @animex-xx #manhwa #manga #new manhwa ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fVL72twvfKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fVL72twvfKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fVL72twvfKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fVL72twvfKg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fVL72twvfKg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Explainer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T03:30:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LubpsNEDkZU15vq7pZpRaG8n9F8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vyhsgWaLRVE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T02:30:10Z",
+          "channelId": "UCsN4EG_kAunrWjgxnZE-8zg",
+          "title": "🔥 Dhokhe Ki Saza! ख्यान शुंजी Ka Badla Aur बिबिडोंग Ka Patan | Soul Land Explained | Anime/Manhwa ",
+          "description": "Dhokhe Ki Saza! ख्यान शुंजी Ka Badla Aur बिबिडोंग Ka Patan | Soul Land Explained | Anime/Manhwa Kya ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vyhsgWaLRVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vyhsgWaLRVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vyhsgWaLRVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vyhsgWaLRVE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vyhsgWaLRVE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SYSTEM BK",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T02:30:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3aB60c268FVaFGDS04NxhzYSE2M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MIlCFgdbPCk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T16:30:24Z",
+          "channelId": "UCamcS7lNZqp-rWRDRifdOuQ",
+          "title": "A Boy With Mysterious Powers Begins His Legendary Journey 🔥 | Donghua Episode 1 in Hindi Dubbed",
+          "description": "Welcome to an Amazing Donghua Adventure! Get ready to explore an incredible world of powerful warriors, mysterious abilities ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MIlCFgdbPCk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MIlCFgdbPCk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MIlCFgdbPCk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MIlCFgdbPCk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MIlCFgdbPCk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Decent Animation India",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T16:30:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mI0_RayZ6PEghAgR2vXmx4072cw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t1YP7-6bFCo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T14:24:15Z",
+          "channelId": "UCjtW8H78y9t719RtyPokxyw",
+          "title": "Main Female Lead In SPIRITUAL REALM WALKER #donghua",
+          "description": "Contact: [EMAIL-REDACTED] Join this channel to get access to perks: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t1YP7-6bFCo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t1YP7-6bFCo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t1YP7-6bFCo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t1YP7-6bFCo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t1YP7-6bFCo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime to Novels",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T14:24:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "N5kR5j3QcuArWuK9uahedpufB14",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DV-phnHOWGM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T12:45:33Z",
+          "channelId": "UCfjWji6IiXm9EFTRUKxA8Iw",
+          "title": "Jade Dynasty Season 4 Episode 10 Explained in Bangla | JM Bangla Explainer",
+          "description": "Jade Dynasty Season 4 Episode 10 Explained in Bangla | JM Bangla Explainer Copyright Disclaimer : This video is created for ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DV-phnHOWGM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DV-phnHOWGM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DV-phnHOWGM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DV-phnHOWGM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DV-phnHOWGM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JM Explainer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T12:45:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_G47YiLQu-JYcW_v4iqdTqQgbQU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4rpl23Y4J6k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T12:31:02Z",
+          "channelId": "UCRMB999bxksnwuESLgSUsLw",
+          "title": "Who Are the ONLY 2 People Wang Lin Ever Kneels To? | Renegade Immortal",
+          "description": "Who Are the ONLY 2 People Wang Lin Ever Kneels To? | Renegade Immortal In this video, we explain the ONLY 2 people Wang ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/4rpl23Y4J6k/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Fated One",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T12:31:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-8kTrTg_rusa9rD-BzhFsmbRGOw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lChEEa7zwpg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T12:03:24Z",
+          "channelId": "UC5bYYT5GGj8TgY4r2_BR7bw",
+          "title": "His Power Multiplies Everything 100x in a Monster Apocalypse! | Donghua Explained",
+          "description": "He wakes up trapped inside a cable car suspended 100 meters above the ground, with two beautiful twin sisters beside him.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lChEEa7zwpg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lChEEa7zwpg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lChEEa7zwpg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lChEEa7zwpg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lChEEa7zwpg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Explain QC",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T12:03:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UO2Z3kyEC7QdwyKQ4qk5k78AY7M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vkrRi8qzhFs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T11:45:29Z",
+          "channelId": "UCStahBa8Jq7zG6Lle5xXK0g",
+          "title": "The Great Ruler Anime Season 2 Part 39 Explained in Hindi |BTTH, Martial Universe,Dragon Prince Yuan",
+          "description": "The Great Ruler Anime Season 2 Part 39 Explained in Hindi |BTTH, Martial Universe,Dragon Prince Yuan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vkrRi8qzhFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vkrRi8qzhFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vkrRi8qzhFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vkrRi8qzhFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "ExplainerYT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T11:45:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Lt0k3tTuRX5JQx0z8cPRUgsZgAs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zurhBC2pJ_8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-07T10:53:11Z",
+          "channelId": "UC1yGQPVPhalnQO91TB7sP0g",
+          "title": "Swallowed Start Anime Part 426 Explained in Hindi | Swallowed Start Donghua Hindi/Urdu Reviews 🥀",
+          "description": "Swallowed Start Anime Part 426 Explained in Hindi | Swallowed Start Donghua Hindi/Urdu Reviews Copyright Disclaimer ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zurhBC2pJ_8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zurhBC2pJ_8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zurhBC2pJ_8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zurhBC2pJ_8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zurhBC2pJ_8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rehman Explainer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-07T10:53:11Z"
+        }
+      }
+    ]
+  }
+}

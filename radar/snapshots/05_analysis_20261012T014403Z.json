@@ -1,0 +1,244 @@
+{
+  "generated_at_utc": "2026-10-12T01:44:03.483104+00:00",
+  "analysis_date": "2026-10-12",
+  "published_after_cutoff": "2026-09-12T00:00:00Z",
+  "channels_screened": 179,
+  "channels_created_0_30d": 33,
+  "quota_usage": {
+    "search_list": 8,
+    "channels_list": 4,
+    "playlistItems_list": 8,
+    "videos_list": 8,
+    "units": 820
+  },
+  "token_integrity_before": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "token_integrity_after": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "results": [
+    {
+      "channel_id": "UCErQaD-Mkc5Eg29NlB6USNQ",
+      "title": "gatsbygalaxykitty",
+      "created_at": "2026-09-29T21:07:47.750277Z",
+      "age_days": 12,
+      "subs": 121,
+      "subs_per_day": 10.1,
+      "subs_hidden": false,
+      "views_total": 28447,
+      "video_count": 22,
+      "country": "US",
+      "uploads_playlist_id": "UUErQaD-Mkc5Eg29NlB6USNQ",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUErQaD-Mkc5Eg29NlB6USNQ"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 2026.0,
+      "breakout": {
+        "video_id": "54m3L2MxrCs",
+        "title": "Send this to someone you'd absolutely bite if you were a cat",
+        "views": 9252,
+        "published_at": "2026-10-09T19:00:51Z"
+      }
+    },
+    {
+      "channel_id": "UCABTmppCsgdJd5UFYm6ioYg",
+      "title": "Crime Lore",
+      "created_at": "2026-09-19T17:54:05.750534Z",
+      "age_days": 22,
+      "subs": 67,
+      "subs_per_day": 3.0,
+      "subs_hidden": false,
+      "views_total": 6571,
+      "video_count": 21,
+      "country": null,
+      "uploads_playlist_id": "UUABTmppCsgdJd5UFYm6ioYg",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUABTmppCsgdJd5UFYm6ioYg"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 345.7,
+      "breakout": {
+        "video_id": "103pDnpsT14",
+        "title": "Jack the Ripper: The Killer Who Was Never Caught | Victims, Evidence & Suspects (Part 1)| True Crime",
+        "views": 1983,
+        "published_at": "2026-10-01T20:47:27Z"
+      }
+    },
+    {
+      "channel_id": "UCq05p1hrReWcl9oXb-7KOmw",
+      "title": "Cronicas de Tinta y Libertad",
+      "created_at": "2026-10-06T18:55:39.562769Z",
+      "age_days": 5,
+      "subs": 15,
+      "subs_per_day": 3.0,
+      "subs_hidden": false,
+      "views_total": 150,
+      "video_count": 2,
+      "country": "VE",
+      "uploads_playlist_id": "UUq05p1hrReWcl9oXb-7KOmw",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUq05p1hrReWcl9oXb-7KOmw"
+        }
+      },
+      "videos_sampled": 2,
+      "avg_views_per_video": 690.0,
+      "breakout": {
+        "video_id": "RkJxCR9p_vU",
+        "title": "El Picasso de Hace 36.000 años #documentary #history #spain",
+        "views": 1174,
+        "published_at": "2026-10-11T19:21:27Z"
+      }
+    },
+    {
+      "channel_id": "UCFy6QIVt1kuQD2kEW2tsLQw",
+      "title": "theworldhistory",
+      "created_at": "2026-10-10T20:16:05.904216Z",
+      "age_days": 1,
+      "subs": 3,
+      "subs_per_day": 3.0,
+      "subs_hidden": false,
+      "views_total": 0,
+      "video_count": 2,
+      "country": null,
+      "uploads_playlist_id": "UUFy6QIVt1kuQD2kEW2tsLQw",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUFy6QIVt1kuQD2kEW2tsLQw"
+        }
+      },
+      "videos_sampled": 2,
+      "avg_views_per_video": 129.5,
+      "breakout": {
+        "video_id": "MeQYlB_N4jU",
+        "title": "England Chapter One",
+        "views": 225,
+        "published_at": "2026-10-10T22:48:17Z"
+      }
+    },
+    {
+      "channel_id": "UCTsP5yOat1VjWZN_V6dY49A",
+      "title": "BOLO W",
+      "created_at": "2026-09-25T11:06:13.392341Z",
+      "age_days": 16,
+      "subs": 44,
+      "subs_per_day": 2.8,
+      "subs_hidden": false,
+      "views_total": 23793,
+      "video_count": 71,
+      "country": "US",
+      "uploads_playlist_id": "UUTsP5yOat1VjWZN_V6dY49A",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUTsP5yOat1VjWZN_V6dY49A"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 136.4,
+      "breakout": {
+        "video_id": "KY0qKobAbag",
+        "title": "#history #historydocumentary #militaryhistory #ww2 #wwii #wwiihistory #worldhistory #worldwar2",
+        "views": 425,
+        "published_at": "2026-10-08T12:12:28Z"
+      }
+    },
+    {
+      "channel_id": "UCvS0HuI3-c9PK0xBbqVrSog",
+      "title": "stuffedcice",
+      "created_at": "2026-09-12T08:47:45.409996Z",
+      "age_days": 29,
+      "subs": 72,
+      "subs_per_day": 2.5,
+      "subs_hidden": false,
+      "views_total": 12675,
+      "video_count": 26,
+      "country": "GB",
+      "uploads_playlist_id": "UUvS0HuI3-c9PK0xBbqVrSog",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUvS0HuI3-c9PK0xBbqVrSog"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 421.8,
+      "breakout": {
+        "video_id": "6HR1efuMNNk",
+        "title": "Surf and turf meal 🦞🥩#Recipe #cooking #yummy #explore",
+        "views": 1465,
+        "published_at": "2026-09-27T12:42:37Z"
+      }
+    },
+    {
+      "channel_id": "UCp3btVAXQQ1aFPBcJEjn25Q",
+      "title": "Badge and Bloodshed",
+      "created_at": "2026-09-19T13:35:55.40357Z",
+      "age_days": 22,
+      "subs": 46,
+      "subs_per_day": 2.1,
+      "subs_hidden": false,
+      "views_total": 7610,
+      "video_count": 16,
+      "country": "US",
+      "uploads_playlist_id": "UUp3btVAXQQ1aFPBcJEjn25Q",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUp3btVAXQQ1aFPBcJEjn25Q"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 504.1,
+      "breakout": {
+        "video_id": "0Jwmzq0kylA",
+        "title": "The Terrifying Truth Behind the Clown  #truecrimedocumentary #crimedocumentary #7july2005",
+        "views": 1257,
+        "published_at": "2026-10-08T04:30:16Z"
+      }
+    },
+    {
+      "channel_id": "UCyNh1mOCVsQ90_oTffjfsLg",
+      "title": "Dark Chapters",
+      "created_at": "2026-09-26T02:22:47.617518Z",
+      "age_days": 15,
+      "subs": 27,
+      "subs_per_day": 1.8,
+      "subs_hidden": false,
+      "views_total": 5103,
+      "video_count": 16,
+      "country": null,
+      "uploads_playlist_id": "UUyNh1mOCVsQ90_oTffjfsLg",
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUyNh1mOCVsQ90_oTffjfsLg"
+        }
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 489.3,
+      "breakout": {
+        "video_id": "o-q7DX-zxkg",
+        "title": "They Were Given 12 Days to Live | Churchill's Secret Army #history #documentary",
+        "views": 1843,
+        "published_at": "2026-10-08T16:56:58Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "query": "character analysis",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "r21uJcx5nv-PpeI4RGhZgRAZzJQ",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_Qa2KGeAPmPGm8uUM55AOlnKcyA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ibUzQ4l7yFM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:19:03Z",
+          "channelId": "UCREGOwRt8-UJKBMZWpeq6aQ",
+          "title": "Why Judy Chose the Basement",
+          "description": "Judy could have used her braindance talent for corporate luxury. Her basement workshop tells a different story about ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ibUzQ4l7yFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ibUzQ4l7yFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ibUzQ4l7yFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ibUzQ4l7yFM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ibUzQ4l7yFM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lore Sirens",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:19:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2A62k_ij5A4H90wg7dZAIks6Ym0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VaSfj76psqY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:39Z",
+          "channelId": "UCJrcz1UTy_ihePV-ibpxQ9A",
+          "title": "РАПУНЦЕЛЬ: ОБЩИЙ ИТОГ #мбти #mbti #эннеаграмма #рапунцель #типология #типличности",
+          "description": "Кто Рапунцель по MBTI и ЭННЕАГРАММЕ? Это небольшой отрывок разбора её типа. Если хотите глянуть, как мы ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VaSfj76psqY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VaSfj76psqY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VaSfj76psqY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VaSfj76psqY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VaSfj76psqY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "yolora",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7ZGUP1oMBcmCrf5Cx5aYt2hrrKk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4v4pmaM6uvw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:40:18Z",
+          "channelId": "UC_VJ_gel3_XkxJ6ZVYB8xmA",
+          "title": "Carrie White is a True Morally Grey Character #Carrie #PrimeVideo #Horror #CharacterAnalysis",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4v4pmaM6uvw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4v4pmaM6uvw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4v4pmaM6uvw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4v4pmaM6uvw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4v4pmaM6uvw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Stoney Tha Great",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:40:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aR8XtlMWIZVns57Qp9Lw26JxGhc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zQ9bioWkjuo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:00:21Z",
+          "channelId": "UCadecrmMLd5KqNL3f0jDKSQ",
+          "title": "TOPH BEIFONG: Tus CARENCIAS te mostrarán tus FORTALEZAS | Análisis y reflexión",
+          "description": "Obtén 14 días GRATUITOS de Storytel: https://www.filify.co/SHd23 ¿Y si aquello que siempre has considerado una debilidad ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/zQ9bioWkjuo/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Alvan Grey",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NsXuiYDitC-Tz2HHogoD3Cd-hKs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yKp-prZxtWY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:58:15Z",
+          "channelId": "UCNC9S3vpAzlnEZ-rIwjK49w",
+          "title": "Resident Evil 6  Character Analysis: Helena Harper&#39;s Hidden Tragedy",
+          "description": "Why does the camera suddenly stop caring about Leon S. Kennedy? In this Resident Evil 6 Character Analysis, we break down a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yKp-prZxtWY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yKp-prZxtWY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yKp-prZxtWY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yKp-prZxtWY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yKp-prZxtWY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JC Virtual Cinematography",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:58:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7MGhRMEDdV-hGm14t6DMHc9nYB4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "z3hPlasrRgQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:40:14Z",
+          "channelId": "UCle9mMKY_d1Cc1CVBp-CzTg",
+          "title": "Happy Mask Salesman Character Analysis Part 12 #zelda #majorasmask #zeldalore",
+          "description": "The Happy Mask Salesman is one of the most mysterious characters in all of Zelda but what if there's something far darker hiding ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/z3hPlasrRgQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/z3hPlasrRgQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/z3hPlasrRgQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/z3hPlasrRgQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/z3hPlasrRgQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "A Dan in Time",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:40:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vE60KhC9rY3QnKbohmN1yd7dOXo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EHyXJZO5v-g"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:04:52Z",
+          "channelId": "UCadDdYDP9B_L4si8DgPmWiQ",
+          "title": "Character Analysis of the Fox  - Jack Chase",
+          "description": "Character analysis of the fox from The Earth god And The Fox By Kenji Miyazawa Sources: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EHyXJZO5v-g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EHyXJZO5v-g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EHyXJZO5v-g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EHyXJZO5v-g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EHyXJZO5v-g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jack Chase School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:04:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lYk225ROJxErM4w-p5x-ASzNd4M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a7q-zuatS88"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:56:28Z",
+          "channelId": "UCHzokd1kaNObrOWD5olYshQ",
+          "title": "Why we all need to be more like Faramir #LOTR #CharacterAnalysis #LifeLessons",
+          "description": "Beyond victory and suffering, a different lesson emerges. Discover the quiet goodness of a hero who learned to do what is right, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a7q-zuatS88/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a7q-zuatS88/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a7q-zuatS88/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a7q-zuatS88/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a7q-zuatS88/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Grey Havens Hour",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:56:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uORZKJ_vIUMDvQEkYgoOwReBjjw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D-kU2BtU4dc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:00:00Z",
+          "channelId": "UCb7tNNJQ8yNq43t8M-7069Q",
+          "title": "Harry Is The Most Dangerous Man In MobLand… And Frankie Just Pushed Him Too Far",
+          "description": "Harry Is The Most Dangerous Man In MobLand… And Frankie Just Pushed Him Too Far Harry Da Souza doesn't yell, doesn't ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D-kU2BtU4dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D-kU2BtU4dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D-kU2BtU4dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/D-kU2BtU4dc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/D-kU2BtU4dc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Scene Scryer ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2wiKac6CBREhhNV01SAmstzcp1o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mUAVKhfT7wI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:00:27Z",
+          "channelId": "UCwblxkiRaiMabZQHATIJSgA",
+          "title": "Why you should feel bad for Loki and Nebula #mcu #marvel #shorts",
+          "description": "Loki and Nebula both grew up in the shadow of their favored siblings. We compare their shared trauma and fight for validation.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mUAVKhfT7wI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mUAVKhfT7wI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mUAVKhfT7wI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mUAVKhfT7wI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mUAVKhfT7wI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MovieScenes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:00:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w_QJifSQrrrSBSd5fAkzwFPb804",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "C71523OCu3E"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:53:36Z",
+          "channelId": "UCg8po1cGoz_Wei6bSSicjVA",
+          "title": "Character analysis for East of Eden on Netflix 🍿#whattowatch #moviereview #eastofeden #ednafrancis",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C71523OCu3E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C71523OCu3E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C71523OCu3E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C71523OCu3E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C71523OCu3E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Edna Francis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:53:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wcmHtq5-EKgfQajhF--sa4JbnEE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ogbiFFWEFSE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:02:16Z",
+          "channelId": "UCa-1bQiBygV3pOhKb1xroGQ",
+          "title": "Rion Akao from Sakamoto Days!🤘🩵 #sakamotodays #anime #edit",
+          "description": "Rion Akao is one of the most important characters in Sakamoto Days, and her story is much deeper than it first appears. She was ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ogbiFFWEFSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ogbiFFWEFSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ogbiFFWEFSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ogbiFFWEFSE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ogbiFFWEFSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Greenyyy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:02:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4AehcAxYIsBfTuLSbo6gmpJKIuk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LQ7heSYQ5NA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:00:38Z",
+          "channelId": "UC3_p-qXzGNG_A-CKkO66JnA",
+          "title": "Simon Character Analysis - Lord of the Flies Revision",
+          "description": "(Lord Of The Flies: Simon Character Analysis) Simon is often referred to as a 'Christ-like' character, but what does that mean ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LQ7heSYQ5NA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LQ7heSYQ5NA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LQ7heSYQ5NA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LQ7heSYQ5NA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LQ7heSYQ5NA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Easy as GCSE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:00:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FkvelHPpIEkFSvtHjsdOEvLaURk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PH-VrMjS3Kw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T13:36:18Z",
+          "channelId": "UCVvDeroF0L0jDx4bRPkvT5A",
+          "title": "Summary | Oedipus Rex | Sophocles | English Literature for all Exams",
+          "description": "Englishner #OedipusRex #Sophocles #GreekTragedy Study Oedipus Rex by Sophocles in this English Literature class covering ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PH-VrMjS3Kw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PH-VrMjS3Kw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PH-VrMjS3Kw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PH-VrMjS3Kw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PH-VrMjS3Kw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Englishner",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T13:36:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oS0Jd7rYw3pyzD1oHkm9MtdNccw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3hRIj-q6mLI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:30:02Z",
+          "channelId": "UCMq729QnA9md96uSGXdjR5Q",
+          "title": "3 Anime Characters Who Died but Fans Expected a Comeback🔥I #anime #manga #gojo",
+          "description": "Did You Know These 3 Anime Characters Died, But Fans Still Expected Them to Come Back? Some anime deaths are so ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3hRIj-q6mLI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3hRIj-q6mLI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3hRIj-q6mLI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3hRIj-q6mLI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3hRIj-q6mLI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ITACHI_EDITZ_1M",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:30:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XdpGIlFKb8USOEtMQlSrlw2LiIg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cKIPAP0ffmE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:00:17Z",
+          "channelId": "UCWm-J0iOr_gcWYypH1D2hCg",
+          "title": "Dar-e-Nijaat: Abubakar Se Mohabbat, Zamil Se Chirr Kyun? | Character Analysis",
+          "description": "Dar-e-Nijaat mein Abubakar se itna lagao aur Zamil se itni chirr kyun hoti hai? Kya wajah sirf unke faislay hain, ya actors ki ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cKIPAP0ffmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cKIPAP0ffmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cKIPAP0ffmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cKIPAP0ffmE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cKIPAP0ffmE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Qissa Meri Awaz ka",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x1HEASbUoHXV-15kUnc3UnpLP8s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sM_uvppbVko"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:00:37Z",
+          "channelId": "UCgFL1Mu_OlH50qCsL9UlZzA",
+          "title": "Day 8/100: Random Review From Moctale&#39;s Top 100 🎬 #shorts   #thriller",
+          "description": "Day 8/100 Random pick from the Moctale Top 100 100 days. 100 random movies. Follow the journey! #shorts #oldboy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sM_uvppbVko/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sM_uvppbVko/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sM_uvppbVko/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sM_uvppbVko/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sM_uvppbVko/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VerseOver",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LdRw0S67Uafhc0CFpPmImhn2IkA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kybePxFOXjY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T09:42:12Z",
+          "channelId": "UCIZR0sdOsRhiDZt7gLyYSFw",
+          "title": "Why Shingen Yamazaki is the true🤌🏻 devil#ShingenYamazaki #AnimeVillains #CharacterAnalysis#DarkAnime",
+          "description": "Understanding why Shingen Yamazaki remains the most complex antagonist in modern anime history. Most fans overlook his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kybePxFOXjY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kybePxFOXjY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kybePxFOXjY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kybePxFOXjY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kybePxFOXjY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UI_Eclipse....",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T09:42:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "11_1APpi37FPYXmql3nJFuC9JO8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NO6F0nW3wpY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T08:31:37Z",
+          "channelId": "UCRV87vsf6mh-hS37m-BNQBw",
+          "title": "💗 Twenty-Five Twenty-One | Story Recap &amp; Character Analysis 🎬",
+          "description": "Hi everyone! Welcome back to We Have no Plan! ✨ In today's video, we're talking about one of our favorite K-dramas, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "We have no plan",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T08:31:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aAkFz6AeUffFEhbEhANFzDqiY0g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Nqbq9mnwuQs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T08:00:06Z",
+          "channelId": "UCMBgzvl5mQDweL3lvrwlbpQ",
+          "title": "柯南人氣最高的女性角色，灰原哀其實是只渴望愛的鯊魚 #灰原哀，人物解析，柯南，爱情观，角色分析",
+          "description": "柯南人氣最高的女性角色，灰原哀其實是只渴望愛的鯊魚灰原哀人物志表面冷漠灰原哀，内心其实是只渴望爱的鲨鱼The most ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nqbq9mnwuQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nqbq9mnwuQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nqbq9mnwuQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nqbq9mnwuQs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nqbq9mnwuQs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "橘子衛",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T08:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DY-Y3XyZXyP_V-oGCNw4oy06bDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1cSgA-wkSSY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T07:40:08Z",
+          "channelId": "UChu04kH-eOqoKsXD3VC62BA",
+          "title": "Doctor Doom’s REAL Face Secret Revealed? 😱 #AvengersDoomsday #Marvel",
+          "description": "Doctor Doom's REAL Face Secret Revealed? #AvengersDoomsday #Marvel What if Doctor Doom's damaged face in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1cSgA-wkSSY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1cSgA-wkSSY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1cSgA-wkSSY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1cSgA-wkSSY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1cSgA-wkSSY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nerdy Khabar",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T07:40:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CtkaLheH5DnIENNyvwdbYeLH3lo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Pp1hVpZf7No"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T07:00:33Z",
+          "channelId": "UCtV5PxLQoDkpzBphJW8uQsg",
+          "title": "🧠 Marvel Evrenindeki En Zeki 5 Karakter! #marvel #shorts",
+          "description": "Marvel en zeki karakterler hangileri? Shuri, Thanos ve Iron Man gibi isimlerin zekasını ve yeteneklerini burada sıralıyoruz. Marvel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Pp1hVpZf7No/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Pp1hVpZf7No/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Pp1hVpZf7No/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Pp1hVpZf7No/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Pp1hVpZf7No/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "INFORMATION FOR YOU",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T07:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aWQhIYoxn_KsKLC6h5GCM6EZQ_4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JLdGQR6sZY0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T06:59:37Z",
+          "channelId": "UCyT58hK5Fn8JoPX_AHgqTTQ",
+          "title": "Seven Sins, Seven Souls | Umineko no Naku Koro ni Character Analysis",
+          "description": "The Seven Sisters of Purgatory are the personifications of the Seven Deadly Sins in Umineko No Naku Koko Ni. Lucifer, Leviathan ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JLdGQR6sZY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JLdGQR6sZY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JLdGQR6sZY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JLdGQR6sZY0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Eagle Zero One",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T06:59:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EsltGmCYFfY6x0Xb0peTzQq1er0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4mmAT2hntjc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T05:53:55Z",
+          "channelId": "UC6ynzKZXWNv4zqYbkqfYWyw",
+          "title": "Will Bucky Die in Avengers: Doomsday or Secret Wars?",
+          "description": "My prediction for Bucky Barnes, the Winter Soldier, after Thunderbolts and into the next Avengers films. Should Bucky survive the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4mmAT2hntjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4mmAT2hntjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4mmAT2hntjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4mmAT2hntjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4mmAT2hntjc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raul's Verse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T05:53:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zohMj6mEef0Zh3V9wfAaygUxrRA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0efmCyX-jHk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T20:11:35Z",
+          "channelId": "UCvVE0jaKV--IkE6eTx0G6oQ",
+          "title": "Why does Carl look at Cassie with a cold stare at the wedding",
+          "description": "Here is a complete SEO pack for your Long Video Title: *\"Why does Carl look at Cassie with a cold stare at the wedding\"* You can ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0efmCyX-jHk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0efmCyX-jHk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0efmCyX-jHk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0efmCyX-jHk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0efmCyX-jHk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "entropy.enigma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T20:11:35Z"
+        }
+      }
+    ]
+  }
+}

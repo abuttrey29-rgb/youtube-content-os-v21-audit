@@ -1,0 +1,786 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "l9r2oa2CKEsUZllAX58cFboVeyg",
+  "nextPageToken": "EAAaHlBUOkNBOGlFRGxFUXpVM05EVXdNelk1UmtNME16RQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RdZjiXrt70C_gnxSMnEZMUaurF8",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLkFqN1ZqYU5LOUFV",
+      "snippet": {
+        "publishedAt": "2026-10-11T16:45:38Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "A Ship Found Sailing With No One Aboard. Sails Set. #history #documentary",
+        "description": "December 1872: a brigantine found sailing the Atlantic with no crew — sails set, full cargo, log nine days old. She had sailed herself nearly 400 nautical miles. Ten people vanished without a trace. #history #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aj7VjaNK9AU"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "Aj7VjaNK9AU",
+        "videoPublishedAt": "2026-10-11T16:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qo4JF7Q4VJXjwkcckTha0R3b-ns",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLmprd0JyTW1Rc2xN",
+      "snippet": {
+        "publishedAt": "2026-10-11T16:45:34Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Ghost Ship That Sailed Itself | Dark Chapters",
+        "description": "On December 4, 1872, the Dei Gratia found a brigantine sailing the Atlantic with no one aboard. Sails set, cargo of 1,701 barrels of alcohol intact, provisions ample — and the last log entry nine days old. In those nine days, the Mary Celeste had sailed herself nearly 400 nautical miles at under two knots, with no living hand on the wheel. Ten people were aboard: Captain Benjamin Briggs, his wife Sarah, their two-year-old daughter Sophia, and seven crew. None were ever seen again. This is the true story — no invented breakfast on the table — and the science behind the leading theory.\n\nCHAPTERS:\n00:00 The Ship That Sailed Itself\n00:33 Chapter 1: The Family Voyage\n01:20 Chapter 2: The Empty Ship\n02:27 Chapter 3: Nine Days, No Crew\n03:29 Chapter 4: What Happened\n04:19 Chapter 5: The Cursed Ship\n05:00 The Deepest Secret\n\nDark Chapters tells history's darkest true stories — disasters, mysteries and cover-ups they never taught you. New documentary every day.\n\nSpot an error? Let us know in the comments — we correct mistakes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jkwBrMmQslM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jkwBrMmQslM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jkwBrMmQslM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jkwBrMmQslM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jkwBrMmQslM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jkwBrMmQslM"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "jkwBrMmQslM",
+        "videoPublishedAt": "2026-10-11T16:45:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pm0XosALz_7CH-IL7FN5uf4IPvM",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLnZINldwT2xNRTRz",
+      "snippet": {
+        "publishedAt": "2026-10-11T04:47:52Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Volcano That Cancelled Summer Worldwide #history #documentary",
+        "description": "In 1816, it snowed in June. Tambora's ash blocked the sun, crops failed on two continents, and a cholera pandemic killed tens of millions. The worst famine of the 19th century — from one volcano. #history #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/vH6WpOlME4s/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vH6WpOlME4s"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "vH6WpOlME4s",
+        "videoPublishedAt": "2026-10-11T04:47:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xutEyDZAIMTcA-lyiaYIR4edN5E",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLlBick5FelZfTWVF",
+      "snippet": {
+        "publishedAt": "2026-10-10T16:51:05Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Volcano That Erased Two Kingdoms, Then Stole Summer #history #documentary",
+        "description": "In 1815, Mount Tambora erupted with the force of 2.2 million Hiroshima bombs. Two kingdoms vanished overnight — then its ash circled the planet and cancelled the summer of 1816. #history #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PbrNEzV_MeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PbrNEzV_MeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PbrNEzV_MeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PbrNEzV_MeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PbrNEzV_MeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PbrNEzV_MeE"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "PbrNEzV_MeE",
+        "videoPublishedAt": "2026-10-10T16:51:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3DPc_zr4C35kvlcUePDSTYptQOI",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLkZONnM5VGljdGww",
+      "snippet": {
+        "publishedAt": "2026-10-10T16:48:50Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Eruption That Stole a Summer | Dark Chapters",
+        "description": "On April 10, 1815, Mount Tambora erupted in Indonesia — the largest eruption in recorded history. It erased two kingdoms overnight, then its ash veil circled the planet and stole the summer of 1816: snow in June, failed harvests, famine on two continents — and, locked indoors by the endless rain, an 18-year-old Mary Shelley wrote Frankenstein.\n\nCHAPTERS:\n00:00 The Kingdom That Vanished\n00:29 Sumbawa, 1815\n01:57 Chapter 2: The Night the Mountain Fell\n03:36 Chapter 3: The Erased Kingdoms\n05:03 Chapter 4: 1816 — The Year Without a Summer\n07:09 Chapter 5: The Frankenstein Summer\n09:26 The Mountain Remains\n\nDark Chapters tells history's darkest true stories — disasters, mysteries and cover-ups they never taught you. New documentary every day.\n\nSpot an error? Let us know in the comments — we correct mistakes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FN6s9Tictl0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FN6s9Tictl0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FN6s9Tictl0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FN6s9Tictl0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FN6s9Tictl0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FN6s9Tictl0"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "FN6s9Tictl0",
+        "videoPublishedAt": "2026-10-10T16:48:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t_-wLLFAcA8MeJeoJBHTQfa0bDw",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLnR4MkRBX2s1UFcw",
+      "snippet": {
+        "publishedAt": "2026-10-10T04:43:59Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "They Blamed Anarchists. The Truth Was Worse. #history #documentary",
+        "description": "After 21 people died in the 1919 Boston molasses flood, the company claimed anarchists dynamited the tank. The court found the real cause: steel half as thick as required, built by a treasurer with zero engineering training. #history #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/tx2DA_k5PW0/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tx2DA_k5PW0"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "tx2DA_k5PW0",
+        "videoPublishedAt": "2026-10-10T04:43:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6Wk3EUmSjzWeF6yM1UrlFcvlqho",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLjdNSUJZbWxhNEZv",
+      "snippet": {
+        "publishedAt": "2026-10-09T16:53:22Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "A Wave of Molasses Killed 21 People in 1919 #history #documentary",
+        "description": "In 1919, a 50-foot tank burst in Boston and a wave of molasses tore down the street at 35 mph. 21 people died — and it was never an accident. #history #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7MIBYmla4Fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7MIBYmla4Fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7MIBYmla4Fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7MIBYmla4Fo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7MIBYmla4Fo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7MIBYmla4Fo"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "7MIBYmla4Fo",
+        "videoPublishedAt": "2026-10-09T16:53:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nKWjZa77iqouflMLngbB2dGH-8o",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLjJoVF80X2h5VERB",
+      "snippet": {
+        "publishedAt": "2026-10-09T16:51:45Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Molasses Disaster Was No Accident | Dark Chapters",
+        "description": "On January 15, 1919, a fifty-foot tank of molasses burst in Boston's North End — killing 21 people. It was not an accident: the steel was half as thick as it needed to be, the builder skipped the safety tests, and every warning was ignored for years.\n\nCHAPTERS:\n00:00 The Wave That Was No Accident\n00:33 Boston, 1919\n00:58 Chapter 1: Boston, 1919\n02:23 Chapter 2: The Tank\n03:44 Chapter 3: The Wave\n07:18 Chapter 4: The Aftermath\n10:34 Chapter 5: The Memorial\n\nDark Chapters tells history's darkest true stories — disasters, mysteries and cover-ups they never taught you. New documentary every day.\n\nSpot an error? Let us know in the comments — we correct mistakes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2hT_4_hyTDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2hT_4_hyTDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2hT_4_hyTDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2hT_4_hyTDA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2hT_4_hyTDA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2hT_4_hyTDA"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "2hT_4_hyTDA",
+        "videoPublishedAt": "2026-10-09T16:51:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BbsNFDe-T1jPmto0gma0bK3ZeE8",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLmk2SFZzSDRBbmtj",
+      "snippet": {
+        "publishedAt": "2026-10-08T16:57:39Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Secret Army Trained to Die | Dark Chapters",
+        "description": "In the summer of 1940, Winston Churchill built a secret army of 3,500 farmers and gamekeepers, hid them in underground bunkers across Britain — and gave them twelve days to live.\n\nThey were called the Auxiliary Units: Britain's stay-behind guerrilla force, trained in assassination and sabotage, ordered to let the Nazi invasion roll over their heads and then crawl out at night to kill. Their life expectancy was twelve days. If capture seemed likely, they were ordered to kill themselves. The invasion never came — and they kept the secret for decades.\n\nCHAPTERS:\n00:00 The Army That Was Trained to Die\n00:27 Britain's Secret Army\n00:53 Chapter 1: The Darkest Hour\n02:39 Chapter 2: The Recruits\n04:35 Chapter 3: The Underground\n06:58 Chapter 4: The Stand-Down\n08:08 Chapter 5: The Secret\n\nDark Chapters tells history's darkest true stories — disasters, mysteries and cover-ups they never taught you. New documentary every day.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i6HVsH4Ankc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i6HVsH4Ankc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i6HVsH4Ankc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i6HVsH4Ankc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i6HVsH4Ankc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i6HVsH4Ankc"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "i6HVsH4Ankc",
+        "videoPublishedAt": "2026-10-08T16:57:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dedBGnYrXBIA7aMb0YqcwhSHsZE",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLm8tcTdEWC16eGtn",
+      "snippet": {
+        "publishedAt": "2026-10-08T16:56:58Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "They Were Given 12 Days to Live | Churchill's Secret Army #history #documentary",
+        "description": "In 1940, Churchill built a secret army of 3,500 farmers — trained to kill, hidden in underground bunkers, and given 12 days to live. The invasion never came. #history #documentary #ww2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-q7DX-zxkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-q7DX-zxkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-q7DX-zxkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o-q7DX-zxkg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o-q7DX-zxkg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o-q7DX-zxkg"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "o-q7DX-zxkg",
+        "videoPublishedAt": "2026-10-08T16:56:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ALMdIsDZr8YqdsHRwN9_KhIgiXc",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLmY5a1VMSHF1cHVr",
+      "snippet": {
+        "publishedAt": "2026-10-07T17:03:14Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "30 Men Ran Across the Deck. The Ship Failed. They Sailed Anyway. #history #documentary",
+        "description": "Thirty men ran back and forth across the Vasa's deck. After three passes, the admiral stopped the test — she was leaning so far he feared she'd capsize at the dock. They sailed her anyway. The full story is on Dark Chapters. #history #documentary #shipwreck",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9kULHqupuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9kULHqupuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9kULHqupuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9kULHqupuk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f9kULHqupuk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f9kULHqupuk"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "f9kULHqupuk",
+        "videoPublishedAt": "2026-10-07T17:03:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j01sz0_NZYj7nIfeY23qihWq964",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLlNMRlh6OFI5NzlJ",
+      "snippet": {
+        "publishedAt": "2026-10-07T17:02:14Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Warship They Knew Would Sink | Dark Chapters",
+        "description": "On August 10, 1628, Sweden's mighty warship Vasa sailed 1,300 meters from Stockholm — and sank in front of a cheering crowd. Weeks earlier, thirty men had run across her deck in a stability test. She leaned so far the admiral stopped it. The test had worked. They sailed her anyway. This is the true story of the disaster everyone saw coming.\n\n0:00 The Test That Told the Truth\n0:36 Dark Chapters\n0:58 Chapter 1: The King’s Ship\n3:14 Chapter 2: The Test That Failed\n5:36 Chapter 3: Ten August, 1628\n7:22 Chapter 4: Nobody to Punish\n9:24 Chapter 5: Three Hundred Years Later\n\nDark Chapters tells history’s darkest true stories — disasters, cover-ups, and mysteries, carefully researched and told straight.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SLFXz8R979I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SLFXz8R979I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SLFXz8R979I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SLFXz8R979I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SLFXz8R979I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SLFXz8R979I"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "SLFXz8R979I",
+        "videoPublishedAt": "2026-10-07T17:02:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rmBdoyYuZg_TTpBAc3r0vhP4IdE",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLmhtQUdnWXBVUW13",
+      "snippet": {
+        "publishedAt": "2026-10-06T16:52:38Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Nuclear Blast Hidden for 30 Years #shorts",
+        "description": "On September 29, 1957, a Soviet nuclear waste tank exploded with the force of 100 tons of TNT. 270,000 people lived in the fallout path. The world heard nothing for 30 years. Full story on Dark Chapters. #kyshtym #nucleardisaster #darkhistory #shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hmAGgYpUQmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hmAGgYpUQmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hmAGgYpUQmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hmAGgYpUQmw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hmAGgYpUQmw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hmAGgYpUQmw"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "hmAGgYpUQmw",
+        "videoPublishedAt": "2026-10-06T16:52:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QjP6DQhK7a0vaoD3nqu191uTe5M",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLmNLN1pFcEg3ZUZ3",
+      "snippet": {
+        "publishedAt": "2026-10-06T16:50:47Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Nuclear Disaster Hidden for 30 Years | Dark Chapters",
+        "description": "On September 29, 1957, a Soviet nuclear waste tank exploded with the force of 100 tons of TNT — and the world heard nothing about it for 30 years. This is the true story of Kyshtym, the third-worst nuclear disaster in history.\n\n0:00 The Blast They Buried\n0:26 Dark Chapters\n0:55 Chapter 1: The Race for the Bomb\n3:00 Chapter 2: September 29, 1957\n5:38 Chapter 3: The Erased Villages\n8:29 Chapter 4: The Secret Both Sides Kept\n9:48 Chapter 5: The Trace Remains\n\nDark Chapters tells history's darkest true stories — disasters, mysteries and cover-ups they never taught you. New documentary every day.\n\nNote: This video uses AI-generated narration and visuals are public-domain archival photos, licensed images, and AI-generated scenes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cK7ZEpH7eFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cK7ZEpH7eFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cK7ZEpH7eFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cK7ZEpH7eFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cK7ZEpH7eFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cK7ZEpH7eFw"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "cK7ZEpH7eFw",
+        "videoPublishedAt": "2026-10-06T16:50:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uxy7AZ06e_VXPawvtyxdo5ykj94",
+      "id": "VVV5TmgxbU9DVnNROTBfb1RmZmpmc0xnLlN6YUhwejBpNTlV",
+      "snippet": {
+        "publishedAt": "2026-10-05T08:52:30Z",
+        "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+        "title": "The Town That's Been Burning for 60 Years 🔥 | Dark Chapters",
+        "description": "Centralia, Pennsylvania has been burning since 1962 — and the fire never went out. Full documentary on Dark Chapters. #shorts #centralia #darkhistory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SzaHpz0i59U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SzaHpz0i59U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SzaHpz0i59U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SzaHpz0i59U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SzaHpz0i59U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dark Chapters",
+        "playlistId": "UUyNh1mOCVsQ90_oTffjfsLg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SzaHpz0i59U"
+        },
+        "videoOwnerChannelTitle": "Dark Chapters",
+        "videoOwnerChannelId": "UCyNh1mOCVsQ90_oTffjfsLg"
+      },
+      "contentDetails": {
+        "videoId": "SzaHpz0i59U",
+        "videoPublishedAt": "2026-10-05T08:52:30Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 16,
+    "resultsPerPage": 15
+  }
+}

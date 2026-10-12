@@ -1,0 +1,2244 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "ebPd3feVWAeme6JqtUby69Q7jiM",
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "qbwDF8ORMBnCOT_bD7s6hjlJbZk",
+      "id": "UCVdDUN69YsAXPxh2y71sMtQ",
+      "snippet": {
+        "title": "I Finished A Video Game",
+        "description": "Extremely detailed videos about the beautiful bygone world of video games\n",
+        "customUrl": "@ifinishedavideogame",
+        "publishedAt": "2020-08-29T23:47:16.067232Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "I Finished A Video Game",
+          "description": "Extremely detailed videos about the beautiful bygone world of video games\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVdDUN69YsAXPxh2y71sMtQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "40328125",
+        "subscriberCount": "229000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "36"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "HpBA5WEQe5rc_-2POApvz8he9kY",
+      "id": "UC8kJuirBHOG_9cSD-SBC01A",
+      "snippet": {
+        "title": "Case Unraveled",
+        "description": "Welcome to Case Unraveled — where every case has a story waiting to be uncovered.\n\nWe dive deep into true crime, unsolved mysteries, and criminal investigations — from shocking real-life cases to the medical true crime stories hiding in plain sight: the caregivers, doctors, and nurses who betrayed the trust placed in them. Every episode unravels the evidence, the timeline, and the facts, told with careful research and respectful storytelling.\n\nNew cases. Real stories. Every clue matters.\n\nSubscribe and join us as we unravel the truth, one case at a time.\n",
+        "customUrl": "@caseunraveled",
+        "publishedAt": "2026-07-08T19:27:55.200663Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Nw3trP8XElnxjtk1h4Lau-xVCrELgeTR7bjjgiumSjE5k4OEUuH6RusLc4cGlD_-27tUv4i1=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Nw3trP8XElnxjtk1h4Lau-xVCrELgeTR7bjjgiumSjE5k4OEUuH6RusLc4cGlD_-27tUv4i1=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Nw3trP8XElnxjtk1h4Lau-xVCrELgeTR7bjjgiumSjE5k4OEUuH6RusLc4cGlD_-27tUv4i1=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Case Unraveled",
+          "description": "Welcome to Case Unraveled — where every case has a story waiting to be uncovered.\n\nWe dive deep into true crime, unsolved mysteries, and criminal investigations — from shocking real-life cases to the medical true crime stories hiding in plain sight: the caregivers, doctors, and nurses who betrayed the trust placed in them. Every episode unravels the evidence, the timeline, and the facts, told with careful research and respectful storytelling.\n\nNew cases. Real stories. Every clue matters.\n\nSubscribe and join us as we unravel the truth, one case at a time.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU8kJuirBHOG_9cSD-SBC01A"
+        }
+      },
+      "statistics": {
+        "viewCount": "414",
+        "subscriberCount": "3",
+        "hiddenSubscriberCount": false,
+        "videoCount": "35"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "CfUFmddVS-beH0NFVeyyBFZ7wAM",
+      "id": "UCp3btVAXQQ1aFPBcJEjn25Q",
+      "snippet": {
+        "title": "Badge and Bloodshed",
+        "description": "Welcome to Badge and Bloodshed\n\nwhere real crimes, disturbing cases, cults, disasters, and the darkest chapters of history are explored through documentary storytelling. From infamous criminals to shocking events and cases that captured the world’s attention, we uncover the stories behind the headlines.",
+        "customUrl": "@badgeandbloodshed",
+        "publishedAt": "2026-09-19T13:35:55.40357Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/NoZZC6Eka-vH1uYilZ6HBIzGDMKCrQqk_PAUVMPd7VIZuhxVqDWD4B7ZoTCd9pPMX8bZgKhrBg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/NoZZC6Eka-vH1uYilZ6HBIzGDMKCrQqk_PAUVMPd7VIZuhxVqDWD4B7ZoTCd9pPMX8bZgKhrBg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/NoZZC6Eka-vH1uYilZ6HBIzGDMKCrQqk_PAUVMPd7VIZuhxVqDWD4B7ZoTCd9pPMX8bZgKhrBg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Badge and Bloodshed",
+          "description": "Welcome to Badge and Bloodshed\n\nwhere real crimes, disturbing cases, cults, disasters, and the darkest chapters of history are explored through documentary storytelling. From infamous criminals to shocking events and cases that captured the world’s attention, we uncover the stories behind the headlines."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUp3btVAXQQ1aFPBcJEjn25Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "7610",
+        "subscriberCount": "46",
+        "hiddenSubscriberCount": false,
+        "videoCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "kgd1vkLGpurr9dPitPUW9ZbVKAA",
+      "id": "UC8rLcwA54BVLI66wGuyA6nw",
+      "snippet": {
+        "title": "Samuraibar",
+        "description": "Just a nerd, whose hobby happens to be making reviews and video essays. I cover many topics, like television, film, anime, and video games. Hope you enjoy!",
+        "customUrl": "@samuraibarvidessays",
+        "publishedAt": "2016-02-24T20:59:32Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/xY4p6VBH2yuDNimI4Ei7wg82-FidgqOm5tZWxjH7l-U4MOqbnhIoedYaPbzmnCSaqJk1qohLPDM=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/xY4p6VBH2yuDNimI4Ei7wg82-FidgqOm5tZWxjH7l-U4MOqbnhIoedYaPbzmnCSaqJk1qohLPDM=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/xY4p6VBH2yuDNimI4Ei7wg82-FidgqOm5tZWxjH7l-U4MOqbnhIoedYaPbzmnCSaqJk1qohLPDM=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Samuraibar",
+          "description": "Just a nerd, whose hobby happens to be making reviews and video essays. I cover many topics, like television, film, anime, and video games. Hope you enjoy!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU8rLcwA54BVLI66wGuyA6nw"
+        }
+      },
+      "statistics": {
+        "viewCount": "360291",
+        "subscriberCount": "1810",
+        "hiddenSubscriberCount": false,
+        "videoCount": "75"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "gqZ_U9HWIVagwkXk6aTc1Vr_f-A",
+      "id": "UCVlgQ1lQw03JDL7pXTyl3Ew",
+      "snippet": {
+        "title": "DanielTake",
+        "description": "This channel breaks down cinema's  most iconic moments, psychological character dynamics, and the small filmmaking details from movies scenes you probably missed..... from subtle directing choices to the chaos of a perfectly crafted scene.\n\nIf you love analyzing movies, studying the filmmaking lens, and catching hidden meaning of any scene, you’re in the right place.\n\n",
+        "customUrl": "@danieltake",
+        "publishedAt": "2019-01-10T03:15:24Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/RRvTAyuEjqExJNJooyo1awrmd6ziqtt0itZwhaXHuCR4vTMlmkB5Z6u4CbKqhc3rDnK4dAKJ1w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/RRvTAyuEjqExJNJooyo1awrmd6ziqtt0itZwhaXHuCR4vTMlmkB5Z6u4CbKqhc3rDnK4dAKJ1w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/RRvTAyuEjqExJNJooyo1awrmd6ziqtt0itZwhaXHuCR4vTMlmkB5Z6u4CbKqhc3rDnK4dAKJ1w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "DanielTake",
+          "description": "This channel breaks down cinema's  most iconic moments, psychological character dynamics, and the small filmmaking details from movies scenes you probably missed..... from subtle directing choices to the chaos of a perfectly crafted scene.\n\nIf you love analyzing movies, studying the filmmaking lens, and catching hidden meaning of any scene, you’re in the right place.\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVlgQ1lQw03JDL7pXTyl3Ew"
+        }
+      },
+      "statistics": {
+        "viewCount": "389104",
+        "subscriberCount": "1060",
+        "hiddenSubscriberCount": false,
+        "videoCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "OKKUl2ptkE4XN3U4rh66b9DW5yM",
+      "id": "UC9rPTifWcqoeJq49KLH9ejg",
+      "snippet": {
+        "title": "Xiao Anime EDIT ",
+        "description": "Welcome to Xiao Anime 🔥\n\nIf you love Anime Edits, Action Scenes, and Powerful Entry Moments, then this channel is for you! ❤️\n\nIn this video, you can enjoy: 🔥\n👉 Powerful Entry Moments\n👉 Slow-Motion Fighting Scenes\n👉 Epic Anime Battles\n👉 High-Level Cultivation & Aura Scenes\n👉 Sad 😢 and Love Story Moments from Donghua\n\n🎬 Anime: Battle Through The Heavens (BTTH) / The Great Ruler / Jade Dynasty\n\n💥 Remember the channel name: Xiao Anime\n\nFor more amazing Anime Edits, don’t forget to Subscribe! ❤️\n\n🔍 Keywords:\nanime edit, BTTH edit, Xiao Yan edit, The Great Ruler, Jade Dynasty, anime fight, powerful entry, aura farming, Chinese anime, donghua edit, Xiao Anime\n",
+        "customUrl": "@xiaoanime7",
+        "publishedAt": "2026-04-24T08:52:57.261922Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/7O4QGkwx9LnpwXqQ9pWzD64KzIMXRXAeH6gWBr-pckBSdKk16YuDUp4u6kx4sMRmn2V2X69_=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/7O4QGkwx9LnpwXqQ9pWzD64KzIMXRXAeH6gWBr-pckBSdKk16YuDUp4u6kx4sMRmn2V2X69_=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/7O4QGkwx9LnpwXqQ9pWzD64KzIMXRXAeH6gWBr-pckBSdKk16YuDUp4u6kx4sMRmn2V2X69_=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Xiao Anime EDIT ",
+          "description": "Welcome to Xiao Anime 🔥\n\nIf you love Anime Edits, Action Scenes, and Powerful Entry Moments, then this channel is for you! ❤️\n\nIn this video, you can enjoy: 🔥\n👉 Powerful Entry Moments\n👉 Slow-Motion Fighting Scenes\n👉 Epic Anime Battles\n👉 High-Level Cultivation & Aura Scenes\n👉 Sad 😢 and Love Story Moments from Donghua\n\n🎬 Anime: Battle Through The Heavens (BTTH) / The Great Ruler / Jade Dynasty\n\n💥 Remember the channel name: Xiao Anime\n\nFor more amazing Anime Edits, don’t forget to Subscribe! ❤️\n\n🔍 Keywords:\nanime edit, BTTH edit, Xiao Yan edit, The Great Ruler, Jade Dynasty, anime fight, powerful entry, aura farming, Chinese anime, donghua edit, Xiao Anime\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9rPTifWcqoeJq49KLH9ejg"
+        }
+      },
+      "statistics": {
+        "viewCount": "368010",
+        "subscriberCount": "971",
+        "hiddenSubscriberCount": false,
+        "videoCount": "123"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "u6EWZZBZU24aJSrg5xElI_kSKHE",
+      "id": "UCzsNjHeDLx0jiGX81dVZUDA",
+      "snippet": {
+        "title": "MATRIX ",
+        "description": "Welcome to Matrix – the home of epic anime content! 🔥\n\nHere you’ll find anime battles, character analysis, hidden facts, and powerful moments from popular series like Naruto, Jujutsu Kaisen, Demon Slayer, Attack on Titan, Solo Leveling, and more.\n\nIf you love Who Wins fights, anime theories, and anime edits, this channel is for you.\n\nSubscribe to Matrix for the best anime content! 🚀\n",
+        "customUrl": "@matrixff2008",
+        "publishedAt": "2024-06-03T11:02:21.5182Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/fRWD8RsSAX-dgRrFeAuuH3rHdk5uG7KdoGiLHE7zktqcNuSO4BA0s5JmSC5ptSUbrg9QNzdq=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/fRWD8RsSAX-dgRrFeAuuH3rHdk5uG7KdoGiLHE7zktqcNuSO4BA0s5JmSC5ptSUbrg9QNzdq=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/fRWD8RsSAX-dgRrFeAuuH3rHdk5uG7KdoGiLHE7zktqcNuSO4BA0s5JmSC5ptSUbrg9QNzdq=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MATRIX ",
+          "description": "Welcome to Matrix – the home of epic anime content! 🔥\n\nHere you’ll find anime battles, character analysis, hidden facts, and powerful moments from popular series like Naruto, Jujutsu Kaisen, Demon Slayer, Attack on Titan, Solo Leveling, and more.\n\nIf you love Who Wins fights, anime theories, and anime edits, this channel is for you.\n\nSubscribe to Matrix for the best anime content! 🚀\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUzsNjHeDLx0jiGX81dVZUDA"
+        }
+      },
+      "statistics": {
+        "viewCount": "2112310",
+        "subscriberCount": "142000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "154"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jb4mGkbhXuPmMYURBxfxHIxmQ_k",
+      "id": "UCABTmppCsgdJd5UFYm6ioYg",
+      "snippet": {
+        "title": "Crime Lore",
+        "description": "Welcome to the channel where real crimes, mysteries, and investigations come to life.\n\nHere, you'll discover carefully crafted stories based on real events — from mysterious disappearances and shocking murders to high-profile investigations, courtroom twists, and cases that continue to leave the world searching for answers.\n\nEvery video takes a deep dive into the facts, people, decisions, and circumstances behind each case, exploring the mysteries and consequences that make these stories so compelling.\n\nSubscribe and join me as we uncover some of the most complex, disturbing, and intriguing true crime cases from around the world.\n\n**True Crime Documentaries • True Crime • True Crime Stories • Crime Investigations • Real Cases • Mystery & More**\n\n",
+        "customUrl": "@crimelore-10",
+        "publishedAt": "2026-09-19T17:54:05.750534Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/AFGCI3rIOBbhsb9eeiftDml5tYq7tNy_Ifr9uQszcP85IekkbpzXUKZrxFYbQkcLtqapipr4Yko=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/AFGCI3rIOBbhsb9eeiftDml5tYq7tNy_Ifr9uQszcP85IekkbpzXUKZrxFYbQkcLtqapipr4Yko=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/AFGCI3rIOBbhsb9eeiftDml5tYq7tNy_Ifr9uQszcP85IekkbpzXUKZrxFYbQkcLtqapipr4Yko=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Crime Lore",
+          "description": "Welcome to the channel where real crimes, mysteries, and investigations come to life.\n\nHere, you'll discover carefully crafted stories based on real events — from mysterious disappearances and shocking murders to high-profile investigations, courtroom twists, and cases that continue to leave the world searching for answers.\n\nEvery video takes a deep dive into the facts, people, decisions, and circumstances behind each case, exploring the mysteries and consequences that make these stories so compelling.\n\nSubscribe and join me as we uncover some of the most complex, disturbing, and intriguing true crime cases from around the world.\n\n**True Crime Documentaries • True Crime • True Crime Stories • Crime Investigations • Real Cases • Mystery & More**\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUABTmppCsgdJd5UFYm6ioYg"
+        }
+      },
+      "statistics": {
+        "viewCount": "6571",
+        "subscriberCount": "67",
+        "hiddenSubscriberCount": false,
+        "videoCount": "21"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "C8gZ7_0qfomhRsplfGdDJ6OSX_Y",
+      "id": "UCgOIA15ZG1dbTn3WL1IofQQ",
+      "snippet": {
+        "title": "The Daily Drift",
+        "description": "Discover the latest in entertainment technology and science with our channel, where we bring you cutting-edge news and insights that keep you informed and entertained. From groundbreaking innovations to the newest trends, we explore how technology shapes our world and enhances our daily lives. Subscribe now to stay ahead of the curve and join a community passionate about the future of entertainment and science.",
+        "customUrl": "@aabtv-cp2ui",
+        "publishedAt": "2023-07-03T11:09:02.911547Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vfsNqYDoxqU7WGmzIizTvifcBuEj0IpiWdiuK8wGDiuP4_h1BQMIfO_ZMI0Y26sRNs2UA7ib2Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vfsNqYDoxqU7WGmzIizTvifcBuEj0IpiWdiuK8wGDiuP4_h1BQMIfO_ZMI0Y26sRNs2UA7ib2Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vfsNqYDoxqU7WGmzIizTvifcBuEj0IpiWdiuK8wGDiuP4_h1BQMIfO_ZMI0Y26sRNs2UA7ib2Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Daily Drift",
+          "description": "Discover the latest in entertainment technology and science with our channel, where we bring you cutting-edge news and insights that keep you informed and entertained. From groundbreaking innovations to the newest trends, we explore how technology shapes our world and enhances our daily lives. Subscribe now to stay ahead of the curve and join a community passionate about the future of entertainment and science."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUgOIA15ZG1dbTn3WL1IofQQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "32836",
+        "subscriberCount": "115",
+        "hiddenSubscriberCount": false,
+        "videoCount": "76"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "RYyfqncZJTqkFxuoErS7kMc3UNw",
+      "id": "UCXpv51v7P8BqOlUBdiMczKA",
+      "snippet": {
+        "title": "afemmeral sugar",
+        "description": "thought daughter in her spare time:",
+        "customUrl": "@afemmeral",
+        "publishedAt": "2020-03-25T21:28:42.611154Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "afemmeral sugar",
+          "description": "thought daughter in her spare time:"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUXpv51v7P8BqOlUBdiMczKA"
+        }
+      },
+      "statistics": {
+        "viewCount": "8280",
+        "subscriberCount": "96",
+        "hiddenSubscriberCount": false,
+        "videoCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "YpIam_IudopFyMWqJ48is0hqKKM",
+      "id": "UCSzrwmWNpTy0RrNzM2w65ow",
+      "snippet": {
+        "title": "Ethan Crime Chronicles",
+        "description": "Welcome to Ethan Crime Chronicles — where every story reveals the truth hidden behind America’s darkest crimes.\n\nFrom life inside the toughest prisons to chilling murders, FBI investigations, and real cases of justice and survival, we expose what truly happens behind bars and beyond. Each episode combines verified facts, real events, and powerful storytelling to uncover the reality of crime, punishment, and the human mind.\n\nSubscribe now to join a community that seeks truth, justice, and the untold stories of America’s most haunting crimes.\n",
+        "customUrl": "@ethancrimechronicles",
+        "publishedAt": "2025-10-24T02:37:21.686933Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/WVE-LLx2ng6a8JaKBSvpsr8jwsinjruCWJLEm7GK5kjG0Gf9oxSFJpt5FpIa1VX82GV4ziIKPA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/WVE-LLx2ng6a8JaKBSvpsr8jwsinjruCWJLEm7GK5kjG0Gf9oxSFJpt5FpIa1VX82GV4ziIKPA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/WVE-LLx2ng6a8JaKBSvpsr8jwsinjruCWJLEm7GK5kjG0Gf9oxSFJpt5FpIa1VX82GV4ziIKPA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Ethan Crime Chronicles",
+          "description": "Welcome to Ethan Crime Chronicles — where every story reveals the truth hidden behind America’s darkest crimes.\n\nFrom life inside the toughest prisons to chilling murders, FBI investigations, and real cases of justice and survival, we expose what truly happens behind bars and beyond. Each episode combines verified facts, real events, and powerful storytelling to uncover the reality of crime, punishment, and the human mind.\n\nSubscribe now to join a community that seeks truth, justice, and the untold stories of America’s most haunting crimes.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUSzrwmWNpTy0RrNzM2w65ow"
+        }
+      },
+      "statistics": {
+        "viewCount": "102400",
+        "subscriberCount": "397",
+        "hiddenSubscriberCount": false,
+        "videoCount": "778"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ZDH-Gl55wp03_-f4H3mq1nHUjnw",
+      "id": "UCHuuLJImohz4o-DlF0L9Uqg",
+      "snippet": {
+        "title": "PintongMundo Review",
+        "description": "Maligayang pagdating sa PintongMundo Review—ang iyong pintuan patungo sa mundo ng anime, donghua, animated films, at AI animation! Dito, makakahanap ka ng malinaw, mabilis, at masayang review at buod ng iba’t ibang animated na kuwento. Inihahandog namin ang anime recap, donghua recap, movie review, all-in-one animation, buong season summary, at paliwanag ng plot, karakter, kapangyarihan, laban, twist, at ending. Tampok sa channel ang action, fantasy, isekai, cultivation, reincarnation, revenge, romance, adventure, system, survival, at overpowered na bida. Kung gusto mong maintindihan ang komplikadong istorya, balikan ang mahahalagang eksena, o makadiskubre ng bagong serye at pelikula, para sa iyo ang channel na ito. Mag-subscribe, i-on ang notification bell, at buksan natin ang pintuan sa bawat bagong mundo, matinding laban, at nakakagulat na rebelasyon!\n\n#PintongMundoReview #AnimeReview #AnimeRecap #DonghuaReview #AnimationRecap #AIAnimation #AllInOneAnime #BuongSeason #AnimeTagalog\n",
+        "customUrl": "@pintongmundoreview",
+        "publishedAt": "2026-08-03T02:29:56.92842Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-xRbPoLB1HdyI_-OeB75a_1E9oS2B8mqginE7cRSOUPoUJ1aGkA-bQdv2h7xeuw6R2-1zwZJEpk=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-xRbPoLB1HdyI_-OeB75a_1E9oS2B8mqginE7cRSOUPoUJ1aGkA-bQdv2h7xeuw6R2-1zwZJEpk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-xRbPoLB1HdyI_-OeB75a_1E9oS2B8mqginE7cRSOUPoUJ1aGkA-bQdv2h7xeuw6R2-1zwZJEpk=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "PintongMundo Review",
+          "description": "Maligayang pagdating sa PintongMundo Review—ang iyong pintuan patungo sa mundo ng anime, donghua, animated films, at AI animation! Dito, makakahanap ka ng malinaw, mabilis, at masayang review at buod ng iba’t ibang animated na kuwento. Inihahandog namin ang anime recap, donghua recap, movie review, all-in-one animation, buong season summary, at paliwanag ng plot, karakter, kapangyarihan, laban, twist, at ending. Tampok sa channel ang action, fantasy, isekai, cultivation, reincarnation, revenge, romance, adventure, system, survival, at overpowered na bida. Kung gusto mong maintindihan ang komplikadong istorya, balikan ang mahahalagang eksena, o makadiskubre ng bagong serye at pelikula, para sa iyo ang channel na ito. Mag-subscribe, i-on ang notification bell, at buksan natin ang pintuan sa bawat bagong mundo, matinding laban, at nakakagulat na rebelasyon!\n\n#PintongMundoReview #AnimeReview #AnimeRecap #DonghuaReview #AnimationRecap #AIAnimation #AllInOneAnime #BuongSeason #AnimeTagalog\n"
+        },
+        "country": "PH"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUHuuLJImohz4o-DlF0L9Uqg"
+        }
+      },
+      "statistics": {
+        "viewCount": "328252",
+        "subscriberCount": "2340",
+        "hiddenSubscriberCount": false,
+        "videoCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "LlTjmDwXiRtiDOIUmavYYFNOa6I",
+      "id": "UCfnmJ5RbAvcEZTMpADV64UQ",
+      "snippet": {
+        "title": "MackInFlix",
+        "description": "Movies, shows & everything I love about them.\n",
+        "customUrl": "@mackinflix",
+        "publishedAt": "2024-12-24T10:14:39.62765Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MackInFlix",
+          "description": "Movies, shows & everything I love about them.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfnmJ5RbAvcEZTMpADV64UQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "7330160",
+        "subscriberCount": "31500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "51"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "p-DZ6MMb4BUbI5v9B4YBQdtCLPI",
+      "id": "UCxpo8Dq1KvKA6zeOesPYWkA",
+      "snippet": {
+        "title": "The Reel Rant Reviewer  ",
+        "description": "Hello I am The Reel Rant Reviewer.\n\nWe all RANT on one thing or another here we do it all the time when it comes to movies and all else we please.\n\nViewer Discretion Advised.\n",
+        "customUrl": "@thereelrantreviewer",
+        "publishedAt": "2022-07-24T18:48:00.152167Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/WrnIM9Fc4Er4CO1-7fUsWYAtCzxNjW5EPWGQIy4wBGoqFUL2YMRz8csxT7WjX5UcQJ1dHy-x7Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/WrnIM9Fc4Er4CO1-7fUsWYAtCzxNjW5EPWGQIy4wBGoqFUL2YMRz8csxT7WjX5UcQJ1dHy-x7Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/WrnIM9Fc4Er4CO1-7fUsWYAtCzxNjW5EPWGQIy4wBGoqFUL2YMRz8csxT7WjX5UcQJ1dHy-x7Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Reel Rant Reviewer  ",
+          "description": "Hello I am The Reel Rant Reviewer.\n\nWe all RANT on one thing or another here we do it all the time when it comes to movies and all else we please.\n\nViewer Discretion Advised.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUxpo8Dq1KvKA6zeOesPYWkA"
+        }
+      },
+      "statistics": {
+        "viewCount": "645942",
+        "subscriberCount": "2320",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1949"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "nFbkaEiLUdCZw10_mI_Hf13RArg",
+      "id": "UCCxdLC-wv0EWJZHLssoPuxg",
+      "snippet": {
+        "title": "dramawithpooja",
+        "description": "𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐩𝐨𝐨𝐣𝐚𝐥𝐨𝐯𝐞𝐬𝐝𝐫𝐚𝐦𝐚 — 𝐈’𝐦 𝐏𝐨𝐨𝐣𝐚 𝐊𝐚𝐮𝐬𝐡𝐢𝐤, 𝐚𝐧𝐝 𝐢𝐟 𝐲𝐨𝐮’𝐫𝐞 𝐨𝐛𝐬𝐞𝐬𝐬𝐞𝐝 𝐰𝐢𝐭𝐡 𝐊𝐨𝐫𝐞𝐚𝐧 𝐃𝐫𝐚𝐦𝐚𝐬, 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐃𝐫𝐚𝐦𝐚𝐬, 𝐚𝐧𝐝 𝐃𝐨𝐧𝐠𝐡𝐮𝐚 (𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐀𝐧𝐢𝐦𝐞), 𝐲𝐨𝐮’𝐯𝐞 𝐣𝐮𝐬𝐭 𝐟𝐨𝐮𝐧𝐝 𝐲𝐨𝐮𝐫 𝐧𝐞𝐰 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥!\n\n4 𝐯𝐢𝐝𝐞𝐨𝐬 𝐞𝐯𝐞𝐫𝐲 𝐬𝐢𝐧𝐠𝐥𝐞 𝐝𝐚𝐲:\n\n🎭 𝐎𝐧𝐞 𝐫𝐞𝐯𝐢𝐞𝐰 𝐨𝐫 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐤𝐨𝐫𝐞𝐚𝐧/𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐝𝐫𝐚𝐦𝐚,\n🎨 𝐎𝐧𝐞 𝐭𝐚𝐤𝐞 𝐨𝐧 𝐚𝐧 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐨𝐫 𝐮𝐧𝐝𝐞𝐫𝐫𝐚𝐭𝐞𝐝 𝐝𝐨𝐧𝐠𝐡𝐮𝐚 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐛𝐞 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠!\n\n𝐖𝐡𝐞𝐭𝐡𝐞𝐫 𝐲𝐨𝐮'𝐫𝐞 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥 𝐫𝐞𝐯𝐢𝐞𝐰𝐬, 𝐡𝐢𝐝𝐝𝐞𝐧 𝐬𝐭𝐨𝐫𝐲 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐬, 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫 𝐝𝐞𝐞𝐩 𝐝𝐢𝐯𝐞𝐬, 𝐨𝐫 𝐣𝐮𝐬𝐭 𝐝𝐞𝐜𝐢𝐝𝐢𝐧𝐠 𝐰𝐡𝐚𝐭 𝐭𝐨 𝐰𝐚𝐭𝐜𝐡 𝐧𝐞𝐱𝐭 — 𝐈’𝐯𝐞 𝐠𝐨𝐭 𝐲𝐨𝐮 𝐜𝐨𝐯𝐞𝐫𝐞𝐝.\n\n💡 𝐄𝐱𝐩𝐞𝐜𝐭:\n𝐇𝐨𝐧𝐞𝐬𝐭 𝐑𝐞𝐯𝐢𝐞𝐰𝐬\n𝐁𝐞𝐬𝐭 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬\n𝐏𝐥𝐨𝐭  𝐄𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐇𝐢𝐧𝐝𝐢\n\n\n💬 𝐋𝐞𝐭’𝐬 𝐛𝐮𝐢𝐥𝐝 𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐨𝐟 𝐝𝐫𝐚𝐦𝐚 𝐥𝐨𝐯𝐞𝐫𝐬 𝐰𝐡𝐨 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐭𝐡𝐞 𝐨𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧!\n\n🛎️ 𝐃𝐨𝐧’𝐭 𝐟𝐨𝐫𝐠𝐞𝐭 𝐭𝐨 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐚𝐧𝐝 𝐣𝐨𝐢𝐧 𝐦𝐞 𝐝𝐚𝐢𝐥𝐲 𝐨𝐧 𝐭𝐡𝐢𝐬 𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥 𝐫𝐨𝐥𝐥𝐞𝐫𝐜𝐨𝐚𝐬𝐭𝐞𝐫.\n\n📧 𝐅𝐨𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬, 𝐬𝐩𝐨𝐧𝐬𝐨𝐫𝐬𝐡𝐢𝐩𝐬, 𝐨𝐫 𝐜𝐨𝐥𝐥𝐚𝐛𝐬: 𝐩𝐮𝐣𝐮𝐤𝐚𝐮𝐬𝐡𝐢𝐤𝟐𝟐@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦\n\n\n",
+        "customUrl": "@dramawithpooja",
+        "publishedAt": "2023-04-20T07:30:46.559425Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/6BqPcCjJjJcK4XNAGNMzZFlbqcZL4_DU7cw-bMJnZb3B8CUjn8cMiGQ1A1cCQXFkifjQvRaQ_Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/6BqPcCjJjJcK4XNAGNMzZFlbqcZL4_DU7cw-bMJnZb3B8CUjn8cMiGQ1A1cCQXFkifjQvRaQ_Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/6BqPcCjJjJcK4XNAGNMzZFlbqcZL4_DU7cw-bMJnZb3B8CUjn8cMiGQ1A1cCQXFkifjQvRaQ_Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "dramawithpooja",
+          "description": "𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐩𝐨𝐨𝐣𝐚𝐥𝐨𝐯𝐞𝐬𝐝𝐫𝐚𝐦𝐚 — 𝐈’𝐦 𝐏𝐨𝐨𝐣𝐚 𝐊𝐚𝐮𝐬𝐡𝐢𝐤, 𝐚𝐧𝐝 𝐢𝐟 𝐲𝐨𝐮’𝐫𝐞 𝐨𝐛𝐬𝐞𝐬𝐬𝐞𝐝 𝐰𝐢𝐭𝐡 𝐊𝐨𝐫𝐞𝐚𝐧 𝐃𝐫𝐚𝐦𝐚𝐬, 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐃𝐫𝐚𝐦𝐚𝐬, 𝐚𝐧𝐝 𝐃𝐨𝐧𝐠𝐡𝐮𝐚 (𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐀𝐧𝐢𝐦𝐞), 𝐲𝐨𝐮’𝐯𝐞 𝐣𝐮𝐬𝐭 𝐟𝐨𝐮𝐧𝐝 𝐲𝐨𝐮𝐫 𝐧𝐞𝐰 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥!\n\n4 𝐯𝐢𝐝𝐞𝐨𝐬 𝐞𝐯𝐞𝐫𝐲 𝐬𝐢𝐧𝐠𝐥𝐞 𝐝𝐚𝐲:\n\n🎭 𝐎𝐧𝐞 𝐫𝐞𝐯𝐢𝐞𝐰 𝐨𝐫 𝐛𝐫𝐞𝐚𝐤𝐝𝐨𝐰𝐧 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐤𝐨𝐫𝐞𝐚𝐧/𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐝𝐫𝐚𝐦𝐚,\n🎨 𝐎𝐧𝐞 𝐭𝐚𝐤𝐞 𝐨𝐧 𝐚𝐧 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐨𝐫 𝐮𝐧𝐝𝐞𝐫𝐫𝐚𝐭𝐞𝐝 𝐝𝐨𝐧𝐠𝐡𝐮𝐚 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐛𝐞 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠!\n\n𝐖𝐡𝐞𝐭𝐡𝐞𝐫 𝐲𝐨𝐮'𝐫𝐞 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥 𝐫𝐞𝐯𝐢𝐞𝐰𝐬, 𝐡𝐢𝐝𝐝𝐞𝐧 𝐬𝐭𝐨𝐫𝐲 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐬, 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫 𝐝𝐞𝐞𝐩 𝐝𝐢𝐯𝐞𝐬, 𝐨𝐫 𝐣𝐮𝐬𝐭 𝐝𝐞𝐜𝐢𝐝𝐢𝐧𝐠 𝐰𝐡𝐚𝐭 𝐭𝐨 𝐰𝐚𝐭𝐜𝐡 𝐧𝐞𝐱𝐭 — 𝐈’𝐯𝐞 𝐠𝐨𝐭 𝐲𝐨𝐮 𝐜𝐨𝐯𝐞𝐫𝐞𝐝.\n\n💡 𝐄𝐱𝐩𝐞𝐜𝐭:\n𝐇𝐨𝐧𝐞𝐬𝐭 𝐑𝐞𝐯𝐢𝐞𝐰𝐬\n𝐁𝐞𝐬𝐭 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬\n𝐏𝐥𝐨𝐭  𝐄𝐱𝐩𝐥𝐚𝐧𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐇𝐢𝐧𝐝𝐢\n\n\n💬 𝐋𝐞𝐭’𝐬 𝐛𝐮𝐢𝐥𝐝 𝐚 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐨𝐟 𝐝𝐫𝐚𝐦𝐚 𝐥𝐨𝐯𝐞𝐫𝐬 𝐰𝐡𝐨 𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐭𝐡𝐞 𝐨𝐛𝐬𝐞𝐬𝐬𝐢𝐨𝐧!\n\n🛎️ 𝐃𝐨𝐧’𝐭 𝐟𝐨𝐫𝐠𝐞𝐭 𝐭𝐨 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐚𝐧𝐝 𝐣𝐨𝐢𝐧 𝐦𝐞 𝐝𝐚𝐢𝐥𝐲 𝐨𝐧 𝐭𝐡𝐢𝐬 𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥 𝐫𝐨𝐥𝐥𝐞𝐫𝐜𝐨𝐚𝐬𝐭𝐞𝐫.\n\n📧 𝐅𝐨𝐫 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬, 𝐬𝐩𝐨𝐧𝐬𝐨𝐫𝐬𝐡𝐢𝐩𝐬, 𝐨𝐫 𝐜𝐨𝐥𝐥𝐚𝐛𝐬: 𝐩𝐮𝐣𝐮𝐤𝐚𝐮𝐬𝐡𝐢𝐤𝟐𝟐@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦\n\n\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUCxdLC-wv0EWJZHLssoPuxg"
+        }
+      },
+      "statistics": {
+        "viewCount": "4727038",
+        "subscriberCount": "10700",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1289"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "H6pSZozYok7IRLP16i7SEeLKj2M",
+      "id": "UC8jV70MenkUSM8pP7KnrIAg",
+      "snippet": {
+        "title": "The Red Door Crime Storytime",
+        "description": "Welcome to The Red Door Crime Storytime—where gripping investigative storytelling meets real-life mysteries.\n\n​We produce premium true crime documentaries that dive straight into criminal psychology and unsolved cases. Utilizing actual police bodycam footage, raw interrogation logs, and deep archival research, we build our narratives from scratch with a focus on immersive editing and atmospheric sound design.\n​Subscribe to join our journey through the darker side of humanity, one case file at a time.\n\nThe Red Door Crime Storytime – Where every case is personal.\n",
+        "customUrl": "@thereddoor-357",
+        "publishedAt": "2025-06-02T16:41:58.760174Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HIYeJ3dDr6vXZJJGJN3-tZMh9CkslWC0G7AT5GK43AmAW03O9-d3Z2E_Ya0vS7Wd7F6um2rDl8I=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HIYeJ3dDr6vXZJJGJN3-tZMh9CkslWC0G7AT5GK43AmAW03O9-d3Z2E_Ya0vS7Wd7F6um2rDl8I=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HIYeJ3dDr6vXZJJGJN3-tZMh9CkslWC0G7AT5GK43AmAW03O9-d3Z2E_Ya0vS7Wd7F6um2rDl8I=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Red Door Crime Storytime",
+          "description": "Welcome to The Red Door Crime Storytime—where gripping investigative storytelling meets real-life mysteries.\n\n​We produce premium true crime documentaries that dive straight into criminal psychology and unsolved cases. Utilizing actual police bodycam footage, raw interrogation logs, and deep archival research, we build our narratives from scratch with a focus on immersive editing and atmospheric sound design.\n​Subscribe to join our journey through the darker side of humanity, one case file at a time.\n\nThe Red Door Crime Storytime – Where every case is personal.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU8jV70MenkUSM8pP7KnrIAg"
+        }
+      },
+      "statistics": {
+        "viewCount": "1943175",
+        "subscriberCount": "49100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "29"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "cENEROMh3GpZDnS1bPnqWqhByPA",
+      "id": "UC2xNkVKLJhgX_BoyoCqFsVw",
+      "snippet": {
+        "title": "La-or, sweet and juicy ",
+        "description": "",
+        "customUrl": "@la-orsweetandjuicy9302",
+        "publishedAt": "2020-11-16T20:21:18.413741Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nbpIyw9RERWWeYVcxAB1eIBIpGS09nJ0NDBVgNNe0nbEppDM0SbBGcKOhumeWeRWLvPA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "La-or, sweet and juicy ",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU2xNkVKLJhgX_BoyoCqFsVw"
+        }
+      },
+      "statistics": {
+        "viewCount": "372043",
+        "subscriberCount": "999",
+        "hiddenSubscriberCount": false,
+        "videoCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2m7XBY_3u8n0Z5dh-14LPDUrkiA",
+      "id": "UCGjK0v2f2n157G1h8Vj3_eg",
+      "snippet": {
+        "title": "James Arvat Anime",
+        "description": "📺 James Arvat Anime – Recensioni, Analisi e Cultura Anime\n\nBenvenuto su James Arvat Anime, il canale YouTube dedicato agli anime giapponesi, alla loro analisi critica, alla storia dell’animazione e ai significati nascosti dietro le opere più amate (e controverse).\n\nQui troverai:\n\n🎬 Recensioni di anime e film d’animazione (senza spoiler inutili)\n\n🧠 Analisi psicologiche e tematiche di serie cult e titoli moderni\n\n🎨 Approfondimenti su regia, simbolismo, colori e narrazione\n\n📚 Confronti tra anime, manga e adattamenti\n\n⚡ Shorts e video brevi su curiosità, dettagli nascosti e cultura otaku\n\nDa Perfect Blue a Nana, dai grandi classici agli anime più discussi del momento, questo canale è pensato per chi vuole capire davvero gli anime, non solo guardarli.\n\nSe ami l’animazione giapponese, la critica cinematografica e i contenuti che fanno riflettere, iscriviti e unisciti alla community di James Arvat Anime.\n",
+        "customUrl": "@jamesarvatanime",
+        "publishedAt": "2017-07-08T00:09:06Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/nYypdc7KawxFgHwBfUUC7juMHBzPiYfrJBBQEr1VyJ2f91DHteKx_U_wobqJ8uXXFhnY1xqUMQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/nYypdc7KawxFgHwBfUUC7juMHBzPiYfrJBBQEr1VyJ2f91DHteKx_U_wobqJ8uXXFhnY1xqUMQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/nYypdc7KawxFgHwBfUUC7juMHBzPiYfrJBBQEr1VyJ2f91DHteKx_U_wobqJ8uXXFhnY1xqUMQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "James Arvat Anime",
+          "description": "📺 James Arvat Anime – Recensioni, Analisi e Cultura Anime\n\nBenvenuto su James Arvat Anime, il canale YouTube dedicato agli anime giapponesi, alla loro analisi critica, alla storia dell’animazione e ai significati nascosti dietro le opere più amate (e controverse).\n\nQui troverai:\n\n🎬 Recensioni di anime e film d’animazione (senza spoiler inutili)\n\n🧠 Analisi psicologiche e tematiche di serie cult e titoli moderni\n\n🎨 Approfondimenti su regia, simbolismo, colori e narrazione\n\n📚 Confronti tra anime, manga e adattamenti\n\n⚡ Shorts e video brevi su curiosità, dettagli nascosti e cultura otaku\n\nDa Perfect Blue a Nana, dai grandi classici agli anime più discussi del momento, questo canale è pensato per chi vuole capire davvero gli anime, non solo guardarli.\n\nSe ami l’animazione giapponese, la critica cinematografica e i contenuti che fanno riflettere, iscriviti e unisciti alla community di James Arvat Anime.\n"
+        },
+        "country": "IT"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUGjK0v2f2n157G1h8Vj3_eg"
+        }
+      },
+      "statistics": {
+        "viewCount": "117007",
+        "subscriberCount": "1530",
+        "hiddenSubscriberCount": false,
+        "videoCount": "131"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "_jaVq0chhLQFjSdJXLlaudJCJWc",
+      "id": "UCh0AnCZECFn3LB076XESzUA",
+      "snippet": {
+        "title": "Cutscene HQ",
+        "description": "Cutscene HQ is where video games, movies, shows and anime get argued about properly. Rankings, moments, character breakdowns, and the stuff that still holds up years after everyone moved on.\n\nCountdowns built on a reason we actually say out loud. The scenes people cannot stop thinking about, and why they land. Characters taken apart properly, motive by motive. Honest verdicts on what deserves your weekend. What to watch next when something wrecked you and nothing else hits the same.\n\nGhibli and Shinkai. Spider-Verse. Middle-earth. The anime that defined a decade, and the games that borrowed from all of it. New releases, and the classics that outlived them.\n\nGames and film, taken seriously and never boringly. Subscribe.\n\nNew videos through the week, Shorts every day.\n",
+        "customUrl": "@watch-cutscene",
+        "publishedAt": "2024-12-03T06:53:50.416654Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kAkYJ94JDrc0Wb-FuzBweijwkqhI-g33gRvZs1StTDRQarSZhEjYB4sqctbn-SabqKF03_hG7Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kAkYJ94JDrc0Wb-FuzBweijwkqhI-g33gRvZs1StTDRQarSZhEjYB4sqctbn-SabqKF03_hG7Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kAkYJ94JDrc0Wb-FuzBweijwkqhI-g33gRvZs1StTDRQarSZhEjYB4sqctbn-SabqKF03_hG7Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Cutscene HQ",
+          "description": "Cutscene HQ is where video games, movies, shows and anime get argued about properly. Rankings, moments, character breakdowns, and the stuff that still holds up years after everyone moved on.\n\nCountdowns built on a reason we actually say out loud. The scenes people cannot stop thinking about, and why they land. Characters taken apart properly, motive by motive. Honest verdicts on what deserves your weekend. What to watch next when something wrecked you and nothing else hits the same.\n\nGhibli and Shinkai. Spider-Verse. Middle-earth. The anime that defined a decade, and the games that borrowed from all of it. New releases, and the classics that outlived them.\n\nGames and film, taken seriously and never boringly. Subscribe.\n\nNew videos through the week, Shorts every day.\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUh0AnCZECFn3LB076XESzUA"
+        }
+      },
+      "statistics": {
+        "viewCount": "177993",
+        "subscriberCount": "89",
+        "hiddenSubscriberCount": false,
+        "videoCount": "198"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1l3PyOEdP8gaJDvyjFT20VzeNMU",
+      "id": "UCl4L6DdKjP5Dz6eG3d4WsxQ",
+      "snippet": {
+        "title": "por.tfoliooooo",
+        "description": "\"Welcome to port.folioooooo ! Your go-to destination for cinematic edits. Experience the magic of movies like never before through our carefully crafted edits. Subscribe for more",
+        "customUrl": "@por.tfoliooooo",
+        "publishedAt": "2024-11-02T12:30:35.344908Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en-IN",
+        "localized": {
+          "title": "por.tfoliooooo",
+          "description": "\"Welcome to port.folioooooo ! Your go-to destination for cinematic edits. Experience the magic of movies like never before through our carefully crafted edits. Subscribe for more"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUl4L6DdKjP5Dz6eG3d4WsxQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "233020",
+        "subscriberCount": "507",
+        "hiddenSubscriberCount": false,
+        "videoCount": "90"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "E1lCriglOhHRAosJz5ESerdjKy8",
+      "id": "UC_3RLhxucJ8Npqk8Rfh2Lgw",
+      "snippet": {
+        "title": "Midnight Showing",
+        "description": "Hey! My name is Jakob, aka MidnightShowing. Welcome to my channel where I produce video essays on film.\n\nThe goal of this channel is to provided nuanced, interesting analysis on modern films, while shining a light on indie, international, and underseen pictures. My approach to analysis is to always ground it in conversation with the history of cinema, as well as a critical engagement with the world in which films are produced. If that's your thing, please consider subscribing! I truly enjoy engaging in good-faith discussions on film and look forward to seeing you in the comments section.\n\nThis is a passion project for me, and as such, I work on videos whenever I have the spare time. I aim to produce at least one video a month, but hope that with time I'll be able to produce even more. \n\nFor business inquiries: [EMAIL-REDACTED]\n",
+        "customUrl": "@amidnightshowing",
+        "publishedAt": "2025-10-07T17:37:43.887033Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/TRIqJ-nJwcNCqPM6bxr9Nq6H9rEUnPCO8L23KJiRlMzSJ1GEObpm5y_04nOnbRB2E5EWzpUIhA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/TRIqJ-nJwcNCqPM6bxr9Nq6H9rEUnPCO8L23KJiRlMzSJ1GEObpm5y_04nOnbRB2E5EWzpUIhA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/TRIqJ-nJwcNCqPM6bxr9Nq6H9rEUnPCO8L23KJiRlMzSJ1GEObpm5y_04nOnbRB2E5EWzpUIhA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Midnight Showing",
+          "description": "Hey! My name is Jakob, aka MidnightShowing. Welcome to my channel where I produce video essays on film.\n\nThe goal of this channel is to provided nuanced, interesting analysis on modern films, while shining a light on indie, international, and underseen pictures. My approach to analysis is to always ground it in conversation with the history of cinema, as well as a critical engagement with the world in which films are produced. If that's your thing, please consider subscribing! I truly enjoy engaging in good-faith discussions on film and look forward to seeing you in the comments section.\n\nThis is a passion project for me, and as such, I work on videos whenever I have the spare time. I aim to produce at least one video a month, but hope that with time I'll be able to produce even more. \n\nFor business inquiries: [EMAIL-REDACTED]\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU_3RLhxucJ8Npqk8Rfh2Lgw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1251475",
+        "subscriberCount": "6690",
+        "hiddenSubscriberCount": false,
+        "videoCount": "16"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "YFpxDN2b9SBqe1Tz1PGRQ08h200",
+      "id": "UC60zfovAD-XUp7CLDSFQGrw",
+      "snippet": {
+        "title": "The Anti Critic",
+        "description": "Everyone's a critic nowadays… Some would say I’m the reverse\n\nI make funny little videos about the movies, TV and pop culture I love! \n\n[EMAIL-REDACTED] for business inquiries\n",
+        "customUrl": "@theanti-critic",
+        "publishedAt": "2025-02-21T18:02:09.992937Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/8FRo-WJ0KIHg0VVob-cpB2hb3W2bp7VtHzeDBkzE3tURxvom58ENZA05lM48uH34WV-yy3rX1TI=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/8FRo-WJ0KIHg0VVob-cpB2hb3W2bp7VtHzeDBkzE3tURxvom58ENZA05lM48uH34WV-yy3rX1TI=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/8FRo-WJ0KIHg0VVob-cpB2hb3W2bp7VtHzeDBkzE3tURxvom58ENZA05lM48uH34WV-yy3rX1TI=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Anti Critic",
+          "description": "Everyone's a critic nowadays… Some would say I’m the reverse\n\nI make funny little videos about the movies, TV and pop culture I love! \n\n[EMAIL-REDACTED] for business inquiries\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU60zfovAD-XUp7CLDSFQGrw"
+        }
+      },
+      "statistics": {
+        "viewCount": "168179",
+        "subscriberCount": "651",
+        "hiddenSubscriberCount": false,
+        "videoCount": "101"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "9daWpt4q1c1U3Cpt_EOwC2g87Ko",
+      "id": "UCE_XrheCcXxrNDVZ6syNfvA",
+      "snippet": {
+        "title": "Uyển Đình Sub",
+        "description": "你好! Mình là admin Uyển Đình Sub aka Thỏ pông. \n\n💙 Cảm ơn bạn đã ghé thăm và đồng hành cùng Uyển Đình Sub!\n\nMỗi lượt xem, lượt thích, bình luận và đăng ký của bạn đều là động lực để chúng mình tiếp tục mang đến những bộ phim và câu chuyện thú vị hơn.\n\n🌷 Chúc bạn có những phút giây xem phim thật vui vẻ và thư giãn. Đừng quên đăng ký kênh và bật 🔔 thông báo để cùng Uyển Đình Sub khám phá những câu chuyện mới nhé!\n\n✨ Cảm ơn bạn rất nhiều vì đã luôn ủng hộ!\n\n",
+        "customUrl": "@uyendinhsub-2x5hp",
+        "publishedAt": "2024-12-27T12:42:08.528082Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Xsc7j7BZ-2zEt6dXses4yep6rn-EdZ5r1X3v58uozVSh8lp927UJHxXpY0KqFXRFAIqgjG5yzg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Xsc7j7BZ-2zEt6dXses4yep6rn-EdZ5r1X3v58uozVSh8lp927UJHxXpY0KqFXRFAIqgjG5yzg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Xsc7j7BZ-2zEt6dXses4yep6rn-EdZ5r1X3v58uozVSh8lp927UJHxXpY0KqFXRFAIqgjG5yzg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Uyển Đình Sub",
+          "description": "你好! Mình là admin Uyển Đình Sub aka Thỏ pông. \n\n💙 Cảm ơn bạn đã ghé thăm và đồng hành cùng Uyển Đình Sub!\n\nMỗi lượt xem, lượt thích, bình luận và đăng ký của bạn đều là động lực để chúng mình tiếp tục mang đến những bộ phim và câu chuyện thú vị hơn.\n\n🌷 Chúc bạn có những phút giây xem phim thật vui vẻ và thư giãn. Đừng quên đăng ký kênh và bật 🔔 thông báo để cùng Uyển Đình Sub khám phá những câu chuyện mới nhé!\n\n✨ Cảm ơn bạn rất nhiều vì đã luôn ủng hộ!\n\n"
+        },
+        "country": "VN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUE_XrheCcXxrNDVZ6syNfvA"
+        }
+      },
+      "statistics": {
+        "viewCount": "3750910",
+        "subscriberCount": "11200",
+        "hiddenSubscriberCount": false,
+        "videoCount": "90"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2No1CIYooBeDGMfRN8Pla8W4TWc",
+      "id": "UCU1fUc57y-m0symQx1S4xfA",
+      "snippet": {
+        "title": "Night Light Experience ",
+        "description": "Passionate about experiencing and sharing all forms of art, Video Games, Anime, Films and more, through Essays, Analyses, Reviews, Talks, and playthroughs.\n\n- Reflecting on stories, and exploring themes.\n\n- Edited playthroughs\n\n- Reviews and opinions\n\n- Sometimes how these stories can help us better understand ourselves.\n\nI TRY POSTING TWICE BIWEEKLY \n\nIf you’re a fan, I appreciate that, and I would love the chance to take requests on video ideas.\nI would love to shoutout viewers and overall interact with the community. \n\nHave a good night.\n\nInstagram and TikTok:\nNight_Light_Experience\n\nhttps://www.youtube.com/@NightLight-NLE?sub_confirmation=1\n",
+        "customUrl": "@nightlightnle",
+        "publishedAt": "2023-08-26T20:44:06.415769Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/F9XwIsyo-hTdpDEiM4-I1PAXJooB_yADBqBCbjhoo9aiBzDbjpjzVVKD-pzp3EnHslLBjkBmMg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/F9XwIsyo-hTdpDEiM4-I1PAXJooB_yADBqBCbjhoo9aiBzDbjpjzVVKD-pzp3EnHslLBjkBmMg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/F9XwIsyo-hTdpDEiM4-I1PAXJooB_yADBqBCbjhoo9aiBzDbjpjzVVKD-pzp3EnHslLBjkBmMg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Night Light Experience ",
+          "description": "Passionate about experiencing and sharing all forms of art, Video Games, Anime, Films and more, through Essays, Analyses, Reviews, Talks, and playthroughs.\n\n- Reflecting on stories, and exploring themes.\n\n- Edited playthroughs\n\n- Reviews and opinions\n\n- Sometimes how these stories can help us better understand ourselves.\n\nI TRY POSTING TWICE BIWEEKLY \n\nIf you’re a fan, I appreciate that, and I would love the chance to take requests on video ideas.\nI would love to shoutout viewers and overall interact with the community. \n\nHave a good night.\n\nInstagram and TikTok:\nNight_Light_Experience\n\nhttps://www.youtube.com/@NightLight-NLE?sub_confirmation=1\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUU1fUc57y-m0symQx1S4xfA"
+        }
+      },
+      "statistics": {
+        "viewCount": "10599",
+        "subscriberCount": "49",
+        "hiddenSubscriberCount": false,
+        "videoCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "H2xd9c-SgtCFNvUAv5-MwStEvXI",
+      "id": "UCaEL-4jCUI7gbCQRyH5BUvA",
+      "snippet": {
+        "title": "CASE 404",
+        "description": "CASE 404 — where unsolved cases get reopened.\nEvery day: a 60-second true-crime mystery. Every week: deep-dive documentaries on the cases the world couldn't close — disappearances, cold cases, and mysteries that still haunt investigators.\nNew Shorts daily. Long-form investigations weekly.\nSome mysteries... never close.\n",
+        "customUrl": "@case_404-z6r",
+        "publishedAt": "2024-04-30T06:03:02.421714Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/DDVDeR9N0xXRvnGfYzPUEAnoqscw8OxqA6vy2ixgU_EZPlOidskElZtDHHNa0NN6G5cdRabVog=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/DDVDeR9N0xXRvnGfYzPUEAnoqscw8OxqA6vy2ixgU_EZPlOidskElZtDHHNa0NN6G5cdRabVog=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/DDVDeR9N0xXRvnGfYzPUEAnoqscw8OxqA6vy2ixgU_EZPlOidskElZtDHHNa0NN6G5cdRabVog=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "CASE 404",
+          "description": "CASE 404 — where unsolved cases get reopened.\nEvery day: a 60-second true-crime mystery. Every week: deep-dive documentaries on the cases the world couldn't close — disappearances, cold cases, and mysteries that still haunt investigators.\nNew Shorts daily. Long-form investigations weekly.\nSome mysteries... never close.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUaEL-4jCUI7gbCQRyH5BUvA"
+        }
+      },
+      "statistics": {
+        "viewCount": "7689",
+        "subscriberCount": "52",
+        "hiddenSubscriberCount": false,
+        "videoCount": "95"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "nTiy5qsHyOvxB7vsKWbfqBH8K6E",
+      "id": "UCeRQDuMcw3RrDGZK6UZ8KRg",
+      "snippet": {
+        "title": "Gervas 23",
+        "description": "🎬 Selamat datang di [Gervas23 ]! 🎬\nChannel ini adalah rumah bagi pecinta donghua – anime penuh aksi, fantasi, seni bela diri, dan petualangan epik!\n\n✨ Apa yang bisa kamu temukan di sini?\n✔️ Donghua  terbaru & terpopuler\n✔️ Anime  terbaru & terpopuler\n✔️ Subtitle Indonesia untuk memudahkan kamu mengikuti cerita\n✔️ Rekomendasi & review donghua serta anime keren\n✔️ Cuplikan, teori, dan pembahasan alur cerita\n\n🔔 Jangan lupa subscribe dan aktifkan lonceng notifikasi, supaya kamu nggak ketinggalan update terbaru!\n\n📌 Upload rutin\n📣 Komentar dan saran kalian sangat berarti – tulis di bawah video ya!\n\n# Tontonan Dunia Animasi # Donghua # Anime # Animasi # Animation #Donghua #ChineseAnimation #AnimeChina #DonghuaIndonesia #DonghuaEdit #DonghuaFans #DonghuaReaction #DonghuaClip #DonghuaSeries #DonghuaWorld \n",
+        "customUrl": "@gervas23",
+        "publishedAt": "2025-11-29T01:25:39.27306Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/VGjY2dSVxy0VSNLyNciVZXcvl5WOdWShRBOIHfo8HxmOepCztpke_KOrTYg6xOLIo_CMpI57=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/VGjY2dSVxy0VSNLyNciVZXcvl5WOdWShRBOIHfo8HxmOepCztpke_KOrTYg6xOLIo_CMpI57=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/VGjY2dSVxy0VSNLyNciVZXcvl5WOdWShRBOIHfo8HxmOepCztpke_KOrTYg6xOLIo_CMpI57=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Gervas 23",
+          "description": "🎬 Selamat datang di [Gervas23 ]! 🎬\nChannel ini adalah rumah bagi pecinta donghua – anime penuh aksi, fantasi, seni bela diri, dan petualangan epik!\n\n✨ Apa yang bisa kamu temukan di sini?\n✔️ Donghua  terbaru & terpopuler\n✔️ Anime  terbaru & terpopuler\n✔️ Subtitle Indonesia untuk memudahkan kamu mengikuti cerita\n✔️ Rekomendasi & review donghua serta anime keren\n✔️ Cuplikan, teori, dan pembahasan alur cerita\n\n🔔 Jangan lupa subscribe dan aktifkan lonceng notifikasi, supaya kamu nggak ketinggalan update terbaru!\n\n📌 Upload rutin\n📣 Komentar dan saran kalian sangat berarti – tulis di bawah video ya!\n\n# Tontonan Dunia Animasi # Donghua # Anime # Animasi # Animation #Donghua #ChineseAnimation #AnimeChina #DonghuaIndonesia #DonghuaEdit #DonghuaFans #DonghuaReaction #DonghuaClip #DonghuaSeries #DonghuaWorld \n"
+        },
+        "country": "ID"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUeRQDuMcw3RrDGZK6UZ8KRg"
+        }
+      },
+      "statistics": {
+        "viewCount": "58688",
+        "subscriberCount": "250",
+        "hiddenSubscriberCount": false,
+        "videoCount": "63"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "pGphCIC47357-9_EX2SVrfksQlY",
+      "id": "UC9HPSySD-YWaZ0C7UIXaYiA",
+      "snippet": {
+        "title": "joyboy lucky",
+        "description": "I talk about anime manga and everything I find interesting relates to them\nI just simply love anime..Be My Crew In This Anime  journey \n.\nAnime is one of the best thing happened to me in this selfish,mean and cruel world",
+        "customUrl": "@joyboylucky",
+        "publishedAt": "2026-01-21T02:53:56.317236Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/by2hcsr0OPeVuNz3hUvpM0LQC4wgEsia282VC1QDZ6v3y9BOH_0JkoOzZzRd6cd19csB8FHG=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/by2hcsr0OPeVuNz3hUvpM0LQC4wgEsia282VC1QDZ6v3y9BOH_0JkoOzZzRd6cd19csB8FHG=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/by2hcsr0OPeVuNz3hUvpM0LQC4wgEsia282VC1QDZ6v3y9BOH_0JkoOzZzRd6cd19csB8FHG=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "joyboy lucky",
+          "description": "I talk about anime manga and everything I find interesting relates to them\nI just simply love anime..Be My Crew In This Anime  journey \n.\nAnime is one of the best thing happened to me in this selfish,mean and cruel world"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9HPSySD-YWaZ0C7UIXaYiA"
+        }
+      },
+      "statistics": {
+        "viewCount": "692174",
+        "subscriberCount": "1480",
+        "hiddenSubscriberCount": false,
+        "videoCount": "181"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "avWEBcmpLUXaOcc81dcB6YlAH4E",
+      "id": "UCErQaD-Mkc5Eg29NlB6USNQ",
+      "snippet": {
+        "title": "gatsbygalaxykitty",
+        "description": "Hi! I'm Gatsby, but my mom calls me her Galaxy Kitty. ✨️🐈‍⬛❤️ I have a condition called Vitiligo. It is responsible for my \"stars\". Thank you for following me!!",
+        "customUrl": "@gatsbygalaxykitty",
+        "publishedAt": "2026-09-29T21:07:47.750277Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/bRu3UTzUM10N2UVPXIXlJmhrnBbiu0KiW2fqgYK2wJ8oXlhrFhJJX1iBpMP_K0TnHSjS44Qj=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/bRu3UTzUM10N2UVPXIXlJmhrnBbiu0KiW2fqgYK2wJ8oXlhrFhJJX1iBpMP_K0TnHSjS44Qj=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/bRu3UTzUM10N2UVPXIXlJmhrnBbiu0KiW2fqgYK2wJ8oXlhrFhJJX1iBpMP_K0TnHSjS44Qj=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "gatsbygalaxykitty",
+          "description": "Hi! I'm Gatsby, but my mom calls me her Galaxy Kitty. ✨️🐈‍⬛❤️ I have a condition called Vitiligo. It is responsible for my \"stars\". Thank you for following me!!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUErQaD-Mkc5Eg29NlB6USNQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "28447",
+        "subscriberCount": "121",
+        "hiddenSubscriberCount": false,
+        "videoCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "-9rN5cF8gXtWG6QC0vDpcqGHSXY",
+      "id": "UCOTwcJfhWJcokNbq1joDB3g",
+      "snippet": {
+        "title": "LiCorner",
+        "description": "Xin chào, Li đây! 🐈🎬\n\nChào mừng bạn đến với LiCorner, một góc nhỏ dành cho những câu chuyện hay, những bộ phim thú vị và những phút giây thư giãn.\n\nNgồi xuống, thưởng thức một câu chuyện và để Li đưa bạn đến một thế giới khác nha ✨\n\nTake a Seat. The Story Awaits. ❤️\n\n🔔 Subscribe & cùng Li khám phá những câu chuyện mới nhé!\n\n📌 Đừng quên Like 👍 và bật chuông 🔔 để theo dõi những bộ phim mới nhất từ LiCorner nhé!\n\n❤️ Cám ơn bạn đã ghé và ủng hộ Li 🐈\n",
+        "customUrl": "@goccuali",
+        "publishedAt": "2026-08-11T13:47:04.119592Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/SVgkJPAcfv6RYQeCMr7Hcz18k-8dGXFkDML6XjeR3QKFszrCqXFhkriOHV4pPuVt-QvnMS85grc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/SVgkJPAcfv6RYQeCMr7Hcz18k-8dGXFkDML6XjeR3QKFszrCqXFhkriOHV4pPuVt-QvnMS85grc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/SVgkJPAcfv6RYQeCMr7Hcz18k-8dGXFkDML6XjeR3QKFszrCqXFhkriOHV4pPuVt-QvnMS85grc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LiCorner",
+          "description": "Xin chào, Li đây! 🐈🎬\n\nChào mừng bạn đến với LiCorner, một góc nhỏ dành cho những câu chuyện hay, những bộ phim thú vị và những phút giây thư giãn.\n\nNgồi xuống, thưởng thức một câu chuyện và để Li đưa bạn đến một thế giới khác nha ✨\n\nTake a Seat. The Story Awaits. ❤️\n\n🔔 Subscribe & cùng Li khám phá những câu chuyện mới nhé!\n\n📌 Đừng quên Like 👍 và bật chuông 🔔 để theo dõi những bộ phim mới nhất từ LiCorner nhé!\n\n❤️ Cám ơn bạn đã ghé và ủng hộ Li 🐈\n"
+        },
+        "country": "VN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOTwcJfhWJcokNbq1joDB3g"
+        }
+      },
+      "statistics": {
+        "viewCount": "2393",
+        "subscriberCount": "15",
+        "hiddenSubscriberCount": false,
+        "videoCount": "41"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "-EPFHF-inzznoiVL-wntU3fzuYw",
+      "id": "UC4goy8dXlvZnj9JPNzwTrpw",
+      "snippet": {
+        "title": "Mythic Donghua",
+        "description": "Welcome to Mythic Donghua! 🐉✨\n\nDiscover amazing Chinese fantasy, Donghua, romance, supernatural stories, Demon Lords, fox spirits, and unforgettable characters.\n\n❤️ Romantic stories\n🐉 Chinese fantasy & mythology\n🦊 Fox spirits & supernatural characters\n⚔️ Action & adventure\n✨ Donghua stories & interesting moments\n😱 Mystery,& unexpected twists\n\nSubscribe and enter a world filled with magic, romance, legends and adventure\n\n#Donghua #ChineseAnime #ChineseAnimation #ChineseFantasy #DonghuaStories #FantasyAnime #AnimeStories #ChineseDrama #FantasyRomance #DemonLord #FoxSpirit #Cultivation #Xianxia #Wuxia #AnimeRecap #DonghuaRecap #RomanceAnime #FantasyStories #Anime\n\n⚠️ Disclaimer: This channel is created for entertainment, commentary, review, and storytelling purposes. All original characters, animation, music, footage, and other copyrighted materials belong to their respective copyright owners. We do not claim ownership of third-party content. No copyright infringement is intended.",
+        "customUrl": "@mythicdonghuastories",
+        "publishedAt": "2025-10-03T01:27:08.599662Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/U3GY5e2Rmm5aYWJ01IVKwIZZopwroCNZg6vjpH1xfJdWd3umP-RFpCgZuG9pP-Mo8sWUuryXgA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/U3GY5e2Rmm5aYWJ01IVKwIZZopwroCNZg6vjpH1xfJdWd3umP-RFpCgZuG9pP-Mo8sWUuryXgA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/U3GY5e2Rmm5aYWJ01IVKwIZZopwroCNZg6vjpH1xfJdWd3umP-RFpCgZuG9pP-Mo8sWUuryXgA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Mythic Donghua",
+          "description": "Welcome to Mythic Donghua! 🐉✨\n\nDiscover amazing Chinese fantasy, Donghua, romance, supernatural stories, Demon Lords, fox spirits, and unforgettable characters.\n\n❤️ Romantic stories\n🐉 Chinese fantasy & mythology\n🦊 Fox spirits & supernatural characters\n⚔️ Action & adventure\n✨ Donghua stories & interesting moments\n😱 Mystery,& unexpected twists\n\nSubscribe and enter a world filled with magic, romance, legends and adventure\n\n#Donghua #ChineseAnime #ChineseAnimation #ChineseFantasy #DonghuaStories #FantasyAnime #AnimeStories #ChineseDrama #FantasyRomance #DemonLord #FoxSpirit #Cultivation #Xianxia #Wuxia #AnimeRecap #DonghuaRecap #RomanceAnime #FantasyStories #Anime\n\n⚠️ Disclaimer: This channel is created for entertainment, commentary, review, and storytelling purposes. All original characters, animation, music, footage, and other copyrighted materials belong to their respective copyright owners. We do not claim ownership of third-party content. No copyright infringement is intended."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU4goy8dXlvZnj9JPNzwTrpw"
+        }
+      },
+      "statistics": {
+        "viewCount": "345",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Wh9m6dd7tkm-rS2hQVd_xvFPhNA",
+      "id": "UCL7QYUz8J9-mNsxU3xr9HuA",
+      "snippet": {
+        "title": "Zero Cases",
+        "description": "Welcome to Zero Cases. 🕵️\n\nThe world's most shocking true crime stories — from a part of the world you've never heard them from. We uncover dark, twisted, and unsolved cases from South Asia: Pakistan, India, Bangladesh. Meticulously researched. Cinematically told.\n\nNew true crime documentaries every week. Subscribe — you don't want to miss what's buried in these files.\n",
+        "customUrl": "@zero_cases",
+        "publishedAt": "2026-10-05T23:44:47.588477Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QRl3K8hlWpg-BoKkKbhABBHHb3kVG_UkMwy2b6MO4xbQ7d9ei05Gd2Da9bFpAZiDUloYwwUGbg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QRl3K8hlWpg-BoKkKbhABBHHb3kVG_UkMwy2b6MO4xbQ7d9ei05Gd2Da9bFpAZiDUloYwwUGbg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QRl3K8hlWpg-BoKkKbhABBHHb3kVG_UkMwy2b6MO4xbQ7d9ei05Gd2Da9bFpAZiDUloYwwUGbg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Zero Cases",
+          "description": "Welcome to Zero Cases. 🕵️\n\nThe world's most shocking true crime stories — from a part of the world you've never heard them from. We uncover dark, twisted, and unsolved cases from South Asia: Pakistan, India, Bangladesh. Meticulously researched. Cinematically told.\n\nNew true crime documentaries every week. Subscribe — you don't want to miss what's buried in these files.\n"
+        },
+        "country": "PK"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUL7QYUz8J9-mNsxU3xr9HuA"
+        }
+      },
+      "statistics": {
+        "viewCount": "22",
+        "subscriberCount": "4",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "cjIKPKFKp12te8sqP9InNnswYxM",
+      "id": "UC0mdxSh6xFkIxGTOYHkdAjA",
+      "snippet": {
+        "title": "LUMOSHROOM",
+        "description": "Quot homines, tot sententiae. \n\nI have a Patreon: https://www.patreon.com/user?u=27056817 \n\nOutro art was done by [EMAIL-REDACTED]\nTheir website: www.lcdesign.co.za",
+        "customUrl": "@lumoshroom",
+        "publishedAt": "2014-07-09T16:06:44Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vuc4G4nJ4wDKbFD9NHYKvzXVHZAlLObBrQjthgvj-pQVkljadL7JmZ-0riOZTRa32Gl0NPoji64=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vuc4G4nJ4wDKbFD9NHYKvzXVHZAlLObBrQjthgvj-pQVkljadL7JmZ-0riOZTRa32Gl0NPoji64=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vuc4G4nJ4wDKbFD9NHYKvzXVHZAlLObBrQjthgvj-pQVkljadL7JmZ-0riOZTRa32Gl0NPoji64=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LUMOSHROOM",
+          "description": "Quot homines, tot sententiae. \n\nI have a Patreon: https://www.patreon.com/user?u=27056817 \n\nOutro art was done by [EMAIL-REDACTED]\nTheir website: www.lcdesign.co.za"
+        },
+        "country": "ZA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU0mdxSh6xFkIxGTOYHkdAjA"
+        }
+      },
+      "statistics": {
+        "viewCount": "6207751",
+        "subscriberCount": "25900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "195"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "LPkEbvIp-mAuRP5yAWGdUlyeI7M",
+      "id": "UCfvg_B4ogvPs5BoHYUfTIYA",
+      "snippet": {
+        "title": "Evidence Locker",
+        "description": "",
+        "customUrl": "@theevidencelocker-j2l",
+        "publishedAt": "2026-09-29T13:11:08.50894Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/h-qOqfUaPCnOb1l59MSaQpppo9OeoWEfM0rGTaB-z93FkheoVQzRNopXUz_KfcXFT6jpwKtQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/h-qOqfUaPCnOb1l59MSaQpppo9OeoWEfM0rGTaB-z93FkheoVQzRNopXUz_KfcXFT6jpwKtQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/h-qOqfUaPCnOb1l59MSaQpppo9OeoWEfM0rGTaB-z93FkheoVQzRNopXUz_KfcXFT6jpwKtQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Evidence Locker",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfvg_B4ogvPs5BoHYUfTIYA"
+        }
+      },
+      "statistics": {
+        "viewCount": "943",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "oLqVDGyucse3MxjAPK90MzkQC-4",
+      "id": "UC4l32wr1RvXkFiC0Kb-T-Dg",
+      "snippet": {
+        "title": "EMPTY MANHWA",
+        "description": "",
+        "customUrl": "@emptymanhwa",
+        "publishedAt": "2026-10-09T11:09:54.082224Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/hVpQxmWizYFzTWz2k7r13N6-nJIhcALrLzOnXrhlFwdDkhmdPt1Mac-j5GXQtXs4KT4LuEMzpCc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/hVpQxmWizYFzTWz2k7r13N6-nJIhcALrLzOnXrhlFwdDkhmdPt1Mac-j5GXQtXs4KT4LuEMzpCc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/hVpQxmWizYFzTWz2k7r13N6-nJIhcALrLzOnXrhlFwdDkhmdPt1Mac-j5GXQtXs4KT4LuEMzpCc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "EMPTY MANHWA",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU4l32wr1RvXkFiC0Kb-T-Dg"
+        }
+      },
+      "statistics": {
+        "viewCount": "12",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "fxF9mv7B2raUeRA6sDNTfCZYsaE",
+      "id": "UC4xCNiSdolL1gbUSvLxoaLw",
+      "snippet": {
+        "title": "Lung Review",
+        "description": "",
+        "customUrl": "@lungreview-g9s",
+        "publishedAt": "2026-09-24T19:30:41.507364Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lQP04o0156tOjgYNl3HX_KZUnYFCol3dSz9PAyoVldVAeL5nOEnPGdwcXswTRrMOFkSQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lQP04o0156tOjgYNl3HX_KZUnYFCol3dSz9PAyoVldVAeL5nOEnPGdwcXswTRrMOFkSQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_lQP04o0156tOjgYNl3HX_KZUnYFCol3dSz9PAyoVldVAeL5nOEnPGdwcXswTRrMOFkSQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Lung Review",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU4xCNiSdolL1gbUSvLxoaLw"
+        }
+      },
+      "statistics": {
+        "viewCount": "835",
+        "subscriberCount": "4",
+        "hiddenSubscriberCount": false,
+        "videoCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jp7jvOp66ZYNSvJCjMX9XUjgOpA",
+      "id": "UC8wIh1mkngwg7Y4_H9d410g",
+      "snippet": {
+        "title": "Aesthetic Distance",
+        "description": "There is no single \"correct\" way to read a film—\nbut there are infinite ways to read it deeply.\n\nAt Aesthetic Distance, we ground ourselves in the work:\nits structure, its context, its fabric of meaning.\n\nThen we pull threads.\nYour thread. Our thread.\n\nNot the director's truth.\nNot arbitrary feelings.\nBut interpretations rooted in what we see.\n\n\"The birth of the reader must be \nat the cost of the death of the Author.\"\n— Roland Barthes\n",
+        "customUrl": "@aesthetic_distance",
+        "publishedAt": "2025-08-04T09:03:35.278717Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1LJ4gXfrgn5U0EAHy5sM5gAd6XEidMieI2HTR6FcPCFqjjltOriyJAHhNk8bO0CadSKT2okG7ts=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1LJ4gXfrgn5U0EAHy5sM5gAd6XEidMieI2HTR6FcPCFqjjltOriyJAHhNk8bO0CadSKT2okG7ts=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1LJ4gXfrgn5U0EAHy5sM5gAd6XEidMieI2HTR6FcPCFqjjltOriyJAHhNk8bO0CadSKT2okG7ts=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Aesthetic Distance",
+          "description": "There is no single \"correct\" way to read a film—\nbut there are infinite ways to read it deeply.\n\nAt Aesthetic Distance, we ground ourselves in the work:\nits structure, its context, its fabric of meaning.\n\nThen we pull threads.\nYour thread. Our thread.\n\nNot the director's truth.\nNot arbitrary feelings.\nBut interpretations rooted in what we see.\n\n\"The birth of the reader must be \nat the cost of the death of the Author.\"\n— Roland Barthes\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU8wIh1mkngwg7Y4_H9d410g"
+        }
+      },
+      "statistics": {
+        "viewCount": "29536",
+        "subscriberCount": "94",
+        "hiddenSubscriberCount": false,
+        "videoCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "p_Wf5NuFsrswEZM6cqbMsdZ99os",
+      "id": "UCzKriJuGaw_xhad_ip6knbw",
+      "snippet": {
+        "title": "DotAnime ",
+        "description": "Welcome to our channel!\n\nHere you'll find honest reviews and recommendations for Anime, Donghua, Aeni, and other animated series.",
+        "customUrl": "@dotanime_yp",
+        "publishedAt": "2026-07-16T19:34:12.478167Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/02MDj4pJPonrnXNDo0Wsb1msXsk5qgeGZNzOSsLT3bNIaZqwm309WnMx8an1Xo_MuQZwk0iScg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/02MDj4pJPonrnXNDo0Wsb1msXsk5qgeGZNzOSsLT3bNIaZqwm309WnMx8an1Xo_MuQZwk0iScg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/02MDj4pJPonrnXNDo0Wsb1msXsk5qgeGZNzOSsLT3bNIaZqwm309WnMx8an1Xo_MuQZwk0iScg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "DotAnime ",
+          "description": "Welcome to our channel!\n\nHere you'll find honest reviews and recommendations for Anime, Donghua, Aeni, and other animated series."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUzKriJuGaw_xhad_ip6knbw"
+        }
+      },
+      "statistics": {
+        "viewCount": "7522",
+        "subscriberCount": "15",
+        "hiddenSubscriberCount": false,
+        "videoCount": "26"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "EpBCxOZx0AQmV5tHiqYUA9-CJzc",
+      "id": "UCtW6HimUlruCxBsbQouPhbQ",
+      "snippet": {
+        "title": "Brief Mystery Tales",
+        "description": "Welcome to Brief Mystery Tales! 👁️\n\nYour destination for chilling True Crime cases, unsolved mysteries, and terrifying real-life Reddit horror stories. We break down the darkest real-life events into short, gripping narratives—no filler, just pure mystery.\n\n🕯️ What you’ll find here:\n\nQuick breakdowns of famous True Crime cases\n\nReal creepy encounters & stalker stories from Reddit (r/letsnotmeet, r/nosleep)\n\nMind-bending unsolved mysteries that will keep you awake\n\n📩 Business inquiries & story submissions: [[EMAIL-REDACTED]]\n\nHit subscribe and never watch alone! 💀\n\n\n\n",
+        "customUrl": "@briefmysterytales",
+        "publishedAt": "2026-06-15T01:39:50.915489Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/eQwcQb7sVDR5Xjs4HyRZLC_bV8fWx8NbCtyKe2bvaTab2kXWfwbqPmQl5TwbCLCCBNViJweeLA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/eQwcQb7sVDR5Xjs4HyRZLC_bV8fWx8NbCtyKe2bvaTab2kXWfwbqPmQl5TwbCLCCBNViJweeLA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/eQwcQb7sVDR5Xjs4HyRZLC_bV8fWx8NbCtyKe2bvaTab2kXWfwbqPmQl5TwbCLCCBNViJweeLA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Brief Mystery Tales",
+          "description": "Welcome to Brief Mystery Tales! 👁️\n\nYour destination for chilling True Crime cases, unsolved mysteries, and terrifying real-life Reddit horror stories. We break down the darkest real-life events into short, gripping narratives—no filler, just pure mystery.\n\n🕯️ What you’ll find here:\n\nQuick breakdowns of famous True Crime cases\n\nReal creepy encounters & stalker stories from Reddit (r/letsnotmeet, r/nosleep)\n\nMind-bending unsolved mysteries that will keep you awake\n\n📩 Business inquiries & story submissions: [[EMAIL-REDACTED]]\n\nHit subscribe and never watch alone! 💀\n\n\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUtW6HimUlruCxBsbQouPhbQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "7409",
+        "subscriberCount": "1100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "IQ3BLolj1GiCykNVBNJsL05shg4",
+      "id": "UCBaskf6b5FcO1Bs6XutjXkQ",
+      "snippet": {
+        "title": "Daoverse Donghua",
+        "description": "Explore the deep lore, untold stories, and hidden truths behind your favorite donghua series — from BTTH to Soul Land, Perfect World, Throne of Seal and more.\n\nWe dive into character backstories, epic moments, and novel-based facts — all in Hindi, crafted for true fans of the cultivation universe.\nSubscribe and join the Daoverse, where every story has a deeper meaning.\n\nSubscribe now... \n\nFor Business related queries👇\n[EMAIL-REDACTED]",
+        "customUrl": "@daoverse_donghua",
+        "publishedAt": "2025-07-20T19:38:16.17615Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/IUWgEhZA68_f2uNGVMB_cBgV4FnIR8D5kY5K4ohlwxmq3ecqZKr6hDhAesqwOugfzEJR7wO8oA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/IUWgEhZA68_f2uNGVMB_cBgV4FnIR8D5kY5K4ohlwxmq3ecqZKr6hDhAesqwOugfzEJR7wO8oA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/IUWgEhZA68_f2uNGVMB_cBgV4FnIR8D5kY5K4ohlwxmq3ecqZKr6hDhAesqwOugfzEJR7wO8oA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Daoverse Donghua",
+          "description": "Explore the deep lore, untold stories, and hidden truths behind your favorite donghua series — from BTTH to Soul Land, Perfect World, Throne of Seal and more.\n\nWe dive into character backstories, epic moments, and novel-based facts — all in Hindi, crafted for true fans of the cultivation universe.\nSubscribe and join the Daoverse, where every story has a deeper meaning.\n\nSubscribe now... \n\nFor Business related queries👇\n[EMAIL-REDACTED]"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUBaskf6b5FcO1Bs6XutjXkQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "10959967",
+        "subscriberCount": "11500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "421"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "tgHgtZKG2VH8_tCIbyT-FWVglNo",
+      "id": "UCq4gX-3LO6_09R5BtzRlfBA",
+      "snippet": {
+        "title": "Agudo dan Beruang",
+        "description": "📢 Ada Diskon Top Up Hingga 50 Ribu\n🎮 Grup Mabar HOK? Klik Link Di Bio!",
+        "customUrl": "@agudo.beruang",
+        "publishedAt": "2024-05-22T04:34:22.405664Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/tWUgPxdslQX8zXrKRI2VFJYwM2s28vzCaW2FDd1iVeJZfVMX36t69uUGaB3TseOqz5-Cnr71MdE=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/tWUgPxdslQX8zXrKRI2VFJYwM2s28vzCaW2FDd1iVeJZfVMX36t69uUGaB3TseOqz5-Cnr71MdE=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/tWUgPxdslQX8zXrKRI2VFJYwM2s28vzCaW2FDd1iVeJZfVMX36t69uUGaB3TseOqz5-Cnr71MdE=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Agudo dan Beruang",
+          "description": "📢 Ada Diskon Top Up Hingga 50 Ribu\n🎮 Grup Mabar HOK? Klik Link Di Bio!"
+        },
+        "country": "ID"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUq4gX-3LO6_09R5BtzRlfBA"
+        }
+      },
+      "statistics": {
+        "viewCount": "19074210",
+        "subscriberCount": "10200",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1334"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "25JYZT2JoM4qtKtyCIXCtJFBsK0",
+      "id": "UC1yGQPVPhalnQO91TB7sP0g",
+      "snippet": {
+        "title": "Rehman Explainer",
+        "description": "Welcome to (Rehman Explainer) my channel🥀\n\n\"Latest /Chinese Donghua series explanation /Breakdown in Hindi/Urdu language\"\n\nits all about Chinese 3d Donghua series.\n\nThanks to everyone of you for watching my every explanation video and giving me more confidence for doing extraordinary content.I am always trying my best to deliver you every latest episode in time.\n\nFor business purposes \nemail : [EMAIL-REDACTED] ",
+        "customUrl": "@rehmanexplainer5808",
+        "publishedAt": "2022-03-15T11:51:48.888898Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/zn3Winju3ZtRyvoJHQ7wUtdMRdKxX2GR6XexAjvp95NsEqXsiRAWsBnmeTZK1A2mVaD1OYDAhA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/zn3Winju3ZtRyvoJHQ7wUtdMRdKxX2GR6XexAjvp95NsEqXsiRAWsBnmeTZK1A2mVaD1OYDAhA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/zn3Winju3ZtRyvoJHQ7wUtdMRdKxX2GR6XexAjvp95NsEqXsiRAWsBnmeTZK1A2mVaD1OYDAhA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Rehman Explainer",
+          "description": "Welcome to (Rehman Explainer) my channel🥀\n\n\"Latest /Chinese Donghua series explanation /Breakdown in Hindi/Urdu language\"\n\nits all about Chinese 3d Donghua series.\n\nThanks to everyone of you for watching my every explanation video and giving me more confidence for doing extraordinary content.I am always trying my best to deliver you every latest episode in time.\n\nFor business purposes \nemail : [EMAIL-REDACTED] "
+        },
+        "country": "PK"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU1yGQPVPhalnQO91TB7sP0g"
+        }
+      },
+      "statistics": {
+        "viewCount": "17720952",
+        "subscriberCount": "174000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "290"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "PTAhhduDDKL-4diLTt2chy7Bf1g",
+      "id": "UCfnSQ1E8DGe0fGO1AZm7YGA",
+      "snippet": {
+        "title": "Fragments of the Infinite",
+        "description": "Welcome to a channel dedicated to deep conceptual analysis of novels, films, plays, and philosophical ideas.\nHere, we explore stories beyond the surface — uncovering meaning, symbolism, narrative structure, and philosophical questions hidden within literature and cinema. From classic novels and modern movies to theater, and critical theories, each video offers thoughtful interpretation and analytical insight.\n\nIf you are interested in film analysis, literary criticism, philosophy, narrative theory, symbolism, meaning, and the relationship between art and thought, this channel is for you. This is a space for slow thinking, close reading, and reflective viewing — where stories become tools for understanding the human condition.\n\nSubscribe if you enjoy philosophical analysis of movies and books, conceptual discussions, and exploring how art shapes our understanding of reality, identity, freedom, and existence.\n\n",
+        "customUrl": "@fragmentsinfinite-i7s",
+        "publishedAt": "2026-01-03T14:44:40.421121Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/1j7ZICidZv9R-uGP3mdNf7FrXnSKwjwWS4PcJMMTr1bKe9h-gR4pMsQYi3TrOYkMO7lPw7IsPA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/1j7ZICidZv9R-uGP3mdNf7FrXnSKwjwWS4PcJMMTr1bKe9h-gR4pMsQYi3TrOYkMO7lPw7IsPA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/1j7ZICidZv9R-uGP3mdNf7FrXnSKwjwWS4PcJMMTr1bKe9h-gR4pMsQYi3TrOYkMO7lPw7IsPA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Fragments of the Infinite",
+          "description": "Welcome to a channel dedicated to deep conceptual analysis of novels, films, plays, and philosophical ideas.\nHere, we explore stories beyond the surface — uncovering meaning, symbolism, narrative structure, and philosophical questions hidden within literature and cinema. From classic novels and modern movies to theater, and critical theories, each video offers thoughtful interpretation and analytical insight.\n\nIf you are interested in film analysis, literary criticism, philosophy, narrative theory, symbolism, meaning, and the relationship between art and thought, this channel is for you. This is a space for slow thinking, close reading, and reflective viewing — where stories become tools for understanding the human condition.\n\nSubscribe if you enjoy philosophical analysis of movies and books, conceptual discussions, and exploring how art shapes our understanding of reality, identity, freedom, and existence.\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfnSQ1E8DGe0fGO1AZm7YGA"
+        }
+      },
+      "statistics": {
+        "viewCount": "1266",
+        "subscriberCount": "13",
+        "hiddenSubscriberCount": false,
+        "videoCount": "19"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "a-8LaY953k2_h6kVBxyKrL52ZVs",
+      "id": "UCNRZLDF4OeJSNgfJ1TdmSFQ",
+      "snippet": {
+        "title": "Morbid Report",
+        "description": "Hey, glad you're here! We go deep on some of the darkest cases and criminals out there, the psychology, the detail, the stuff that actually makes sense of it all.\n\nNew episodes every week!\n\n",
+        "customUrl": "@morbidreport",
+        "publishedAt": "2026-05-08T11:19:54.40741Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/PyeuU9wWfO2hLgRgt8LZlnGwx9bb6mOc5qiOSX_DrPnqZjxqN0aFD-maDqefHzNbj6QbO297_g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/PyeuU9wWfO2hLgRgt8LZlnGwx9bb6mOc5qiOSX_DrPnqZjxqN0aFD-maDqefHzNbj6QbO297_g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/PyeuU9wWfO2hLgRgt8LZlnGwx9bb6mOc5qiOSX_DrPnqZjxqN0aFD-maDqefHzNbj6QbO297_g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Morbid Report",
+          "description": "Hey, glad you're here! We go deep on some of the darkest cases and criminals out there, the psychology, the detail, the stuff that actually makes sense of it all.\n\nNew episodes every week!\n\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUNRZLDF4OeJSNgfJ1TdmSFQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1196789",
+        "subscriberCount": "10300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8e0mwO2ZBnQta3fEMNxVRxRogtI",
+      "id": "UC6u0-jgM4gOxelhKtPCWi-w",
+      "snippet": {
+        "title": "Arsh Explains",
+        "description": "",
+        "customUrl": "@arshexplainsofficial",
+        "publishedAt": "2026-03-12T18:04:04.890665Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/YVDZa4OyYmmsOl3r35wU1a7xmFxgfxwgfWCw_y8zuFJ4TGYN38SNQB1E-TcNvWEMlrp5EuDwQHM=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/YVDZa4OyYmmsOl3r35wU1a7xmFxgfxwgfWCw_y8zuFJ4TGYN38SNQB1E-TcNvWEMlrp5EuDwQHM=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/YVDZa4OyYmmsOl3r35wU1a7xmFxgfxwgfWCw_y8zuFJ4TGYN38SNQB1E-TcNvWEMlrp5EuDwQHM=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Arsh Explains",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6u0-jgM4gOxelhKtPCWi-w"
+        }
+      },
+      "statistics": {
+        "viewCount": "7709218",
+        "subscriberCount": "34300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "78"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8BQFZIx7Kc6pYQd0915ypRTaHFM",
+      "id": "UCwqlUue_oPokOvlMv9G79TQ",
+      "snippet": {
+        "title": "novelan",
+        "description": "Channel ini berisi alur cerita fiksi imajinasi, spoiler anime Donghua versi novel🙏🫣\n\n👉FOKUS ALUR CERITA BUKAN VIDEO ANIMASINYA👌\n🙏Like🙏Share🙏Koment🙏Subscribe🙏TERIMAKASIH🤝\n\n#LANJUT \n#ANIMASI \n#ANIME \n#DONGHUA \n#SPOILER \n#REVIEW \n#ALURCERITA \n#FILM \n#TRAILER \n#MUSIK \n#GAME \n#HIBURAN \n#DRAMA \n#DIVIRALKAN \n#BERITA\n#GOOGLE \n#Bukanyoutuberbesar \n#CHAPTER \n#PART \n#FOLLOW\n#YOUTUBEPEMULA \n#NOVELAN69 ",
+        "customUrl": "@novelan69",
+        "publishedAt": "2025-10-18T08:22:17.295674Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/zQ2sWF1TpVMH-_xgeT1RoOIgGpoSCoYczu12N9dTFA0Z2FAZnnGz6t1gPJQldFQFa3QnjQ2OvK0=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/zQ2sWF1TpVMH-_xgeT1RoOIgGpoSCoYczu12N9dTFA0Z2FAZnnGz6t1gPJQldFQFa3QnjQ2OvK0=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/zQ2sWF1TpVMH-_xgeT1RoOIgGpoSCoYczu12N9dTFA0Z2FAZnnGz6t1gPJQldFQFa3QnjQ2OvK0=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "novelan",
+          "description": "Channel ini berisi alur cerita fiksi imajinasi, spoiler anime Donghua versi novel🙏🫣\n\n👉FOKUS ALUR CERITA BUKAN VIDEO ANIMASINYA👌\n🙏Like🙏Share🙏Koment🙏Subscribe🙏TERIMAKASIH🤝\n\n#LANJUT \n#ANIMASI \n#ANIME \n#DONGHUA \n#SPOILER \n#REVIEW \n#ALURCERITA \n#FILM \n#TRAILER \n#MUSIK \n#GAME \n#HIBURAN \n#DRAMA \n#DIVIRALKAN \n#BERITA\n#GOOGLE \n#Bukanyoutuberbesar \n#CHAPTER \n#PART \n#FOLLOW\n#YOUTUBEPEMULA \n#NOVELAN69 "
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwqlUue_oPokOvlMv9G79TQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "237695",
+        "subscriberCount": "789",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1085"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "q4FHF7wFufaC3mEnN4rIQhn6JIg",
+      "id": "UCF2abS56X1XWb3y3MVC8PtA",
+      "snippet": {
+        "title": "Daire S",
+        "description": "",
+        "customUrl": "@dairesmiddy",
+        "publishedAt": "2016-05-23T16:50:04Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/32vx-RjMTXriN2il_e5mTfcOjcArzDPNE9xsUg5w3svbyiC1DdV1iok3FIiDeumc2zCVY0CrPw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/32vx-RjMTXriN2il_e5mTfcOjcArzDPNE9xsUg5w3svbyiC1DdV1iok3FIiDeumc2zCVY0CrPw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/32vx-RjMTXriN2il_e5mTfcOjcArzDPNE9xsUg5w3svbyiC1DdV1iok3FIiDeumc2zCVY0CrPw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Daire S",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUF2abS56X1XWb3y3MVC8PtA"
+        }
+      },
+      "statistics": {
+        "viewCount": "21698",
+        "subscriberCount": "194",
+        "hiddenSubscriberCount": false,
+        "videoCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "fMxcmWJt_f88BYt__TASVvlI2OM",
+      "id": "UC0cuVI7ZFCPSi1sxcZpRWvQ",
+      "snippet": {
+        "title": "The Case Verdict",
+        "description": "Every case has two sides. Not every case has answers.\n\nThe Case Verdict is a documentary-style true crime channel \ndedicated to uncovering the stories behind the most \ncompelling, disturbing, and unresolved criminal cases \nfrom around the world.\n\nNo sensationalism. No exploitation. Just the facts, \nthe evidence, and the questions that keep investigators \n— and juries — up at night.\n\nNew case every week.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nWhat we cover:\n→ Unsolved murders\n→ Wrongful convictions\n→ Cold cases\n→ Heists and con artists\n→ Courtroom breakdowns\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nEvery verdict tells a story.\nNot every story has a verdict.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nSubscribe for new cases.\nTurn on notifications — you won't want to miss one.\n",
+        "customUrl": "@thecaseverdict-1044",
+        "publishedAt": "2026-10-07T07:25:17.61878Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a_WOOfSLQir1Paj83fy7P3p2W_4DUPHd_ykwu0eHMjN9Mm7ovDfjjYJsXsE_Qdfyhi3tsk9v=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a_WOOfSLQir1Paj83fy7P3p2W_4DUPHd_ykwu0eHMjN9Mm7ovDfjjYJsXsE_Qdfyhi3tsk9v=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a_WOOfSLQir1Paj83fy7P3p2W_4DUPHd_ykwu0eHMjN9Mm7ovDfjjYJsXsE_Qdfyhi3tsk9v=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Case Verdict",
+          "description": "Every case has two sides. Not every case has answers.\n\nThe Case Verdict is a documentary-style true crime channel \ndedicated to uncovering the stories behind the most \ncompelling, disturbing, and unresolved criminal cases \nfrom around the world.\n\nNo sensationalism. No exploitation. Just the facts, \nthe evidence, and the questions that keep investigators \n— and juries — up at night.\n\nNew case every week.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nWhat we cover:\n→ Unsolved murders\n→ Wrongful convictions\n→ Cold cases\n→ Heists and con artists\n→ Courtroom breakdowns\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nEvery verdict tells a story.\nNot every story has a verdict.\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nSubscribe for new cases.\nTurn on notifications — you won't want to miss one.\n"
+        },
+        "country": "PK"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU0cuVI7ZFCPSi1sxcZpRWvQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "30",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "t37P8eI8S2Bogq0_gouFKquxORg",
+      "id": "UCuT-x1RnNlqylGj-ILCBuRQ",
+      "snippet": {
+        "title": "BySoju",
+        "description": "hey i am soju a first year bds student ;) sometimes i come here to share true crime documentaries hope you like it\nlet's grow together🌷",
+        "customUrl": "@bysoju-v9p",
+        "publishedAt": "2026-08-08T10:46:12.937027Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/yiOVBiX1rlPOoxWnD03o43XzUom9Q6Y1uYnJl-TGN0dG532e5TTgkHxJtGrtw5Cr7xZ5ueVjSsg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/yiOVBiX1rlPOoxWnD03o43XzUom9Q6Y1uYnJl-TGN0dG532e5TTgkHxJtGrtw5Cr7xZ5ueVjSsg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/yiOVBiX1rlPOoxWnD03o43XzUom9Q6Y1uYnJl-TGN0dG532e5TTgkHxJtGrtw5Cr7xZ5ueVjSsg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "BySoju",
+          "description": "hey i am soju a first year bds student ;) sometimes i come here to share true crime documentaries hope you like it\nlet's grow together🌷"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUuT-x1RnNlqylGj-ILCBuRQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "3809",
+        "subscriberCount": "5",
+        "hiddenSubscriberCount": false,
+        "videoCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "JTWd-vVZuTygsDoISyqOFr8fvgE",
+      "id": "UCwf0qSeR2if1xWfofsnFjdA",
+      "snippet": {
+        "title": "Binge Label Malayalam ",
+        "description": "Binge Label is a new age digital platform– for, by and of – the quintessential Malayalis. The platform was formed to explore the possibilities of different realms in the digital space. Binge Label was founded in 2021 by Ubais Marly.",
+        "customUrl": "@bingelabelml",
+        "publishedAt": "2018-02-04T10:51:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Binge Label Malayalam ",
+          "description": "Binge Label is a new age digital platform– for, by and of – the quintessential Malayalis. The platform was formed to explore the possibilities of different realms in the digital space. Binge Label was founded in 2021 by Ubais Marly."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwf0qSeR2if1xWfofsnFjdA"
+        }
+      },
+      "statistics": {
+        "viewCount": "12094065",
+        "subscriberCount": "31900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "971"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "WOJAh9NFahZFuMh0c2thn4SJeN0",
+      "id": "UC6vAClsyyOkfJ966tUH3tVQ",
+      "snippet": {
+        "title": "Character Analysis",
+        "description": "Just a girl with extreme ADHD, wired for pattern recognition. Subscribe for behavior-first takes on people, true crime, and pop culture. Host of the Character Analysis podcast.\n\nSubscribe to get access to regular members-only videos. \nhttps://www.patreon.com/mycharacteranalysis\n\nInstagram\nhttps://instagram.com/thechristanm\n\nTik Tok\nhttps://tiktok.com/@mycharacteranalysis\n\nRead more of my analysis at https://mycharacteranalysis.substack.com\n\n",
+        "customUrl": "@mycharacteranalysis",
+        "publishedAt": "2023-07-26T16:29:34.135321Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/BUbjD7TD69TypWGzNVt5FENXxVmUmKyIQVaNok_61uSZ-L9seAU0K9w5BBJWTTJziYByAMa6Lw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/BUbjD7TD69TypWGzNVt5FENXxVmUmKyIQVaNok_61uSZ-L9seAU0K9w5BBJWTTJziYByAMa6Lw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/BUbjD7TD69TypWGzNVt5FENXxVmUmKyIQVaNok_61uSZ-L9seAU0K9w5BBJWTTJziYByAMa6Lw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Character Analysis",
+          "description": "Just a girl with extreme ADHD, wired for pattern recognition. Subscribe for behavior-first takes on people, true crime, and pop culture. Host of the Character Analysis podcast.\n\nSubscribe to get access to regular members-only videos. \nhttps://www.patreon.com/mycharacteranalysis\n\nInstagram\nhttps://instagram.com/thechristanm\n\nTik Tok\nhttps://tiktok.com/@mycharacteranalysis\n\nRead more of my analysis at https://mycharacteranalysis.substack.com\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6vAClsyyOkfJ966tUH3tVQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1607789",
+        "subscriberCount": "7650",
+        "hiddenSubscriberCount": false,
+        "videoCount": "481"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1105 @@
+{
+  "query": "true crime documentary",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "6D7VJE3NzRC-U6uCqlURw5dow4U",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m00bpqfZL5kjLRQelVVTENhZvpQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jHWmBHUbDXQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:39:54Z",
+          "channelId": "UCuT-x1RnNlqylGj-ILCBuRQ",
+          "title": "Imagine Being the Next Victim of  Stoneman | Indian True Crime | #truecrimestories",
+          "description": "During the 1980s, a series of killings targeting people sleeping on the streets terrified parts of Mumbai and Kolkata.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jHWmBHUbDXQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jHWmBHUbDXQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jHWmBHUbDXQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jHWmBHUbDXQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jHWmBHUbDXQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BySoju",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:39:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PbI2jt0hIme-r4eKQ4rOKFlvcJo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cEYZE4EgLYY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:57Z",
+          "channelId": "UCErQaD-Mkc5Eg29NlB6USNQ",
+          "title": "When you&#39;re watching a true crime documentary about kidnapping",
+          "description": "When you're watching a true crime documentary about kidnapping but it sounds a lot like how you met your mom Gatsby, my ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cEYZE4EgLYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cEYZE4EgLYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cEYZE4EgLYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cEYZE4EgLYY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cEYZE4EgLYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "gatsbygalaxykitty",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_JqGZmlDjOejOam4Z25neNm7tzU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N2eAr0owIW4"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:24Z",
+          "channelId": "UCSzrwmWNpTy0RrNzM2w65ow",
+          "title": "Inside America&#39;s Federal Prisons: Power, Fear &amp; Survival | True Crime Documentary",
+          "description": "Inside America's Federal Prisons: Power, Fear & Survival | True Crime Documentary Step inside America's federal prison system ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N2eAr0owIW4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N2eAr0owIW4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N2eAr0owIW4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N2eAr0owIW4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N2eAr0owIW4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ethan Crime Chronicles",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DLqPY1ozAa6h21lu_BcQ2R_Nz8w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DJ5GvUBxyjY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:07Z",
+          "channelId": "UC2xNkVKLJhgX_BoyoCqFsVw",
+          "title": "Forensic Files 2026 💀 The Jeweler&#39;s Double Ledger 🆘 True Crime Documentary",
+          "description": "Forensic Files 2026 The Jeweler's Double Ledger True Crime Documentary.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/DJ5GvUBxyjY/fhddefault_live.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "La-or, sweet and juicy ",
+          "liveBroadcastContent": "live",
+          "publishTime": "2026-10-12T00:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "27hEDd3ZL242jpc8_9Mv5ynmnZo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kIIVCAdi0WI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:48:08Z",
+          "channelId": "UC6vAClsyyOkfJ966tUH3tVQ",
+          "title": "The screams at 2:39 am are not related to the murders #idaho4",
+          "description": "The reason I dismissed the 230 to 3:30 AM audio is because there's absolutely no evidence proving that it has anything to do with ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kIIVCAdi0WI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kIIVCAdi0WI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kIIVCAdi0WI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kIIVCAdi0WI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kIIVCAdi0WI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Character Analysis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:48:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z_fobM_QkamwGPl_qdEbE_IVKOM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pbYU_CyPdlE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:08:59Z",
+          "channelId": "UCL7QYUz8J9-mNsxU3xr9HuA",
+          "title": "The $2 Label That Cost America $126 Million — Full Story LIVE Now #Shorts",
+          "description": "[Write the episode's story summary here] Subscribe to Zero Cases for weekly true crime documentaries from South Asia — the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pbYU_CyPdlE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pbYU_CyPdlE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pbYU_CyPdlE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pbYU_CyPdlE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pbYU_CyPdlE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zero Cases",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:08:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pPm5H0WHvcNFYoyHUthqrj_JTSc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lICbNkrH1sg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:41:23Z",
+          "channelId": "UCABTmppCsgdJd5UFYm6ioYg",
+          "title": "Harold Shipman: The Doctor Who Killed 250 Patients | True Crime Documentary",
+          "description": "Harold Shipman was a trusted family doctor in Britain. His patients believed he was there to save their lives. But behind his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lICbNkrH1sg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lICbNkrH1sg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lICbNkrH1sg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lICbNkrH1sg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lICbNkrH1sg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crime Lore",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:41:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BxxZhN2LlK_6KE6VpIJUIFS9isI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qqzS_ng1rjE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:20:50Z",
+          "channelId": "UCNRZLDF4OeJSNgfJ1TdmSFQ",
+          "title": "Cases That Make Horror Movies Look Tame | True Crime Documentary",
+          "description": "Horror movies are designed to terrify you. But what happens when real life produces something far worse than fiction? Some of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "qhd": {
+              "url": "https://i.ytimg.com/vi/qqzS_ng1rjE/qhddefault.jpg",
+              "width": 2560,
+              "height": 1440
+            }
+          },
+          "channelTitle": "Morbid Report",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:20:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QTCf7hg33LKFR6SrmuCIEkRZ5zo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HvpaSc9_Hys"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:19:16Z",
+          "channelId": "UC8kJuirBHOG_9cSD-SBC01A",
+          "title": "The Medicus Case Ep 5: Follow the Money | True Crime #shorts  #medicalcrime",
+          "description": "Donors were promised thousands. Recipients paid up to €100000. Episode 5 of 12: Follow the Money — part of our deep dive into ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HvpaSc9_Hys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HvpaSc9_Hys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HvpaSc9_Hys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HvpaSc9_Hys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HvpaSc9_Hys/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Case Unraveled",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:19:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KoV8MER_MrynhxC5HNMoxqbmjcM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "grsstRdVSGE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:00:26Z",
+          "channelId": "UCtW6HimUlruCxBsbQouPhbQ",
+          "title": "The Monster Who Escaped Justice... For 15 Years 😱#truecrimedocumentary",
+          "description": "How did one of America's most prolific serial killers evade justice for nearly two decades? Gary Ridgway thought he got away ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/grsstRdVSGE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/grsstRdVSGE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/grsstRdVSGE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/grsstRdVSGE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/grsstRdVSGE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brief Mystery Tales",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dQg0t06JjrWIFHkV9o4uvJgo1V4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ceptlLGl0q0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:49:18Z",
+          "channelId": "UCxpo8Dq1KvKA6zeOesPYWkA",
+          "title": "3 Reel Doctors of Death w/ The Reel Rant Rant Reviewer #crimedocumentary #truecrimedocumentary",
+          "description": "crimenews #crimestory #crimestories #crimedocumentary #crimenreal #crimepatrol #crimeinvestigation #crimeshow ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ceptlLGl0q0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ceptlLGl0q0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ceptlLGl0q0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ceptlLGl0q0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ceptlLGl0q0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Reel Rant Reviewer  ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:49:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2YFXKuERkB6fR8ZODsJsfgGz40Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aTr78XGysuw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:38:54Z",
+          "channelId": "UC8jV70MenkUSM8pP7KnrIAg",
+          "title": "30th Birthday Ends in Murder #truecrime #documentary #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aTr78XGysuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aTr78XGysuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aTr78XGysuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aTr78XGysuw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aTr78XGysuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Red Door Crime Storytime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:38:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "djkJOYdO5QdpPf-v12XyGz0XMRE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zWdOv6s620A"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:25:40Z",
+          "channelId": "UCfvg_B4ogvPs5BoHYUfTIYA",
+          "title": "The Killer Covered Every Mirror in the House, Then Vanished Into the Night",
+          "description": "On the night of June 9, 1912, eight people went to sleep in the Moore family farmhouse in Villisca, Iowa — Josiah and Sarah ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zWdOv6s620A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zWdOv6s620A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zWdOv6s620A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Evidence Locker",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:25:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vha0txSKE0SaOiwVp5hSGehNbeM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PwjwpV7r8ZY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:22:05Z",
+          "channelId": "UCaEL-4jCUI7gbCQRyH5BUvA",
+          "title": "A Water Bottle at a Rock Concert Just Solved a 41-Year-Old Murder 😱 #shorts",
+          "description": "All scenes are AI-generated dramatizations — no real crime footage is used. On May 19, 1985, 22-year-old Hillary Hellewell was ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PwjwpV7r8ZY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PwjwpV7r8ZY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PwjwpV7r8ZY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PwjwpV7r8ZY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PwjwpV7r8ZY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CASE 404",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:22:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mzi9IA7nptkGhB5qKMbj7TQzzIw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lyvmCZfo6SI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:18:04Z",
+          "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+          "title": "The Killer Who Terrorized Los Angeles at Night #crimedocumentary #truecrimedocumentary #crimestory",
+          "description": "n the mid-1980s, Richard Ramirez terrorized Southern California through a series of nighttime attacks that earned him the name ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Badge and Bloodshed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:18:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8l8slxxAiPVIsPOtiUDk9t0cVL8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YpNJ3PTMdHs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:08:34Z",
+          "channelId": "UCgOIA15ZG1dbTn3WL1IofQQ",
+          "title": "“From the Streets to Global Crime: Notorious Gangs 1980–2026#NotoriousGangs #GangHistory #",
+          "description": "From the Streets to Global Crime: Notorious Gangs (1980–2026) Discover the history of notorious gangs from 1980 to 2026 and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YpNJ3PTMdHs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YpNJ3PTMdHs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YpNJ3PTMdHs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YpNJ3PTMdHs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YpNJ3PTMdHs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Daily Drift",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:08:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HYpUzg_HsKkMsgh03MGRV6MW-a0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_FISeBDPwsU"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:00:18Z",
+          "channelId": "UC0cuVI7ZFCPSi1sxcZpRWvQ",
+          "title": "Britain&#39;s Longest Wrongful Conviction Just Ended | True Crime Documentary",
+          "description": "In August 1986, a 21 year old barmaid named Diane Sindall finished her shift at a pub in Merseyside, England and began walking ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_FISeBDPwsU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_FISeBDPwsU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_FISeBDPwsU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_FISeBDPwsU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_FISeBDPwsU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Case Verdict",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PW_-vz-TZwjJUz27r6DRfkpq6i4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htplUIHLzR0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:00:24Z",
+          "channelId": "UCrCq-3EBqcL7YoU3Zo15Yrg",
+          "title": "Charming BUT Moster : Ted Bundy #Truecrime #truecrimedocumentary",
+          "description": "Charming BUT Moster : Ted Bundy #Truecrime #truecrimedocumentary.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htplUIHLzR0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htplUIHLzR0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htplUIHLzR0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/htplUIHLzR0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/htplUIHLzR0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Westrn Sun",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:00:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9_sjWItKppilwnarFdUsaCTdnJc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DgXgeVFKiDo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:45:09Z",
+          "channelId": "UCYr0aqdTcFkbhZWKyOYMvsQ",
+          "title": "NEW YORK 1974 — Suspected 32 Years, DNA Cleared His Name #coldcases #truecrimedocumentary",
+          "description": "NEW YORK 1974 — Suspected 32 Years, DNA Cleared His Name #coldcases #truecrimedocumentary 52 years. That's how long ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DgXgeVFKiDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DgXgeVFKiDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DgXgeVFKiDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DgXgeVFKiDo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DgXgeVFKiDo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Buried Verdict",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:45:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4-q3tXyI6rL1bVr65u1TMMJG2Eg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WQPHcnyK1Ck"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:00:35Z",
+          "channelId": "UCUJoSIkhzjaI5mGNZVfCtlA",
+          "title": "Forensic Files Full Episodes 2026 | Filtered Out | True Crime Documentary #1080p",
+          "description": "Forensic Files Full Episodes 2026 | Filtered Out | True Crime Documentary #1080p forensic files, forensic files 2025, forensic files ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WQPHcnyK1Ck/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WQPHcnyK1Ck/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WQPHcnyK1Ck/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WQPHcnyK1Ck/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "F Files Audio",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:00:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "89CzlO8AFc6UBnv7i8LXX6YcXm0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bmjG6atMnv8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:38:22Z",
+          "channelId": "UCJ5FPSZ4LWFYXpfsV2aCwGg",
+          "title": "A Marriage Falling Apart | The Murder of Lisa Infante | True Crime Documentary",
+          "description": "A marriage, a family, and a tragedy that changed everything. Discover the story of Lisa and Thomas Infante in this true crime ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bmjG6atMnv8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bmjG6atMnv8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bmjG6atMnv8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bmjG6atMnv8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bmjG6atMnv8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sad Crime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:38:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F9-Zcr1h0P5YArl9yrQRBkFZCKQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0kjDH-h8OaE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:39Z",
+          "channelId": "UCL2M5u6HcFO6XxMGm7LqmXw",
+          "title": "What Was Wrong With The Porch?",
+          "description": "On the porch of an empty house, searchers found exactly one thing out of place — and swept it away before anyone saw it as ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0kjDH-h8OaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0kjDH-h8OaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0kjDH-h8OaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0kjDH-h8OaE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0kjDH-h8OaE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Cold Dossier",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "be73KDpfOoBXXqgwg3xyg_cSNyY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3VH9C4MwDxI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:54:25Z",
+          "channelId": "UCMHVsnKP50BizIB9Q9AI3jw",
+          "title": "The Strangest Twist in This Case Will Shock You ! True Crime Documentary |",
+          "description": "June 2, 2026, Tuesday. On the main road near the vegetable market in Prayagraj, Uttar Pradesh, people were going about their ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3VH9C4MwDxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3VH9C4MwDxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3VH9C4MwDxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3VH9C4MwDxI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "David - True Crime",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:54:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vjNxRt-R4wp5Srgjy9W9tR9xZUE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JEF-pbGWQYs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:30:36Z",
+          "channelId": "UCfgM38DAD2_4BBAcAnayY3Q",
+          "title": "Assam Shanti Shaw Human Sacrifice Case 😱 #ShantiShaw #AssamCrime #HumanSacrifice #TrueCrime #crime",
+          "description": "అస్సాంలోని కామాఖ్య ఆలయం సమీపంలో శాంతి షా హత్య కేసు దేశవ్యాప్తంగా ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JEF-pbGWQYs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JEF-pbGWQYs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JEF-pbGWQYs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JEF-pbGWQYs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JEF-pbGWQYs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kalyan Dairies ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:30:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NVeYSggF7PptFyttDl0PGdiqmgs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "szK3xBPT1dI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:06:02Z",
+          "channelId": "UC1OWXfrq2FIK5gzo6T3reqg",
+          "title": "Billy McFarland’s $26 Million Lie #fyrefestival #scam #truecrime",
+          "description": "In 2017, Fyre Festival promised a luxury island experience in the Bahamas. Guests arrived to disaster relief tents and a cheese ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/szK3xBPT1dI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/szK3xBPT1dI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/szK3xBPT1dI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/szK3xBPT1dI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/szK3xBPT1dI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Blocked Minds",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:06:02Z"
+        }
+      }
+    ]
+  }
+}

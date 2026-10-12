@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "8iRsdpdBOAa3ZWAWpa4b-2uMbqs",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "01VFNaMdCrcxYdgR4Kw0h3KUbN0",
+      "id": "VVVSVjg3dnNmNm1oLWhTMzdtLUJOUUJ3Lk5PNkYwblczd3BZ",
+      "snippet": {
+        "publishedAt": "2026-10-11T08:31:37Z",
+        "channelId": "UCRV87vsf6mh-hS37m-BNQBw",
+        "title": "💗 Twenty-Five Twenty-One | Story Recap & Character Analysis 🎬",
+        "description": "Hi everyone! Welcome back to We Have no Plan! ✨\n\nIn today's video, we're talking about one of our favorite K-dramas, Twenty-Five Twenty-One! 🇰🇷💕\n\nJoin us as we explore the story, introduce the main characters, discuss their personalities, and share our thoughts about this unforgettable series.\n\nFrom friendship and dreams to love and growing up, Twenty-Five Twenty-One is a beautiful story filled with emotions and meaningful lessons. 🌷\n\n🎬 In this video:\n\nA recap of the story\n\nMain characters and their personalities\n\nImportant moments from the series\n\nOur thoughts and opinions\n\n⚠️ Spoiler Alert: This video contains spoilers from the series.\n\n🎥 Drama: Twenty-Five Twenty-One (2022)\n📺 Original Network: tvN\n🌸 Available on: Netflix (availability varies by region)\n\nThis video was created for commentary, review, and educational discussion. We do not own the original drama footage. All rights belong to their respective copyright owners.\n\n💌 Thank you so much for watching!\n\nDon't forget to like, comment, and subscribe to We Have no Plan for more fun videos together! 💗\n\n💬 Question of the day: Who is your favorite character from Twenty-Five Twenty-One, and why?\n\n#TwentyFiveTwentyOne #2521 #KDrama #KDramaReview #CharacterAnalysis #WeHaveNoPlan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NO6F0nW3wpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "We have no plan",
+        "playlistId": "UURV87vsf6mh-hS37m-BNQBw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NO6F0nW3wpY"
+        },
+        "videoOwnerChannelTitle": "We have no plan",
+        "videoOwnerChannelId": "UCRV87vsf6mh-hS37m-BNQBw"
+      },
+      "contentDetails": {
+        "videoId": "NO6F0nW3wpY",
+        "videoPublishedAt": "2026-10-11T08:31:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YxP3Gac_72CChTLkAzxWBCk11Y8",
+      "id": "VVVSVjg3dnNmNm1oLWhTMzdtLUJOUUJ3LkJBU2RQSlo1ZUE4",
+      "snippet": {
+        "publishedAt": "2026-10-11T04:00:59Z",
+        "channelId": "UCRV87vsf6mh-hS37m-BNQBw",
+        "title": "We Fell in Love in October 🍂 | Cover by Two Friends 🎤",
+        "description": "🍂 We Fell in Love in October – Cover by Two Friends 🎤\n\nHi everyone! Welcome to We Have no Plan!\n\nFor our English class project, we decided to sing \"We Fell in Love in October\" by girl in red.\n\nWe're just two friends having fun, practicing our English, and enjoying music together! 🎶\n\nThis is a non-commercial cover made for educational purposes.\n\nOriginal song: We Fell in Love in October – girl in red\n\nPerformed by: Two friends from We Have no Plan\n\nThanks for watching! ❤️\n\n#WeHaveNoPlan #CoverSong #WeFellInLoveInOctober #EnglishProject",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BASdPJZ5eA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BASdPJZ5eA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BASdPJZ5eA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BASdPJZ5eA8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BASdPJZ5eA8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "We have no plan",
+        "playlistId": "UURV87vsf6mh-hS37m-BNQBw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BASdPJZ5eA8"
+        },
+        "videoOwnerChannelTitle": "We have no plan",
+        "videoOwnerChannelId": "UCRV87vsf6mh-hS37m-BNQBw"
+      },
+      "contentDetails": {
+        "videoId": "BASdPJZ5eA8",
+        "videoPublishedAt": "2026-10-11T04:00:59Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 15
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "PnUbH4dIF9uDWBX4nKLJBt3E-WU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "liI7A8FGQtA7owAOgGhQ0efC6HE",
+      "id": "VVVxMDVwMWhyUmVXY2w5b1hiLTdLT213LlJrSnhDUjlwX3ZV",
+      "snippet": {
+        "publishedAt": "2026-10-11T19:21:27Z",
+        "channelId": "UCq05p1hrReWcl9oXb-7KOmw",
+        "title": "El Picasso de Hace 36.000 años #documentary #history #spain",
+        "description": "El Picasso de Hace 36.000 años\n\n🔔 **¡SUSCRÍBETE Y VIAJA A TRAVÉS DE LA HISTORIA!** Si te apasionan la historia ilustrada, el rigor arqueológico y los relatos bélicos y culturales de la humanidad, **activa la campanita** 🔔 y no te pierdas ninguna crónica semanal.\n\n*El pasado no está escrito en piedra, sino trazado en tinta y libertad.*\n\n#history #spain #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cronicas de Tinta y Libertad",
+        "playlistId": "UUq05p1hrReWcl9oXb-7KOmw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RkJxCR9p_vU"
+        },
+        "videoOwnerChannelTitle": "Cronicas de Tinta y Libertad",
+        "videoOwnerChannelId": "UCq05p1hrReWcl9oXb-7KOmw"
+      },
+      "contentDetails": {
+        "videoId": "RkJxCR9p_vU",
+        "videoPublishedAt": "2026-10-11T19:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BcSgUjp0srg8orn7aTyHByAYeyQ",
+      "id": "VVVxMDVwMWhyUmVXY2w5b1hiLTdLT213LmFTOTNXZlB2N0Z3",
+      "snippet": {
+        "publishedAt": "2026-10-10T11:21:51Z",
+        "channelId": "UCq05p1hrReWcl9oXb-7KOmw",
+        "title": "Ep. 01-¿Europa comenzó en una oscura cueva ibérica?",
+        "description": "**¿El origen de Europa comenzó en una oscura cueva ibérica?** 💀📜\n\nDurante siglos, la península ibérica permaneció envuelta en un profundo misterio arqueológico. En este primer episodio de **Crónicas de Tinta y Libertad**, nos adentramos en un viaje fascinante a través del tiempo: desde los fósiles milenarios de la Sierra de Atapuerca y el primer canibalismo documentado de la humanidad, hasta los majestuosos dólmenes megalíticos, la rígida sociedad de El Argar y los templos sumergidos en oro de la legendaria civilización de Tartessos.\n\nDescubre cómo pasamos de un puñado de cazadores de la Edad de Piedra a ciudades fortificadas y aristocracias guerreras armadas con la falcata, antes de que el choque entre Cartago y Roma cambiara nuestro destino para siempre.\n\n---\n\n⏱️ **MARCAS DE TIEMPO (TIMESTAMPS)**\n\n`00:00` \\- Introducción: El enigma del origen peninsular\n`00:52` \\- Atapuerca: El rostro más antiguo de Europa\n`01:19` \\- Gran Dolina: *Homo antecessor* y el canibalismo prehistórico\n`01:42` \\- De la Sima de los Huesos\n`02:20` \\- La Edad del Hielo: *Neandertal*\n`02:48` \\- *Homo Sapiens*\n`03:13` \\- Arte Rupestre Cantábrico\n`04:59` \\- Megalitismo Monumental: Los Dólmenes de Antequera\n`05:48` \\- La Cultura de El Argar: Reyes, diademas y tumbas bajo las casas\n`06:26` \\- Mosaico Prerromano: Celtas, Celtíberos, e Íberos con Falcata\n`07:53` \\- El Enigma de Tartessos: El santuario de Casas del Turuñuelo\n`09:01` \\- Llegan los Fenicios: Fundación de Gadir, Malaka y Sexi\n`09:48` \\- Llegan los Griegos: Fundación de Emporión y Rhodes\n`10:06` \\- Nace Ibéria \n`11:07` \\- Llegan los Cartaginenses\n`11:19` \\- Conclusión: Nos preparamos para la conquista de Hispania\n\n---\n\n📚 **FUENTES Y REFERENCIAS ACADÉMICAS**\n* Yacimiento Arqueológico de la Sierra de Atapuerca (Sima del Elefante, Gran Dolina, Sima de los Huesos).\n* Complejo Megalítico de los Dólmenes de Antequera (Menga, Viera, El Romeral).\n* Excavaciones arqueológicas del sitio Tartésico de Casas del Turuñuelo (Guareña, Badajoz).\n* Análisis histórico-arqueológico de la Península Ibérica Prerromana.\n\n---\n\n🔔 **¡SUSCRÍBETE Y VIAJA A TRAVÉS DE LA HISTORIA!** Si te apasionan la historia ilustrada, el rigor arqueológico y los relatos bélicos y culturales de la humanidad, **activa la campanita** 🔔 y no te pierdas ninguna crónica semanal.\n\n*El pasado no está escrito en piedra, sino trazado en tinta y libertad.*\n\n#history #spain #documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aS93WfPv7Fw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aS93WfPv7Fw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aS93WfPv7Fw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aS93WfPv7Fw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aS93WfPv7Fw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cronicas de Tinta y Libertad",
+        "playlistId": "UUq05p1hrReWcl9oXb-7KOmw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aS93WfPv7Fw"
+        },
+        "videoOwnerChannelTitle": "Cronicas de Tinta y Libertad",
+        "videoOwnerChannelId": "UCq05p1hrReWcl9oXb-7KOmw"
+      },
+      "contentDetails": {
+        "videoId": "aS93WfPv7Fw",
+        "videoPublishedAt": "2026-10-10T11:21:51Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 2,
+    "resultsPerPage": 15
+  }
+}

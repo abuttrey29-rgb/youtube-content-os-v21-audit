@@ -1,0 +1,786 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "sqvg63kz1QdVJGoq8lGliOvXg-Y",
+  "nextPageToken": "EAAaHlBUOkNBOGlFRUl3T1RWRFF6RkVSakk1TlVRNU5rVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yy_TU_h5iQvJscJxX-ZZickYSvg",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLmx5dm1DWmZvNlNJ",
+      "snippet": {
+        "publishedAt": "2026-10-11T18:18:04Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Killer Who Terrorized Los Angeles at Night #crimedocumentary #truecrimedocumentary #crimestory",
+        "description": "n the mid-1980s, Richard Ramirez terrorized Southern California through a series of nighttime attacks that earned him the name “The Night Stalker.”\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#NightStalker #RichardRamirez #TrueCrime #SerialKiller #CrimeDocumentary #truecrimeshorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lyvmCZfo6SI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lyvmCZfo6SI"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "lyvmCZfo6SI",
+        "videoPublishedAt": "2026-10-11T18:18:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GlTAfUGDu57C7hbpUc3qgqCF77A",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLnFqNUpUMXl6NnhN",
+      "snippet": {
+        "publishedAt": "2026-10-11T11:06:13Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Morning London Changed Forever  #crimedocumentary #truecrimedocumentary #crimestory",
+        "description": "On July 7, 2005, coordinated bombings struck London's public transport system during the morning rush hour, killing 52 victims and injuring hundreds.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#LondonBombings #7July #London #History #Documentary #historyshorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qj5JT1yz6xM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qj5JT1yz6xM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qj5JT1yz6xM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qj5JT1yz6xM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qj5JT1yz6xM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qj5JT1yz6xM"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "qj5JT1yz6xM",
+        "videoPublishedAt": "2026-10-11T11:06:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_EbHuq6j9vtF2ld662gSxCexVyQ",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLlpkOFZWZjU0Y3k0",
+      "snippet": {
+        "publishedAt": "2026-10-10T15:14:11Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "Jeffrey Dahmer: The Killer Who Was Beyond Human  #JeffreyDahmer #Dahmer #TrueCrime #serialkiller",
+        "description": "Behind an ordinary face was a horrifying secret. Jeffrey Dahmer committed crimes that shocked the world. What police discovered inside his apartment was almost unimaginable.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zd8VVf54cy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zd8VVf54cy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zd8VVf54cy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zd8VVf54cy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zd8VVf54cy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zd8VVf54cy4"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "Zd8VVf54cy4",
+        "videoPublishedAt": "2026-10-10T15:14:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xBXfOruCte-b6xPdR4XCO7CCDvw",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLjdSdmo1ZWdfNW1r",
+      "snippet": {
+        "publishedAt": "2026-10-10T15:04:51Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "Jeffrey Dahmer: The Horrifying Truth Behind Apartment 213",
+        "description": "Jeffrey Dahmer appeared ordinary, but behind closed doors was a horrifying reality. This documentary explores his crimes, his victims, and the disturbing discoveries that exposed one of America’s most infamous serial killers.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#JeffreyDahmer #TrueCrime #SerialKiller #CrimeDocumentary #truecrimedocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Rvj5eg_5mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Rvj5eg_5mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Rvj5eg_5mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Rvj5eg_5mk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Rvj5eg_5mk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7Rvj5eg_5mk"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "7Rvj5eg_5mk",
+        "videoPublishedAt": "2026-10-10T15:04:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vLLLRR9BZvfZkvd2eYtWk2bJ-HE",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLkk2b1RudERjVUpr",
+      "snippet": {
+        "publishedAt": "2026-10-10T08:13:20Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "Inside America's Most Controversial Commune #crimedocumentary #truecrimedocumentary #crimestory",
+        "description": "Thousands followed Bhagwan Shree Rajneesh to Oregon, where an ambitious commune grew into a conflict that shocked America.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#Rajneesh #Osho #Rajneeshpuram #Cult #TrueCrime #Documentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6oTntDcUJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6oTntDcUJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6oTntDcUJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I6oTntDcUJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I6oTntDcUJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I6oTntDcUJk"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "I6oTntDcUJk",
+        "videoPublishedAt": "2026-10-10T08:13:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gvA7S62iwbXzPmi2BnD2mRwTjq4",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLlZlaWtaby1TS1k0",
+      "snippet": {
+        "publishedAt": "2026-10-09T18:34:06Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Attack That Changed America Forever #September11 #911 #OsamaBinLaden #History #Documentary",
+        "description": "September 11, 2001 changed America and the world forever. A look back at the attacks, their devastating impact, and the man behind al-Qaeda.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VeikZo-SKY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VeikZo-SKY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VeikZo-SKY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VeikZo-SKY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VeikZo-SKY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VeikZo-SKY4"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "VeikZo-SKY4",
+        "videoPublishedAt": "2026-10-09T18:34:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XWjZjazG0-C6-e4BIYj4-KSnFak",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLnBTR3dGOWhWZ2dF",
+      "snippet": {
+        "publishedAt": "2026-10-09T12:43:02Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Killer No One Suspected  #crimedocumentary #truecrimedocumentary #crimestory",
+        "description": "Ted Bundy appeared charming and ordinary, but behind that image was one of America's most notorious serial killers.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#TedBundy #TrueCrime #SerialKiller #CrimeDocumentary #TrueCrimeShorts #crimehistory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSGwF9hVggE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSGwF9hVggE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSGwF9hVggE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pSGwF9hVggE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pSGwF9hVggE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pSGwF9hVggE"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "pSGwF9hVggE",
+        "videoPublishedAt": "2026-10-09T12:43:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7O8xb8u3QdggDfHqxXTqoqKxQr0",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLkE5cnYtVVkwVTFF",
+      "snippet": {
+        "publishedAt": "2026-10-08T18:57:35Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Serial Killer Who Hid in Plain Sight for 30 Years",
+        "description": "For decades, Dennis Rader lived an ordinary life while hiding a horrifying secret. Behind the image of a family man was BTK, one of America’s most notorious serial killers. This is the story of how he evaded investigators for years — and the mistake that finally exposed him.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio\nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#BTK #DennisRader #BTKKiller #TrueCrime #SerialKiller #CrimeDocumentary #TrueCrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9rv-UY0U1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9rv-UY0U1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9rv-UY0U1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A9rv-UY0U1E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A9rv-UY0U1E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A9rv-UY0U1E"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "A9rv-UY0U1E",
+        "videoPublishedAt": "2026-10-08T18:57:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7NQ2ecfs2EzzTFG9n2Xs24NCyGw",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLm5uRVpyT3BCWkdr",
+      "snippet": {
+        "publishedAt": "2026-10-08T17:13:18Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "BTK: The Serial Killer Who Hid for 30 Years #crimedocumentary #truecrimedocumentary",
+        "description": "For decades, Dennis Rader lived a seemingly ordinary life while hiding a terrifying secret. Known as BTK, he evaded capture for over 30 years. How did he finally get caught?\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#BTK #DennisRader #TrueCrime #SerialKiller #CrimeDocumentary #YouTubeShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nnEZrOpBZGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nnEZrOpBZGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nnEZrOpBZGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nnEZrOpBZGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nnEZrOpBZGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nnEZrOpBZGk"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "nnEZrOpBZGk",
+        "videoPublishedAt": "2026-10-08T17:13:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b0GUQ_AAq72RXbfxZr7hYFD18no",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLjBKd216cTBreWxB",
+      "snippet": {
+        "publishedAt": "2026-10-08T04:30:16Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The Terrifying Truth Behind the Clown  #truecrimedocumentary #crimedocumentary #7july2005",
+        "description": "He entertained children as a clown, but behind the smile was a horrifying secret. John Wayne Gacy murdered at least 33 young men and boys, becoming one of America's most notorious serial killers.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#JohnWayneGacy #KillerClown #TrueCrime #SerialKiller #CrimeDocumentary #YouTubeShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Jwmzq0kylA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Jwmzq0kylA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Jwmzq0kylA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Jwmzq0kylA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Jwmzq0kylA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0Jwmzq0kylA"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "0Jwmzq0kylA",
+        "videoPublishedAt": "2026-10-08T04:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Beg4b4gUfe3QdFCOvjUnGuThxvQ",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLmdzSlhEdVFobjR3",
+      "snippet": {
+        "publishedAt": "2026-10-07T17:31:08Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "What Police Found Beneath His House",
+        "description": "Behind the clown makeup was one of America’s most notorious serial killers. This is the disturbing story of John Wayne Gacy and the horrifying discovery hidden beneath his home.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#JohnWayneGacy #TrueCrime #SerialKiller #CrimeDocumentary #KillerClown #TrueCrimeDocumentary #CrimeStory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsJXDuQhn4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsJXDuQhn4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsJXDuQhn4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gsJXDuQhn4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gsJXDuQhn4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gsJXDuQhn4w"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "gsJXDuQhn4w",
+        "videoPublishedAt": "2026-10-07T17:31:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MHiZ8e1YzDGYaac3IZ8V2cDtXFo",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLlJHUUdzV3JFUmw4",
+      "snippet": {
+        "publishedAt": "2026-10-06T11:34:56Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "How a Charming Man Became One of America’s Most Feared Killers",
+        "description": "Ted Bundy appeared charming, intelligent, and ordinary—but behind that image was one of America’s most notorious serial killers. This documentary follows his crimes, escapes, capture, trials, and the disturbing truth behind the man who fooled so many.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#TedBundy #TrueCrime #SerialKiller #TrueCrimeDocumentary #CrimeDocumentary #AmericanCrime #TrueCrimeStories",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RGQGsWrERl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RGQGsWrERl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RGQGsWrERl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RGQGsWrERl8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RGQGsWrERl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RGQGsWrERl8"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "RGQGsWrERl8",
+        "videoPublishedAt": "2026-10-06T11:34:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sq_RyjvLuYIDJCc-BFAexnlZbQE",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLnowY1gyUkppaUF3",
+      "snippet": {
+        "publishedAt": "2026-10-02T19:53:19Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "How Osama bin Laden Was Finally Found After a Decade",
+        "description": "The decade-long hunt for Osama bin Laden became one of the most extensive manhunts in modern history. This documentary explores the intelligence operation, key events, and the trail that ultimately led to Abbottabad, Pakistan.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#OsamaBinLaden #TrueCrime #Documentary #Manhunt #CIA #Abbottabad #History #TrueCrimeDocumentary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z0cX2RJiiAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z0cX2RJiiAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z0cX2RJiiAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z0cX2RJiiAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z0cX2RJiiAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z0cX2RJiiAw"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "z0cX2RJiiAw",
+        "videoPublishedAt": "2026-10-02T19:53:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nC6cIRPCYzbn95Osg7atizFL3fk",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLk5OQThiTEFOclFR",
+      "snippet": {
+        "publishedAt": "2026-10-01T19:30:23Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "Owning 93 Rolls-Royces & an Armed Force: How Did This Cult Take Over Oregon?",
+        "description": "In 1981, thousands of red-clad followers arrived in a small Oregon town and established a self-sufficient, multi-million-dollar community to worship their spiritual leader, Bhagwan Shree Rajneesh. However, that utopian dream soon spiraled into an all-out war against the United States government—ranging from a battle for political power, the stockpiling of assault weapons, and a massive wiretapping scandal to the largest salmonella bioterrorism attack in U.S. history.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#WildWildCountry #TrueCrime #TrueStory #Bioterrorism #CrimeDocumentary #Rajneeshpuram #Osho #MaAnandSheela #WorldHistory #Storyline",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/NNA8bLANrQQ/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NNA8bLANrQQ"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "NNA8bLANrQQ",
+        "videoPublishedAt": "2026-10-01T19:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GUHXk20VroFnNg-JhqWPeZVWwmA",
+      "id": "VVVwM2J0VkFYUVExYUZQQmNKRWpuMjVRLkgzMXM4eDRIak5F",
+      "snippet": {
+        "publishedAt": "2026-09-29T17:31:49Z",
+        "channelId": "UCp3btVAXQQ1aFPBcJEjn25Q",
+        "title": "The 7/7 London Bombings: How 4 Ordinary Men Killed 52 People",
+        "description": "On 7 July 2005, four bombs tore through London's transport network in under an hour, killing 52 people. But the most shocking part of this story isn't the attack itself — it's who carried it out: four young men born and raised in Britain. This is the full story of the manhunt that followed, the failed second attack two weeks later, the tragic mistake that cost an innocent man his life, and how a nation was forced to confront a threat growing from within.\n\nMusic Cradit to \nWhite Bat Audio\n@whitebataudio   \nMusic by Karl Casey @ White Bat Audio\nLink : https://www.youtube.com/@UC_6hQy4elsyHhCOskZo0U5g\n\n#AttackOnLondon #777Bombings #NightStalkerTrueCrime #TrueCrimeDocumentary #LondonBombings #TerrorismDocumentary #7July2005 #UKHistory #TrueCrimeCommunity #RealCrimeStory #JeanCharlesDeMenezes #MetropolitanPolice #MI5 #HomegrownTerrorism #TrueCrimeYouTube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "qhd": {
+            "url": "https://i.ytimg.com/vi/H31s8x4HjNE/qhddefault.jpg",
+            "width": 2560,
+            "height": 1440
+          }
+        },
+        "channelTitle": "Badge and Bloodshed",
+        "playlistId": "UUp3btVAXQQ1aFPBcJEjn25Q",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H31s8x4HjNE"
+        },
+        "videoOwnerChannelTitle": "Badge and Bloodshed",
+        "videoOwnerChannelId": "UCp3btVAXQQ1aFPBcJEjn25Q"
+      },
+      "contentDetails": {
+        "videoId": "H31s8x4HjNE",
+        "videoPublishedAt": "2026-09-29T17:31:49Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 16,
+    "resultsPerPage": 15
+  }
+}

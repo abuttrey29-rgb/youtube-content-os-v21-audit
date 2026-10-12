@@ -1,0 +1,1120 @@
+{
+  "query": "personal finance investing",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "b25sP0spa7IPpd9MSMID3thix04",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 875738,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v9cDU_y3XCzhpFSsSZ5IIlxVHsU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6547HOXq-EM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:08Z",
+          "channelId": "UCj_At4cJ3BW1QZ3bXLmwYQw",
+          "title": "Waiting 10 years to invest costs $140,000",
+          "description": "Alex and Sam both invest $100 a month. Alex starts at 25. Sam waits until 35. By 65, Alex puts in $48000. Sam, $36000.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6547HOXq-EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6547HOXq-EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6547HOXq-EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6547HOXq-EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6547HOXq-EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dollar Logic Math",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-6rloy3aqz23KlSjiUIgEYl1B9s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qny1YsDFlzw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:33Z",
+          "channelId": "UCRAaI72wym033vtPke2u1fQ",
+          "title": "This ONE Chart Explains Everything... 📈 #money #investing #finance",
+          "description": "This ONE Chart Explains Everything... #money #investing #finance What if one simple chart could change the way you see ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qny1YsDFlzw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qny1YsDFlzw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qny1YsDFlzw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qny1YsDFlzw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qny1YsDFlzw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WealthUnlocked 36",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lYkF2HPSNEinD_Cq-F9rd-jjz3c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oBjfSuGlGjo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:05:05Z",
+          "channelId": "UCtRXGRpkYAJBDu_O-NdIycg",
+          "title": "One Fold = $421,453 💸 #shorts",
+          "description": "If you could fold a sheet of paper 42 times, it would reach the Moon. Your money grows the same way. Sarah and Marcus both ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oBjfSuGlGjo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oBjfSuGlGjo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oBjfSuGlGjo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oBjfSuGlGjo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oBjfSuGlGjo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FinFocus",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:05:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2kr0k411Br8WW3xwvzJmbJM0vMs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ua31XN2debI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:00:17Z",
+          "channelId": "UC6y0MqJ980F191KKoMBK0Kg",
+          "title": "The 4% Rule: How Much You Need to Retire, in One Line",
+          "description": "The four percent rule turns a vague retirement dream into one clear number. Here is where it comes from, how to use it, and why it ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ua31XN2debI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ua31XN2debI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ua31XN2debI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ua31XN2debI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ua31XN2debI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Art of Business",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:00:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cv-veBsPRXwQY-O7YF5JzBls22k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "b401-haRkNk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:00:00Z",
+          "channelId": "UCktGeTv8sUXjxXNrlmDAXLw",
+          "title": "Your losers are worth $3,000 a year off your salary",
+          "description": "The math nobody says out loud: Your losers are secretly worth $3000 a year off your salary — $14000 of losses erasing $9000 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b401-haRkNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b401-haRkNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b401-haRkNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b401-haRkNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b401-haRkNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Loophole",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ljc9Kz45H6XluVIbr5_4zIO9WM4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "i-4TLZAKoP8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T21:37:51Z",
+          "channelId": "UCMGUK8NfXXVSQQJ7TDE8xpQ",
+          "title": "What used to define middle class—a home, savings, stability—now requires nearly $200K #Shorts",
+          "description": "What used to define middle class—a home, savings, stability—now requires nearly $200K in net worth just to start. The goalpost ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i-4TLZAKoP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i-4TLZAKoP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i-4TLZAKoP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i-4TLZAKoP8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i-4TLZAKoP8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The WLTH Hub",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T21:37:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Zze7HUjLm4nvhU8_yYnbqflTu0Y",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zxtsSV9oAYA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T21:19:15Z",
+          "channelId": "UCS9usYeUscia6n_ww7OnrFQ",
+          "title": "The 1-Hour Monthly Money Check-In That Changes Everything #shorts",
+          "description": "What if one hour a month could change the way you manage your money? In this video, Money Mind Lab breaks down a simple ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zxtsSV9oAYA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zxtsSV9oAYA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zxtsSV9oAYA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zxtsSV9oAYA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zxtsSV9oAYA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MoneyMind lab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T21:19:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2127di_F3-qkdjGSj9QTOhPl0qk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yu-FelC2Pus"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T21:19:02Z",
+          "channelId": "UCYI-XPsuwAmVTG-GWjVycmA",
+          "title": "Rain Sounds For Sleeping - Rain for money management, personal finance, investing, financial freedom",
+          "description": "Rain Sounds For Sleeping - Rain for money management, personal finance, investing, financial freedom 3772 2026 personal ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yu-FelC2Pus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yu-FelC2Pus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yu-FelC2Pus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yu-FelC2Pus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yu-FelC2Pus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rain Sounds For Sleeping",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T21:19:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P1seX4efgVyr3E4Pi9uMi-Ys2HM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7NeYeQpo0R4"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T21:07:20Z",
+          "channelId": "UCkYmvZNe6bwtd2HO9qqGWdQ",
+          "title": "Fed Not Done With Rate Hikes 💰 S&amp;P 500 Hits 27th Record High | Money in 60 Seconds",
+          "description": "Today's money briefing in 60 seconds: The Fed's September hike may not be the last — traders see a December hike coming.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7NeYeQpo0R4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7NeYeQpo0R4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7NeYeQpo0R4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7NeYeQpo0R4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7NeYeQpo0R4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Money in 60",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T21:07:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6T_VWYoLDMNGJpAAx349N3R1GYw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cyK2AsnD47s"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:55:06Z",
+          "channelId": "UCTXDBB8w1xgJ3PVOdgwb8RA",
+          "title": "3 Poor Money Habits Keeping You Poor in 2026 🛑 #shorts #moneyhabits",
+          "description": "Breaking bad financial habits is the single most important step toward building long-term wealth. Here are 3 poor money habits ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cyK2AsnD47s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cyK2AsnD47s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cyK2AsnD47s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cyK2AsnD47s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cyK2AsnD47s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "How to Get Rich",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:55:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cmViA0AbmPcwtJ0wzGGe-ODfx2A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ik3rMNi9qQc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:28:56Z",
+          "channelId": "UCjWaHHJSEUPU9vr592e7iig",
+          "title": "Why Investing in Small &amp; Mid-Cap Stocks Can Wipe Out Your Wealth",
+          "description": "Are small and mid-cap stocks destroying your long-term wealth? In this clip, guest expert breaks down the danger of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ik3rMNi9qQc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ik3rMNi9qQc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ik3rMNi9qQc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ik3rMNi9qQc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ik3rMNi9qQc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "rajrising",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:28:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yPGFL-IGMDr5U-wQakKCXYDbIys",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5ALBe4fj2Q8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:49:35Z",
+          "channelId": "UCMR-Fu8OstG5FzauC3KPBsA",
+          "title": "I Gave Claude My Portfolio… It Found $16,000 💰",
+          "description": "He uploaded his whole portfolio to Claude and asked: \"Tell me everything I'm doing wrong.\" The fix? One fund had a higher ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5ALBe4fj2Q8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5ALBe4fj2Q8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5ALBe4fj2Q8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5ALBe4fj2Q8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5ALBe4fj2Q8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "StocksNCryptoX",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:49:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A_biPjpT_6sbrrnQ5A39m_UbPRk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mft8_MJJbyc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:08:19Z",
+          "channelId": "UCFn5pswcSvacT4c2dUL2B5Q",
+          "title": "💳 EMI IS A TRAP… OR IS IT? 🤯⚠️ | THE TRUTH ABOUT BORROWING MONEY! 💰#Shorts #EMI #PersonalFinance",
+          "description": "EMI IS A TRAP… OR IS IT? ⚠️ Not every EMI is bad, but every EMI comes with a financial commitment! Many people focus ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mft8_MJJbyc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mft8_MJJbyc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mft8_MJJbyc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mft8_MJJbyc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mft8_MJJbyc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FINANCE_MR.SOURAV | NISM CERTIFIED ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:08:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1rQRx12sr2mH_iWYredpLtXLVsc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iq2KDolCoIc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:30:31Z",
+          "channelId": "UCQ_9eSrWTWWKBkj-pDbXweg",
+          "title": "What If You Invested Your $7 Coffee Money for 30 Years? ☕💰 #shorts #personalfinance",
+          "description": "TITLE: What If You Invested Your $7 Coffee Money for 30 Years? ☕   DESCRIPTION: Your daily $7 coffee habit could add up to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iq2KDolCoIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iq2KDolCoIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iq2KDolCoIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iq2KDolCoIc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iq2KDolCoIc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alphaledger",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:30:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i8fagvicfj2PIN4kSr7D0994G7A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DqWnXzSoHjw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:20:26Z",
+          "channelId": "UCCLuie_uUIpMEm_SkOXcRfQ",
+          "title": "Why Your Savings Are Secretly Shrinking",
+          "description": "Your savings account isn't losing money, but it may be losing buying power. In this video, we use simple stick figures to explain ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DqWnXzSoHjw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DqWnXzSoHjw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DqWnXzSoHjw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DqWnXzSoHjw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DqWnXzSoHjw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Compound Club",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:20:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cmJG2a6T3z2frQPnMlzAZO6b6fg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "x8gtsSn5X68"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:13:32Z",
+          "channelId": "UC9uBafY4Oo5SYyc0RNylOvg",
+          "title": "Why you should invest early #callofduty #investing #personalfinance",
+          "description": "Investing is so important for everyhone, and it becomes even more effective if you start investing at an early age!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x8gtsSn5X68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x8gtsSn5X68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x8gtsSn5X68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x8gtsSn5X68/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x8gtsSn5X68/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Realistic Returns",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:13:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TSW0YxKp4Ar7WvgnON7mhMTXtGs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dPOtc5A12QI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:02:41Z",
+          "channelId": "UCv6nSFQnE5mRvf1ZIXGy08g",
+          "title": "The Difference Between: Call Option vs Put Option #shorts",
+          "description": "A call option gives you the right to buy a stock at a set price before a deadline, betting the price will rise. A put option gives you the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "qhd": {
+              "url": "https://i.ytimg.com/vi/dPOtc5A12QI/qhddefault.jpg",
+              "width": 2560,
+              "height": 1440
+            }
+          },
+          "channelTitle": "justthediff",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:02:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "txbt9fzTFWkTwwaF3lwb2IiLxaE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jqg3rxHCdxI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:57:01Z",
+          "channelId": "UCChjOygATsqEFH21aMxtHTA",
+          "title": "What does it actually take to spend $10,000/year? It’s not what you think it is.",
+          "description": "What does it actually take to spend $10000/year? It's not what you think it is. #finance #investing #financialliteracy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jqg3rxHCdxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jqg3rxHCdxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jqg3rxHCdxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jqg3rxHCdxI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jqg3rxHCdxI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jamil Nelson | NVSTR Trades",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:57:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IOAVoWyAOG33lHG-wPa3LjRYmO4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PrmLSPW5fyg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:15:02Z",
+          "channelId": "UC-w5BzyjWpjpCV5ODSD1itw",
+          "title": "3 Assets That Can Make You Money While You Sleep 💰",
+          "description": "Want to understand how money can generate income while you sleep? In this Valtrix Finance Short, discover three assets that ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PrmLSPW5fyg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PrmLSPW5fyg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PrmLSPW5fyg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PrmLSPW5fyg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PrmLSPW5fyg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Valtrix Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:15:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0vziCyzI_dwwf6ZtVPFhDa-4v9A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D8Mvx8mM-Yc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:54:12Z",
+          "channelId": "UCiUt8xVjYiqlKurG22QnlZw",
+          "title": "Why Saving Money Alone Won&#39;t Make You Rich 💰 #investing #factstorm",
+          "description": "Saving money is important, but is it enough to build wealth? Inflation can reduce your money's purchasing power over time.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D8Mvx8mM-Yc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D8Mvx8mM-Yc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D8Mvx8mM-Yc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/D8Mvx8mM-Yc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/D8Mvx8mM-Yc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Factstorm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:54:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fKtbZIiCWaNGsZbtVpR79vC80sE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "D6DR6YA4elI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:36:50Z",
+          "channelId": "UCAamPvB3sTzA7Ma44AayjQA",
+          "title": "Waiting 10 Years Costs You $700,000 #shorts",
+          "description": "Two people invest $1000/month at the same 7% average return. One starts today → $1.22M. One waits 10 years → $521K.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D6DR6YA4elI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D6DR6YA4elI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D6DR6YA4elI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/D6DR6YA4elI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/D6DR6YA4elI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Interestingly Rich Money",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:36:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5lzdzktvTAtDRC7NgGcC0LEYxWs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "L6b_JTVwgwI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:35:15Z",
+          "channelId": "UCU3QUQNhBK2G0E1__Apvd4Q",
+          "title": "Middle Class vs Millionaire Investments #shorts",
+          "description": "Are you investing like the Middle Class or building Real Wealth? Most people keep their hard-earned money trapped in low-return ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L6b_JTVwgwI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L6b_JTVwgwI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L6b_JTVwgwI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/L6b_JTVwgwI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/L6b_JTVwgwI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Boss Of Stock Market",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:35:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OGxadUENYtiTDl4JJY9IpHKqxnU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mrENOWMd360"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:30:22Z",
+          "channelId": "UCRAaI72wym033vtPke2u1fQ",
+          "title": "The $2M+ Retirement Blueprint (15 Years of Lessons in 18 Minutes) (Best for search &amp; structure)",
+          "description": "The $2M+ Retirement Blueprint (15 Years of Lessons in 18 Minutes) (Best for search & structure) You saved well. You invested ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mrENOWMd360/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mrENOWMd360/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mrENOWMd360/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mrENOWMd360/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mrENOWMd360/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WealthUnlocked 36",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:30:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1BVBzYxyXrFO8VjneiymOuzZt7E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r7OB4_EXF8c"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:00:08Z",
+          "channelId": "UCVqlWPMM32FOnQ9-DABnBlQ",
+          "title": "3 SIGNS YOU&#39;RE DOING BETTER THAN 80% OF AMERICANS. #shorts #money #motivation #usa #finance #india",
+          "description": "Useful Resources: Crobo Money - Send money from the U.S. to India using my trusted app, Crobo Money. Get $25 when you ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r7OB4_EXF8c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r7OB4_EXF8c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r7OB4_EXF8c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r7OB4_EXF8c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r7OB4_EXF8c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yudi J - NRI Personal Finance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-V3hPRMAbW3a3lULgyxBJaI8Obo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mg0ulDybaAI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:00:01Z",
+          "channelId": "UCiS84l9djVnKBk1SRaJV4tQ",
+          "title": "Don’t Lease a Car Until You Watch This #shorts  #personalfinance #investing",
+          "description": "That $349/month car lease isn't what it seems. Once you factor in down payments, acquisition charges, and mileage fees, your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mg0ulDybaAI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mg0ulDybaAI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mg0ulDybaAI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mg0ulDybaAI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mg0ulDybaAI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Money with Noah",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:00:01Z"
+        }
+      }
+    ]
+  }
+}

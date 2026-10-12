@@ -1,0 +1,1100 @@
+{
+  "query": "ending explained",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "5iLMfbvDP43Y_MuKFtpucqzkAKQ",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KS4t2lUVWm1ZXYdbhJm1PDU2fSU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jCLlDAYhmcw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:34:38Z",
+          "channelId": "UC34Qdd5Z5KN30A8aJ2eIMPA",
+          "title": "Carrie’s Stars Explained: The Symbol That Reveals Her True Ending #shorts",
+          "description": "Stars symbolize freedom, possibility, and the universe beyond Carrie's cage. They connect her to her father and Tommy, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jCLlDAYhmcw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jCLlDAYhmcw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jCLlDAYhmcw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jCLlDAYhmcw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jCLlDAYhmcw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Think Story",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:34:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "utUNk1osRwE412rnUfIJK__isQc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dhwc6_8qzHQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:33:57Z",
+          "channelId": "UC34Qdd5Z5KN30A8aJ2eIMPA",
+          "title": "Carrie’s Ending Explained: Why She Finally Gets a Future #shorts",
+          "description": "Explore the alternate endings for Carrie White. While many adaptations end in tragedy, this version offers a chance for freedom, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dhwc6_8qzHQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dhwc6_8qzHQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dhwc6_8qzHQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dhwc6_8qzHQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dhwc6_8qzHQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Think Story",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:33:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2KHqxTHm-b0d3JzO_O7SazpAALo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WNWJg_lTLuU"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:29:28Z",
+          "channelId": "UCQTZwuQheLDenhA7Jwyc2Cw",
+          "title": "American Hostage Season 1 Episode 5 Ending Explained | Tony Puts Dick On Trial As A Fake Deal",
+          "description": "American Hostage season one episode five turns a sweltering apartment into a courtroom while the police push a fake immunity ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WNWJg_lTLuU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WNWJg_lTLuU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WNWJg_lTLuU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WNWJg_lTLuU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WNWJg_lTLuU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trendy Darling",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:29:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gtzXyal-4uTPfB9Ci9cnA-MgU_M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aixmFI4rYH8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:47:51Z",
+          "channelId": "UCMrRwccDdtrdwR2KlsRU0ow",
+          "title": "HEARTLAND Season 20 Episode 2 BREAKDOWN | Recap &amp; Ending Explained",
+          "description": "HEARTLAND Season 20 Episode 2 BREAKDOWN | Recap & Ending Explained Copyright Disclaimer under Section 107 of the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aixmFI4rYH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aixmFI4rYH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aixmFI4rYH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aixmFI4rYH8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aixmFI4rYH8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Recapify",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:47:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KEI71R-n7NCtpKBG200TIZri0C8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9sXHlqdI7ic"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:16:41Z",
+          "channelId": "UCaeey6DFoCjNMSKWynEuidA",
+          "title": "Trailer 🔥 Shutter Island Ending Explained: The Truth Nobody Noticed 🧠",
+          "description": "The Truth Nobody Noticed Was the truth hiding in plain sight the entire time? In Episode 1 of our Shutter Island ending ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9sXHlqdI7ic/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9sXHlqdI7ic/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9sXHlqdI7ic/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9sXHlqdI7ic/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9sXHlqdI7ic/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MYTHSA",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:16:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yJ5jbfN_tNgSl0AvnrpeCAKtOHM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tp85Crk_o1k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:21Z",
+          "channelId": "UCJ-kd8U-odAVk4iwWO5fCFA",
+          "title": "The 49ers vs Seahawks ENDING Was DEBATABLE But INSANE.... | FULL ENDING EXPLAINED |",
+          "description": "https://link.prizepicks.com/LME0/HMAMATTYDUBS Sign up for PrizePicks with code: HMA and get $150 in lineups instantly when ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tp85Crk_o1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tp85Crk_o1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tp85Crk_o1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tp85Crk_o1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tp85Crk_o1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mattydubs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Q1wuLX2pg94z3tcw7nnrb9ebkjc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VQx-5mejuVg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:45:03Z",
+          "channelId": "UCLDcg9fcfyTq7JhKUlfk2Ug",
+          "title": "Avengers Infinity War - Part 5/6 Ending Explained 😱 #Shorts #MovieExplained",
+          "description": "Avengers Infinity War - Part 5/6 Ending Explained #Shorts #MovieExplained MOVIE EXPLANATION & EPISODIC RECAP ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VQx-5mejuVg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VQx-5mejuVg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VQx-5mejuVg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VQx-5mejuVg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VQx-5mejuVg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "woo's clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:45:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZqU01i-ADMqr3ujSUh3cMyXgENs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cpSnuY2Tmow"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:00:18Z",
+          "channelId": "UCVv_v0aIoOXtabi8wueam1A",
+          "title": "Insidious: Out of the Further (2026) Full Movie Recap — The Ending, Explained",
+          "description": "Insidious: Out of the Further (2026) full movie recap — the complete story from start to finish, plus the ending explained.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cpSnuY2Tmow/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cpSnuY2Tmow/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cpSnuY2Tmow/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cpSnuY2Tmow/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cpSnuY2Tmow/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Flick Fract",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nM2cjaU5_LwMyY6F2_RTGYKEBP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yYpplOOlSZk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:18:38Z",
+          "channelId": "UCJ-kd8U-odAVk4iwWO5fCFA",
+          "title": "The Jets vs Browns ENDING Was MUST SEE TV... | FULL ENDING EXPLAINED |",
+          "description": "https://link.prizepicks.com/LME0/HMAMATTYDUBS Sign up for PrizePicks with code: HMA and get $150 in lineups instantly when ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yYpplOOlSZk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yYpplOOlSZk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yYpplOOlSZk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yYpplOOlSZk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yYpplOOlSZk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mattydubs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:18:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hztqeFk8I_fSZJsICtumRZwEgFE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AuO2eN37kGc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:40:33Z",
+          "channelId": "UC6_r_sOkUiu8LzbqwZsrucA",
+          "title": "Carrie - Season 1 Episode 8 Recap, Review &amp; Ending Explained",
+          "description": "Prom night pushes Carrie beyond breaking point as years of cruelty finally explode into violence. In the aftermath, the truth ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AuO2eN37kGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AuO2eN37kGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AuO2eN37kGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AuO2eN37kGc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "TheReviewGeek",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:40:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ogzZW8G3QxLvr4zobuhEy0XW6yA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "80jJQP04ryk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:45:39Z",
+          "channelId": "UCyGFPi-aJarGOk_PVexnpFQ",
+          "title": "Street Fighter Dhalsim Story And Ending Explained #streetfighter #dhalsim",
+          "description": "street fighter dhalsim story and ending explained. This Indian yoga master is a pacifist who enters the World Warrior Tournament ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/80jJQP04ryk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/80jJQP04ryk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/80jJQP04ryk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/80jJQP04ryk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/80jJQP04ryk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NEXT QUEST",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:45:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8PUuBNVxj-mCqomqQxCbk37bA2k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_1zrLcIocLk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:17:10Z",
+          "channelId": "UCsmiKXvThDot5Uu9Ew80yKQ",
+          "title": "YOU will find full recap in the channel  #movierecap #cinematicrecap #filmrecap #endingexplained",
+          "description": "YOU will find full recap in the channel #movierecap #cinematicrecap #filmrecap #endingexplained.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_1zrLcIocLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_1zrLcIocLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_1zrLcIocLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_1zrLcIocLk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_1zrLcIocLk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cinematic Recap",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:17:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PQ2-cYI83oT_fWuumwsLh_Uqpxw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DJTI3jqE6qI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:33:45Z",
+          "channelId": "UCJ-kd8U-odAVk4iwWO5fCFA",
+          "title": "The Jacksonville Jaguars Philadelphia Eagles ENDING Was MIND BLOWING... | FULL ENDING EXPLAINED |",
+          "description": "https://link.prizepicks.com/LME0/HMAMATTYDUBS Sign up for PrizePicks with code: HMA and get $150 in lineups instantly when ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJTI3jqE6qI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJTI3jqE6qI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJTI3jqE6qI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DJTI3jqE6qI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DJTI3jqE6qI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mattydubs",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:33:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J61QxrT_mEnHI8iTN86NwSrS3s0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XuTHQgk89s8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T17:30:33Z",
+          "channelId": "UCemGO_Uuo_X1_BnnusxRj0w",
+          "title": "Jesse&#39;s Graduation | Breaking Bad Ending Explained",
+          "description": "In Felina, Walt asks Jesse to kill him, and Jesse refuses. Then do it yourself. The student finally makes a choice without his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XuTHQgk89s8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XuTHQgk89s8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XuTHQgk89s8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XuTHQgk89s8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XuTHQgk89s8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Summit Cinema",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T17:30:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hf66HZ4aIFd1xUs5dukMDHnl2bA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "r1SH1MX9ZVE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:58:02Z",
+          "channelId": "UCkoV_sOP8d1J806sEQ15EKA",
+          "title": "Loki knows what’s coming in Doomsday 👀 Avengers Endgame Encore -Ending Explained-",
+          "description": "Marvel just changed Steve Rogers' ending… and Loki might be the key. Not completely, but what if Endgame Encore changes ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r1SH1MX9ZVE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r1SH1MX9ZVE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r1SH1MX9ZVE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r1SH1MX9ZVE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r1SH1MX9ZVE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Guillaume Lemaitre",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:58:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xcP3XoZmAChDKA8TUovlxPn6obU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "My8z49aI8Ig"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:00Z",
+          "channelId": "UCKjxLqQ4kludVPBo3qp-zkA",
+          "title": "Other Mommy Movie Ending Explained (Sequel Happening?",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/My8z49aI8Ig/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/My8z49aI8Ig/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/My8z49aI8Ig/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/My8z49aI8Ig/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/My8z49aI8Ig/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Movie Facts Pro",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "XlHwH0a7GffPk85D26wdON9FcPc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Wv7PPczhU88"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:25Z",
+          "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+          "title": "The Ending Explained: Why She Recognized the Voice 📻... #Shorts",
+          "description": "A rooftop. A crackling radio. A warning in a voice she knows too well. Maya is told not to take the stairs by a stranger on a radio.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Wv7PPczhU88/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Wv7PPczhU88/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Wv7PPczhU88/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Wv7PPczhU88/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Wv7PPczhU88/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CineRush",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "76TxoErqZitd-8TOgYdy_DCx3a8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tXvKwrH_KAc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:40:55Z",
+          "channelId": "UCoQNNERdSlthBUw9u2pN66g",
+          "title": "VADALA (2026) Hindi Dubbed Movie | Full Story, Twist &amp; Ending Explained 🔥 | Jagapathi Babu",
+          "description": "VADALA (2026) Hindi Dubbed Movie | Full Story, Twist & Ending Explained | Jagapathi Babu.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tXvKwrH_KAc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tXvKwrH_KAc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tXvKwrH_KAc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tXvKwrH_KAc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tXvKwrH_KAc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Indian South Cinema ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:40:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t5VKkT6GXkxaIIV6wJ0epAd7p6g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MpzUGu1Ipy8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:34:30Z",
+          "channelId": "UCunggA1Cf3H0O1d4KUPy36g",
+          "title": "VADALA (2026) Hindi Dubbed Movie | Full Story, Twist &amp; Ending Explained 🔥 | Jagapathi Babu",
+          "description": "VADALA (2026) Hindi Dubbed Movie | Full Story, Twist & Ending Explained | Jagapathi Babu.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MpzUGu1Ipy8/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MpzUGu1Ipy8/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MpzUGu1Ipy8/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MpzUGu1Ipy8/sddefault_live.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MpzUGu1Ipy8/maxresdefault_live.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Purrsona",
+          "liveBroadcastContent": "live",
+          "publishTime": "2026-10-11T15:34:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ogdgFujdFORT9zJli-yOokxqUfc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VG1OGhgvCd4"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:20:16Z",
+          "channelId": "UCMyK-zpon-AmZK_JaEGFE5Q",
+          "title": "The Prestige Ending EXPLAINED in 60 Seconds 🎩",
+          "description": "The ending of The Prestige confused everyone — but it's simpler than you think. Borden's secret was identity: two identical twins ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VG1OGhgvCd4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VG1OGhgvCd4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VG1OGhgvCd4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VG1OGhgvCd4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VG1OGhgvCd4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SilentStrength",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:20:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NGL_M2ss0YMDMab_fs6L8GsuZ60",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "n9Moof7-hf4"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:16:13Z",
+          "channelId": "UCCsYWynhXs80XAWZp7qzh_A",
+          "title": "Why Sunny Chose Hell | Hellraiser: Revival Ending Explained",
+          "description": "Aidan brought Sunny back. She still chose the Cenobites. Why did she call that choice “fulfillment”—and why did she need his ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n9Moof7-hf4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n9Moof7-hf4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n9Moof7-hf4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/n9Moof7-hf4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/n9Moof7-hf4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sokker Gaming",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:16:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9CDHsrt98Cqy_cxDKOQUKe-W38s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WigaaW_j69w"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:06:31Z",
+          "channelId": "UCyfhbAkrEzRf5jaWa5YYIwg",
+          "title": "Drishyam 2 Ending Explained 😱 Vijay Ki Last Planning | Part 04 FINAL #Shorts",
+          "description": "7 saal baad police ko mila aisa saboot, jisne Vijay Salgaonkar ke case ko phir se khol diya! Lekin Vijay ki asli planning ne ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WigaaW_j69w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WigaaW_j69w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WigaaW_j69w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ATV ABOUT THE WORLD",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:06:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yQQSYZmoapnaRErGT1xohyEKL5M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iddhs3KvIUo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:02:14Z",
+          "channelId": "UC-h5GqIN2vnGPCsgpvTwlLA",
+          "title": "She Knows Everything FINAL PART 😱 | Full Story Ending Explained in Hindi | Manhua Recap",
+          "description": "The wait is finally over! The final part of **She Knows Everything** is here! After all the secrets, misunderstandings, unexpected ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iddhs3KvIUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iddhs3KvIUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iddhs3KvIUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iddhs3KvIUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iddhs3KvIUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Explain Again",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:02:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Ryk5xdtN4tgm29vjnTMnJtZ53hc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cn26VTMx3pA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:59:15Z",
+          "channelId": "UCLDcg9fcfyTq7JhKUlfk2Ug",
+          "title": "Avengers Infinity War - Part 4/6 Ending Explained 😱 #Shorts #MovieExplained",
+          "description": "Avengers Infinity War - Part 4/6 Ending Explained #Shorts #MovieExplained MOVIE EXPLANATION & EPISODIC RECAP ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cn26VTMx3pA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cn26VTMx3pA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cn26VTMx3pA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cn26VTMx3pA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cn26VTMx3pA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "woo's clips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:59:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "W4ae7qorkYORRyqo57xWtD5EEC4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vEqLElIOie8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T14:22:13Z",
+          "channelId": "UC6knrRW6_KU4XcVxlAp1oCA",
+          "title": "பெட்ரோல் எடுத்து வந்த மனிதன்!⛽| PlotLine Voice Over | Movie Explained in Tamil | #shorts #movie",
+          "description": "This short video contains movie scenes with brief recap and commentary for entertainment purposes. Copyright & Fair Use ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vEqLElIOie8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vEqLElIOie8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vEqLElIOie8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vEqLElIOie8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vEqLElIOie8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PlotLine",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T14:22:13Z"
+        }
+      }
+    ]
+  }
+}

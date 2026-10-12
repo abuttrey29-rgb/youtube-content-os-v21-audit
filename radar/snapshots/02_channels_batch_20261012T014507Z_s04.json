@@ -1,0 +1,1307 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "GvCYOLhVnEuR-NGvsVz4bZy5dqg",
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "Jhekk9-YEiN_xFAzCH1Iynn8va4",
+      "id": "UCv6nSFQnE5mRvf1ZIXGy08g",
+      "snippet": {
+        "title": "justthediff",
+        "description": " Personal finance without the confusion. Every day, we explain the difference between two money terms you mix up — in 30 seconds. New comparison daily.",
+        "customUrl": "@justthedifference",
+        "publishedAt": "2024-08-27T12:14:54.340707Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/8ADyw4H3O99yMe8b958g7JHmzDk85Z5iMSHu1egkK-FdLHC6-euouutauqCsE4ImF38WRcSN_w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/8ADyw4H3O99yMe8b958g7JHmzDk85Z5iMSHu1egkK-FdLHC6-euouutauqCsE4ImF38WRcSN_w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/8ADyw4H3O99yMe8b958g7JHmzDk85Z5iMSHu1egkK-FdLHC6-euouutauqCsE4ImF38WRcSN_w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "justthediff",
+          "description": " Personal finance without the confusion. Every day, we explain the difference between two money terms you mix up — in 30 seconds. New comparison daily."
+        },
+        "country": "NG"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUv6nSFQnE5mRvf1ZIXGy08g"
+        }
+      },
+      "statistics": {
+        "viewCount": "33891",
+        "subscriberCount": "33",
+        "hiddenSubscriberCount": false,
+        "videoCount": "147"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2OV_2GgvWlLvOfLosWZfvrh37cU",
+      "id": "UCFy6QIVt1kuQD2kEW2tsLQw",
+      "snippet": {
+        "title": "theworldhistory",
+        "description": "",
+        "customUrl": "@theworldhistorystudio",
+        "publishedAt": "2026-10-10T20:16:05.904216Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vlOCdQb-vfb2Jn16HYIRzaZ6Z7q_FqfE7c2PRsqGqKkSqh0uRvaXnXhBPtVTNSsgZ2A6jPm6=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vlOCdQb-vfb2Jn16HYIRzaZ6Z7q_FqfE7c2PRsqGqKkSqh0uRvaXnXhBPtVTNSsgZ2A6jPm6=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vlOCdQb-vfb2Jn16HYIRzaZ6Z7q_FqfE7c2PRsqGqKkSqh0uRvaXnXhBPtVTNSsgZ2A6jPm6=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "theworldhistory",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUFy6QIVt1kuQD2kEW2tsLQw"
+        }
+      },
+      "statistics": {
+        "viewCount": "0",
+        "subscriberCount": "3",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "s_qY6cNdzh_l-nVOhm7ZURwt3qc",
+      "id": "UCj_At4cJ3BW1QZ3bXLmwYQw",
+      "snippet": {
+        "title": "Dollar Logic Math",
+        "description": "Money, explained with math.\n\nDollar Logic turns one money idea into one clear animated number: compound interest, hidden fees, inflation, the real cost of waiting, and the myths people repeat about money. Short, visual, no hype.\n\nNew Shorts every week. Every video shows its assumptions on screen.\n\nEducational content only. Nothing here is financial advice. Do your own research or talk to a licensed professional before making financial decisions.\n",
+        "customUrl": "@dollarlogicmath",
+        "publishedAt": "2026-10-11T06:49:56.833549Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/e2SSXXz_JZ5qZLKAjaSHfOiVKqehfR1V3FaeUkyqRqMkoeHT9bJPBSDDeqWd1nKg4uYQ2yAZ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/e2SSXXz_JZ5qZLKAjaSHfOiVKqehfR1V3FaeUkyqRqMkoeHT9bJPBSDDeqWd1nKg4uYQ2yAZ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/e2SSXXz_JZ5qZLKAjaSHfOiVKqehfR1V3FaeUkyqRqMkoeHT9bJPBSDDeqWd1nKg4uYQ2yAZ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dollar Logic Math",
+          "description": "Money, explained with math.\n\nDollar Logic turns one money idea into one clear animated number: compound interest, hidden fees, inflation, the real cost of waiting, and the myths people repeat about money. Short, visual, no hype.\n\nNew Shorts every week. Every video shows its assumptions on screen.\n\nEducational content only. Nothing here is financial advice. Do your own research or talk to a licensed professional before making financial decisions.\n"
+        },
+        "country": "VN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUj_At4cJ3BW1QZ3bXLmwYQw"
+        }
+      },
+      "statistics": {
+        "viewCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "CynviOAn9U_vKcWdtNCtmYUMUv8",
+      "id": "UCiUt8xVjYiqlKurG22QnlZw",
+      "snippet": {
+        "title": "Factstorm",
+        "description": "\n👀 You’re here now… might as well stay and see what’s next. 🔥",
+        "customUrl": "@frostyx-01",
+        "publishedAt": "2026-03-21T02:15:07.110958Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/eWMBQBCzBKv15d-qs5-4yXmkIWIAg7hDmS36YfQvDYG1nmY2LkuC008NuE_eeeaBHoktNIF4IA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/eWMBQBCzBKv15d-qs5-4yXmkIWIAg7hDmS36YfQvDYG1nmY2LkuC008NuE_eeeaBHoktNIF4IA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/eWMBQBCzBKv15d-qs5-4yXmkIWIAg7hDmS36YfQvDYG1nmY2LkuC008NuE_eeeaBHoktNIF4IA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Factstorm",
+          "description": "\n👀 You’re here now… might as well stay and see what’s next. 🔥"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUiUt8xVjYiqlKurG22QnlZw"
+        }
+      },
+      "statistics": {
+        "viewCount": "122",
+        "subscriberCount": "23",
+        "hiddenSubscriberCount": false,
+        "videoCount": "6"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "MohHW-FB83twjb4P_TxSF6cG4eY",
+      "id": "UCQ_9eSrWTWWKBkj-pDbXweg",
+      "snippet": {
+        "title": "Alphaledger",
+        "description": "Alpha Ledger makes finance simple, engaging, and easy to understand. Explore the world of money, wealth, investing, business, economics, and financial psychology through captivating stories, real-world examples, and thought-provoking simulations. Discover how money works, why people make financial decisions, and how wealth shapes our lives. From everyday money habits to the hidden mechanics of the global economy, every video reveals a new perspective on finance.\n\nUnderstand Money. Think Smarter. Build Wealth.",
+        "customUrl": "@alpha-_-ledger7",
+        "publishedAt": "2021-01-01T03:45:34.23352Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/X684d-HERWLkN-2lGwWopzNbTtDSQw787JYYIcmc-NS8LBrJ1gsvvbmnPmj5bwEy09mb1vNHMw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/X684d-HERWLkN-2lGwWopzNbTtDSQw787JYYIcmc-NS8LBrJ1gsvvbmnPmj5bwEy09mb1vNHMw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/X684d-HERWLkN-2lGwWopzNbTtDSQw787JYYIcmc-NS8LBrJ1gsvvbmnPmj5bwEy09mb1vNHMw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Alphaledger",
+          "description": "Alpha Ledger makes finance simple, engaging, and easy to understand. Explore the world of money, wealth, investing, business, economics, and financial psychology through captivating stories, real-world examples, and thought-provoking simulations. Discover how money works, why people make financial decisions, and how wealth shapes our lives. From everyday money habits to the hidden mechanics of the global economy, every video reveals a new perspective on finance.\n\nUnderstand Money. Think Smarter. Build Wealth."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUQ_9eSrWTWWKBkj-pDbXweg"
+        }
+      },
+      "statistics": {
+        "viewCount": "6",
+        "subscriberCount": "18",
+        "hiddenSubscriberCount": false,
+        "videoCount": "2"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "9kA3i1DMTwIMZHILjR477r98Kc4",
+      "id": "UCU3QUQNhBK2G0E1__Apvd4Q",
+      "snippet": {
+        "title": "Boss Of Stock Market",
+        "description": "I'm a retail trader helping other retail traders to understand Trading and grow to be part of those 5% of Traders who actually earn from Stock Market. Join me on this journey to learn and grow together. ",
+        "customUrl": "@bossofstockmarket",
+        "publishedAt": "2010-06-14T08:39:00Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vlCy6eIoMnboD1nn6fPT6LTq3TggfgjQIUwAdj4Z-MML6lUSBk5ImWUNJ0NslnwwMGxKI93B=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vlCy6eIoMnboD1nn6fPT6LTq3TggfgjQIUwAdj4Z-MML6lUSBk5ImWUNJ0NslnwwMGxKI93B=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vlCy6eIoMnboD1nn6fPT6LTq3TggfgjQIUwAdj4Z-MML6lUSBk5ImWUNJ0NslnwwMGxKI93B=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Boss Of Stock Market",
+          "description": "I'm a retail trader helping other retail traders to understand Trading and grow to be part of those 5% of Traders who actually earn from Stock Market. Join me on this journey to learn and grow together. "
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUU3QUQNhBK2G0E1__Apvd4Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "1147066",
+        "subscriberCount": "20100",
+        "hiddenSubscriberCount": false,
+        "videoCount": "623"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "TrYcDLoJhG9qf4SaXl4kd_QwcK0",
+      "id": "UCMGUK8NfXXVSQQJ7TDE8xpQ",
+      "snippet": {
+        "title": "The WLTH Hub",
+        "description": "",
+        "customUrl": "@thewlthhub",
+        "publishedAt": "2026-09-11T07:33:29.546043Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Kw2uDfbpVCRNfsnZzy_wzFcA7L3CqWRzWIWHVGHVYoyIBhmbsF9N54JUli1pkMvZNbglfCVghI8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Kw2uDfbpVCRNfsnZzy_wzFcA7L3CqWRzWIWHVGHVYoyIBhmbsF9N54JUli1pkMvZNbglfCVghI8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Kw2uDfbpVCRNfsnZzy_wzFcA7L3CqWRzWIWHVGHVYoyIBhmbsF9N54JUli1pkMvZNbglfCVghI8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The WLTH Hub",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUMGUK8NfXXVSQQJ7TDE8xpQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "63731",
+        "subscriberCount": "37",
+        "hiddenSubscriberCount": false,
+        "videoCount": "81"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "HMwn-iDaHJwrtBqkX6WYt6adBEc",
+      "id": "UC6y0MqJ980F191KKoMBK0Kg",
+      "snippet": {
+        "title": "The Art of Business",
+        "description": "Money is a skill. Business is an art. Learn both.\n \nThe Art of Business breaks down how money really works: the habits of the wealthy, the psychology of pricing and negotiation, and the lessons behind iconic brands, all explained with sleek animation and zero fluff.\n \n▸ Wealth, business and money psychology, made simple\n▸ Well-researched lessons you can apply today\n▸ New videos and Shorts every week\n \nEducational content, not financial advice.\n \nSubscribe and start thinking like an owner.\n",
+        "customUrl": "@theartofbusinessandfinance",
+        "publishedAt": "2026-09-27T17:11:07.743605Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_QGevMTAMqR8XBmb37y-Ka4MVJsvY0S9PN3jiOTpcrmpiH6yAD9nsTZGQYJ9FBRnUtB7mm8re4c=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_QGevMTAMqR8XBmb37y-Ka4MVJsvY0S9PN3jiOTpcrmpiH6yAD9nsTZGQYJ9FBRnUtB7mm8re4c=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_QGevMTAMqR8XBmb37y-Ka4MVJsvY0S9PN3jiOTpcrmpiH6yAD9nsTZGQYJ9FBRnUtB7mm8re4c=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Art of Business",
+          "description": "Money is a skill. Business is an art. Learn both.\n \nThe Art of Business breaks down how money really works: the habits of the wealthy, the psychology of pricing and negotiation, and the lessons behind iconic brands, all explained with sleek animation and zero fluff.\n \n▸ Wealth, business and money psychology, made simple\n▸ Well-researched lessons you can apply today\n▸ New videos and Shorts every week\n \nEducational content, not financial advice.\n \nSubscribe and start thinking like an owner.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6y0MqJ980F191KKoMBK0Kg"
+        }
+      },
+      "statistics": {
+        "viewCount": "230",
+        "subscriberCount": "3",
+        "hiddenSubscriberCount": false,
+        "videoCount": "21"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "WxaOJXvZbNYzaBb0_TP1p8GYSM4",
+      "id": "UCiS84l9djVnKBk1SRaJV4tQ",
+      "snippet": {
+        "title": "Money with Noah",
+        "description": "Most of us were never taught how credit actually works, how to invest without guessing, or what \"financially healthy\" even looks like at our age. I break it down simply — with the psychology and the math — so you can stop wondering and start building.\n\n🔔 New videos regularly. Subscribe so your future self doesn't have to learn this the hard way.\n\nDisclaimer: This content is for education and entertainment purposes only. Not financial, investment, tax, or legal advice. Always do your own research or consult a licensed professional before making financial decisions.\n",
+        "customUrl": "@moneywithnoah",
+        "publishedAt": "2026-08-16T15:18:23.581209Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GxN0cr_Mf15EIf9PQlGraAKVHbCjX3VVY9_ajmr6pOW_BsdhxoL2hGAcTwDZdhdAlXp2ZZ43VLY=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GxN0cr_Mf15EIf9PQlGraAKVHbCjX3VVY9_ajmr6pOW_BsdhxoL2hGAcTwDZdhdAlXp2ZZ43VLY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GxN0cr_Mf15EIf9PQlGraAKVHbCjX3VVY9_ajmr6pOW_BsdhxoL2hGAcTwDZdhdAlXp2ZZ43VLY=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Money with Noah",
+          "description": "Most of us were never taught how credit actually works, how to invest without guessing, or what \"financially healthy\" even looks like at our age. I break it down simply — with the psychology and the math — so you can stop wondering and start building.\n\n🔔 New videos regularly. Subscribe so your future self doesn't have to learn this the hard way.\n\nDisclaimer: This content is for education and entertainment purposes only. Not financial, investment, tax, or legal advice. Always do your own research or consult a licensed professional before making financial decisions.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUiS84l9djVnKBk1SRaJV4tQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "331",
+        "subscriberCount": "2",
+        "hiddenSubscriberCount": false,
+        "videoCount": "15"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "wlu5eiCTcCoPNfIFQUjReyotFSQ",
+      "id": "UCS9usYeUscia6n_ww7OnrFQ",
+      "snippet": {
+        "title": "MoneyMind lab",
+        "description": "Money Mind Lab makes money easier to understand.\n\nWe break down personal finance, saving, investing, credit cards, debt, inflation, money habits, and financial psychology into simple, engaging short videos.\n\nOur goal is to explain how money works and why people make certain financial decisions — without unnecessary jargon or complicated explanations.\n\nFrom everyday spending habits to investing basics, each video focuses on one simple idea designed to help you understand money better and think more clearly about financial decisions.\n\nDisclaimer: Videos are for educational and informational purposes only. Not financial advice.",
+        "customUrl": "@moneymindlab67",
+        "publishedAt": "2026-08-24T20:47:43.26359Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/_SSgQiY2PgrelS5TPqjtBLBrfwfA1iGG2uHdSwaCxp782U7W8aSieFJDUhhBk1D2uqwGeijc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/_SSgQiY2PgrelS5TPqjtBLBrfwfA1iGG2uHdSwaCxp782U7W8aSieFJDUhhBk1D2uqwGeijc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/_SSgQiY2PgrelS5TPqjtBLBrfwfA1iGG2uHdSwaCxp782U7W8aSieFJDUhhBk1D2uqwGeijc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MoneyMind lab",
+          "description": "Money Mind Lab makes money easier to understand.\n\nWe break down personal finance, saving, investing, credit cards, debt, inflation, money habits, and financial psychology into simple, engaging short videos.\n\nOur goal is to explain how money works and why people make certain financial decisions — without unnecessary jargon or complicated explanations.\n\nFrom everyday spending habits to investing basics, each video focuses on one simple idea designed to help you understand money better and think more clearly about financial decisions.\n\nDisclaimer: Videos are for educational and informational purposes only. Not financial advice."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUS9usYeUscia6n_ww7OnrFQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "11774",
+        "subscriberCount": "38",
+        "hiddenSubscriberCount": false,
+        "videoCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "kUHc9ZK1w84JaMnjunIY9uBaJDo",
+      "id": "UCpt4ud9QbrAR-thb9kMyf6w",
+      "snippet": {
+        "title": "Grain House History ",
+        "description": "Welcome to GRAINHOUSE HISTORY — where the past comes alive.\n\nExplore the rise and fall of civilizations, ancient empires, forgotten cities, legendary rulers, major events, cultures, discoveries, and the stories that shaped our world.\n\nFrom Ancient Egypt, Mesopotamia, Greece, Rome, Persia and China to the Mongol Empire, medieval kingdoms and the modern world, we create cinematic historical documentaries that make history immersive and easy to understand.\n\nOur videos cover ancient history, world history, civilizations, empires, kings and emperors, archaeology, lost cities, medieval history, wars, revolutions, ancient technology, Chinese dynasties and historical events.\n\nThrough documentary narration and cinematic AI-assisted historical reconstruction, GRAINHOUSE HISTORY brings the atmosphere of the past closer to life.\n\nSubscribe and journey through the civilizations that built the world we live in today.\n\nHistory • Empires • Civilizations • Documentary\n",
+        "customUrl": "@garinhousehistory",
+        "publishedAt": "2023-10-11T09:53:55.122247Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0hKCdBaVkBDGc3SU7yomDzyxax8u7m_2RxE1EePrP7nLUcUcTNn8wbrujVZojHqdKHDcmM4c=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0hKCdBaVkBDGc3SU7yomDzyxax8u7m_2RxE1EePrP7nLUcUcTNn8wbrujVZojHqdKHDcmM4c=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0hKCdBaVkBDGc3SU7yomDzyxax8u7m_2RxE1EePrP7nLUcUcTNn8wbrujVZojHqdKHDcmM4c=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Grain House History ",
+          "description": "Welcome to GRAINHOUSE HISTORY — where the past comes alive.\n\nExplore the rise and fall of civilizations, ancient empires, forgotten cities, legendary rulers, major events, cultures, discoveries, and the stories that shaped our world.\n\nFrom Ancient Egypt, Mesopotamia, Greece, Rome, Persia and China to the Mongol Empire, medieval kingdoms and the modern world, we create cinematic historical documentaries that make history immersive and easy to understand.\n\nOur videos cover ancient history, world history, civilizations, empires, kings and emperors, archaeology, lost cities, medieval history, wars, revolutions, ancient technology, Chinese dynasties and historical events.\n\nThrough documentary narration and cinematic AI-assisted historical reconstruction, GRAINHOUSE HISTORY brings the atmosphere of the past closer to life.\n\nSubscribe and journey through the civilizations that built the world we live in today.\n\nHistory • Empires • Civilizations • Documentary\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpt4ud9QbrAR-thb9kMyf6w"
+        }
+      },
+      "statistics": {
+        "viewCount": "678",
+        "subscriberCount": "256",
+        "hiddenSubscriberCount": false,
+        "videoCount": "25"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "JbZYJzV_UzkYn_WoRmjOl8FrCgA",
+      "id": "UCMR-Fu8OstG5FzauC3KPBsA",
+      "snippet": {
+        "title": "StocksNCryptoX",
+        "description": "",
+        "customUrl": "@stocksncryptox",
+        "publishedAt": "2025-08-24T15:53:51.750357Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/2t6rIzEA-1Q8QK7yNNcRKoO02I1Z9ivPQr3bAQk7BbWb9tKi6uKUKtojnPRh7YlTD8dKf00_5g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/2t6rIzEA-1Q8QK7yNNcRKoO02I1Z9ivPQr3bAQk7BbWb9tKi6uKUKtojnPRh7YlTD8dKf00_5g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/2t6rIzEA-1Q8QK7yNNcRKoO02I1Z9ivPQr3bAQk7BbWb9tKi6uKUKtojnPRh7YlTD8dKf00_5g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "StocksNCryptoX",
+          "description": ""
+        },
+        "country": "CZ"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUMR-Fu8OstG5FzauC3KPBsA"
+        }
+      },
+      "statistics": {
+        "viewCount": "1079",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "unLppIMsrLSVuWZf8jTF24AzZIM",
+      "id": "UC-w5BzyjWpjpCV5ODSD1itw",
+      "snippet": {
+        "title": "Valtrix Finance",
+        "description": "Welcome to Valtrix Finance — Your Gateway to Smarter Money Decisions. 💰📈\n\nValtrix Finance is a finance and investing channel dedicated to helping you understand the stock market, investing, personal finance, financial news, and the US economy in a simple and practical way.\n\nOn this channel, you'll find content about stock market analysis, investing strategies, market news, economic updates, financial education, wealth building, and money management.\n\nWhether you're a beginner learning about investing or an experienced investor looking to stay updated, Valtrix Finance brings you easy-to-understand insights and valuable financial knowledge.\n\n🔥 What You’ll Find Here:\n\n📊 Stock Market & Market Analysis\n💰 Investing & Wealth Building\n📰 Financial & Market News\n💡 Personal Finance & Money Tips\n🏦 Business & Economic Trends\n📚 Financial Education for Beginners\n\nSubscribe to Valtrix Finance and stay informed about the markets, money, and opportunities shaping the financial world.\n",
+        "customUrl": "@valtrixfinance007",
+        "publishedAt": "2026-08-27T09:33:35.620547Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/n8qWyYsh0tc1aWB5rVHouqbLvqMoD2_mJ9O8J3Q0S-pmJeCc-2t9o7m1Y0B6btCz0EFslZQi=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/n8qWyYsh0tc1aWB5rVHouqbLvqMoD2_mJ9O8J3Q0S-pmJeCc-2t9o7m1Y0B6btCz0EFslZQi=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/n8qWyYsh0tc1aWB5rVHouqbLvqMoD2_mJ9O8J3Q0S-pmJeCc-2t9o7m1Y0B6btCz0EFslZQi=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Valtrix Finance",
+          "description": "Welcome to Valtrix Finance — Your Gateway to Smarter Money Decisions. 💰📈\n\nValtrix Finance is a finance and investing channel dedicated to helping you understand the stock market, investing, personal finance, financial news, and the US economy in a simple and practical way.\n\nOn this channel, you'll find content about stock market analysis, investing strategies, market news, economic updates, financial education, wealth building, and money management.\n\nWhether you're a beginner learning about investing or an experienced investor looking to stay updated, Valtrix Finance brings you easy-to-understand insights and valuable financial knowledge.\n\n🔥 What You’ll Find Here:\n\n📊 Stock Market & Market Analysis\n💰 Investing & Wealth Building\n📰 Financial & Market News\n💡 Personal Finance & Money Tips\n🏦 Business & Economic Trends\n📚 Financial Education for Beginners\n\nSubscribe to Valtrix Finance and stay informed about the markets, money, and opportunities shaping the financial world.\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-w5BzyjWpjpCV5ODSD1itw"
+        }
+      },
+      "statistics": {
+        "viewCount": "294",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Q-xa9_M_xlSAoJ4_tvdC3xxRwos",
+      "id": "UCAamPvB3sTzA7Ma44AayjQA",
+      "snippet": {
+        "title": "Interestingly Rich Money",
+        "description": "Money, made simple. Interestingly Rich turns budgeting, investing, 401(k)s, taxes and benefits into short, visual guides you can actually use.\n🌱 New videos & content every week\n📈 For US earners, NRIs and H-1B professionals\nEducation only, not financial advice.\nInstagram: @interestinglyrich\nBusiness: [EMAIL-REDACTED]",
+        "customUrl": "@interestinglyrich",
+        "publishedAt": "2026-10-07T00:58:46.16527Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/gk_S2g-iJmT6EU-KbsEnBkf2cBOG23ebgQPWyr9bavSw4DuF_EdIJiXAJo2J-O82XvZZZGnEJw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/gk_S2g-iJmT6EU-KbsEnBkf2cBOG23ebgQPWyr9bavSw4DuF_EdIJiXAJo2J-O82XvZZZGnEJw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/gk_S2g-iJmT6EU-KbsEnBkf2cBOG23ebgQPWyr9bavSw4DuF_EdIJiXAJo2J-O82XvZZZGnEJw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Interestingly Rich Money",
+          "description": "Money, made simple. Interestingly Rich turns budgeting, investing, 401(k)s, taxes and benefits into short, visual guides you can actually use.\n🌱 New videos & content every week\n📈 For US earners, NRIs and H-1B professionals\nEducation only, not financial advice.\nInstagram: @interestinglyrich\nBusiness: [EMAIL-REDACTED]"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUAamPvB3sTzA7Ma44AayjQA"
+        }
+      },
+      "statistics": {
+        "viewCount": "335",
+        "subscriberCount": "2",
+        "hiddenSubscriberCount": false,
+        "videoCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Xhut9rFqOF36a8ZcJoqFuNov9D4",
+      "id": "UCRAaI72wym033vtPke2u1fQ",
+      "snippet": {
+        "title": "WealthUnlocked 36",
+        "description": "Welcome to WealthUnlocked 36 — your guide to money, investing, and financial freedom in America 🇺🇸\nWe make US personal finance and investing simple and easy to understand. Learn about stock market investing, ETFs, Roth IRA, 401(k), credit scores, budgeting, saving money, passive income, retirement planning, and wealth building.\n📈 What you'll find on Wealth Unlocked:\nUS Personal Finance\nInvesting for Beginners\nStock Market & ETFs\nRoth IRA & 401(k)\nCredit & Money Management\nSaving & Budgeting Tips\nPassive Income Ideas\nRetirement & Wealth Building\nUS Economy & Financial News\nSubscribe to Wealth Unlocked and learn how money works, one video at a time.\n⚠️ Disclaimer: Content is for educational and informational purposes only and is not financial, investment, tax, or legal advice. Always conduct your own research and consult a qualified professional when appropriate.",
+        "customUrl": "@wealthunlocked36",
+        "publishedAt": "2026-09-05T06:35:27.555909Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/qSgVYAFjxxPhXdnXuxUcOjfzCdELkZEO8M0EtE7An6q8-wiil1NLZTKnxYHuYwc5HLFFb_Rpg-Y=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/qSgVYAFjxxPhXdnXuxUcOjfzCdELkZEO8M0EtE7An6q8-wiil1NLZTKnxYHuYwc5HLFFb_Rpg-Y=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/qSgVYAFjxxPhXdnXuxUcOjfzCdELkZEO8M0EtE7An6q8-wiil1NLZTKnxYHuYwc5HLFFb_Rpg-Y=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "WealthUnlocked 36",
+          "description": "Welcome to WealthUnlocked 36 — your guide to money, investing, and financial freedom in America 🇺🇸\nWe make US personal finance and investing simple and easy to understand. Learn about stock market investing, ETFs, Roth IRA, 401(k), credit scores, budgeting, saving money, passive income, retirement planning, and wealth building.\n📈 What you'll find on Wealth Unlocked:\nUS Personal Finance\nInvesting for Beginners\nStock Market & ETFs\nRoth IRA & 401(k)\nCredit & Money Management\nSaving & Budgeting Tips\nPassive Income Ideas\nRetirement & Wealth Building\nUS Economy & Financial News\nSubscribe to Wealth Unlocked and learn how money works, one video at a time.\n⚠️ Disclaimer: Content is for educational and informational purposes only and is not financial, investment, tax, or legal advice. Always conduct your own research and consult a qualified professional when appropriate."
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UURAaI72wym033vtPke2u1fQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1365",
+        "subscriberCount": "4",
+        "hiddenSubscriberCount": false,
+        "videoCount": "82"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "IsBwQVFbV_znz_ENM5gA8ZpujMQ",
+      "id": "UCmacw13jWFuGDoDnE5NljcQ",
+      "snippet": {
+        "title": "The History 293",
+        "description": "Welcome to The History 293 🌍\n\nExplore the fascinating stories that shaped our world — from ancient civilizations and forgotten kingdoms to legendary battles, mysterious places, powerful empires, and incredible historical events.\n\nOn this channel, we bring history to life through cinematic storytelling, interesting facts, timelines, documentaries, and stories from around the world.\n\n🏛️ Ancient Civilizations\n⚔️ Kings, Empires & Battles\n🌍 World History & Lost Places\n📜 Historical Mysteries & Untold Stories\n🎬 Documentary-Style History Videos\n\nSubscribe to The History 293 and travel through time with us.\n\nOne World. Thousands of Stories. One History. 🌎",
+        "customUrl": "@the_history_293",
+        "publishedAt": "2025-04-27T13:36:52.423174Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/jOUCp-56ASlOdQqLUimAkgm0Ej7-HUkE-Y8UFTK1GxHCoEeiLRR0VWk8s0yfmVVX15bDOLnU=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/jOUCp-56ASlOdQqLUimAkgm0Ej7-HUkE-Y8UFTK1GxHCoEeiLRR0VWk8s0yfmVVX15bDOLnU=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/jOUCp-56ASlOdQqLUimAkgm0Ej7-HUkE-Y8UFTK1GxHCoEeiLRR0VWk8s0yfmVVX15bDOLnU=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The History 293",
+          "description": "Welcome to The History 293 🌍\n\nExplore the fascinating stories that shaped our world — from ancient civilizations and forgotten kingdoms to legendary battles, mysterious places, powerful empires, and incredible historical events.\n\nOn this channel, we bring history to life through cinematic storytelling, interesting facts, timelines, documentaries, and stories from around the world.\n\n🏛️ Ancient Civilizations\n⚔️ Kings, Empires & Battles\n🌍 World History & Lost Places\n📜 Historical Mysteries & Untold Stories\n🎬 Documentary-Style History Videos\n\nSubscribe to The History 293 and travel through time with us.\n\nOne World. Thousands of Stories. One History. 🌎"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmacw13jWFuGDoDnE5NljcQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "2385",
+        "subscriberCount": "66",
+        "hiddenSubscriberCount": false,
+        "videoCount": "10"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "eK88E-J_l438M-iomoBQJVkCgXs",
+      "id": "UCYI-XPsuwAmVTG-GWjVycmA",
+      "snippet": {
+        "title": "Rain Sounds For Sleeping",
+        "description": "Rain Sounds For Sleeping \nGrateful for your presence here ❤️ \nBy blending natural sounds with computer graphics, I create videos that I hope you will enjoy. It would mean the world to me if you decide to subscribe to my channel, as your support is what motivates me to love this work even more. Thank you from the bottom of my heart! ❤️ Have a wonderful evening everyone!\nrain for sleep, sounds of rain and thunder for sleep, noise of rain, sound of rain, sounds of rain, rain with a thunderstorm for sleep, sound of rain and thunderstorms for sleep, sound of rain outside the window, noise of rain and thunder, noise of rain for sleep, noise of rain and thunder for sleep, rain and thunder for sleep, the sound of rain and thunderstorms, rain outside the window, sounds for sleep, for sleep, thunderstorm for sleep, rain thunderstorm for sleep, noise of rain with thunder, sound of rain for sleep, sound of rain and thunder , rain, rain sounds, rain sounds for sleeping\n",
+        "customUrl": "@rainsoundsforsleeping179",
+        "publishedAt": "2024-01-26T03:50:05.574512Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/A6tjyxK1drzeAqsEsJ8bPscapw_2dpf3PokjaAtr5V8y2qgyC3HfPN3lYsxoxEN-mHGxtYUo_Ao=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/A6tjyxK1drzeAqsEsJ8bPscapw_2dpf3PokjaAtr5V8y2qgyC3HfPN3lYsxoxEN-mHGxtYUo_Ao=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/A6tjyxK1drzeAqsEsJ8bPscapw_2dpf3PokjaAtr5V8y2qgyC3HfPN3lYsxoxEN-mHGxtYUo_Ao=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Rain Sounds For Sleeping",
+          "description": "Rain Sounds For Sleeping \nGrateful for your presence here ❤️ \nBy blending natural sounds with computer graphics, I create videos that I hope you will enjoy. It would mean the world to me if you decide to subscribe to my channel, as your support is what motivates me to love this work even more. Thank you from the bottom of my heart! ❤️ Have a wonderful evening everyone!\nrain for sleep, sounds of rain and thunder for sleep, noise of rain, sound of rain, sounds of rain, rain with a thunderstorm for sleep, sound of rain and thunderstorms for sleep, sound of rain outside the window, noise of rain and thunder, noise of rain for sleep, noise of rain and thunder for sleep, rain and thunder for sleep, the sound of rain and thunderstorms, rain outside the window, sounds for sleep, for sleep, thunderstorm for sleep, rain thunderstorm for sleep, noise of rain with thunder, sound of rain for sleep, sound of rain and thunder , rain, rain sounds, rain sounds for sleeping\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUYI-XPsuwAmVTG-GWjVycmA"
+        }
+      },
+      "statistics": {
+        "viewCount": "14272344",
+        "subscriberCount": "30600",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4325"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "OeZI62yuAHH17RdgK5cQnrm4KRw",
+      "id": "UCkYmvZNe6bwtd2HO9qqGWdQ",
+      "snippet": {
+        "title": "Money in 60",
+        "description": "",
+        "customUrl": "@moneyin60live",
+        "publishedAt": "2026-10-11T13:21:11.427809Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nZa2L5tvX7AvSd4Ge5CNES4grhI0iSwAR0FOEKVgy-ONyNf84-qq6U12ADeVbgPcot_Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nZa2L5tvX7AvSd4Ge5CNES4grhI0iSwAR0FOEKVgy-ONyNf84-qq6U12ADeVbgPcot_Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nZa2L5tvX7AvSd4Ge5CNES4grhI0iSwAR0FOEKVgy-ONyNf84-qq6U12ADeVbgPcot_Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Money in 60",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUkYmvZNe6bwtd2HO9qqGWdQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "xlhEqPwhwkG1u7aOZoBSR2BmAaA",
+      "id": "UCTXDBB8w1xgJ3PVOdgwb8RA",
+      "snippet": {
+        "title": "How to Get Rich",
+        "description": "Welcome to How to Get Rich! 🚀\n\nThis channel is dedicated to helping you master your money mindset and build wealth from the ground up. We explore the psychology of money, practical financial habits, and the secrets of the wealthy—all explained in simple, actionable steps.\n\nWhether you're looking to get out of debt, start a side hustle, or simply change the way you think about money, you're in the right place.\n\n🔔 Subscribe for daily insights on personal finance and wealth building.\n⚠️ Disclaimer: This content is for educational and entertainment purposes only. It is not financial advice.\n",
+        "customUrl": "@howtogetrich-v7n",
+        "publishedAt": "2026-10-07T08:14:45.543594Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/tbT2ubkw61MwweERmUMbULu9DwRo3kxjToDhxAzfs2OybMff0ldiy5Y3UjvatzCXVylkcZey=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/tbT2ubkw61MwweERmUMbULu9DwRo3kxjToDhxAzfs2OybMff0ldiy5Y3UjvatzCXVylkcZey=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/tbT2ubkw61MwweERmUMbULu9DwRo3kxjToDhxAzfs2OybMff0ldiy5Y3UjvatzCXVylkcZey=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "How to Get Rich",
+          "description": "Welcome to How to Get Rich! 🚀\n\nThis channel is dedicated to helping you master your money mindset and build wealth from the ground up. We explore the psychology of money, practical financial habits, and the secrets of the wealthy—all explained in simple, actionable steps.\n\nWhether you're looking to get out of debt, start a side hustle, or simply change the way you think about money, you're in the right place.\n\n🔔 Subscribe for daily insights on personal finance and wealth building.\n⚠️ Disclaimer: This content is for educational and entertainment purposes only. It is not financial advice.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUTXDBB8w1xgJ3PVOdgwb8RA"
+        }
+      },
+      "statistics": {
+        "viewCount": "52",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "QHaQs4ByAyVTj9xNYRi_d46dzC8",
+      "id": "UCPyw1nGMb3omoiDjmW-u6gw",
+      "snippet": {
+        "title": "National Historic Documentary",
+        "description": "National Historic explores forgotten events, military archives, and hidden stories that shaped our world. From World War documentaries to Cold War operations, nuclea\nr tests, veteran testimonies and rare restored footage, this channel brings history back to life with accuracy and cinematic storytelling.\nWe reveal untold missions, declassified files, battlefield reports, and unique images from the past to help you understand conflicts, strategies, and the people behind them.\nIf you love real history, military facts, national archives, and powerful documentaries, subscribe and dive into the moments time tried to erase.\n\n🕰️ If you love:\n• Military history\n• National archives\n• Real stories from veterans\n• Rare photos and restored footage\n• Educational and cinematic documentaries\n\n➡️ You’re in the right place.\nSubscribe and step inside the chapters history tried to hide.\n",
+        "customUrl": "@nationalhistoricdocumentary",
+        "publishedAt": "2025-11-23T10:55:37.230482Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/lZP8yobNZF6yg1LbYJxKu8QFrlxebTYnzVHNkysbaecJw8Vo-9jJLiH6iYsIgu6MqCzXshAgUw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/lZP8yobNZF6yg1LbYJxKu8QFrlxebTYnzVHNkysbaecJw8Vo-9jJLiH6iYsIgu6MqCzXshAgUw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/lZP8yobNZF6yg1LbYJxKu8QFrlxebTYnzVHNkysbaecJw8Vo-9jJLiH6iYsIgu6MqCzXshAgUw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "National Historic Documentary",
+          "description": "National Historic explores forgotten events, military archives, and hidden stories that shaped our world. From World War documentaries to Cold War operations, nuclea\nr tests, veteran testimonies and rare restored footage, this channel brings history back to life with accuracy and cinematic storytelling.\nWe reveal untold missions, declassified files, battlefield reports, and unique images from the past to help you understand conflicts, strategies, and the people behind them.\nIf you love real history, military facts, national archives, and powerful documentaries, subscribe and dive into the moments time tried to erase.\n\n🕰️ If you love:\n• Military history\n• National archives\n• Real stories from veterans\n• Rare photos and restored footage\n• Educational and cinematic documentaries\n\n➡️ You’re in the right place.\nSubscribe and step inside the chapters history tried to hide.\n"
+        },
+        "country": "TH"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUPyw1nGMb3omoiDjmW-u6gw"
+        }
+      },
+      "statistics": {
+        "viewCount": "333473",
+        "subscriberCount": "740",
+        "hiddenSubscriberCount": false,
+        "videoCount": "288"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8WYeHJzd-7UPow5Vm4DOce49Sbc",
+      "id": "UCFn5pswcSvacT4c2dUL2B5Q",
+      "snippet": {
+        "title": "FINANCE_MR.SOURAV | NISM CERTIFIED ",
+        "description": "I can help with your taxes, including GST, Section 80C, 80D, TDS, TCS, and filing your Income Tax Return. Whether you need to follow the rules, get the most deductions, or ensure accurate submissions, I'm here to provide easy-to-understand professional assistance. \n\nFeel free to DM me for help with tax planning or any financial questions.\n",
+        "customUrl": "@financemr.sourav",
+        "publishedAt": "2015-11-14T14:59:49Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/t6X_I57q01EnuKtGByPa-sKis2hO2rrm2dzOcqftJmjW9YIk8RyPAZLVEgkL5Rxmvx8WeKlO=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/t6X_I57q01EnuKtGByPa-sKis2hO2rrm2dzOcqftJmjW9YIk8RyPAZLVEgkL5Rxmvx8WeKlO=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/t6X_I57q01EnuKtGByPa-sKis2hO2rrm2dzOcqftJmjW9YIk8RyPAZLVEgkL5Rxmvx8WeKlO=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FINANCE_MR.SOURAV | NISM CERTIFIED ",
+          "description": "I can help with your taxes, including GST, Section 80C, 80D, TDS, TCS, and filing your Income Tax Return. Whether you need to follow the rules, get the most deductions, or ensure accurate submissions, I'm here to provide easy-to-understand professional assistance. \n\nFeel free to DM me for help with tax planning or any financial questions.\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUFn5pswcSvacT4c2dUL2B5Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "548499",
+        "subscriberCount": "893",
+        "hiddenSubscriberCount": false,
+        "videoCount": "607"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "l0TWDLp7htJpRiSSgZnTEi7x9BE",
+      "id": "UCktGeTv8sUXjxXNrlmDAXLw",
+      "snippet": {
+        "title": "Loophole",
+        "description": "Understand the money game. Play it smarter. Keep more of what's yours.\n\nEducational content only — not financial advice.\n\n",
+        "customUrl": "@dailyloophole",
+        "publishedAt": "2026-09-30T10:34:25.096387Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iJuGKXbMaMt-w39yEgepiA-uH0iE4uEtISY-iqIZakYf2ZYH3FZzLHOUIVTgotrSfFRquI5d=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iJuGKXbMaMt-w39yEgepiA-uH0iE4uEtISY-iqIZakYf2ZYH3FZzLHOUIVTgotrSfFRquI5d=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iJuGKXbMaMt-w39yEgepiA-uH0iE4uEtISY-iqIZakYf2ZYH3FZzLHOUIVTgotrSfFRquI5d=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Loophole",
+          "description": "Understand the money game. Play it smarter. Keep more of what's yours.\n\nEducational content only — not financial advice.\n\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUktGeTv8sUXjxXNrlmDAXLw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1012",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "myK3cWi87YN7g8DEF1IyBdMv-HA",
+      "id": "UCVqlWPMM32FOnQ9-DABnBlQ",
+      "snippet": {
+        "title": "Yudi J - NRI Personal Finance",
+        "description": "Moving to the U.S. changes a lot about how you think about money.\n\nYou’re figuring out taxes, investing, credit, mortgages, retirement, sending money to India, and everything in between.\n\nThis channel makes that a little easier.\n\nHi - I’m Yudi Jagani. I came to the U.S. as an international student and have now spent 12+ years building my career and life here.\nAlong the way, I went through the F-1 to H-1B journey, built a career, started a business, bought a home, and started thinking seriously about financial independence.\n\nI’m not a financial advisor. I’m sharing what I’ve personally learned, the mistakes I’ve made, and the frameworks that have helped me make better financial decisions.\n\nMy goal is simple: to help you make smarter money decisions in America so you can build more freedom for yourself and your family.\n",
+        "customUrl": "@nripersonalfinanceinusa",
+        "publishedAt": "2026-07-10T15:59:57.062377Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CxK0jzRCJ6xPdqoNbKNZXCHTwZ25Zw4qVZo7LtWJPeR5fPhfOkSODYbcs2VlAkYvNRCFiq1C1A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CxK0jzRCJ6xPdqoNbKNZXCHTwZ25Zw4qVZo7LtWJPeR5fPhfOkSODYbcs2VlAkYvNRCFiq1C1A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CxK0jzRCJ6xPdqoNbKNZXCHTwZ25Zw4qVZo7LtWJPeR5fPhfOkSODYbcs2VlAkYvNRCFiq1C1A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Yudi J - NRI Personal Finance",
+          "description": "Moving to the U.S. changes a lot about how you think about money.\n\nYou’re figuring out taxes, investing, credit, mortgages, retirement, sending money to India, and everything in between.\n\nThis channel makes that a little easier.\n\nHi - I’m Yudi Jagani. I came to the U.S. as an international student and have now spent 12+ years building my career and life here.\nAlong the way, I went through the F-1 to H-1B journey, built a career, started a business, bought a home, and started thinking seriously about financial independence.\n\nI’m not a financial advisor. I’m sharing what I’ve personally learned, the mistakes I’ve made, and the frameworks that have helped me make better financial decisions.\n\nMy goal is simple: to help you make smarter money decisions in America so you can build more freedom for yourself and your family.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVqlWPMM32FOnQ9-DABnBlQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "106786",
+        "subscriberCount": "196",
+        "hiddenSubscriberCount": false,
+        "videoCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jLXP4-mhQOkI1wQmr5liikBJSmM",
+      "id": "UCChjOygATsqEFH21aMxtHTA",
+      "snippet": {
+        "title": "Jamil Nelson | NVSTR Trades",
+        "description": "Macroeconomist | Futures Trader | $ES | Support & Resistance Trader | Lifestyle\n\nIf you're trying master trading and change your lifestyle using trading follow me. I stream everyday inside our Whop Community.\n",
+        "customUrl": "@thenvstr",
+        "publishedAt": "2022-06-08T23:26:01.339367Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Sr9plbBqiuSyZkG9ghpBNlvdKdSvdtqDeGzZqLyYQAAS1KSBfZryHbPzrOcGAv9vT5RtmIlWtw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Sr9plbBqiuSyZkG9ghpBNlvdKdSvdtqDeGzZqLyYQAAS1KSBfZryHbPzrOcGAv9vT5RtmIlWtw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Sr9plbBqiuSyZkG9ghpBNlvdKdSvdtqDeGzZqLyYQAAS1KSBfZryHbPzrOcGAv9vT5RtmIlWtw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Jamil Nelson | NVSTR Trades",
+          "description": "Macroeconomist | Futures Trader | $ES | Support & Resistance Trader | Lifestyle\n\nIf you're trying master trading and change your lifestyle using trading follow me. I stream everyday inside our Whop Community.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUChjOygATsqEFH21aMxtHTA"
+        }
+      },
+      "statistics": {
+        "viewCount": "45466",
+        "subscriberCount": "222",
+        "hiddenSubscriberCount": false,
+        "videoCount": "129"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "mDFG_rDhZu4riWdToPYJqpaDhzU",
+      "id": "UC9uBafY4Oo5SYyc0RNylOvg",
+      "snippet": {
+        "title": "Realistic Returns",
+        "description": "A regular 27 year old who is trying to build wealth in a realistic way.\n\n*Not financial advice*\n",
+        "customUrl": "@therealisticreturns",
+        "publishedAt": "2026-07-20T23:23:04.918337Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/4EWKTly2RAzoPf72UaID9c2UPu6xajxelE1Wgiy5f4SksRMmu3vQqXcIwn513z5B0xQX7PO7Ww=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/4EWKTly2RAzoPf72UaID9c2UPu6xajxelE1Wgiy5f4SksRMmu3vQqXcIwn513z5B0xQX7PO7Ww=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/4EWKTly2RAzoPf72UaID9c2UPu6xajxelE1Wgiy5f4SksRMmu3vQqXcIwn513z5B0xQX7PO7Ww=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Realistic Returns",
+          "description": "A regular 27 year old who is trying to build wealth in a realistic way.\n\n*Not financial advice*\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9uBafY4Oo5SYyc0RNylOvg"
+        }
+      },
+      "statistics": {
+        "viewCount": "7406",
+        "subscriberCount": "86",
+        "hiddenSubscriberCount": false,
+        "videoCount": "52"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "4tLE_3Cw__koqzgIeNyE3hGqSbs",
+      "id": "UCtRXGRpkYAJBDu_O-NdIycg",
+      "snippet": {
+        "title": "FinFocus",
+        "description": "Welcome to FinFocus! We break down personal finance and investing in simple, easy-to-understand videos. Whether you're new to managing money or looking to level up your investing game, FinFocus helps you make smarter financial decisions and grow your wealth. Focus on your financial future, one step at a time.",
+        "customUrl": "@finfocused",
+        "publishedAt": "2025-02-09T19:37:19.757089Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/FQqPPmRANHy5kATgo2Ftk1JAz6ch820Y8vy_GBaWbgNeZ4Fw40RFm7Xd4tZEanS5Fbg2HkLSnck=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/FQqPPmRANHy5kATgo2Ftk1JAz6ch820Y8vy_GBaWbgNeZ4Fw40RFm7Xd4tZEanS5Fbg2HkLSnck=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/FQqPPmRANHy5kATgo2Ftk1JAz6ch820Y8vy_GBaWbgNeZ4Fw40RFm7Xd4tZEanS5Fbg2HkLSnck=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "FinFocus",
+          "description": "Welcome to FinFocus! We break down personal finance and investing in simple, easy-to-understand videos. Whether you're new to managing money or looking to level up your investing game, FinFocus helps you make smarter financial decisions and grow your wealth. Focus on your financial future, one step at a time."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUtRXGRpkYAJBDu_O-NdIycg"
+        }
+      },
+      "statistics": {
+        "viewCount": "15",
+        "subscriberCount": "1",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "FLR0AqFkk4Dq5Zw8pwRGE0JuVfY",
+      "id": "UC6JgxKTqHJT5h2VxwGQfJaQ",
+      "snippet": {
+        "title": "Infinity Hub",
+        "description": "🌌 WELCOME TO INFINITY HUB ⚡\n\nThis isn’t just another YouTube channel — this is a hub for curiosity, knowledge & discovery.\n\nYahan hum explore karte hain the things you see every day, the stories you never knew, the science behind ordinary things, technology, business, world affairs, mysteries, facts and the ideas shaping our future. 🧠🌍\n\nFrom “How does this actually work?” to “Why does this happen?” — Infinity Hub is all about finding the answers that make you stop, think and say:\n\n“Damn… I never knew that!” 🔥\n\n🎯 Our Mission:\nTo make learning interesting, visual & unforgettable.\n\n🚀 Explore. Learn. Question. Discover.\nBecause the world is full of stories — and we’re here to uncover them.\n\n🔔 Subscribe to INFINITY HUB and become part of the journey.\n\nINFINITY HUB — MORE THAN JUST A CHANNEL.",
+        "customUrl": "@infinityhubvilla",
+        "publishedAt": "2025-03-19T06:36:55.791255Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CgHavYDbAdXdQMgQB18MgybMRn14bcPI2YsipGX1VwaH_O1-y0AYmMDsM9FPx3Tja3A6N9W4b6Y=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CgHavYDbAdXdQMgQB18MgybMRn14bcPI2YsipGX1VwaH_O1-y0AYmMDsM9FPx3Tja3A6N9W4b6Y=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CgHavYDbAdXdQMgQB18MgybMRn14bcPI2YsipGX1VwaH_O1-y0AYmMDsM9FPx3Tja3A6N9W4b6Y=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Infinity Hub",
+          "description": "🌌 WELCOME TO INFINITY HUB ⚡\n\nThis isn’t just another YouTube channel — this is a hub for curiosity, knowledge & discovery.\n\nYahan hum explore karte hain the things you see every day, the stories you never knew, the science behind ordinary things, technology, business, world affairs, mysteries, facts and the ideas shaping our future. 🧠🌍\n\nFrom “How does this actually work?” to “Why does this happen?” — Infinity Hub is all about finding the answers that make you stop, think and say:\n\n“Damn… I never knew that!” 🔥\n\n🎯 Our Mission:\nTo make learning interesting, visual & unforgettable.\n\n🚀 Explore. Learn. Question. Discover.\nBecause the world is full of stories — and we’re here to uncover them.\n\n🔔 Subscribe to INFINITY HUB and become part of the journey.\n\nINFINITY HUB — MORE THAN JUST A CHANNEL."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU6JgxKTqHJT5h2VxwGQfJaQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "10005",
+        "subscriberCount": "71",
+        "hiddenSubscriberCount": false,
+        "videoCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "iacvf9ptS64RbbLsGxZS3sVNBws",
+      "id": "UCCLuie_uUIpMEm_SkOXcRfQ",
+      "snippet": {
+        "title": "Compound Club",
+        "description": "Money doesn't have to be complicated. On Compoundclub, we explain personal finance and investing in simple stick figure stories: compound interest, saving, debt, inflation and how to make your money grow.\nNew videos every week. Subscribe and learn one money idea at a time.\nThis channel is for education only and is not financial advice.",
+        "customUrl": "@compoundclub-hq",
+        "publishedAt": "2025-10-18T13:47:54.218071Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GOMuG8TRajlbWe9IO_-hReT2UGDAxKJgkrsU4I_Txb4Qju48ym8K7RkpCtl-D-NB4hD5lrcJvu4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GOMuG8TRajlbWe9IO_-hReT2UGDAxKJgkrsU4I_Txb4Qju48ym8K7RkpCtl-D-NB4hD5lrcJvu4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GOMuG8TRajlbWe9IO_-hReT2UGDAxKJgkrsU4I_Txb4Qju48ym8K7RkpCtl-D-NB4hD5lrcJvu4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Compound Club",
+          "description": "Money doesn't have to be complicated. On Compoundclub, we explain personal finance and investing in simple stick figure stories: compound interest, saving, debt, inflation and how to make your money grow.\nNew videos every week. Subscribe and learn one money idea at a time.\nThis channel is for education only and is not financial advice."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUCLuie_uUIpMEm_SkOXcRfQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "545",
+        "subscriberCount": "582",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "YZlZwJB3FsAlsygYqhOUuVhkqwU",
+      "id": "UCjWaHHJSEUPU9vr592e7iig",
+      "snippet": {
+        "title": "rajrising",
+        "description": "Daily drops of Raj Shamani’s best lessons\n",
+        "customUrl": "@rajrisingofficial",
+        "publishedAt": "2025-08-28T08:44:05.65706Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/VIMwRY-mcz20cPfyKPNLxo-iPFxGqg9QcNXrjhwsQfMU2LH2DIjd9NGTbITmnADpdTgEg0Hj-A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/VIMwRY-mcz20cPfyKPNLxo-iPFxGqg9QcNXrjhwsQfMU2LH2DIjd9NGTbITmnADpdTgEg0Hj-A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/VIMwRY-mcz20cPfyKPNLxo-iPFxGqg9QcNXrjhwsQfMU2LH2DIjd9NGTbITmnADpdTgEg0Hj-A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "rajrising",
+          "description": "Daily drops of Raj Shamani’s best lessons\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUjWaHHJSEUPU9vr592e7iig"
+        }
+      },
+      "statistics": {
+        "viewCount": "34505081",
+        "subscriberCount": "29300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "442"
+      }
+    }
+  ]
+}

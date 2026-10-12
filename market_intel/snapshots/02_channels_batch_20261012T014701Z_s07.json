@@ -1,0 +1,2243 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "QOFLWR2l4OBE7dxkeECLqKNZlXE",
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "w4Q1Rgs8n9KPS0sGDc_HEr6fOv8",
+      "id": "UCQw5LmH_7_TcA7D6Qu1zUbA",
+      "snippet": {
+        "title": "Anime Afterglow",
+        "description": "Welcome to Anime Afterglow ✨\n\nStories That Stay.\n\nEnter a world of anime edits, unforgettable moments, emotional scenes, romance, action, and cinematic AMVs.\n\nFrom quiet goodbyes to epic battles, this is where anime moments live on.\n\n🌙 Emotional edits\n💙 Romance and memories\n⚡ Action and AMVs\n✨ Anime moments worth remembering\n\nSubscribe and join the Afterglow.\n\nNew edits, one story at a time.",
+        "customUrl": "@animeafterglowedits",
+        "publishedAt": "2023-07-13T06:36:46.103685Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/mAjYAtyOt1e_s6vOshKYYVuRw6NrwxmNTPNk_cSNxjA79QhaQjtFK46c9nWn3TUu3btC-bBV148=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/mAjYAtyOt1e_s6vOshKYYVuRw6NrwxmNTPNk_cSNxjA79QhaQjtFK46c9nWn3TUu3btC-bBV148=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/mAjYAtyOt1e_s6vOshKYYVuRw6NrwxmNTPNk_cSNxjA79QhaQjtFK46c9nWn3TUu3btC-bBV148=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Anime Afterglow",
+          "description": "Welcome to Anime Afterglow ✨\n\nStories That Stay.\n\nEnter a world of anime edits, unforgettable moments, emotional scenes, romance, action, and cinematic AMVs.\n\nFrom quiet goodbyes to epic battles, this is where anime moments live on.\n\n🌙 Emotional edits\n💙 Romance and memories\n⚡ Action and AMVs\n✨ Anime moments worth remembering\n\nSubscribe and join the Afterglow.\n\nNew edits, one story at a time."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUQw5LmH_7_TcA7D6Qu1zUbA"
+        }
+      },
+      "statistics": {
+        "viewCount": "159",
+        "subscriberCount": "4",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "5qU9ZB3Z_T-wXLTo4S6l88ezA7Y",
+      "id": "UC5wJV63rnQjYlbiED4rTViA",
+      "snippet": {
+        "title": "The Forgotten Arc",
+        "description": "WELCOME TO THE WORLD OF ANIME COMMENTARY!\n\nHere, we go beyond the surface of your favorite anime.\n\n Discover the dark truths, hidden details, character stories, theories, mysteries, and unforgettable moments behind the anime worlds you love.\n\nFrom the reasons a character became powerful to the hidden meaning behind their actions, we break down the stories and characters that make anime unforgettable.\n\nCharacter breakdowns & backstories\n• Dark truths & untold stories\n• Anime mysteries & hidden details\n• Interesting facts & theories\n• Character transformations & development\n• Powerful moments explained\n• Anime lore & story analysis\n\nSUBSCRIBE and join us as we explore the stories behind the characters, the moments you remember, and the details you might have missed.\n\n⚡ WATCH. DISCOVER. THINK DEEPER.\n\n\n",
+        "customUrl": "@theforgottenarc01",
+        "publishedAt": "2026-08-13T10:22:07.433991Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Mllq61PTYZueTnU5HaNy3cQcwxoCWXEVzbuZqJq6xNMydUBbk07uDPg8e79wBdw3klHd1qVrKQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Mllq61PTYZueTnU5HaNy3cQcwxoCWXEVzbuZqJq6xNMydUBbk07uDPg8e79wBdw3klHd1qVrKQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Mllq61PTYZueTnU5HaNy3cQcwxoCWXEVzbuZqJq6xNMydUBbk07uDPg8e79wBdw3klHd1qVrKQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Forgotten Arc",
+          "description": "WELCOME TO THE WORLD OF ANIME COMMENTARY!\n\nHere, we go beyond the surface of your favorite anime.\n\n Discover the dark truths, hidden details, character stories, theories, mysteries, and unforgettable moments behind the anime worlds you love.\n\nFrom the reasons a character became powerful to the hidden meaning behind their actions, we break down the stories and characters that make anime unforgettable.\n\nCharacter breakdowns & backstories\n• Dark truths & untold stories\n• Anime mysteries & hidden details\n• Interesting facts & theories\n• Character transformations & development\n• Powerful moments explained\n• Anime lore & story analysis\n\nSUBSCRIBE and join us as we explore the stories behind the characters, the moments you remember, and the details you might have missed.\n\n⚡ WATCH. DISCOVER. THINK DEEPER.\n\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU5wJV63rnQjYlbiED4rTViA"
+        }
+      },
+      "statistics": {
+        "viewCount": "25394",
+        "subscriberCount": "69",
+        "hiddenSubscriberCount": false,
+        "videoCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "n4KrQBI06gwtvohWZmPpkMuKzFQ",
+      "id": "UCOvq-u0HKuA98pZ_fooXJmg",
+      "snippet": {
+        "title": "Anime Tree",
+        "description": "🌳Anime Tree – Grow Your Anime World!🌳\n\nWelcome to Anime Tree, the ultimate destination for anime fans! We provide anime recommendations, updates, reviews, episode explanations, and theories to keep you in the loop. Our channel is designed to help you discover new anime, understand stories and characters, and stay connected with the anime community. Subscribe today and join a growing family of fans who love exploring the anime universe with Anime Tree!\n",
+        "customUrl": "@ouranimetree",
+        "publishedAt": "2025-09-12T09:29:21.318788Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/mxns0YtI1f2zUJaN9asyTMT-T4ot-wJ4wwMtfamLDsaj32TZsXz1NpPQsoVtK2gA7JHKcuHfYA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/mxns0YtI1f2zUJaN9asyTMT-T4ot-wJ4wwMtfamLDsaj32TZsXz1NpPQsoVtK2gA7JHKcuHfYA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/mxns0YtI1f2zUJaN9asyTMT-T4ot-wJ4wwMtfamLDsaj32TZsXz1NpPQsoVtK2gA7JHKcuHfYA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Anime Tree",
+          "description": "🌳Anime Tree – Grow Your Anime World!🌳\n\nWelcome to Anime Tree, the ultimate destination for anime fans! We provide anime recommendations, updates, reviews, episode explanations, and theories to keep you in the loop. Our channel is designed to help you discover new anime, understand stories and characters, and stay connected with the anime community. Subscribe today and join a growing family of fans who love exploring the anime universe with Anime Tree!\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUOvq-u0HKuA98pZ_fooXJmg"
+        }
+      },
+      "statistics": {
+        "viewCount": "19193",
+        "subscriberCount": "68",
+        "hiddenSubscriberCount": false,
+        "videoCount": "14"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "vImpvoj-h35bjETrKMzUZbu-wmA",
+      "id": "UCucetcHMOs-uYcM_mh0aLVg",
+      "snippet": {
+        "title": "𝐎𝐒𝐬𝐚𝐧 𝐀𝐧𝐢𝐦𝐞 𝐄𝐱𝐚𝐩𝐥𝐚𝐢𝐧𝐞𝐫",
+        "description": "🌸 WELCOME TO OSAN ANIME EXPLAINER 🌸\n\ni Aime-এর জটিল গল্প, শক্তিশালী চরিত্র, রহস্য, hidden details, theories এবং epic moments সহজ ও entertainingভাবে তুলে ধরা হয়। 🎬✨\n\nআপনি যদি Anime Explanation, Anime Story, Character Analysis, Power Scaling, Hidden Details, Anime Theory, Manga Explanation, Donghua Explanation অথবা emotional ও epic anime moments পছন্দ করেন—তাহলে এই channel আপনার জন্য। ❤️‍🔥\n",
+        "customUrl": "@ossananimeexaplainer",
+        "publishedAt": "2026-09-19T13:33:11.565792Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ML50yl8nKVEJGQviJpXwfxyePBF_vvJeIcQbCN_IDLJTj6e6SqnzkG33Gjcir7aiDXECODeAGe8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ML50yl8nKVEJGQviJpXwfxyePBF_vvJeIcQbCN_IDLJTj6e6SqnzkG33Gjcir7aiDXECODeAGe8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ML50yl8nKVEJGQviJpXwfxyePBF_vvJeIcQbCN_IDLJTj6e6SqnzkG33Gjcir7aiDXECODeAGe8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "𝐎𝐒𝐬𝐚𝐧 𝐀𝐧𝐢𝐦𝐞 𝐄𝐱𝐚𝐩𝐥𝐚𝐢𝐧𝐞𝐫",
+          "description": "🌸 WELCOME TO OSAN ANIME EXPLAINER 🌸\n\ni Aime-এর জটিল গল্প, শক্তিশালী চরিত্র, রহস্য, hidden details, theories এবং epic moments সহজ ও entertainingভাবে তুলে ধরা হয়। 🎬✨\n\nআপনি যদি Anime Explanation, Anime Story, Character Analysis, Power Scaling, Hidden Details, Anime Theory, Manga Explanation, Donghua Explanation অথবা emotional ও epic anime moments পছন্দ করেন—তাহলে এই channel আপনার জন্য। ❤️‍🔥\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUucetcHMOs-uYcM_mh0aLVg"
+        }
+      },
+      "statistics": {
+        "viewCount": "13904",
+        "subscriberCount": "46",
+        "hiddenSubscriberCount": false,
+        "videoCount": "71"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "v6Pz-dDznQJAYKCszuVcktQ94FU",
+      "id": "UC-4msnMjBaYeedsK0CO4IBg",
+      "snippet": {
+        "title": "Beyond the Lens",
+        "description": "Descubre lo que hay más allá de las cámaras , el legado de las películas y directores que han cambiado la historia del cine 🎥\n\n🎞️ Video Ensayo Semanal - Jueves a las 18:45 🎞️\n\nSígueme para más Contenido\n",
+        "customUrl": "@beyondthelens_esp",
+        "publishedAt": "2026-06-15T10:45:17.386425Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/qwet-9x--eAjpuG-MXKkGoLb9wiKsO6kVix3ZENYhTonLTFBwlgSIv5jZ7LTpRi0JPnA3UESbQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/qwet-9x--eAjpuG-MXKkGoLb9wiKsO6kVix3ZENYhTonLTFBwlgSIv5jZ7LTpRi0JPnA3UESbQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/qwet-9x--eAjpuG-MXKkGoLb9wiKsO6kVix3ZENYhTonLTFBwlgSIv5jZ7LTpRi0JPnA3UESbQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Beyond the Lens",
+          "description": "Descubre lo que hay más allá de las cámaras , el legado de las películas y directores que han cambiado la historia del cine 🎥\n\n🎞️ Video Ensayo Semanal - Jueves a las 18:45 🎞️\n\nSígueme para más Contenido\n"
+        },
+        "country": "ES"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-4msnMjBaYeedsK0CO4IBg"
+        }
+      },
+      "statistics": {
+        "viewCount": "119555",
+        "subscriberCount": "154",
+        "hiddenSubscriberCount": false,
+        "videoCount": "64"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8dMSwWFDGuexDBaBq-fBVkg5mQE",
+      "id": "UCNwftcFh2hCBPXgL0dZ5Pkg",
+      "snippet": {
+        "title": "ZAYNIX",
+        "description": "",
+        "customUrl": "@zaynixwrld",
+        "publishedAt": "2024-01-31T01:24:27.505966Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/odP3_IsvsSy44wYIgj4feLxIkeU3l6UN2mxPAnrWxfdeYubY3Xk-0fVvQOPECfOxwBarcPLgdJk=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/odP3_IsvsSy44wYIgj4feLxIkeU3l6UN2mxPAnrWxfdeYubY3Xk-0fVvQOPECfOxwBarcPLgdJk=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/odP3_IsvsSy44wYIgj4feLxIkeU3l6UN2mxPAnrWxfdeYubY3Xk-0fVvQOPECfOxwBarcPLgdJk=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ZAYNIX",
+          "description": ""
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUNwftcFh2hCBPXgL0dZ5Pkg"
+        }
+      },
+      "statistics": {
+        "viewCount": "4857",
+        "subscriberCount": "51",
+        "hiddenSubscriberCount": false,
+        "videoCount": "17"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "RYyfqncZJTqkFxuoErS7kMc3UNw",
+      "id": "UCXpv51v7P8BqOlUBdiMczKA",
+      "snippet": {
+        "title": "afemmeral sugar",
+        "description": "thought daughter in her spare time:",
+        "customUrl": "@afemmeral",
+        "publishedAt": "2020-03-25T21:28:42.611154Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/0--SEoi1qMe3Cec34V-10RwuDBvNotzNlXA4Yp9FiGfvMphFi-Ycour7zgqNC7Z_RG_fm1B3=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "afemmeral sugar",
+          "description": "thought daughter in her spare time:"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUXpv51v7P8BqOlUBdiMczKA"
+        }
+      },
+      "statistics": {
+        "viewCount": "8280",
+        "subscriberCount": "96",
+        "hiddenSubscriberCount": false,
+        "videoCount": "11"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1yPdjH_JfAq94-wo1Fiyq98hs4o",
+      "id": "UC3o96_Uf8bVjYW_ZdIE1VIA",
+      "snippet": {
+        "title": "vic lincoln",
+        "description": "video essays by vic.\n\n",
+        "customUrl": "@vic_linc",
+        "publishedAt": "2026-08-26T00:01:58.496805Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HvzyDgRFVamokZl7Sr5nFhr6kFqyaQda4HBPBOayWVFz9I0GlAECCeT3Cdm3II_INpyIA2JoOI8=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HvzyDgRFVamokZl7Sr5nFhr6kFqyaQda4HBPBOayWVFz9I0GlAECCeT3Cdm3II_INpyIA2JoOI8=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HvzyDgRFVamokZl7Sr5nFhr6kFqyaQda4HBPBOayWVFz9I0GlAECCeT3Cdm3II_INpyIA2JoOI8=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "vic lincoln",
+          "description": "video essays by vic.\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU3o96_Uf8bVjYW_ZdIE1VIA"
+        }
+      },
+      "statistics": {
+        "viewCount": "1609",
+        "subscriberCount": "25",
+        "hiddenSubscriberCount": false,
+        "videoCount": "4"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "-8CdR27BU4J1-SyzOODzezzN1T4",
+      "id": "UC-ZqlRtruSjlGwqMWSuOaLw",
+      "snippet": {
+        "title": "RolandKnowsBall",
+        "description": "Email Me About Business [EMAIL-REDACTED]❤️\n\nHi there, im RolandKnowsBall and Im the best anime documentary Youtuber.  By the title yall probably know what this channel is about. I go over any anime yall want and will analyze it and research it until I can give you a video about anything on it.😁\n\n\nLittle bit about me is that I love watching anime, I’m a pianist as well as someone who loves rock climbing😤\n\nSUB GOALS🏆🏆\n100 - 8/2/26🔥🔥\n1,000 - 8/6/26🙏\n10,000 - 9/6/26\n100,000 Soon?\n",
+        "customUrl": "@rolandknowsball",
+        "publishedAt": "2026-06-22T03:58:15.213894Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/YP47mH-tki3o9sD8d3aKX-FXeJtE40xEEqAqUVDyRwwrzFB3MWYOSOMZGmpUeuseO3m0mfqo=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/YP47mH-tki3o9sD8d3aKX-FXeJtE40xEEqAqUVDyRwwrzFB3MWYOSOMZGmpUeuseO3m0mfqo=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/YP47mH-tki3o9sD8d3aKX-FXeJtE40xEEqAqUVDyRwwrzFB3MWYOSOMZGmpUeuseO3m0mfqo=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "RolandKnowsBall",
+          "description": "Email Me About Business [EMAIL-REDACTED]❤️\n\nHi there, im RolandKnowsBall and Im the best anime documentary Youtuber.  By the title yall probably know what this channel is about. I go over any anime yall want and will analyze it and research it until I can give you a video about anything on it.😁\n\n\nLittle bit about me is that I love watching anime, I’m a pianist as well as someone who loves rock climbing😤\n\nSUB GOALS🏆🏆\n100 - 8/2/26🔥🔥\n1,000 - 8/6/26🙏\n10,000 - 9/6/26\n100,000 Soon?\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU-ZqlRtruSjlGwqMWSuOaLw"
+        }
+      },
+      "statistics": {
+        "viewCount": "11039436",
+        "subscriberCount": "15600",
+        "hiddenSubscriberCount": false,
+        "videoCount": "83"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "kwEgsVmEaWidj8qtQwv9kBmUckM",
+      "id": "UCHuR_PGCxKD2qRfpuHB-kFA",
+      "snippet": {
+        "title": "Film Adrift",
+        "description": "Video essays, interviews, commentaries, short films, feature trailers, etc.\n\nAll material produced and edited by Michael Greenwood. \n\nhttps://linktr.ee/michaelagreenwood\n",
+        "customUrl": "@filmadrift",
+        "publishedAt": "2007-01-25T16:51:28Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/4yfp_r2QDqJxoY85bc-3A5XrnqGou8VOOmLsAu4NFhuPFTvMRDBE1oePFCKQGf5GTjYy36eIMg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/4yfp_r2QDqJxoY85bc-3A5XrnqGou8VOOmLsAu4NFhuPFTvMRDBE1oePFCKQGf5GTjYy36eIMg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/4yfp_r2QDqJxoY85bc-3A5XrnqGou8VOOmLsAu4NFhuPFTvMRDBE1oePFCKQGf5GTjYy36eIMg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Film Adrift",
+          "description": "Video essays, interviews, commentaries, short films, feature trailers, etc.\n\nAll material produced and edited by Michael Greenwood. \n\nhttps://linktr.ee/michaelagreenwood\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUHuR_PGCxKD2qRfpuHB-kFA"
+        }
+      },
+      "statistics": {
+        "viewCount": "324886",
+        "subscriberCount": "1010",
+        "hiddenSubscriberCount": false,
+        "videoCount": "66"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "airboHJBIfg-OGWpobtA_ZYFcNU",
+      "id": "UC5XSEfZIndg8YvZRlQA7-uQ",
+      "snippet": {
+        "title": "𝚂𝚟𝚊 𝚎𝚍𝚒𝚝𝚜🎥",
+        "description": "Hi! I'm a Brazilian Beginner editor! 🇧🇷 I LOVE editing animes and playing games tbh, ROAD TO 100K! 🔥",
+        "customUrl": "@thesvaedits",
+        "publishedAt": "2025-09-13T18:23:46.339705Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Qp1z3zAomEsiyG33r0n8NvS47v0RoOxVmEnIfXXo_Xe35SdcXcZOn5xmXgn1abMb0UIrOCiU7w=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Qp1z3zAomEsiyG33r0n8NvS47v0RoOxVmEnIfXXo_Xe35SdcXcZOn5xmXgn1abMb0UIrOCiU7w=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Qp1z3zAomEsiyG33r0n8NvS47v0RoOxVmEnIfXXo_Xe35SdcXcZOn5xmXgn1abMb0UIrOCiU7w=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "𝚂𝚟𝚊 𝚎𝚍𝚒𝚝𝚜🎥",
+          "description": "Hi! I'm a Brazilian Beginner editor! 🇧🇷 I LOVE editing animes and playing games tbh, ROAD TO 100K! 🔥"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU5XSEfZIndg8YvZRlQA7-uQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "371294",
+        "subscriberCount": "1390",
+        "hiddenSubscriberCount": false,
+        "videoCount": "69"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "dgfYPL3QfTzSxQmaQ8ty_oESVQE",
+      "id": "UCksfLtMf62_6K5u-FFDoGGw",
+      "snippet": {
+        "title": "Beyond The Panel",
+        "description": "Anime is more than just the story on the page.\n\nThis channel dives deeper into the characters, themes, philosophies, symbolism, and emotions hidden within the panels — exploring the ideas that make stories stay with us long after the episode ends.\n\nFrom One Piece, Bleach, Naruto, Attack on Titan, Jujutsu Kaisen, and beyond, we look at the moments that made us feel something and ask:\n\nWhat does this story really mean?\n\nNot just what happened.\n\nWhy it matters.\n\nWelcome to Beyond the Panel.\n\n\n📧:[EMAIL-REDACTED]\nIG: @eyad__h\nlinktr.ee/eyad__h\n",
+        "customUrl": "@beyondthepanell",
+        "publishedAt": "2013-08-12T13:39:05Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/AiY-ZemZYcM_8yPguiM47ZVnYsaqbQ1Os-8pQmr4VIX3sJno_ElkBYATKCU1jshua9uqtBKY_Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/AiY-ZemZYcM_8yPguiM47ZVnYsaqbQ1Os-8pQmr4VIX3sJno_ElkBYATKCU1jshua9uqtBKY_Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/AiY-ZemZYcM_8yPguiM47ZVnYsaqbQ1Os-8pQmr4VIX3sJno_ElkBYATKCU1jshua9uqtBKY_Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Beyond The Panel",
+          "description": "Anime is more than just the story on the page.\n\nThis channel dives deeper into the characters, themes, philosophies, symbolism, and emotions hidden within the panels — exploring the ideas that make stories stay with us long after the episode ends.\n\nFrom One Piece, Bleach, Naruto, Attack on Titan, Jujutsu Kaisen, and beyond, we look at the moments that made us feel something and ask:\n\nWhat does this story really mean?\n\nNot just what happened.\n\nWhy it matters.\n\nWelcome to Beyond the Panel.\n\n\n📧:[EMAIL-REDACTED]\nIG: @eyad__h\nlinktr.ee/eyad__h\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUksfLtMf62_6K5u-FFDoGGw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1877",
+        "subscriberCount": "11",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "pRyjqpjxety4xFtH0KNrZOld94s",
+      "id": "UCDgu1AZEWN0PutxJQllt2nQ",
+      "snippet": {
+        "title": "narm",
+        "description": "\n\n",
+        "customUrl": "@narmarchives",
+        "publishedAt": "2026-07-11T14:49:40.698618Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dbK7hRVSaYubNdPXB1FO42Gtvn5deuOjA5gqeC_10_sfQDcYtkN26_j5eSeNytYQc-RuSO8e3nA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dbK7hRVSaYubNdPXB1FO42Gtvn5deuOjA5gqeC_10_sfQDcYtkN26_j5eSeNytYQc-RuSO8e3nA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dbK7hRVSaYubNdPXB1FO42Gtvn5deuOjA5gqeC_10_sfQDcYtkN26_j5eSeNytYQc-RuSO8e3nA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "narm",
+          "description": "\n\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUDgu1AZEWN0PutxJQllt2nQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "144111",
+        "subscriberCount": "70",
+        "hiddenSubscriberCount": false,
+        "videoCount": "95"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "QzhwWwlJwZyi7b9HV-wsIeNporg",
+      "id": "UCVXQc1H4yPrW3MoXswCbEZA",
+      "snippet": {
+        "title": "T. A.TV_Talks ",
+        "description": "## 🎬 Welcome to T.A.TV_Talks!\n\n**🗣️ \"Main hoon aapka Tamim Bhai!\"** 🤟\n\nLooking for honest, bold, and unfiltered movie reviews? You’re in the right place! I am **Tamim Bhai**, bringing you the real truth behind the big screen.\n\n**📽️ What We Cover:**\n\n* 🇮🇳 **Indian Bangla Cinema:** All the latest from Tollywood.\n* 💃 **Bollywood:** Unfiltered takes on Hindi blockbusters & OTT hits.\n* 🔥 **Trailer Reactions & Hidden Gems:** Raw excitement and must-watch suggestions.\n\nWhere others say \"Superhit,\" I say **\"Let's be honest!\"** No sugar-coating, just pure entertainment and real talk.\n\n👉 **T.A.TV_Talks – Where reviews are raw... and Tamim Bhai is always REAL!**\n\n🔔 **SUBSCRIBE** and hit the bell icon to join the squad. New videos every week!\n\n📍 Based in India | For the love of Cinema.\n\n---\n\nI know my God is with me,\nHe doesn't do anything bad.\n🤲🤞☺️❤️",
+        "customUrl": "@t.a.tv-talks",
+        "publishedAt": "2022-05-30T06:38:20.856328Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Zb2HhB-r-UQmqe9iHfr5vqxv2u_NkF4EHx2f-z7RxzjB7KRrRianC1lFuMAKIDMbOzUiEhA8vg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Zb2HhB-r-UQmqe9iHfr5vqxv2u_NkF4EHx2f-z7RxzjB7KRrRianC1lFuMAKIDMbOzUiEhA8vg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Zb2HhB-r-UQmqe9iHfr5vqxv2u_NkF4EHx2f-z7RxzjB7KRrRianC1lFuMAKIDMbOzUiEhA8vg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "T. A.TV_Talks ",
+          "description": "## 🎬 Welcome to T.A.TV_Talks!\n\n**🗣️ \"Main hoon aapka Tamim Bhai!\"** 🤟\n\nLooking for honest, bold, and unfiltered movie reviews? You’re in the right place! I am **Tamim Bhai**, bringing you the real truth behind the big screen.\n\n**📽️ What We Cover:**\n\n* 🇮🇳 **Indian Bangla Cinema:** All the latest from Tollywood.\n* 💃 **Bollywood:** Unfiltered takes on Hindi blockbusters & OTT hits.\n* 🔥 **Trailer Reactions & Hidden Gems:** Raw excitement and must-watch suggestions.\n\nWhere others say \"Superhit,\" I say **\"Let's be honest!\"** No sugar-coating, just pure entertainment and real talk.\n\n👉 **T.A.TV_Talks – Where reviews are raw... and Tamim Bhai is always REAL!**\n\n🔔 **SUBSCRIBE** and hit the bell icon to join the squad. New videos every week!\n\n📍 Based in India | For the love of Cinema.\n\n---\n\nI know my God is with me,\nHe doesn't do anything bad.\n🤲🤞☺️❤️"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVXQc1H4yPrW3MoXswCbEZA"
+        }
+      },
+      "statistics": {
+        "viewCount": "385981",
+        "subscriberCount": "1080",
+        "hiddenSubscriberCount": false,
+        "videoCount": "436"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2dRyK8gCoG0kxhFAdqciDLyWXQM",
+      "id": "UCxHjAT6Q1tPss3VUyhHFDuw",
+      "snippet": {
+        "title": "femme fatale's heels",
+        "description": "Video essays about women, film and women in film\nCreated by Alona Shylova and Darya Kirichenko\nEnglish version of Ukrainian's YouTube channel Підбори Femme Fatale\n",
+        "customUrl": "@femmefatalesheelseng",
+        "publishedAt": "2025-05-03T17:23:29.623166Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/GAJDorSo-RZd55UE-0c79PdNxp7sWQOnsOCE5dupaIonRkdbELGVSfPiSP3LPb_93WtoTEH7=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/GAJDorSo-RZd55UE-0c79PdNxp7sWQOnsOCE5dupaIonRkdbELGVSfPiSP3LPb_93WtoTEH7=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/GAJDorSo-RZd55UE-0c79PdNxp7sWQOnsOCE5dupaIonRkdbELGVSfPiSP3LPb_93WtoTEH7=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "femme fatale's heels",
+          "description": "Video essays about women, film and women in film\nCreated by Alona Shylova and Darya Kirichenko\nEnglish version of Ukrainian's YouTube channel Підбори Femme Fatale\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUxHjAT6Q1tPss3VUyhHFDuw"
+        }
+      },
+      "statistics": {
+        "viewCount": "2119813",
+        "subscriberCount": "30700",
+        "hiddenSubscriberCount": false,
+        "videoCount": "94"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "6wHy6yYDoe261--u08GOjKTS8bw",
+      "id": "UCb2VcfDpAwdgImLPvfdaYdw",
+      "snippet": {
+        "title": "NOSTALGIA • Classic Cinema",
+        "description": "NOSTALGIA distills the most powerful scenes in cinema history — ambition, love, heartbreak, resilience — into cinematic two-minute Shorts. Real dialogue, real acting, real moments, crafted with care and given meaning. One unforgettable scene, every day.\n\nUnforgettable moments from unforgettable cinema.\n",
+        "customUrl": "@thegoldenreel111",
+        "publishedAt": "2026-10-10T00:54:09.352094Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/fvbakQaolf2SM0LuJmkuQuA-4nJyq8gZVbHl8oYJBf6jLrnDIxDVqzG7TEQzgtQ5JC9j-J7u=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/fvbakQaolf2SM0LuJmkuQuA-4nJyq8gZVbHl8oYJBf6jLrnDIxDVqzG7TEQzgtQ5JC9j-J7u=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/fvbakQaolf2SM0LuJmkuQuA-4nJyq8gZVbHl8oYJBf6jLrnDIxDVqzG7TEQzgtQ5JC9j-J7u=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "NOSTALGIA • Classic Cinema",
+          "description": "NOSTALGIA distills the most powerful scenes in cinema history — ambition, love, heartbreak, resilience — into cinematic two-minute Shorts. Real dialogue, real acting, real moments, crafted with care and given meaning. One unforgettable scene, every day.\n\nUnforgettable moments from unforgettable cinema.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUb2VcfDpAwdgImLPvfdaYdw"
+        }
+      },
+      "statistics": {
+        "viewCount": "138",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "w_lgHCgx7GRaIFDRkS2oCggofU4",
+      "id": "UCWLbRRxpwxc1zt2H0Ewos0Q",
+      "snippet": {
+        "title": "TheAvidTaku86",
+        "description": "Hey there! My name is Adam, and I make videos talking about Donghua, Anime, Manga, Music, Video Games and other nerd things lol. Hope you'll join me on my journey where I give my insight and opinions on all the things XD! ",
+        "customUrl": "@theavidtaku86",
+        "publishedAt": "2024-06-18T22:32:08.567312Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MqchNgaPgzgonAFyJHJDpv4iKW-K4Ntn_nC08oOV5CFVm-zy1Ba-c7B10btgeDZAotkCyBL_7g=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MqchNgaPgzgonAFyJHJDpv4iKW-K4Ntn_nC08oOV5CFVm-zy1Ba-c7B10btgeDZAotkCyBL_7g=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MqchNgaPgzgonAFyJHJDpv4iKW-K4Ntn_nC08oOV5CFVm-zy1Ba-c7B10btgeDZAotkCyBL_7g=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "TheAvidTaku86",
+          "description": "Hey there! My name is Adam, and I make videos talking about Donghua, Anime, Manga, Music, Video Games and other nerd things lol. Hope you'll join me on my journey where I give my insight and opinions on all the things XD! "
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUWLbRRxpwxc1zt2H0Ewos0Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "1087543",
+        "subscriberCount": "5230",
+        "hiddenSubscriberCount": false,
+        "videoCount": "451"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "vH_-6bLn2qD5ERRO3aqm_Et0jUc",
+      "id": "UCY7NwWXcF3z72bNU3Bd_7LQ",
+      "snippet": {
+        "title": "Trace Notes",
+        "description": "",
+        "customUrl": "@tracenotes",
+        "publishedAt": "2016-12-08T16:36:08Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/qGgUGd1SRO3oF-v4xSOaZ4DJLlWLrgT9OmTrfjYDHIUsxUqG_yvt1xUw6MO04ibPNloGFPJyvg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/qGgUGd1SRO3oF-v4xSOaZ4DJLlWLrgT9OmTrfjYDHIUsxUqG_yvt1xUw6MO04ibPNloGFPJyvg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/qGgUGd1SRO3oF-v4xSOaZ4DJLlWLrgT9OmTrfjYDHIUsxUqG_yvt1xUw6MO04ibPNloGFPJyvg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Trace Notes",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUY7NwWXcF3z72bNU3Bd_7LQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "71429",
+        "subscriberCount": "343",
+        "hiddenSubscriberCount": false,
+        "videoCount": "51"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2cDBXUKx5jUP5DqVIy7avWDYf2s",
+      "id": "UCYp9g24s76HHBZWh7CuZQ3g",
+      "snippet": {
+        "title": "@ the anime ghost 12_3",
+        "description": "A place for anime fans to talk about the shows we love. Reviews, recommendations, episode discussions, and rankings. Come hang out with fellow weebs.\n\nbusiness [EMAIL-REDACTED]\n",
+        "customUrl": "@naruto_vibes_x12",
+        "publishedAt": "2025-04-27T07:07:36.576444Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/f5bMY7iGDrvFEijTLKMNGbfAYPSE5zqYkd4Kdf4hnEyGj36bQMVqOaEnk6FfraLtGtF4YinytQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/f5bMY7iGDrvFEijTLKMNGbfAYPSE5zqYkd4Kdf4hnEyGj36bQMVqOaEnk6FfraLtGtF4YinytQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/f5bMY7iGDrvFEijTLKMNGbfAYPSE5zqYkd4Kdf4hnEyGj36bQMVqOaEnk6FfraLtGtF4YinytQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "@ the anime ghost 12_3",
+          "description": "A place for anime fans to talk about the shows we love. Reviews, recommendations, episode discussions, and rankings. Come hang out with fellow weebs.\n\nbusiness [EMAIL-REDACTED]\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUYp9g24s76HHBZWh7CuZQ3g"
+        }
+      },
+      "statistics": {
+        "viewCount": "114277",
+        "subscriberCount": "385",
+        "hiddenSubscriberCount": false,
+        "videoCount": "121"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "zqKROpXuRe2Z0iFbN_6zfBaylFg",
+      "id": "UCatyneS1uUkfsLTj8XOOZMw",
+      "snippet": {
+        "title": "Mr. Andy Flick",
+        "description": "Bienvenidos al canal de Mr. Andy Flick. Un espacio donde exploramos las sagas más icónicas del cine y el mundo del entretenimiento.",
+        "customUrl": "@mrandyflick",
+        "publishedAt": "2013-04-10T22:03:57Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/aNKfWjLw-XPOizS14IjgmL6Akq3JSh0VQfw3Gj6clbjE-IYCrqhrHEpeP6lWs3wrzRktqFT24A=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/aNKfWjLw-XPOizS14IjgmL6Akq3JSh0VQfw3Gj6clbjE-IYCrqhrHEpeP6lWs3wrzRktqFT24A=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/aNKfWjLw-XPOizS14IjgmL6Akq3JSh0VQfw3Gj6clbjE-IYCrqhrHEpeP6lWs3wrzRktqFT24A=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Mr. Andy Flick",
+          "description": "Bienvenidos al canal de Mr. Andy Flick. Un espacio donde exploramos las sagas más icónicas del cine y el mundo del entretenimiento."
+        },
+        "country": "DO"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUatyneS1uUkfsLTj8XOOZMw"
+        }
+      },
+      "statistics": {
+        "viewCount": "1891196",
+        "subscriberCount": "18800",
+        "hiddenSubscriberCount": false,
+        "videoCount": "400"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "IH-NWIjMasnGEwj-khFFrM1wh0c",
+      "id": "UCm9mRXZITMj6auzpve59gPQ",
+      "snippet": {
+        "title": "BigTune",
+        "description": "More coming soon...\n\nIf you're new here, click that subscribe button and turn on post notifications so you'll know when I post.\n",
+        "customUrl": "@itsbigtune",
+        "publishedAt": "2021-09-08T00:47:36.274153Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/QEv62ZuKMc0LQJpOc-yL5X6SQ-B4bGfDs4RTuwJ2293xrI9DZPHJrTMEbXHUazn3J-4_sgq6qA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/QEv62ZuKMc0LQJpOc-yL5X6SQ-B4bGfDs4RTuwJ2293xrI9DZPHJrTMEbXHUazn3J-4_sgq6qA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/QEv62ZuKMc0LQJpOc-yL5X6SQ-B4bGfDs4RTuwJ2293xrI9DZPHJrTMEbXHUazn3J-4_sgq6qA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "BigTune",
+          "description": "More coming soon...\n\nIf you're new here, click that subscribe button and turn on post notifications so you'll know when I post.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUm9mRXZITMj6auzpve59gPQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "5001538",
+        "subscriberCount": "20300",
+        "hiddenSubscriberCount": false,
+        "videoCount": "182"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "WxjBzyR8wESlDVR0VhhkUeQuqqE",
+      "id": "UCBBHrP_LJS5e1UmsdA16IIg",
+      "snippet": {
+        "title": "EVERFAR",
+        "description": "Everfar is a digital documentary and video essay channel dedicated to exploring human nature, historical turning points, and the hidden dynamics that shape our world.\n\nBeyond time and boundaries, we trace the unwritten connections between past events, human choices, and the subtle mechanics of society.",
+        "customUrl": "@everfar",
+        "publishedAt": "2016-06-12T15:15:20Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/x4fZ0tYv3q90mMhxiyY2mIKq9SeosFJrRKqG9d1HzcGZb0hg5y23QVMIQCfXDhWwxIS-Q25Yxg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/x4fZ0tYv3q90mMhxiyY2mIKq9SeosFJrRKqG9d1HzcGZb0hg5y23QVMIQCfXDhWwxIS-Q25Yxg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/x4fZ0tYv3q90mMhxiyY2mIKq9SeosFJrRKqG9d1HzcGZb0hg5y23QVMIQCfXDhWwxIS-Q25Yxg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "EVERFAR",
+          "description": "Everfar is a digital documentary and video essay channel dedicated to exploring human nature, historical turning points, and the hidden dynamics that shape our world.\n\nBeyond time and boundaries, we trace the unwritten connections between past events, human choices, and the subtle mechanics of society."
+        },
+        "country": "ES"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUBBHrP_LJS5e1UmsdA16IIg"
+        }
+      },
+      "statistics": {
+        "viewCount": "11983",
+        "subscriberCount": "1660",
+        "hiddenSubscriberCount": false,
+        "videoCount": "30"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "8URfPuegK0WNskHoo6zXCCuX0_Q",
+      "id": "UCK0erxfgfHxQFMU5Ot7aVVA",
+      "snippet": {
+        "title": "Retro Cinema History & Icon Biographies",
+        "description": "Welcome to Retro Cinema History & Icon Biographies.\n\nWe are the definitive archive for the untold stories behind the most controversial, influential, and glamorous stars of the Golden Age of Cinema (1960s–2000s). Every week, we deliver in-depth, documentary-style analysis of film history, focusing on the icon biographies, legal battles, and cultural impact of the stars who defied convention.\n\nIf you love classic cult films and cinematic history, you've found your essential archive. Subscribe for new, authoritative retro star stories every week!\n",
+        "customUrl": "@retrocinemahistory",
+        "publishedAt": "2024-12-04T13:05:43.92575Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/k045HVMNW1hvtSh5mQ3mIb4yF5j9_h1Qtv6PSDp3SGko90x7jodfcVag-SRqnFKPSzWVzRUBVkQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/k045HVMNW1hvtSh5mQ3mIb4yF5j9_h1Qtv6PSDp3SGko90x7jodfcVag-SRqnFKPSzWVzRUBVkQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/k045HVMNW1hvtSh5mQ3mIb4yF5j9_h1Qtv6PSDp3SGko90x7jodfcVag-SRqnFKPSzWVzRUBVkQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "Retro Cinema History & Icon Biographies",
+          "description": "Welcome to Retro Cinema History & Icon Biographies.\n\nWe are the definitive archive for the untold stories behind the most controversial, influential, and glamorous stars of the Golden Age of Cinema (1960s–2000s). Every week, we deliver in-depth, documentary-style analysis of film history, focusing on the icon biographies, legal battles, and cultural impact of the stars who defied convention.\n\nIf you love classic cult films and cinematic history, you've found your essential archive. Subscribe for new, authoritative retro star stories every week!\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUK0erxfgfHxQFMU5Ot7aVVA"
+        }
+      },
+      "statistics": {
+        "viewCount": "9128597",
+        "subscriberCount": "27400",
+        "hiddenSubscriberCount": false,
+        "videoCount": "169"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "-AK6_aYIiNoRRmewXTKMRak_NI4",
+      "id": "UCq79FgpfxeK2zmYV-EplBiQ",
+      "snippet": {
+        "title": "Mr.StarExplainer-YT",
+        "description": "\nWelcome to my channel! \n\n\n\nYahan aapko Anime Explain,\n\n\n Fantasy Stories, Action Adventures aur \n\nPowerful Character Journeys dekhne ko milengi. \n\nHum interesting donghua aur shorts stories \n\nko simple Hinglish mein\n \nexplain karte hain taake aap poori kahani aasani \n\nse enjoy kar saken. 🔥 Donghua Explained \n\n⚔️ Donghua Recaps 📖 Fantasy & Adventure Stories 🎬 \n\nDaily Entertaining Content \n\n🚀 New Videos Regularly Agar aap anime aur fantasy\n \n\n\nworlds ke fan hain, to channel ko \n\nSubscribe karna mat bhoolna! \n\nThank you for your support ❤️\n\n\n\ndonghua explain hindi, donghua explained in hindi, chinese anime hindi, anime explanation hindi, donghua recap hindi, anime recap hindi, chinese animation hindi, donghua story explained, hindi explanation channel, donghua hindi review, cultivation anime hindi, fantasy anime hindi, chinese donghua, donghua recap, anime explained, donghua lover, donghua episodes explained, anime summary hindi, action donghua hindi",
+        "customUrl": "@mr.starexplainer-yt",
+        "publishedAt": "2026-02-08T15:58:58.332145Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MB5F9CGGE59_BdLrGnzpgMp1eY_EQpOiZMIMj7q-9Sl0e8FssiiqOIwcBkhZANyasVPoAqd6=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MB5F9CGGE59_BdLrGnzpgMp1eY_EQpOiZMIMj7q-9Sl0e8FssiiqOIwcBkhZANyasVPoAqd6=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MB5F9CGGE59_BdLrGnzpgMp1eY_EQpOiZMIMj7q-9Sl0e8FssiiqOIwcBkhZANyasVPoAqd6=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Mr.StarExplainer-YT",
+          "description": "\nWelcome to my channel! \n\n\n\nYahan aapko Anime Explain,\n\n\n Fantasy Stories, Action Adventures aur \n\nPowerful Character Journeys dekhne ko milengi. \n\nHum interesting donghua aur shorts stories \n\nko simple Hinglish mein\n \nexplain karte hain taake aap poori kahani aasani \n\nse enjoy kar saken. 🔥 Donghua Explained \n\n⚔️ Donghua Recaps 📖 Fantasy & Adventure Stories 🎬 \n\nDaily Entertaining Content \n\n🚀 New Videos Regularly Agar aap anime aur fantasy\n \n\n\nworlds ke fan hain, to channel ko \n\nSubscribe karna mat bhoolna! \n\nThank you for your support ❤️\n\n\n\ndonghua explain hindi, donghua explained in hindi, chinese anime hindi, anime explanation hindi, donghua recap hindi, anime recap hindi, chinese animation hindi, donghua story explained, hindi explanation channel, donghua hindi review, cultivation anime hindi, fantasy anime hindi, chinese donghua, donghua recap, anime explained, donghua lover, donghua episodes explained, anime summary hindi, action donghua hindi"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUq79FgpfxeK2zmYV-EplBiQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "10125",
+        "subscriberCount": "69",
+        "hiddenSubscriberCount": false,
+        "videoCount": "115"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "luHOTAquc5GjhPY5y1E5lcwX6xA",
+      "id": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+      "snippet": {
+        "title": "No Signal After Four",
+        "description": "Things look different after four.\n\nFashion, cinema, design, power.\n",
+        "customUrl": "@nosignalafterfour",
+        "publishedAt": "2026-09-20T18:06:14.087942Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kDexbWniUwk-7FnxRKuEDlMDnBK22e4AswJkOYDRGNmeAyMp9PMCjwPwx2K6ou_P2n64EAuScg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kDexbWniUwk-7FnxRKuEDlMDnBK22e4AswJkOYDRGNmeAyMp9PMCjwPwx2K6ou_P2n64EAuScg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kDexbWniUwk-7FnxRKuEDlMDnBK22e4AswJkOYDRGNmeAyMp9PMCjwPwx2K6ou_P2n64EAuScg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "No Signal After Four",
+          "description": "Things look different after four.\n\nFashion, cinema, design, power.\n"
+        },
+        "country": "ES"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUkwAQGTaFjaWPpDcEQ8yrqA"
+        }
+      },
+      "statistics": {
+        "viewCount": "148692",
+        "subscriberCount": "71",
+        "hiddenSubscriberCount": false,
+        "videoCount": "39"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "aMl1DnWDWKgYoSW27wxzEsWoRGQ",
+      "id": "UCtTTtkby_zYnUO5mBmBP5pA",
+      "snippet": {
+        "title": "lawrencedreams",
+        "description": "λorenzo\nMusician / Composer ● Video Designer ~ night owl\n📸 Visual Arts 🎞 Music 🎶\n\nLATEST SINGLE & LINKS:\nwww.lorenzozampini.it\nhttps://hyperfollow.com/lawrencedreams\nhttps://www.instagram.com/lawrencedreams/",
+        "customUrl": "@lawrencedreams",
+        "publishedAt": "2019-07-10T20:56:40Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/4LTfY47RJGJ4Oh6AYNdaJkIYGS2sYAuGrSU_xAsL2CMLW5kvsFDEBsN3rtKO9-OiLvp3sv2FNw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/4LTfY47RJGJ4Oh6AYNdaJkIYGS2sYAuGrSU_xAsL2CMLW5kvsFDEBsN3rtKO9-OiLvp3sv2FNw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/4LTfY47RJGJ4Oh6AYNdaJkIYGS2sYAuGrSU_xAsL2CMLW5kvsFDEBsN3rtKO9-OiLvp3sv2FNw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "lawrencedreams",
+          "description": "λorenzo\nMusician / Composer ● Video Designer ~ night owl\n📸 Visual Arts 🎞 Music 🎶\n\nLATEST SINGLE & LINKS:\nwww.lorenzozampini.it\nhttps://hyperfollow.com/lawrencedreams\nhttps://www.instagram.com/lawrencedreams/"
+        },
+        "country": "IT"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUtTTtkby_zYnUO5mBmBP5pA"
+        }
+      },
+      "statistics": {
+        "viewCount": "15646",
+        "subscriberCount": "72",
+        "hiddenSubscriberCount": false,
+        "videoCount": "46"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3haRHpSbmXs77v48po5W-7iQng0",
+      "id": "UCu173RoVHrTkdazOAFtlwdw",
+      "snippet": {
+        "title": "Solo Animato",
+        "description": "Welcome Anime World 🌍",
+        "customUrl": "@otakustories01",
+        "publishedAt": "2026-06-29T04:15:46.250824Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/EWROE65v1Z2xbP3CPNJHbnrkh0FMhP4G3w5n4Ecy0BJgGDS84wAci2QxVBDM7yqG7xWrRG6-gg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/EWROE65v1Z2xbP3CPNJHbnrkh0FMhP4G3w5n4Ecy0BJgGDS84wAci2QxVBDM7yqG7xWrRG6-gg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/EWROE65v1Z2xbP3CPNJHbnrkh0FMhP4G3w5n4Ecy0BJgGDS84wAci2QxVBDM7yqG7xWrRG6-gg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Solo Animato",
+          "description": "Welcome Anime World 🌍"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUu173RoVHrTkdazOAFtlwdw"
+        }
+      },
+      "statistics": {
+        "viewCount": "5",
+        "subscriberCount": "3",
+        "hiddenSubscriberCount": false,
+        "videoCount": "7"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "h-ERzDATyq83oLeDP2ys6Z8li_w",
+      "id": "UCWkHlUiYLeRSIMP8yM7rxxg",
+      "snippet": {
+        "title": "PJ Explained",
+        "description": "Pop-Culture Enthusiast\nAn avid explorer of movies\nJust a Man with his Internet Connection\n",
+        "customUrl": "@pjexplained",
+        "publishedAt": "2017-04-26T04:15:25Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZDPy1Lt5dc0Doto1Dqb-uG24R6B1ZkeH7E58r4NMUxkE=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZDPy1Lt5dc0Doto1Dqb-uG24R6B1ZkeH7E58r4NMUxkE=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kZDPy1Lt5dc0Doto1Dqb-uG24R6B1ZkeH7E58r4NMUxkE=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "PJ Explained",
+          "description": "Pop-Culture Enthusiast\nAn avid explorer of movies\nJust a Man with his Internet Connection\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUWkHlUiYLeRSIMP8yM7rxxg"
+        }
+      },
+      "statistics": {
+        "viewCount": "2001114270",
+        "subscriberCount": "2690000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "3227"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "3YkFgiY_o_SDsJqz7OJG870lWnU",
+      "id": "UCS7to8fIEr9ddVT8dQ2Vr5Q",
+      "snippet": {
+        "title": "GUTS TALK",
+        "description": ".. \n\n\nBusiness Inquiries:[EMAIL-REDACTED]",
+        "customUrl": "@gutstalk-3456",
+        "publishedAt": "2024-10-04T16:07:20.977712Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/DrVDJii54uFOSf_WgLp3kCh9hKyrH8XiWq74nQZ1Z0C-GtaFdwsM97U2DfK3GiNahDX2DMQkozw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/DrVDJii54uFOSf_WgLp3kCh9hKyrH8XiWq74nQZ1Z0C-GtaFdwsM97U2DfK3GiNahDX2DMQkozw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/DrVDJii54uFOSf_WgLp3kCh9hKyrH8XiWq74nQZ1Z0C-GtaFdwsM97U2DfK3GiNahDX2DMQkozw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GUTS TALK",
+          "description": ".. \n\n\nBusiness Inquiries:[EMAIL-REDACTED]"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUS7to8fIEr9ddVT8dQ2Vr5Q"
+        }
+      },
+      "statistics": {
+        "viewCount": "768315",
+        "subscriberCount": "1880",
+        "hiddenSubscriberCount": false,
+        "videoCount": "75"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "WZreKYrUK9HI66Q8Ta8CRtWsNPM",
+      "id": "UCh_yjaopBTc49tiWD8KUSEw",
+      "snippet": {
+        "title": "The Veiled Icon",
+        "description": "I make stuff about things.",
+        "customUrl": "@theveiledicon",
+        "publishedAt": "2025-08-27T18:54:18.64059Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/kDDgFE1c99wcDKTudLF7FuR4pv4IDkk6ZRtdlmNc4kLOUibldI4onkWiTC4PqKDNzLmwSGmSeQA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/kDDgFE1c99wcDKTudLF7FuR4pv4IDkk6ZRtdlmNc4kLOUibldI4onkWiTC4PqKDNzLmwSGmSeQA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/kDDgFE1c99wcDKTudLF7FuR4pv4IDkk6ZRtdlmNc4kLOUibldI4onkWiTC4PqKDNzLmwSGmSeQA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Veiled Icon",
+          "description": "I make stuff about things."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUh_yjaopBTc49tiWD8KUSEw"
+        }
+      },
+      "statistics": {
+        "viewCount": "16356",
+        "subscriberCount": "68",
+        "hiddenSubscriberCount": false,
+        "videoCount": "53"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "JTWd-vVZuTygsDoISyqOFr8fvgE",
+      "id": "UCwf0qSeR2if1xWfofsnFjdA",
+      "snippet": {
+        "title": "Binge Label Malayalam ",
+        "description": "Binge Label is a new age digital platform– for, by and of – the quintessential Malayalis. The platform was formed to explore the possibilities of different realms in the digital space. Binge Label was founded in 2021 by Ubais Marly.",
+        "customUrl": "@bingelabelml",
+        "publishedAt": "2018-02-04T10:51:34Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/W5sOJGnYRhqL10ABnY_4vVAZwnQxH3ww_hCckH32KG4dPIk4qj9R4785ID1Xidi1JhX0sX3gb6M=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Binge Label Malayalam ",
+          "description": "Binge Label is a new age digital platform– for, by and of – the quintessential Malayalis. The platform was formed to explore the possibilities of different realms in the digital space. Binge Label was founded in 2021 by Ubais Marly."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUwf0qSeR2if1xWfofsnFjdA"
+        }
+      },
+      "statistics": {
+        "viewCount": "12094065",
+        "subscriberCount": "31900",
+        "hiddenSubscriberCount": false,
+        "videoCount": "971"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "1l3PyOEdP8gaJDvyjFT20VzeNMU",
+      "id": "UCl4L6DdKjP5Dz6eG3d4WsxQ",
+      "snippet": {
+        "title": "por.tfoliooooo",
+        "description": "\"Welcome to port.folioooooo ! Your go-to destination for cinematic edits. Experience the magic of movies like never before through our carefully crafted edits. Subscribe for more",
+        "customUrl": "@por.tfoliooooo",
+        "publishedAt": "2024-11-02T12:30:35.344908Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/LHGfMD0bk1RRjGnnOqxOo9sSHJ8mW8S_EqZJ9EBZOrFY9fAlyuCWy3SJQ6B8Xtu2DbB251Q1sQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en-IN",
+        "localized": {
+          "title": "por.tfoliooooo",
+          "description": "\"Welcome to port.folioooooo ! Your go-to destination for cinematic edits. Experience the magic of movies like never before through our carefully crafted edits. Subscribe for more"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUl4L6DdKjP5Dz6eG3d4WsxQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "233020",
+        "subscriberCount": "507",
+        "hiddenSubscriberCount": false,
+        "videoCount": "90"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "phZEmgoYfmFKaZuS79yu0C87kcg",
+      "id": "UC5McnmpKQfWwUHpEdoeRKWA",
+      "snippet": {
+        "title": "denothavr",
+        "description": "Video essays on movies, TV series, and anime — exploring hidden themes, deeper meanings, and ideas you might have missed.\nFrom superhero blockbusters to indie films and cult anime: if a story has something worth unpacking, I'll unpack it.\nNew essays regularly. Subscribe and think deeper.",
+        "customUrl": "@denothavr",
+        "publishedAt": "2014-01-31T14:35:35Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Bx17SQ5-7eIvZa2DjMmq_a_Pab4_gR8oyN_nUf0AF1n_rhcqhJUZSfkTUzWLho0igWTBsm64=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Bx17SQ5-7eIvZa2DjMmq_a_Pab4_gR8oyN_nUf0AF1n_rhcqhJUZSfkTUzWLho0igWTBsm64=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Bx17SQ5-7eIvZa2DjMmq_a_Pab4_gR8oyN_nUf0AF1n_rhcqhJUZSfkTUzWLho0igWTBsm64=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "denothavr",
+          "description": "Video essays on movies, TV series, and anime — exploring hidden themes, deeper meanings, and ideas you might have missed.\nFrom superhero blockbusters to indie films and cult anime: if a story has something worth unpacking, I'll unpack it.\nNew essays regularly. Subscribe and think deeper."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU5McnmpKQfWwUHpEdoeRKWA"
+        }
+      },
+      "statistics": {
+        "viewCount": "12597",
+        "subscriberCount": "58",
+        "hiddenSubscriberCount": false,
+        "videoCount": "20"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "ThGEt7Yob_fv8oimVgTgepwk1Ko",
+      "id": "UCmL6P149fZDK-FCmaVbF_Xg",
+      "snippet": {
+        "title": "MrAura",
+        "description": "🔥 Welcome to MrAura! 🔥\n\nIf you're an anime fan, you're in the right place.✨\n\nOn this channel you'll find:\n🎌 Anime Explained in Hindi\n⚡ Anime Facts & Hidden Secrets\n📖 Anime Stories & Recaps\n🎥 Anime Shorts\n🗡️ Character Analysis & Power Scaling\n📚 Manga-Based Content\n\nOur goal is to make anime easy, exciting, and fun for every Hindi-speaking anime fan.\n\nNew videos regularly.\nSubscribe and join the MrAura family! ❤️\n",
+        "customUrl": "@mraurazzz",
+        "publishedAt": "2026-07-04T16:06:22.409104Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/UncmbIadsR9AESHa_3JFDBg7jj2b21SOEt3e7uDWQR5-_CZps1Ahiil_QHPbFtoXHTVfsNi4LpI=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/UncmbIadsR9AESHa_3JFDBg7jj2b21SOEt3e7uDWQR5-_CZps1Ahiil_QHPbFtoXHTVfsNi4LpI=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/UncmbIadsR9AESHa_3JFDBg7jj2b21SOEt3e7uDWQR5-_CZps1Ahiil_QHPbFtoXHTVfsNi4LpI=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MrAura",
+          "description": "🔥 Welcome to MrAura! 🔥\n\nIf you're an anime fan, you're in the right place.✨\n\nOn this channel you'll find:\n🎌 Anime Explained in Hindi\n⚡ Anime Facts & Hidden Secrets\n📖 Anime Stories & Recaps\n🎥 Anime Shorts\n🗡️ Character Analysis & Power Scaling\n📚 Manga-Based Content\n\nOur goal is to make anime easy, exciting, and fun for every Hindi-speaking anime fan.\n\nNew videos regularly.\nSubscribe and join the MrAura family! ❤️\n"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUmL6P149fZDK-FCmaVbF_Xg"
+        }
+      },
+      "statistics": {
+        "viewCount": "3156820",
+        "subscriberCount": "57600",
+        "hiddenSubscriberCount": false,
+        "videoCount": "49"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "5P6bnBpHeixT8EISLnvYNcvZTk4",
+      "id": "UCMW1BX0zXzvaOpeFW-PHpMw",
+      "snippet": {
+        "title": "Rebby",
+        "description": "   Hai! \nI'm Aroace and Non-binary ! \n   ↪  I don't post daily, i don't have ideas..     ↩\n       Suggest what i should post! \n\n\n               ↕\n\n\n\n\n   30 ✔️ \n   50✔️ \n   70✔️ \n   90✔️ \n   100✔️ \n    150✔️ \n     170✔️ \n      180✔️ \n       200✔️ \n       250✔️ \n        300✔\n        500✅\n          700☑\n               1k❌ \n.   .     .     .     .    .    .   .   .  .   .   .   .     .    .   .   .\n\n☪      ✡         ☯\n",
+        "customUrl": "@rebby_playz112",
+        "publishedAt": "2025-12-06T14:54:16.837809Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/mHKMS8tt3eS9ID9WAMRJ4YBKL116_Ze13ZBCNwIyEFlQZZgV52sLP1NYlCewxdRrXN9WP-UfLes=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/mHKMS8tt3eS9ID9WAMRJ4YBKL116_Ze13ZBCNwIyEFlQZZgV52sLP1NYlCewxdRrXN9WP-UfLes=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/mHKMS8tt3eS9ID9WAMRJ4YBKL116_Ze13ZBCNwIyEFlQZZgV52sLP1NYlCewxdRrXN9WP-UfLes=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Rebby",
+          "description": "   Hai! \nI'm Aroace and Non-binary ! \n   ↪  I don't post daily, i don't have ideas..     ↩\n       Suggest what i should post! \n\n\n               ↕\n\n\n\n\n   30 ✔️ \n   50✔️ \n   70✔️ \n   90✔️ \n   100✔️ \n    150✔️ \n     170✔️ \n      180✔️ \n       200✔️ \n       250✔️ \n        300✔\n        500✅\n          700☑\n               1k❌ \n.   .     .     .     .    .    .   .   .  .   .   .   .     .    .   .   .\n\n☪      ✡         ☯\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUMW1BX0zXzvaOpeFW-PHpMw"
+        }
+      },
+      "statistics": {
+        "viewCount": "490923",
+        "subscriberCount": "822",
+        "hiddenSubscriberCount": false,
+        "videoCount": "28"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "nlLE633aEAGPBqEW5EhCdTCGDFM",
+      "id": "UCJhf-bfvJxPFpADi7ech52w",
+      "snippet": {
+        "title": "GenZ Offbeat",
+        "description": "Observing and decoding what Gen Z is watching, discussing, loving and obsessing over.\n\nFor Business Related Enquiries etc-: \n[EMAIL-REDACTED]",
+        "customUrl": "@genzoffbeat",
+        "publishedAt": "2026-08-14T20:44:42.948595Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/TElJTDRn9hlUq0b6P_hqQR36pIrsuedQprQ-k9sFxFly7Ofe_vwUy3nR2aKir1hcABcYhqVCzA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/TElJTDRn9hlUq0b6P_hqQR36pIrsuedQprQ-k9sFxFly7Ofe_vwUy3nR2aKir1hcABcYhqVCzA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/TElJTDRn9hlUq0b6P_hqQR36pIrsuedQprQ-k9sFxFly7Ofe_vwUy3nR2aKir1hcABcYhqVCzA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GenZ Offbeat",
+          "description": "Observing and decoding what Gen Z is watching, discussing, loving and obsessing over.\n\nFor Business Related Enquiries etc-: \n[EMAIL-REDACTED]"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUJhf-bfvJxPFpADi7ech52w"
+        }
+      },
+      "statistics": {
+        "viewCount": "41472",
+        "subscriberCount": "58",
+        "hiddenSubscriberCount": false,
+        "videoCount": "42"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "FQ4eQBIrmmi_q6-W_ROGGysdpNg",
+      "id": "UCPtkvIgcdTG9XiMN3PzH97w",
+      "snippet": {
+        "title": "NOTICE",
+        "description": "สวัสดีครับทุกคน ขอให้เป็นวันที่ดี และรับชมวิดีโออย่างมีความสุข ขอบคุณครับ :D\n\n",
+        "customUrl": "@n0t1ce",
+        "publishedAt": "2018-04-08T05:29:05Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/uO6m2oGvSiDJW1Y0dx1NXOy4aaqc9xe5729NmNeGWi74ty-xY15M0SA_pOJk1c8SIZJbCrcUsA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/uO6m2oGvSiDJW1Y0dx1NXOy4aaqc9xe5729NmNeGWi74ty-xY15M0SA_pOJk1c8SIZJbCrcUsA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/uO6m2oGvSiDJW1Y0dx1NXOy4aaqc9xe5729NmNeGWi74ty-xY15M0SA_pOJk1c8SIZJbCrcUsA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "th",
+        "localized": {
+          "title": "NOTICE",
+          "description": "สวัสดีครับทุกคน ขอให้เป็นวันที่ดี และรับชมวิดีโออย่างมีความสุข ขอบคุณครับ :D\n\n"
+        },
+        "country": "TH"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUPtkvIgcdTG9XiMN3PzH97w"
+        }
+      },
+      "statistics": {
+        "viewCount": "4421996",
+        "subscriberCount": "6830",
+        "hiddenSubscriberCount": false,
+        "videoCount": "859"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "qbwDF8ORMBnCOT_bD7s6hjlJbZk",
+      "id": "UCVdDUN69YsAXPxh2y71sMtQ",
+      "snippet": {
+        "title": "I Finished A Video Game",
+        "description": "Extremely detailed videos about the beautiful bygone world of video games\n",
+        "customUrl": "@ifinishedavideogame",
+        "publishedAt": "2020-08-29T23:47:16.067232Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/sIa6-7tRtbUwV3kR35IN6KsQw-E29BFkmf5m1BUwuA8vsmNO1e9NQBuXiisMOfE7BDu8IbfXVw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "I Finished A Video Game",
+          "description": "Extremely detailed videos about the beautiful bygone world of video games\n"
+        },
+        "country": "GB"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUVdDUN69YsAXPxh2y71sMtQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "40328125",
+        "subscriberCount": "229000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "36"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "aKHU1sWUqt6sXPeJAip0n_eXJWs",
+      "id": "UC9hOnnjarndgc8xRqOcTLNQ",
+      "snippet": {
+        "title": "Miusz",
+        "description": "HOLA GENTE \n\nEste es un canal donde se hablará de diferentes opiniones respecto a anime, películas, series y cosas frikis en general, disfruta mucho este viaje que está pronto por comenzar, yo soy Miusz y te mando un gran saludo desde donde estés.",
+        "customUrl": "@miusz_00",
+        "publishedAt": "2025-01-17T22:50:22.002084Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/wjDMp2qFvf9SvwL2uMa9RbWlPIudtWRUy_0X1OWPGcUvZn8CCd-3dZqsvT87sLaout7rM3beyw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/wjDMp2qFvf9SvwL2uMa9RbWlPIudtWRUy_0X1OWPGcUvZn8CCd-3dZqsvT87sLaout7rM3beyw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/wjDMp2qFvf9SvwL2uMa9RbWlPIudtWRUy_0X1OWPGcUvZn8CCd-3dZqsvT87sLaout7rM3beyw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Miusz",
+          "description": "HOLA GENTE \n\nEste es un canal donde se hablará de diferentes opiniones respecto a anime, películas, series y cosas frikis en general, disfruta mucho este viaje que está pronto por comenzar, yo soy Miusz y te mando un gran saludo desde donde estés."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU9hOnnjarndgc8xRqOcTLNQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "551630",
+        "subscriberCount": "2080",
+        "hiddenSubscriberCount": false,
+        "videoCount": "106"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "Sxs69xkMJWobGIfaSlS-DsvwViA",
+      "id": "UCi5sEOE6MNwjLVaKwoMJW9g",
+      "snippet": {
+        "title": "PapaFlix",
+        "description": "",
+        "customUrl": "@papaflixyt",
+        "publishedAt": "2025-09-20T11:13:07.362825Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/51Ab5csRul50Nf2WcNATKU6jWXFiNerRrdc-MT5YrqFvHZvlzQBLqilb0nChwz5sREexPHuT6Q=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/51Ab5csRul50Nf2WcNATKU6jWXFiNerRrdc-MT5YrqFvHZvlzQBLqilb0nChwz5sREexPHuT6Q=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/51Ab5csRul50Nf2WcNATKU6jWXFiNerRrdc-MT5YrqFvHZvlzQBLqilb0nChwz5sREexPHuT6Q=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "PapaFlix",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUi5sEOE6MNwjLVaKwoMJW9g"
+        }
+      },
+      "statistics": {
+        "viewCount": "2759508",
+        "subscriberCount": "859",
+        "hiddenSubscriberCount": false,
+        "videoCount": "205"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "G6HPPxvhArTYAcxjMO0Yic03gII",
+      "id": "UCeVgVc7AL8QUFdzhTjwAeGg",
+      "snippet": {
+        "title": "donghua story explained,",
+        "description": "welcome my",
+        "customUrl": "@donghuastory123",
+        "publishedAt": "2023-07-26T02:45:45.738829Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/sIJ1uXnzQr9Oj7PbtGxflUrUyHfLvIdao93SFPBq5ulXaLT978uT2xq2Qei9pKT_49fjeS52xw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/sIJ1uXnzQr9Oj7PbtGxflUrUyHfLvIdao93SFPBq5ulXaLT978uT2xq2Qei9pKT_49fjeS52xw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/sIJ1uXnzQr9Oj7PbtGxflUrUyHfLvIdao93SFPBq5ulXaLT978uT2xq2Qei9pKT_49fjeS52xw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "donghua story explained,",
+          "description": "welcome my"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUeVgVc7AL8QUFdzhTjwAeGg"
+        }
+      },
+      "statistics": {
+        "viewCount": "347338",
+        "subscriberCount": "861",
+        "hiddenSubscriberCount": false,
+        "videoCount": "333"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "KsBzZ3RskMjIrhvo49169OqLUJs",
+      "id": "UCBidQtOQ8q81TJzOgRACqdw",
+      "snippet": {
+        "title": "Pulp Tapes",
+        "description": "📂 Pulp Tapes | An Opinion Archive\nThis channel is a personal archive of impressions, script analysis, and cinematic grammar. Far from pedantic elitism or pretensions of absolute objectivity, this space operates like an honest chat between friends about the readings, structures, and seams of contemporary and classic cinema. A visual and narrative appreciation log where your opinion—whether you agree or not—has a place in the margin.",
+        "customUrl": "@pulptapes",
+        "publishedAt": "2026-08-19T20:31:26.252488Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/IA338PcWTl2YkFrcrL07VC2VTpLgIQkiCmH8KLk5-hLmQ1y04XxDpKIgwSGV6gMky-NkLsNJMg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/IA338PcWTl2YkFrcrL07VC2VTpLgIQkiCmH8KLk5-hLmQ1y04XxDpKIgwSGV6gMky-NkLsNJMg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/IA338PcWTl2YkFrcrL07VC2VTpLgIQkiCmH8KLk5-hLmQ1y04XxDpKIgwSGV6gMky-NkLsNJMg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Pulp Tapes",
+          "description": "📂 Pulp Tapes | An Opinion Archive\nThis channel is a personal archive of impressions, script analysis, and cinematic grammar. Far from pedantic elitism or pretensions of absolute objectivity, this space operates like an honest chat between friends about the readings, structures, and seams of contemporary and classic cinema. A visual and narrative appreciation log where your opinion—whether you agree or not—has a place in the margin."
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUBidQtOQ8q81TJzOgRACqdw"
+        }
+      },
+      "statistics": {
+        "viewCount": "9809",
+        "subscriberCount": "21",
+        "hiddenSubscriberCount": false,
+        "videoCount": "22"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "jHVFYh6Z21Ky8rQ2yNYlmi9mZ_A",
+      "id": "UCt-e5icqO3XQUvOM1hPW0Dg",
+      "snippet": {
+        "title": "IntrigFILEd",
+        "description": "36",
+        "customUrl": "@intrigfile-d",
+        "publishedAt": "2014-11-29T22:04:07Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/MQ_nCBj9LpKzis353PaSchZf5N4DRtKJ0FdpC98jVAj_d3c_JHYWNUS989A2wlwT2sO0z3i-1Vw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/MQ_nCBj9LpKzis353PaSchZf5N4DRtKJ0FdpC98jVAj_d3c_JHYWNUS989A2wlwT2sO0z3i-1Vw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/MQ_nCBj9LpKzis353PaSchZf5N4DRtKJ0FdpC98jVAj_d3c_JHYWNUS989A2wlwT2sO0z3i-1Vw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "IntrigFILEd",
+          "description": "36"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUt-e5icqO3XQUvOM1hPW0Dg"
+        }
+      },
+      "statistics": {
+        "viewCount": "30739",
+        "subscriberCount": "21",
+        "hiddenSubscriberCount": false,
+        "videoCount": "42"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "CGf4srLE1IKxsoeIXqTTNlkPtqM",
+      "id": "UCytMbgyYmIC-cwTTIAYEpgQ",
+      "snippet": {
+        "title": "Unc Anime Reviews ",
+        "description": "At Unc Anime Reviews, we explore anime and gaming, legendary characters, and the profound philosophical themes that resonate within them. Our content is crafted to give you engaging discussions with video essay's , or reaction videos to the culture.\n\nWhat You Can Expect:\n\nVideo Essays: Breakdowns dissecting the philosophy, character arcs, and hidden meanings behind timeless anime classics and modern video games.\n\nThe Game Hub: As big cultural phenomenon approaches. Expect high-energy reaction videos, cultural analysis, and everything you need for the GTA 6 era.\n\nReactions & Reviews: From the newest seasonal anime to jaw-dropping gaming reveals, catch raw, laugh-out-loud reactions and informed perspectives.\n\nMotivation & Mastery: Powerful speeches and discussions on resilience, goal-setting, and personal growth to empower you to pursue your dreams with determination.\n\nSubscribe to Anime Unc and join a community where entertainment meets enlightenment. Let's level up together!\n",
+        "customUrl": "@uncanimereviews502",
+        "publishedAt": "2017-06-01T15:35:23Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/8O7xUgRJojZ4vCvMrNf272NYSo8fWqOHaayVO20UP5D9QCw_9Pw57wiYeHgrS3ZKY-jhrnEC=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/8O7xUgRJojZ4vCvMrNf272NYSo8fWqOHaayVO20UP5D9QCw_9Pw57wiYeHgrS3ZKY-jhrnEC=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/8O7xUgRJojZ4vCvMrNf272NYSo8fWqOHaayVO20UP5D9QCw_9Pw57wiYeHgrS3ZKY-jhrnEC=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Unc Anime Reviews ",
+          "description": "At Unc Anime Reviews, we explore anime and gaming, legendary characters, and the profound philosophical themes that resonate within them. Our content is crafted to give you engaging discussions with video essay's , or reaction videos to the culture.\n\nWhat You Can Expect:\n\nVideo Essays: Breakdowns dissecting the philosophy, character arcs, and hidden meanings behind timeless anime classics and modern video games.\n\nThe Game Hub: As big cultural phenomenon approaches. Expect high-energy reaction videos, cultural analysis, and everything you need for the GTA 6 era.\n\nReactions & Reviews: From the newest seasonal anime to jaw-dropping gaming reveals, catch raw, laugh-out-loud reactions and informed perspectives.\n\nMotivation & Mastery: Powerful speeches and discussions on resilience, goal-setting, and personal growth to empower you to pursue your dreams with determination.\n\nSubscribe to Anime Unc and join a community where entertainment meets enlightenment. Let's level up together!\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUytMbgyYmIC-cwTTIAYEpgQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "149500",
+        "subscriberCount": "180",
+        "hiddenSubscriberCount": false,
+        "videoCount": "195"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "x9Nb5hdljS-djAR9VrSVRRyqNlE",
+      "id": "UC3HWNdwt9klcQT_oBwTx-kw",
+      "snippet": {
+        "title": "LoyalGabe",
+        "description": "Media Analyst. Deconstructing Animanga, Light Novels & Web Novels through analogies you won't forget. Fujimoto stories are peak. ✍️\n\n\nBusiness email: [EMAIL-REDACTED]",
+        "customUrl": "@loyalgabe",
+        "publishedAt": "2023-01-16T00:05:18.598874Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/oiXkhPpZdyQH0qbuhJV85nlotDqFjN0y3_3awhKryfjJKfWxP8_8oeJNVkleJe0cp5jEZyGZhw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/oiXkhPpZdyQH0qbuhJV85nlotDqFjN0y3_3awhKryfjJKfWxP8_8oeJNVkleJe0cp5jEZyGZhw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/oiXkhPpZdyQH0qbuhJV85nlotDqFjN0y3_3awhKryfjJKfWxP8_8oeJNVkleJe0cp5jEZyGZhw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "LoyalGabe",
+          "description": "Media Analyst. Deconstructing Animanga, Light Novels & Web Novels through analogies you won't forget. Fujimoto stories are peak. ✍️\n\n\nBusiness email: [EMAIL-REDACTED]"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU3HWNdwt9klcQT_oBwTx-kw"
+        }
+      },
+      "statistics": {
+        "viewCount": "347267",
+        "subscriberCount": "177",
+        "hiddenSubscriberCount": false,
+        "videoCount": "115"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "RFPASNE28XuXVPP6jz7Y-aAzOrM",
+      "id": "UCRHzIQRuFSYRY-hB2gCHcvw",
+      "snippet": {
+        "title": "El Ultimo Plano",
+        "description": "Me gustan las peliculas y series y me las como completas",
+        "customUrl": "@elultimoplano",
+        "publishedAt": "2025-04-30T04:51:03.319002Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/o4pX4L5xnhqTvaTwthiG630kUG5pJALI8UxDhc0M3_RVW2veVu_aog5CQKJY32AlfOYmrAM=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/o4pX4L5xnhqTvaTwthiG630kUG5pJALI8UxDhc0M3_RVW2veVu_aog5CQKJY32AlfOYmrAM=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/o4pX4L5xnhqTvaTwthiG630kUG5pJALI8UxDhc0M3_RVW2veVu_aog5CQKJY32AlfOYmrAM=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "El Ultimo Plano",
+          "description": "Me gustan las peliculas y series y me las como completas"
+        },
+        "country": "MX"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UURHzIQRuFSYRY-hB2gCHcvw"
+        }
+      },
+      "statistics": {
+        "viewCount": "61056236",
+        "subscriberCount": "44500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "207"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "2nJYw9rkDhcBc_xgpBC7NkPbFO0",
+      "id": "UCEGHW4kNIjiOlJek51c20tg",
+      "snippet": {
+        "title": "GAniReality",
+        "description": "Chào mừng bạn đến với GAni!\n\nNơi chúng ta đặt ra những câu hỏi \"Nếu như...?\" và đi tìm lời giải cho những giả thuyết bá đạo nhất trong thế giới Anime:\n\nAnime x Thực Tế: Năng lực Anime sẽ ra sao nếu tồn tại ở Trái Đất theo quy luật vật lý thật?\n\nAnime x Vũ Trụ Khác: Sức mạnh của các nhân vật sẽ biến đổi thế nào khi bước sang một thế giới hoàn toàn mới?\n\nPhân Tích & So Sánh: Đo lường chỉ số sức mạnh và những kịch bản va chạm đa vũ trụ không tưởng.\n\nNếu bạn yêu thích khám phá chiều sâu sức mạnh và những góc nhìn mới lạ về Anime, hãy nhấn Đăng Ký để cùng bước vào hành trình này nhé!\n",
+        "customUrl": "@ganireality",
+        "publishedAt": "2017-08-06T12:37:22Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/vS3dV2F0Nvv4H_DG06jecouEk8Y3OG7_s8Nzewebe1ny2_GzAjqKaInW4amESqnPvg78A7RJWg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/vS3dV2F0Nvv4H_DG06jecouEk8Y3OG7_s8Nzewebe1ny2_GzAjqKaInW4amESqnPvg78A7RJWg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/vS3dV2F0Nvv4H_DG06jecouEk8Y3OG7_s8Nzewebe1ny2_GzAjqKaInW4amESqnPvg78A7RJWg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "GAniReality",
+          "description": "Chào mừng bạn đến với GAni!\n\nNơi chúng ta đặt ra những câu hỏi \"Nếu như...?\" và đi tìm lời giải cho những giả thuyết bá đạo nhất trong thế giới Anime:\n\nAnime x Thực Tế: Năng lực Anime sẽ ra sao nếu tồn tại ở Trái Đất theo quy luật vật lý thật?\n\nAnime x Vũ Trụ Khác: Sức mạnh của các nhân vật sẽ biến đổi thế nào khi bước sang một thế giới hoàn toàn mới?\n\nPhân Tích & So Sánh: Đo lường chỉ số sức mạnh và những kịch bản va chạm đa vũ trụ không tưởng.\n\nNếu bạn yêu thích khám phá chiều sâu sức mạnh và những góc nhìn mới lạ về Anime, hãy nhấn Đăng Ký để cùng bước vào hành trình này nhé!\n"
+        },
+        "country": "VN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUEGHW4kNIjiOlJek51c20tg"
+        }
+      },
+      "statistics": {
+        "viewCount": "921566",
+        "subscriberCount": "4860",
+        "hiddenSubscriberCount": false,
+        "videoCount": "54"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "I41W8KwDfoQ7SkU6iM9eX0sV5II",
+      "id": "UCM4S47P7lRXKvxzN1aPynoQ",
+      "snippet": {
+        "title": "MR.SENPAI SPHERE",
+        "description": "Welcome to the ultimate hub for anime lovers! ⚡\n\n\n\nDive deep into the most mind-blowing anime facts, hidden lores, secret easter eggs, and untold stories behind your favorite shows. Whether you're a casual watcher or a hardcore otaku, this is your daily dose of anime madness and epic discoveries.\n🔥 Subscribe and hit the bell icon so you never miss out on the secrets of the anime universe!\n\n\n\n🎙️ Voiceovers generated",
+        "customUrl": "@mrsenpaisphere2",
+        "publishedAt": "2026-08-06T04:04:50.299492Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/H489nNgHufVtIMEneOQGrIiMryUVXAZqg42NpHWlDgNiRieYZWxQYahoYl75gKN87h7kTlf77yw=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/H489nNgHufVtIMEneOQGrIiMryUVXAZqg42NpHWlDgNiRieYZWxQYahoYl75gKN87h7kTlf77yw=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/H489nNgHufVtIMEneOQGrIiMryUVXAZqg42NpHWlDgNiRieYZWxQYahoYl75gKN87h7kTlf77yw=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MR.SENPAI SPHERE",
+          "description": "Welcome to the ultimate hub for anime lovers! ⚡\n\n\n\nDive deep into the most mind-blowing anime facts, hidden lores, secret easter eggs, and untold stories behind your favorite shows. Whether you're a casual watcher or a hardcore otaku, this is your daily dose of anime madness and epic discoveries.\n🔥 Subscribe and hit the bell icon so you never miss out on the secrets of the anime universe!\n\n\n\n🎙️ Voiceovers generated"
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUM4S47P7lRXKvxzN1aPynoQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "604866",
+        "subscriberCount": "9430",
+        "hiddenSubscriberCount": false,
+        "videoCount": "62"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "4JEkFk6fmAffiDhL9wi38Jf-35M",
+      "id": "UCpndb5vj9TBqQ7ERIux8Xbw",
+      "snippet": {
+        "title": "SG Graphy",
+        "description": "Subscribe.",
+        "customUrl": "@sggraphy",
+        "publishedAt": "2024-12-08T11:10:06.287666Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/tHwOEdWcDcDSnpCjfJR4gDE7VYquSUkYBfzmjbUTnDtGAEAPQ_9T3YW0OQUsOHzi_yB2ldkXvg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/tHwOEdWcDcDSnpCjfJR4gDE7VYquSUkYBfzmjbUTnDtGAEAPQ_9T3YW0OQUsOHzi_yB2ldkXvg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/tHwOEdWcDcDSnpCjfJR4gDE7VYquSUkYBfzmjbUTnDtGAEAPQ_9T3YW0OQUsOHzi_yB2ldkXvg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "SG Graphy",
+          "description": "Subscribe."
+        },
+        "country": "IN"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpndb5vj9TBqQ7ERIux8Xbw"
+        }
+      },
+      "statistics": {
+        "viewCount": "94073815",
+        "subscriberCount": "72700",
+        "hiddenSubscriberCount": false,
+        "videoCount": "594"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "LlTjmDwXiRtiDOIUmavYYFNOa6I",
+      "id": "UCfnmJ5RbAvcEZTMpADV64UQ",
+      "snippet": {
+        "title": "MackInFlix",
+        "description": "Movies, shows & everything I love about them.\n",
+        "customUrl": "@mackinflix",
+        "publishedAt": "2024-12-24T10:14:39.62765Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/CPP0LFqRHXcMj1kGSMrWTVZLChUdpf3zIeE3tJyYSNNID1g4NEPHhEDoaYDcI2CoUhoee8uuH38=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "MackInFlix",
+          "description": "Movies, shows & everything I love about them.\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUfnmJ5RbAvcEZTMpADV64UQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "7330160",
+        "subscriberCount": "31500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "51"
+      }
+    }
+  ]
+}

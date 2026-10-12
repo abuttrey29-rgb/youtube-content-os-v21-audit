@@ -1,0 +1,1110 @@
+{
+  "query": "tech review 2026",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "PbmnuKY4TBeMfRgJq2QhFlvsW5w",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FkORbKyxEbXQSrmiwgypWokruBM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9A_mBhTSbBo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:13:47Z",
+          "channelId": "UCfW7v90A7fyG7pBG2248v5A",
+          "title": "Google Pixel 6a Review 📱 Is It Still Worth Buying in 2026? 🇺🇸 #Shorts",
+          "description": "Google Pixel 6a Review | Budget Smartphone in 2026 Looking for an affordable Android smartphone? The Google Pixel 6a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9A_mBhTSbBo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9A_mBhTSbBo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9A_mBhTSbBo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9A_mBhTSbBo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9A_mBhTSbBo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UltraTech Zone",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:13:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "osHozVW34jZQlYCBGombs6wbSzQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "f5lmiTmkVbQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:04:34Z",
+          "channelId": "UCKgFa4A1B5zoo6n3qZPlh9A",
+          "title": "iPhone 15 in 2026: Still Worth Buying? (Honest Review) #shorts #tech",
+          "description": "Description: Are you thinking about buying the iPhone 15 in 2026, or should you upgrade to the latest model? In this video, we put ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f5lmiTmkVbQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f5lmiTmkVbQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f5lmiTmkVbQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f5lmiTmkVbQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f5lmiTmkVbQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Well ASMR",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:04:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "duZbJz0_NDTys4AnVf03gFceRhU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3jyeRdp6SnI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:53:37Z",
+          "channelId": "UC8TBTt1BEOEB9NNKwLeRk8g",
+          "title": "How playstore apps work on the Googlebook-MKBHD #mkbhd #tech #review #google #laptop",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3jyeRdp6SnI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3jyeRdp6SnI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3jyeRdp6SnI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3jyeRdp6SnI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3jyeRdp6SnI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MarquesClips",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:53:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Eb4ZTlrb_P1ruf4Gnj4gYe7EuHI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "e1JufcryOv0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T12:11:02Z",
+          "channelId": "UCCRWpzTOnoLXL7-Wn3hY6Ew",
+          "title": "Make me do a tech review of a futuristic products",
+          "description": "Adobe Animate (2026) 0:10 Two-eyed Yellow Letter \"B\"?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e1JufcryOv0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e1JufcryOv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e1JufcryOv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e1JufcryOv0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e1JufcryOv0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Аня Липкина",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T12:11:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rw9eGz7VRTXYFkA-reJGNnTySaA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yBfFt9unr50"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:49:11Z",
+          "channelId": "UCl2nMhlYf9kunGlyhmiZxTw",
+          "title": "Review Linsoul Kiwi Ears Quartet - #iem #kiwiears #quartet #tech #reviews",
+          "description": "Présentation : aujourd'hui j'avais envie de republier ma vidéo qui a fait le renouveau de la chaîne !  ‍   Les Linsoul Kiwi ears ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yBfFt9unr50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yBfFt9unr50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yBfFt9unr50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yBfFt9unr50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yBfFt9unr50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VolgTech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:49:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Tl-_SiwFBxeScbmhVW4yPahpad0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W0aJ9_RYK7U"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:05:11Z",
+          "channelId": "UCd2Lo4MV4QuOrHgetI8rdTA",
+          "title": "Digitek DWM-116 Unboxing &amp; Review 🎤🔥 | Worth Buying? #tech #microphone #unboxing #review #shorts",
+          "description": "Digitek DWM-116 Wireless Microphone | Unboxing & Review @technicalguruji @manojdey #dpamicrophones ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W0aJ9_RYK7U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W0aJ9_RYK7U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W0aJ9_RYK7U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W0aJ9_RYK7U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W0aJ9_RYK7U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "success track 2.0",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:05:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6ds2GVzCEkTTDg99QnWRGWWbAWE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mP9dSju062g"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T09:00:16Z",
+          "channelId": "UCUjAvKGKLeD0dvt52klWYgg",
+          "title": "Xiaomi 18 Pro Max 😱 DUAL 200MP Leica CAMERA MONSTER! #smartphone #techreview",
+          "description": "Xiaomi 18 Pro Max Unboxing & First Look ✓ Leica Triple Camera System ✓ 200MP Main Camera Test ✓ 200MP Periscope ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mP9dSju062g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mP9dSju062g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mP9dSju062g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mP9dSju062g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mP9dSju062g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GadiAurMobile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T09:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "O7BEnuV9-w8GCn_DpdXR--4ms0w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ay7GaLWUx5c"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T08:40:47Z",
+          "channelId": "UCn0upREQzwX-NqOarENHWrg",
+          "title": "October 10 #techreview #futuretech #wearabletech #smartphone #smartring , 2026",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ay7GaLWUx5c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ay7GaLWUx5c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ay7GaLWUx5c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ay7GaLWUx5c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ay7GaLWUx5c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gadget Sphere\n\n",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T08:40:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-BbLPlw2wRNwXJ9S00HV5KHjmMI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yhDer_kQWn0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T08:00:30Z",
+          "channelId": "UCXnpgdjWIO5CGHP3mSCAcig",
+          "title": "Proton G33 GaN charger Bangla review #iphone #android #tech #review #shorts #fastcharge",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yhDer_kQWn0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yhDer_kQWn0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yhDer_kQWn0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yhDer_kQWn0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yhDer_kQWn0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TECH SCHOOL - TS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T08:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EM7F9y3QR3mW7SLVi1CCnNAw_dI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aEXZjR9LEeo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T04:30:10Z",
+          "channelId": "UClvJK20S4uKZHoEEeHDxurA",
+          "title": "ECOVACS Y1Pro Honest Review-Worth Buying in 2026?#ecovacs #unboxing#techreview#everydayhomeutilities",
+          "description": "ECOVACS DEEBOT Y1 Pro – Complete Review & Cleaning Test! In this video, we take a detailed look at the ECOVACS DEEBOT ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aEXZjR9LEeo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aEXZjR9LEeo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aEXZjR9LEeo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aEXZjR9LEeo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aEXZjR9LEeo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Everyday Home Utilities",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T04:30:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mbnvyg1ODF_n3GKbPTfcHtMhB5w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rEhMKIicoG8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T04:30:14Z",
+          "channelId": "UCOpmb6UivaTVGjrMpsoWu_A",
+          "title": "Don&#39;t Buy Wrong iPhone! @techgali_tg #iphone18 #iphone #apple #techreview #techgali",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rEhMKIicoG8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rEhMKIicoG8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rEhMKIicoG8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rEhMKIicoG8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rEhMKIicoG8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Gali",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T04:30:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jCpotI2uohzNcEa-2TMH5NhpC-4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ebo2iz8As4k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T22:56:25Z",
+          "channelId": "UCq-X2uoFpvBxHR2fC2_IzPg",
+          "title": "La Verità sui Nuovi Gadget Tech del 2026 #techreview #techitalia #appleitalia",
+          "description": "Il 2026 cambierà per sempre il mondo della tecnologia! Ecco le novità più assurde in arrivo: • iPhone pieghevole con display ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ebo2iz8As4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ebo2iz8As4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ebo2iz8As4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ebo2iz8As4k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ebo2iz8As4k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nini_Tecno",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T22:56:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "osIPUqawboop4SRDNFYL3FUubW8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YB2_rYzrSIk"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T21:00:10Z",
+          "channelId": "UClSdz9l2XSfBzuFTMJfZSBQ",
+          "title": "2026 Renault Twingo E-Tech Electric Review",
+          "description": "The 2026 Renault Twingo E-Tech Electric brings the Twingo back as a compact all-electric city car, combining retro-inspired ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YB2_rYzrSIk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YB2_rYzrSIk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YB2_rYzrSIk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YB2_rYzrSIk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YB2_rYzrSIk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hexagon Motoring Archive",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T21:00:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ze-1FRm43sGkL-_M2cMKgN1rm9M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TcobdEb8TVc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T19:18:16Z",
+          "channelId": "UCD1dpAbWbQkwumwjS4njSCA",
+          "title": "Unboxing Blink Outdoor 4 🔥 ¿La mejor cámara para exteriores? #tech #review #camera",
+          "description": "Buscando una cámara de seguridad para exteriores que sea fácil de configurar y sin cables molestos? En este video hacemos el ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TcobdEb8TVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TcobdEb8TVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TcobdEb8TVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TcobdEb8TVc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TcobdEb8TVc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SoyLian",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T19:18:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iuJ2nfuJMzK8h_oR67YnWftRXiY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kkvLWTUyI-w"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T17:34:41Z",
+          "channelId": "UCEjOSTwjqNVxVKPnmi8BNyQ",
+          "title": "TOP MEJORES XIAOMI PARA 2026 CAP 1 #celulares #xiaomi #tech #telefono #tecnologia",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kkvLWTUyI-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kkvLWTUyI-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kkvLWTUyI-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kkvLWTUyI-w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kkvLWTUyI-w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zoytec",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T17:34:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JxzZItFVhkB6Sn46TRGizQDRbvU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lupd3_RScM0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T14:30:29Z",
+          "channelId": "UCoXFUhK9ci5eiTJA3qtJcyQ",
+          "title": "iPhone 16 and iPhone 17 #iphone #iphoneunboxing #tech #techreview #techreels",
+          "description": "KKTechtree #technology #tech #techreviews #gadget reviews #technologyreviews #techtips #tech tricks #smartphone reviews, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lupd3_RScM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lupd3_RScM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lupd3_RScM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lupd3_RScM0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lupd3_RScM0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "KK Techtree",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T14:30:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LiTqbIzBOJ0o_Jjy_CXVn3YiZxM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HJcx0IGX4f8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T12:54:29Z",
+          "channelId": "UCOX9d53FLXtZcVotybLlj7w",
+          "title": "Moto G37 power #technology #tech #technews #unboxing #techreview #motorola #shorts #viral",
+          "description": "Moto G37 power #technology #tech #technews #unboxing #techreview #motorola #shorts #viral.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HJcx0IGX4f8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HJcx0IGX4f8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HJcx0IGX4f8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HJcx0IGX4f8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HJcx0IGX4f8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ajay Tech reviews",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T12:54:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VfwNp68MAuJK7hP5X_XK4ngPy10",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OHmF1LdRGEA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T12:30:14Z",
+          "channelId": "UCBpvJm5A4LT0tWYa7dkTxLg",
+          "title": "Best Smart Ceiling Fan Review 2026: Atomberg, Havells, Orient &amp; More",
+          "description": "Planning to buy a premium BLDC ceiling fan and wondering whether spending ₹7000–₹9000 is actually worth it? In this video, I ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "qhd": {
+              "url": "https://i.ytimg.com/vi/OHmF1LdRGEA/qhddefault.jpg",
+              "width": 2560,
+              "height": 1440
+            }
+          },
+          "channelTitle": "Ankur Gulati",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T12:30:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TB2qc5-Cn_jaq_TNWdctlPrsZSo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_Kwi8xpeU8s"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T11:51:59Z",
+          "channelId": "UC3I91uHi_KiPvaVRTnvHPxQ",
+          "title": "СМЕНА ДЕЯТЕЛЬНОСТИ #blog  #music  #tech  #review  #fyp",
+          "description": "ЗДЕСЬ БЕЗ ИЗМЕНЕНИЙ ПРОДОЛЖАТ ВЫХОДИТЬ РОЛИКИ.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Kwi8xpeU8s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Kwi8xpeU8s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Kwi8xpeU8s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "xoojie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T11:51:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "z4pQXYMNHavXT4Cbsb77Qsr00lE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HohQlpywx2k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T11:45:31Z",
+          "channelId": "UCHgGzzNF99pw2dKzYYxaxpA",
+          "title": "3 Best Gaming mouse under 1000rs in 2026 | Evofox | Ant Esports | blaze ultra | phantom air | gm320",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HohQlpywx2k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HohQlpywx2k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HohQlpywx2k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HohQlpywx2k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HohQlpywx2k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vie's Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T11:45:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mS4VEFV9tFN9JPlVipQACZ_3Eck",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DSYNf1sO4ck"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T11:00:11Z",
+          "channelId": "UCbU6zwhUwZIiaWB6m7MXm8Q",
+          "title": "RV tech reviews 2026 Grand Design Lineage",
+          "description": "In today's video, I review a 2026 Grand Design Lineage Series F 31ZW Super C Motorhome! Things I reference in the video: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DSYNf1sO4ck/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DSYNf1sO4ck/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DSYNf1sO4ck/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DSYNf1sO4ck/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DSYNf1sO4ck/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rigor RV Repair",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T11:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UM_M5xh5SpBpfHNI83mBdYzH65k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8tVmvdA1rk8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T10:49:45Z",
+          "channelId": "UCAsVow-8MdMejn4LpwzWDWQ",
+          "title": "Best Phone Under 20000 ⚡️ Best 5G Phone Under 20K in 2026 - Big Billion Day Sale",
+          "description": "Best Phone Under 20000 in 2026 | Flipkart Big Billion Days Sale | Best Phone Under 20000 ⚡️ Best 5G mobile Under 20000 in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8tVmvdA1rk8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8tVmvdA1rk8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8tVmvdA1rk8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8tVmvdA1rk8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8tVmvdA1rk8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr Technical",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T10:49:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WylkbjwD6QDv6BdNwpBf4I4Wqr4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "d-1WpBm-h5Q"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T09:45:27Z",
+          "channelId": "UC5RzqeYrDaJ0mPCe0VQmJ6A",
+          "title": "मुंबई की रानी: Tech Review Quee #TechReview #GadgetUnboxing #MumbaiTechInfluencer #Smartphones2026",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d-1WpBm-h5Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d-1WpBm-h5Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d-1WpBm-h5Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d-1WpBm-h5Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d-1WpBm-h5Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PrinceKewat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T09:45:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xYN6PeTGx-3PoKgHwDVMLxmqlpw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uGl2oKxOMfs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T09:05:47Z",
+          "channelId": "UCAsVow-8MdMejn4LpwzWDWQ",
+          "title": "Best Phone Under 35000 ⚡️ Best 5G Mobile Under 35000 in 2026 *CRAZY DEALS*",
+          "description": "Best Phone Under 35000 ⚡️ Best 5G mobile Under 35000 in flipkart big billion days sale & Amazon great indian sale price ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uGl2oKxOMfs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uGl2oKxOMfs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uGl2oKxOMfs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uGl2oKxOMfs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uGl2oKxOMfs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr Technical",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T09:05:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ceJplj2E5hRXz0rXPi2rOqGOgoM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BPoC0Ubj3H8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-09T21:59:18Z",
+          "channelId": "UCFTTIDN58laGeV8DM9D4spg",
+          "title": "RRB Technician Exam Analysis | RRB Technician Grade 1 Exam Review | Complete Details by Mohit Sir",
+          "description": "RRB Technician Exam Analysis | RRB Technician Grade 1 Exam Analysis | RRB Technician Grade 1 Exam Review | RRB ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BPoC0Ubj3H8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BPoC0Ubj3H8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BPoC0Ubj3H8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BPoC0Ubj3H8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BPoC0Ubj3H8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AE JE Testbook",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-09T21:59:18Z"
+        }
+      }
+    ]
+  }
+}

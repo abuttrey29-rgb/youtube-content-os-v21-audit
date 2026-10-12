@@ -1,0 +1,274 @@
+{
+  "generated_at_utc": "2026-10-12T01:47:07.814725+00:00",
+  "queries": [
+    "anime analysis",
+    "video essay film",
+    "donghua explained",
+    "character analysis",
+    "ending explained",
+    "movie documentary"
+  ],
+  "channels_screened": 138,
+  "channels_created_0_30d": 10,
+  "quota_usage": {
+    "search_list": 6,
+    "channels_list": 3,
+    "playlistItems_list": 10,
+    "videos_list": 10,
+    "units": 623
+  },
+  "token_integrity_before": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "token_integrity_after": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "results": [
+    {
+      "channel": {
+        "channel_id": "UCgyuScgzHRKQI_OtT1Pn2ew",
+        "title": "Bangladesh Rewind",
+        "created_at": "2026-09-25T15:14:44.968059Z",
+        "age_days": 16,
+        "subs": 453,
+        "subs_per_day": 28.3,
+        "video_count": 31,
+        "views_total": 220280,
+        "country": "BD",
+        "matched_query": "movie documentary",
+        "uploads_playlist_id": "UUgyuScgzHRKQI_OtT1Pn2ew"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 11277.6,
+      "breakout": {
+        "video_id": "2Pyc-IZufiQ",
+        "title": "১৯৮০-এর দশকের পুরোনো সেই ভিসিআর দেখার দিনগুলো #oldbangladesh #bangladeshhistory",
+        "views": 53585,
+        "duration": "PT24S",
+        "published_at": "2026-10-10T14:29:20Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCvVE0jaKV--IkE6eTx0G6oQ",
+        "title": "entropy.enigma",
+        "created_at": "2026-09-25T16:45:09.075593Z",
+        "age_days": 16,
+        "subs": 239,
+        "subs_per_day": 14.9,
+        "video_count": 51,
+        "views_total": 355877,
+        "country": null,
+        "matched_query": "character analysis",
+        "uploads_playlist_id": "UUvVE0jaKV--IkE6eTx0G6oQ"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 102.5,
+      "breakout": {
+        "video_id": "bmbGnXm4XFs",
+        "title": "Why did JD Vancegive up his black eyeliner",
+        "views": 1012,
+        "duration": "PT1M9S",
+        "published_at": "2026-10-10T03:01:44Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCkxp8mCxLEl5zMQDoVtbU5Q",
+        "title": "Grub",
+        "created_at": "2026-10-06T19:18:52.883259Z",
+        "age_days": 5,
+        "subs": 30,
+        "subs_per_day": 6.0,
+        "video_count": 32,
+        "views_total": 7905,
+        "country": null,
+        "matched_query": "movie documentary",
+        "uploads_playlist_id": "UUkxp8mCxLEl5zMQDoVtbU5Q"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 235.2,
+      "breakout": {
+        "video_id": "Flrykxc-yu0",
+        "title": "The Mysterious Chapati Chain of 1857 🫓 #shortsviral #history #historyfacts",
+        "views": 1152,
+        "duration": "PT36S",
+        "published_at": "2026-10-09T15:00:35Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCkwAQGTaFjaWPpDcEQ8yrqA",
+        "title": "No Signal After Four",
+        "created_at": "2026-09-20T18:06:14.087942Z",
+        "age_days": 21,
+        "subs": 71,
+        "subs_per_day": 3.4,
+        "video_count": 39,
+        "views_total": 148692,
+        "country": "ES",
+        "matched_query": "video essay film",
+        "uploads_playlist_id": "UUkwAQGTaFjaWPpDcEQ8yrqA"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 3376.8,
+      "breakout": {
+        "video_id": "ZqbXhis3oFs",
+        "title": "Tony drains the pool with Carmela's excuse, two seasons later #TheSopranos #TonySoprano #videoessay",
+        "views": 30141,
+        "duration": "PT33S",
+        "published_at": "2026-10-06T15:00:33Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCTsP5yOat1VjWZN_V6dY49A",
+        "title": "BOLO W",
+        "created_at": "2026-09-25T11:06:13.392341Z",
+        "age_days": 16,
+        "subs": 44,
+        "subs_per_day": 2.8,
+        "video_count": 71,
+        "views_total": 23793,
+        "country": "US",
+        "matched_query": "movie documentary",
+        "uploads_playlist_id": "UUTsP5yOat1VjWZN_V6dY49A"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 136.4,
+      "breakout": {
+        "video_id": "KY0qKobAbag",
+        "title": "#history #historydocumentary #militaryhistory #ww2 #wwii #wwiihistory #worldhistory #worldwar2",
+        "views": 425,
+        "duration": "PT53S",
+        "published_at": "2026-10-08T12:12:28Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCucetcHMOs-uYcM_mh0aLVg",
+        "title": "𝐎𝐒𝐬𝐚𝐧 𝐀𝐧𝐢𝐦𝐞 𝐄𝐱𝐚𝐩𝐥𝐚𝐢𝐧𝐞𝐫",
+        "created_at": "2026-09-19T13:33:11.565792Z",
+        "age_days": 22,
+        "subs": 46,
+        "subs_per_day": 2.1,
+        "video_count": 71,
+        "views_total": 13904,
+        "country": "IN",
+        "matched_query": "anime analysis",
+        "uploads_playlist_id": "UUucetcHMOs-uYcM_mh0aLVg"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 20.2,
+      "breakout": {
+        "video_id": "wMi_U4PcFJ0",
+        "title": "#anime #your very cute 🥰",
+        "views": 231,
+        "duration": "PT35S",
+        "published_at": "2026-10-09T12:00:09Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCaqFhnf6YpWzbG0SruXV3rA",
+        "title": "Watch This Week",
+        "created_at": "2026-10-07T13:05:28.579017Z",
+        "age_days": 4,
+        "subs": 6,
+        "subs_per_day": 1.5,
+        "video_count": 13,
+        "views_total": 6195,
+        "country": "IN",
+        "matched_query": "movie documentary",
+        "uploads_playlist_id": "UUaqFhnf6YpWzbG0SruXV3rA"
+      },
+      "videos_sampled": 13,
+      "avg_views_per_video": 565.5,
+      "breakout": {
+        "video_id": "OLl_-JkaflE",
+        "title": "Doctor X: Mafia in White (2026): Release Date, Cast & Story | Netflix 9 Oct",
+        "views": 1851,
+        "duration": "PT1M20S",
+        "published_at": "2026-10-09T00:17:54Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCRV87vsf6mh-hS37m-BNQBw",
+        "title": "We have no plan",
+        "created_at": "2026-09-15T22:30:27.869069Z",
+        "age_days": 26,
+        "subs": 20,
+        "subs_per_day": 0.8,
+        "video_count": 3,
+        "views_total": 0,
+        "country": null,
+        "matched_query": "character analysis",
+        "uploads_playlist_id": "UURV87vsf6mh-hS37m-BNQBw"
+      },
+      "videos_sampled": 2,
+      "avg_views_per_video": 30.0,
+      "breakout": {
+        "video_id": "BASdPJZ5eA8",
+        "title": "We Fell in Love in October 🍂 | Cover by Two Friends 🎤",
+        "views": 32,
+        "duration": "PT5M4S",
+        "published_at": "2026-10-11T04:00:59Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "CineRush",
+        "created_at": "2026-09-17T16:09:24.929289Z",
+        "age_days": 24,
+        "subs": 20,
+        "subs_per_day": 0.8,
+        "video_count": 29,
+        "views_total": 14627,
+        "country": "US",
+        "matched_query": "ending explained",
+        "uploads_playlist_id": "UUXpXML1EgakzmY3K-TSxW2A"
+      },
+      "videos_sampled": 15,
+      "avg_views_per_video": 239.5,
+      "breakout": {
+        "video_id": "14cxhjJzYnM",
+        "title": "The Joker’s Pencil Trick Was Smarter Than You Think 🤯 | The Dark Knight",
+        "views": 1398,
+        "duration": "PT11S",
+        "published_at": "2026-09-29T18:36:08Z"
+      }
+    },
+    {
+      "channel": {
+        "channel_id": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "ApexMetrics",
+        "created_at": "2026-09-27T11:27:22.233888Z",
+        "age_days": 14,
+        "subs": 1,
+        "subs_per_day": 0.1,
+        "video_count": 8,
+        "views_total": 230,
+        "country": null,
+        "matched_query": "movie documentary",
+        "uploads_playlist_id": "UUxk14boGb6ya7EQZntx3iCw"
+      },
+      "videos_sampled": 8,
+      "avg_views_per_video": 30.2,
+      "breakout": {
+        "video_id": "LHwdZZtef2g",
+        "title": "#interestingfacts #history",
+        "views": 206,
+        "duration": "PT51S",
+        "published_at": "2026-09-28T21:50:52Z"
+      }
+    }
+  ]
+}

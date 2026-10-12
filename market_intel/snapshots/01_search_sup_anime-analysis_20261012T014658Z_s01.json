@@ -1,0 +1,1105 @@
+{
+  "query": "anime analysis",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "wQdtL1b5Xf5IeyAiYNPWh0CmVu0",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 543989,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A1dLNxP1ETuhsc5D52QK6JKMg9U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qNrdpsZN8Io"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:17:07Z",
+          "channelId": "UCksfLtMf62_6K5u-FFDoGGw",
+          "title": "#animeanalysis #onepiece #luffy #usopp #anime #nicorobin #onepieceedit #strawhats #zoro #ace #robin",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qNrdpsZN8Io/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qNrdpsZN8Io/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qNrdpsZN8Io/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qNrdpsZN8Io/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qNrdpsZN8Io/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Beyond The Panel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:17:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vX0SDp2E9nowjTrJXnCp88csAvQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m_Q3vgT4eS0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:14:43Z",
+          "channelId": "UCucetcHMOs-uYcM_mh0aLVg",
+          "title": "vampire blood test #anime #butifyoucloseyoureyes #animeanalysis",
+          "description": "WELCOME TO OSAN ANIME EXPLAINER Welcome to Osan Anime Explainer — যেখানে Anime-এর জটিল গল্প, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m_Q3vgT4eS0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m_Q3vgT4eS0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m_Q3vgT4eS0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m_Q3vgT4eS0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m_Q3vgT4eS0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "𝐎𝐒𝐬𝐚𝐧 𝐀𝐧𝐢𝐦𝐞 𝐄𝐱𝐚𝐩𝐥𝐚𝐢𝐧𝐞𝐫",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:14:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jlYUz9VYv2uh-VQRQJpkms0FZzA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2-mEcYUGcSY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:30:14Z",
+          "channelId": "UCJhf-bfvJxPFpADi7ech52w",
+          "title": "Did Mikasa Miss Her Last Chance to Understand Eren?",
+          "description": "Did Mikasa Miss Her Last Chance to Understand Eren? | Attack on Titan Mikasa Ackerman spent years trying to protect Eren ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2-mEcYUGcSY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2-mEcYUGcSY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2-mEcYUGcSY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2-mEcYUGcSY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2-mEcYUGcSY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GenZ Offbeat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:30:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YWjf_G4PycxRTjCNrZ5PgHEYsE0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VcjMBeYq8LY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:09:18Z",
+          "channelId": "UC5wJV63rnQjYlbiED4rTViA",
+          "title": "THE MOST DANGEROUS NEN USERS #anime",
+          "description": "Anime is filled with powerful abilities, but few power systems are as unpredictable and dangerous as Nen in *Hunter x Hunter*.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VcjMBeYq8LY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VcjMBeYq8LY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VcjMBeYq8LY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VcjMBeYq8LY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VcjMBeYq8LY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Forgotten Arc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:09:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "S8DrqUKk93cFvtInDoX-kZFH7hI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AOPWIclfTnA"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:39:41Z",
+          "channelId": "UCS7to8fIEr9ddVT8dQ2Vr5Q",
+          "title": "5 Anime Characters Who COMPLETELY Changed!",
+          "description": "Some anime characters don't just develop… they become completely different people. From Ken Kaneki's transformation in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AOPWIclfTnA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AOPWIclfTnA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AOPWIclfTnA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AOPWIclfTnA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AOPWIclfTnA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GUTS TALK",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:39:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NcmL3bjgU4ws2m-8IJpRtap6PWw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_PBibAAP70U"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T11:00:01Z",
+          "channelId": "UCEGHW4kNIjiOlJek51c20tg",
+          "title": "Chút Nữa Là &quot;Bay Màu&quot; Cả Làng! #gauk #GAniReality #Maomao #DuocSiTuSu",
+          "description": "Nêm: Dược Sư Tự Sự Đăng ký kênh GAniReality để xem các video phân tích anime, giải mã cốt truyện và mổ xẻ nhân vật hàng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_PBibAAP70U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_PBibAAP70U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_PBibAAP70U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_PBibAAP70U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_PBibAAP70U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GAniReality",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T11:00:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fb0wD5-GC2vYjZNnU4JifrGfamo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "uwdTSXjonQ0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T07:13:58Z",
+          "channelId": "UCOvq-u0HKuA98pZ_fooXJmg",
+          "title": "She Flirts in Russian… But He Understands EVERYTHING! 😳❤️ #Shorts #anime #animetree #animeexplained",
+          "description": "She thinks nobody understands her secret Russian confessions… but there's just one problem! ❤️ Meet Alya and Masachika ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uwdTSXjonQ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uwdTSXjonQ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uwdTSXjonQ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uwdTSXjonQ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uwdTSXjonQ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Tree",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T07:13:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0xL8ST8k3ZChBZ8oHqL9XKxYDMw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aH7odoyVPfg"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T06:16:31Z",
+          "channelId": "UCMW1BX0zXzvaOpeFW-PHpMw",
+          "title": "repost.. #deathnote #xyz #anime #viral #foryou #fypシ #kpopshorts #trending #xyzbca #popjapan",
+          "description": "animeedit • #amv • #fyp • #shorts • #viralanime #deathnotetheory • #deathnote • #anime • #manga • #deathnoteanime • #weeb ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aH7odoyVPfg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aH7odoyVPfg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aH7odoyVPfg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rebby",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T06:16:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uGH6fo-64bR-GJH00vrd9hYAG20",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FvU3gK1EejY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T06:00:26Z",
+          "channelId": "UCWLbRRxpwxc1zt2H0Ewos0Q",
+          "title": "CELESTIAL REALM ARC BEGINS!! Renegade Immortal Episode 63-64 | Reactions/Analysis",
+          "description": "EARLY ACCESS AND FULL UNCUT REACTIONS! https://www.patreon.com/c/TheAvidTaku DISCORD: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FvU3gK1EejY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FvU3gK1EejY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FvU3gK1EejY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FvU3gK1EejY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FvU3gK1EejY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheAvidTaku86",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T06:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6pMNMk9tN0r91HPgwByf0nTGPjA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8MpOFEQHpGw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T04:35:18Z",
+          "channelId": "UCYp9g24s76HHBZWh7CuZQ3g",
+          "title": "//same same but different 🙂🫡//#anime#animeedit#naruto",
+          "description": "How Hinata is Similar to Kanoe | Hinata Hyuga & Kanoe Character Comparison Is Hinata Hyuga from Naruto similar to Kanoe?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8MpOFEQHpGw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8MpOFEQHpGw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8MpOFEQHpGw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8MpOFEQHpGw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8MpOFEQHpGw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "@ the anime ghost 12_3",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T04:35:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KjfOeaaD-Wj0Z5hT3cUmExxSKFw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "EHh1VPl7lUo"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T04:20:36Z",
+          "channelId": "UCM4S47P7lRXKvxzN1aPynoQ",
+          "title": "Can Tanjiro Surpass Yoriichi&#39;s Power?! 💀⚔️ #shorts #demonslayer #anime",
+          "description": "Can Tanjiro Surpass Yoriichi's Power?! ⚔️ #shorts #anime #naruto #luffy #animefacts #demonslayer #tanjiro #akaza #shorts ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EHh1VPl7lUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EHh1VPl7lUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EHh1VPl7lUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EHh1VPl7lUo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EHh1VPl7lUo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MR.SENPAI SPHERE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T04:20:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KHNZnDQ5GMgaBmoDzDImvbZu3BQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "I2ZRwUrBIoY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T03:12:43Z",
+          "channelId": "UCu173RoVHrTkdazOAFtlwdw",
+          "title": "Teacher Yowayowa  [ Ep - 2 ] .. #shorts #anime",
+          "description": "Yowayowa Sensei Episode 2 in Hindi | Solo Animato Welcome to Solo Animato! Yowayowa Sensei is a 2026 anime featuring ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I2ZRwUrBIoY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I2ZRwUrBIoY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I2ZRwUrBIoY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/I2ZRwUrBIoY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/I2ZRwUrBIoY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Otaku Stories ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T03:12:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vsa0HH_bvihTLEGO2whQ6wavIIQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lMxnOaIV6vE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T02:25:14Z",
+          "channelId": "UCytMbgyYmIC-cwTTIAYEpgQ",
+          "title": "What Happens When Anime Heroes Change The Past? ⏳⚡ #animeanalysis",
+          "description": "We analyze how anime heroes who rewrote time face the heavy cost of altering history. Discover the devastating consequences of ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lMxnOaIV6vE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lMxnOaIV6vE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lMxnOaIV6vE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lMxnOaIV6vE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lMxnOaIV6vE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Unc Anime Reviews ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T02:25:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aWlW5EAaW0Q3e_o9nk-kmFKUsuM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "q9vyPLxtW8w"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T01:00:06Z",
+          "channelId": "UCQw5LmH_7_TcA7D6Qu1zUbA",
+          "title": "Why Ars Louvent Sees What Others Miss 👀 | Anime Analysis",
+          "description": "What if you could see someone's hidden potential before anyone else noticed it? In As a Reincarnated Aristocrat, I'll Use My ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q9vyPLxtW8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q9vyPLxtW8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q9vyPLxtW8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q9vyPLxtW8w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q9vyPLxtW8w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anime Afterglow",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T01:00:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6iIxXfY-dIcBJr7hwMN08mf2JaU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jPkUZ054EX0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T00:39:12Z",
+          "channelId": "UC5XSEfZIndg8YvZRlQA7-uQ",
+          "title": "Are These The Best Anime Baddies Ever? 🤯🔥 #anime #edit #shorts",
+          "description": "Mai sakurajiama marin maki ai yoshino oshi no ko Jujutsu kaisen jjk bunny girl senpai edit edits editing tips tutorial capcut alight ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jPkUZ054EX0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jPkUZ054EX0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jPkUZ054EX0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jPkUZ054EX0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jPkUZ054EX0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "𝚂𝚟𝚊 𝚎𝚍𝚒𝚝𝚜🎥",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T00:39:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yjkKuYKk-kFqpTvbYnybQNom-Pw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wewu_n_sTU8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T22:34:09Z",
+          "channelId": "UC-ZqlRtruSjlGwqMWSuOaLw",
+          "title": "I Analyzed The New Day Trading Anime, It&#39;s Actually Insane",
+          "description": "FX Fighter Kurumi might be the most ridiculous anime about day trading ever made. In this video, I analyze the new anime FX ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wewu_n_sTU8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wewu_n_sTU8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wewu_n_sTU8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wewu_n_sTU8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wewu_n_sTU8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RolandKnowsBall",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T22:34:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pHint8HgYi70dAjDeSBMTV05CzE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Yb9gChpGBBs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T21:51:52Z",
+          "channelId": "UC3HWNdwt9klcQT_oBwTx-kw",
+          "title": "The Real Reason Maomao Drinks Poison #apothecarydiaries #kusuriyanohitorigoto #animeanalysis #anime",
+          "description": "Most people think Maomao drinking poison is just an unhinged gag, but it's actually her darkest survival mechanism. In a palace ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yb9gChpGBBs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yb9gChpGBBs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yb9gChpGBBs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yb9gChpGBBs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yb9gChpGBBs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LoyalGabe",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T21:51:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iVMe4gCH9egLsAa4TIWFHhb-DhA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AQNDXuSXbA0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T21:30:59Z",
+          "channelId": "UCRHzIQRuFSYRY-hB2gCHcvw",
+          "title": "¿Has visto esta pose de Luffy en otros lados? 👀 #onepiece #luffy",
+          "description": "La icónica pose de Luffy en Gear Second ha trascendido el anime para convertirse en un fenómeno mundial. Analizamos su ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AQNDXuSXbA0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AQNDXuSXbA0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AQNDXuSXbA0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AQNDXuSXbA0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AQNDXuSXbA0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "El Ultimo Plano",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T21:30:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q41syzAIyAzQCAAihS98SeNPgbk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "seoL1O2fQV0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T20:17:21Z",
+          "channelId": "UC9hOnnjarndgc8xRqOcTLNQ",
+          "title": "Mi estetica favorita en el anime: Soul Eater #souleater#anime #analisis#animacion#recomendacion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/seoL1O2fQV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/seoL1O2fQV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/seoL1O2fQV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/seoL1O2fQV0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/seoL1O2fQV0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Miusz",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T20:17:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OEZFuZFiMDm61z1TpDjdhNIrvj8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1Jck1y3Lr30"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T19:19:40Z",
+          "channelId": "UCNwftcFh2hCBPXgL0dZ5Pkg",
+          "title": "Everyone Misunderstands Emilia in Re:Zero | #ReZero #Anime #AnimeAnalysis #AnimeShorts |",
+          "description": "Everyone Misunderstands Emilia in Re:Zero | #ReZero #Anime #AnimeAnalysis #AnimeShorts |",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1Jck1y3Lr30/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1Jck1y3Lr30/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1Jck1y3Lr30/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1Jck1y3Lr30/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1Jck1y3Lr30/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ZAYNIX",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T19:19:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z-Yl4WXVPFeqOi8XPP_vgHiotFY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sYOiZ8VWTfc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T16:53:39Z",
+          "channelId": "UCmL6P149fZDK-FCmaVbF_Xg",
+          "title": "Giyu and Shinobu&#39;s marriage#demonslayer #anime #akaza #edit #trending",
+          "description": "Giyu and Shinobu's marriage#demonslayer #anime #akaza #edit #trending #demonslayer #kimetsunoyaiba #gyomei SEO ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sYOiZ8VWTfc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sYOiZ8VWTfc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sYOiZ8VWTfc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sYOiZ8VWTfc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sYOiZ8VWTfc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MrAura",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T16:53:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZPZqYxCA2eRN6iFmt979sUyH5c0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NgmNFWlpQog"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T16:33:30Z",
+          "channelId": "UCPtkvIgcdTG9XiMN3PzH97w",
+          "title": "📢รีแอคชั่นและวิเคราะห์วิดีโอครบปีที่สอง! และเกมใหม่ที่แยกออกมา?! ❖ Anime Vanguards",
+          "description": "ร้านลิงกัง บริการรับกิฟเกมพาสและบริการอื่นๆสามารถดูได้ที่ Facebook : https://www.facebook.com/rarnlinggung Discord ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NgmNFWlpQog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NgmNFWlpQog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NgmNFWlpQog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NgmNFWlpQog/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NgmNFWlpQog/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NOTICE",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T16:33:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2PC94qnRNczhJznmBC2wSSoTfgc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tTeUntuHKHM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T15:05:09Z",
+          "channelId": "UC5wJV63rnQjYlbiED4rTViA",
+          "title": "THE MOST TERRIFYING ANIME VILLAINS  #anime",
+          "description": "Anime is filled with unforgettable villains, but some are terrifying for reasons that go far beyond their strength. A cold smile, a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tTeUntuHKHM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tTeUntuHKHM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tTeUntuHKHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tTeUntuHKHM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tTeUntuHKHM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Forgotten Arc",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T15:05:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BON_M_V4_X0oZKtD7z11EV_Dr44",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "iiwOjmF-ZWw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-10T13:58:53Z",
+          "channelId": "UCDgu1AZEWN0PutxJQllt2nQ",
+          "title": "matahachi analysis let me know what you guys think #mangacollection #manga #vagabond",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iiwOjmF-ZWw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iiwOjmF-ZWw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iiwOjmF-ZWw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iiwOjmF-ZWw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iiwOjmF-ZWw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "narm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-10T13:58:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ngPA3mDK5Jog-zAeYHIKIRmecHg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S28HdUE2kfY"
+        },
+        "snippet": {
+          "publishedAt": "2026-09-26T22:28:11Z",
+          "channelId": "UC5McnmpKQfWwUHpEdoeRKWA",
+          "title": "Ghost in the Shell 2: Innocence Anime Analysis: Why Is This Film Called INNOCENCE?",
+          "description": "Why is a film about exploitation, artificial bodies, murder, and stolen identities called Innocence? In Ghost in the Shell 2: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S28HdUE2kfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S28HdUE2kfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S28HdUE2kfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S28HdUE2kfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S28HdUE2kfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "denothavr",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-09-26T22:28:11Z"
+        }
+      }
+    ]
+  }
+}

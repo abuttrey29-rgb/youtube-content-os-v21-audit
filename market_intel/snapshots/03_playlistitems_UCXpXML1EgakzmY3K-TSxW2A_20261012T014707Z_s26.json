@@ -1,0 +1,776 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "2kLWUScr7aSVTlzVrH2JxYwIlmk",
+  "nextPageToken": "EAAaHlBUOkNBOGlFRFUxUVVaRk5qazBRa0l4UXpZNU1rVQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EeYkCkD-juPjChXzfH8O5BLMKS4",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLld2N1BQY3poVTg4",
+      "snippet": {
+        "publishedAt": "2026-10-11T16:00:25Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Ending Explained: Why She Recognized the Voice 📻... #Shorts",
+        "description": "A rooftop. A crackling radio. A warning in a voice she knows too well. 📻\n\nMaya is told not to take the stairs by a stranger on a radio. The final moment answers everything: the caller wasn’t a stranger at all.\n\nThis is an original fictional short in the style of a streaming-thriller finale, with its ending explained in 30 seconds. 🎬\n\n👇 Did you guess the twist before the end? Comment your theory.\n\n🔔 Subscribe for weekly ending explainers, movie theories, hidden details and Hollywood secrets.\n\n⚠️ Original fictional short film. It is not from any real series, and all characters and places are invented. Created with AI-assisted tools.\n\n#EndingExplained #TwistEnding #ThrillerSeries #HiddenClues #CinematicShorts #Shorts #EndingExplained #TwistEnding #ThrillerSeries #HiddenClues #Shorts #SeriesFinale #PlotTwist #TimeLoop #SciFiThriller #MysteryShort #MovieTheories #WhatDidYouMiss #CinemaTok #FilmTok #AIFilm #ShortFilm #Cinematic #Suspense #BingeWatch #Rooftop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wv7PPczhU88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wv7PPczhU88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wv7PPczhU88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wv7PPczhU88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wv7PPczhU88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wv7PPczhU88"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "Wv7PPczhU88",
+        "videoPublishedAt": "2026-10-11T16:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RsAkJsjBrBbnosupJCdiYGMXiLA",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLlFhclQ3N3lweEhj",
+      "snippet": {
+        "publishedAt": "2026-10-10T22:00:10Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Secret Hidden Under Cinema Seats 🎞️ (Closing Night)… #Shorts",
+        "description": "Row F. Seat 12. One tiny brass plaque nobody was supposed to find. 🎬\n\nOn the last night before the Marigold Theater closes, its usher of forty years crouches under one old seat and discovers a secret the projectionists left behind for whoever stayed the longest.\n\nA fictional short in the spirit of Hollywood’s hidden details, in-jokes and easter eggs. The Marigold, the usher and the plaque are all invented.\n\n👇 What’s the best hidden detail you’ve ever spotted in a movie or a theater? Tell us below.\n\n🔔 Subscribe for weekly Hollywood secrets, movie theories, ending explainers and star stories.\n\n⚠️ Original fictional short film. All characters and places are invented. Created with AI-assisted tools.\n\n#HollywoodSecrets #MovieEasterEggs #HiddenDetails #OldCinema #CinematicShorts #Shorts #HollywoodSecrets #MovieEasterEggs #HiddenDetails #OldCinema #Shorts #CinemaSecrets #MovieTheater #ClosingNight #Nostalgia #FilmLovers #HiddenGems #SecretMessage #CinemaTok #FilmTok #AIFilm #ShortFilm #Cinematic #Hollywood #MovieMagic #Emotional",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QarT77ypxHc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QarT77ypxHc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QarT77ypxHc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QarT77ypxHc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QarT77ypxHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QarT77ypxHc"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "QarT77ypxHc",
+        "videoPublishedAt": "2026-10-10T22:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dEmVygoh3Hd1wiHdNrX03oTnFfA",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLjFZbjFkb3FuTWFB",
+      "snippet": {
+        "publishedAt": "2026-10-10T16:00:29Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "Every Star Starts Somewhere… Even a Food Truck #Shorts",
+        "description": "Two al pastor tacos. One folded script page. And a line that was waiting for an audience. 🌮🎬\n\nTeo is a food-truck cook with an audition on Saturday. Before the fame, before the cameras, his first audience was one regular customer at the service window.\n\nThis is an original fictional short in the “before they were famous” style. Teo Marlowe is an invented character and not based on any real person.\n\n👇 What’s the most unexpected job a star had before they were famous? Tell us in the comments.\n\n🔔 Subscribe for weekly Hollywood secrets, movie theories, ending explainers and star stories.\n\n⚠️ Original fictional short film. All characters and places are invented. Created with AI-assisted tools.\n\n#BeforeTheyWereFamous #HollywoodStories #FutureStar #FoodTruck #CinematicShorts #Shorts\n#BeforeTheyWereFamous #HollywoodStories #FutureStar #CinematicShorts #Shorts\nExtended pool: #UnknownToFamous #StarOrigin #ActorLife #AuditionDay #DreamBig #FeelGoodStory #InspirationalShort #CinemaTok #FilmTok #AIFilm #ShortFilm #Cinematic #Hollywood #SmallBeginnings #Motivation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Yn1doqnMaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Yn1doqnMaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Yn1doqnMaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Yn1doqnMaA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Yn1doqnMaA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Yn1doqnMaA"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "1Yn1doqnMaA",
+        "videoPublishedAt": "2026-10-10T16:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "koS9Iktt1UXxCR3ROT-BUEtS7iM",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLktMMjVVS1d5RGdv",
+      "snippet": {
+        "publishedAt": "2026-10-09T16:00:39Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Ending Everyone Missed: The Stopped Clock Explained",
+        "description": "One key. One envelope. One clock stopped at 4:17. 🔑\n\nElias waits in an empty diner at 4 a.m. and receives a single envelope with no note. The key inside, and the clock on the wall, quietly explain the whole ending.\n\nThis is an original fictional short styled like a streaming-thriller finale, with its ending explained in 30 seconds. 🎬\n\n👇 What do YOU think happens next? Comment your theory.\n\n🔔 Subscribe for weekly ending explained videos, movie theories and hidden details.\n\n⚠️ Original fictional short film. All characters, places and props are invented. It is not from any real series, and it was created with AI-assisted tools.\n#EndingExplained #MovieEnding #ThrillerSeries #HiddenClues #CinematicShorts #Shorts\n#EndingExplained #HiddenClues #ThrillerSeries #MovieEnding #Shorts\n#SeriesFinale #StreamingTonight #MovieMystery #TwistEnding #MovieTheories #WhatDidYouMiss #CinemaTok #FilmTok #AIFilm #ShortFilm #Mystery #Cinematic #Suspense #PlotTwist #BingeWatch",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KL25UKWyDgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KL25UKWyDgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KL25UKWyDgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KL25UKWyDgo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KL25UKWyDgo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KL25UKWyDgo"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "KL25UKWyDgo",
+        "videoPublishedAt": "2026-10-09T16:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0ZC8XRRWb2swfv-SZt0DlutiPbc",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLmtXVGtQMW9JU3ZF",
+      "snippet": {
+        "publishedAt": "2026-10-07T19:00:17Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "He Moved the Pot After 30 Year and Found a Key. #CinematicShort #MysteryShort #Greenhouse #HiddenKey",
+        "description": "At dawn in a quiet greenhouse, an old caretaker lifts a pot that hasn't been moved in thirty years. Underneath is a small iron key.\n\nHe carries it to the walnut box that has sat on the same table all that time. The lock clicks, the lid opens, and inside is something she kept for him.\n\nA 30-second photorealistic cinematic short about memory, love, and what people leave behind. Made as three continuous 10-second clips, with one camera and one unbroken scene.\n\nWhat do you think is in the pouch? Tell me in the comments.\n\n👍 Like and subscribe for more cinematic stories.\n\nCreated with AI. All characters, locations, and props are original and fictional.\n\n#CinematicShort #AIFilm #MysteryShort #Greenhouse #HiddenKey\n#ShortFilm #AIVideo #GoogleFlow #EmotionalStory #Storytelling #Cinematic #GoldenHour #AIGenerated #Mystery #Heartwarming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kWTkP1oISvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kWTkP1oISvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kWTkP1oISvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kWTkP1oISvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kWTkP1oISvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kWTkP1oISvE"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "kWTkP1oISvE",
+        "videoPublishedAt": "2026-10-07T19:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gFN_2STHxy89PrR4rCea4rkzRxU",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLnhUdWRYRjBNRVk0",
+      "snippet": {
+        "publishedAt": "2026-10-07T16:00:22Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "Her Watch Was Running Backward… Then She Found the Note. #CinematicShort #PocketWatch #Clockmaker",
+        "description": "A clockmaker works alone in her workshop one rainy night. Every clock in the room is stopped at 4:10, but one pocket watch is still ticking, and its second hand is running backward.\n\nWhen she opens the case, she finds a folded note hidden inside, and she recognizes the handwriting.\n\nA 30-second photorealistic cinematic short about time, memory, and a message that shouldn't exist. Made as three continuous 10-second clips, with one camera and one unbroken scene.\n\nWhat do you think the note says? Tell me in the comments.\n\n👍 Like and subscribe for more cinematic mysteries.\n\nCreated with AI. All characters, locations, and props are original and fictional.\n\n#CinematicShort #AIFilm #MysteryShort #PocketWatch #Clockmaker\n#ShortFilm #AIVideo #GoogleFlow #Thriller #TimeMystery #Cinematic #RainyNight #AIGenerated #Storytelling #Suspense",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTudXF0MEY4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTudXF0MEY4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTudXF0MEY4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xTudXF0MEY4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xTudXF0MEY4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xTudXF0MEY4"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "xTudXF0MEY4",
+        "videoPublishedAt": "2026-10-07T16:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o8oKmwXXjXQWbUecd7bZ9O73gy8",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLlJ0QW44VlhRaXFR",
+      "snippet": {
+        "publishedAt": "2026-10-05T18:00:29Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Door Was Already Unlocked… But He Had the Key",
+        "description": "He came to an abandoned railway signal room carrying a key he thought he had left somewhere else.\n\nBut when he reached the door, he discovered something impossible…\n\nThe door was already unlocked.\n\nAnd then it started opening by itself.\n\nWould you open it?\n\n#Shorts #Mystery #Thriller\n#Shorts #Mystery #Thriller #Cinematic #MysteryStory #Suspense #MindBending #HorrorMystery #AIShorts #CinematicShorts #MysteryShorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RtAn8VXQiqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RtAn8VXQiqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RtAn8VXQiqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RtAn8VXQiqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RtAn8VXQiqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RtAn8VXQiqQ"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "RtAn8VXQiqQ",
+        "videoPublishedAt": "2026-10-05T18:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1N9LOuhFYCAdPHwyTJ_ZSulIkHA",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLjVyaTdmWW1ORlNr",
+      "snippet": {
+        "publishedAt": "2026-10-02T15:59:38Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "THE LAST SIGNAL | Captain Ayaan Malik | A Message From Deep Space",
+        "description": "Captain Ayaan Malik discovers a forgotten emergency transmitter inside an abandoned deep-space communications station.\n\nAt first, it appears to be an old device left running by someone who never returned.\n\nThen it responds.\n\nAyaan realizes the signal isn't automatic — someone, or something, is still transmitting from the darkness.\n\nTHE LAST SIGNAL is a 30-second cinematic sci-fi suspense story told as one continuous physical event.\n\n🎬 3 × 10-second continuous cinematic clips\n🚀 Original fictional character: Captain Ayaan Malik\n🌌 Photorealistic sci-fi suspense\n📡 Mystery transmission\n🎥 Continuous camera and environment\n\nThe question is simple: Who is on the other side?     #CaptainAyaanMalik #TheLastSignal #SciFi #ScienceFiction #SpaceMystery #SciFiShorts #CinematicShorts #SpaceStation #DeepSpace #Astronaut #SciFiMovie #AIShortFilm #CinematicAI #ShortFilm #SpaceHorror #CosmicHorror #Mystery #Future #SciFiStory #AICinema",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ri7fYmNFSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ri7fYmNFSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ri7fYmNFSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ri7fYmNFSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ri7fYmNFSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5ri7fYmNFSk"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "5ri7fYmNFSk",
+        "videoPublishedAt": "2026-10-02T15:59:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GSvNGnAM2bJPGhUK2NfWPWAISZU",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLklYQkNUSFptOFhJ",
+      "snippet": {
+        "publishedAt": "2026-09-30T16:18:52Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "This Crazy Movie Mission REALLY Happened?! 😳 | The Ministry of Ungentlemanly Warfare",
+        "description": "The wild mission in The Ministry of Ungentlemanly Warfare wasn't completely Hollywood fiction. It was inspired by Operation Postmaster, a real secret WWII raid in which British commandos captured three Axis-linked ships from a neutral port. The movie dramatically fictionalizes the events, but the historical operation really happened.\n#TheMinistryOfUngentlemanlyWarfare #HenryCavill #MovieFacts #MovieSecrets #TrueStory #Hollywood #WWII #OperationPostmaster #NetflixMovies #YouTubeShorts #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IXBCTHZm8XI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IXBCTHZm8XI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IXBCTHZm8XI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IXBCTHZm8XI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IXBCTHZm8XI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IXBCTHZm8XI"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "IXBCTHZm8XI",
+        "videoPublishedAt": "2026-09-30T16:18:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FlTC1x9iyFZtHH-itFZkE3SFVpU",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLmFPLUpJaVB2MnFN",
+      "snippet": {
+        "publishedAt": "2026-09-29T22:30:14Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Secret Meaning Behind Money Heist Masks 🎭",
+        "description": "Did you know the masks and red suits in Money Heist had a deeper meaning? Here’s the hidden symbolism behind one of Netflix’s most iconic series.\nOriginal transformative commentary and cinematic recreation.\n#MoneyHeist #LaCasaDePapel #Netflix #MovieFacts #SeriesFacts #MovieShorts #NetflixSeries #TVFacts #YouTubeShorts #FilmFacts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aO-JIiPv2qM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aO-JIiPv2qM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aO-JIiPv2qM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aO-JIiPv2qM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aO-JIiPv2qM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aO-JIiPv2qM"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "aO-JIiPv2qM",
+        "videoPublishedAt": "2026-09-29T22:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HIztt-7n1tHGFLUKwr2CTtGD-ys",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLjE0Y3hoakp6WW5N",
+      "snippet": {
+        "publishedAt": "2026-09-29T18:36:08Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Joker’s Pencil Trick Was Smarter Than You Think 🤯 | The Dark Knight",
+        "description": "That famous pencil trick from The Dark Knight is one of cinema's most memorable moments. But the real magic is how the scene controls your attention. 👀\nOriginal AI recreation for commentary and entertainment — not original movie footage.\n#TheDarkKnight #Joker #Batman #MovieFacts #MovieSecrets #Hollywood #MovieShorts #FilmTok #YouTubeShorts #Cinema",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/14cxhjJzYnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/14cxhjJzYnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/14cxhjJzYnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/14cxhjJzYnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/14cxhjJzYnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "14cxhjJzYnM"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "14cxhjJzYnM",
+        "videoPublishedAt": "2026-09-29T18:36:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w343fXNNFJgl7HusQaTD_mNaEAw",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLmtXRjBoYThvdW9R",
+      "snippet": {
+        "publishedAt": "2026-09-28T16:00:00Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "THE LAST LIGHT — She Turned Off One Switch… Then the Corridor Lit Up | Cinematic Mystery",
+        "description": "Mara is inspecting an old electrical cabinet in an underground archive when its red indicator suddenly goes dark.\n\nInside, she discovers a hidden mechanical switch.\n\nShe activates it.\n\nThen something in the corridor changes.\n\nA distant emergency light suddenly illuminates — revealing that the switch was never connected to the cabinet in the way she expected.\n\nTHE LAST LIGHT is a 30-second photorealistic cinematic mystery created as one continuous physical event across three seamless 10-second clips.\n\nOne character.\nOne camera.\nOne cabinet.\nOne switch.\nOne continuous corridor.\n\nNo teleportation. No duplicated objects. No random camera cuts. No regenerated environments.\n\nWatch until the final second.\n\n#TheLastLight #CinematicMystery #AIShortFilm #CinematicAI #AIFilm #MysteryShort #PhotorealisticAI #AIVideo #ShortFilm #CinematicShorts #AIFilmmaking #Suspense\n#TheLastLight\n#CinematicMystery\n#AIShortFilm\n#CinematicAI\n#AIFilm\n#AIShorts\n#PhotorealisticAI\n#AIVideo\n#MysteryShort\n#CinematicShorts\n#ShortFilm\n#AIFilmmaking\n#Suspense\n#HorrorMystery\n#MysteryFilm\n#SecretSwitch\n#UndergroundMystery\n#HiddenMystery\n#CinematicSuspense\n#AIStorytelling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kWF0ha8ouoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kWF0ha8ouoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kWF0ha8ouoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kWF0ha8ouoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kWF0ha8ouoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kWF0ha8ouoQ"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "kWF0ha8ouoQ",
+        "videoPublishedAt": "2026-09-28T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZAiMTudmgc55ygOFkUoO7gAnp1U",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLjVGeEpOckVxc3Zv",
+      "snippet": {
+        "publishedAt": "2026-09-27T22:30:27Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "THE 209 PLATE — A Hidden Door Was Inside the Wall | Cinematic Mystery",
+        "description": "A maintenance technician notices something strange about a metal plate marked 209 inside an underground archive corridor.\n\nWhat begins as a loose wall plate slowly reveals something that should not be there — a concealed physical door hidden inside the existing concrete wall.\n\nThis is a 30-second continuous cinematic mystery, created as three seamless 10-second shots with strict physical continuity: one character, one camera, one wall, one door, and one 209 plate.\n\nNo teleportation.\nNo duplicated objects.\nNo random camera cuts.\nNo regenerated environments.\nJust one continuous physical event unfolding in real time.\n\nWatch closely. The wall was never supposed to move.\n\n#CinematicMystery #HiddenDoor #AIShortFilm #CinematicAI #MysteryShort #PhotorealisticAI #AIFilm #ShortFilm #HorrorMystery #CinematicShorts #AIVideo #The209Plate\n#The209Plate\n#HiddenDoor\n#CinematicMystery\n#AIShortFilm\n#CinematicAI\n#AIFilm\n#AIShorts\n#PhotorealisticAI\n#MysteryShort\n#ShortFilm\n#CinematicShorts\n#AIVideo\n#HorrorMystery\n#MysteryFilm\n#UndergroundMystery\n#HiddenRoom\n#SecretDoor\n#AIFilmmaking\n#VFX\n#CinematicVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5FxJNrEqsvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5FxJNrEqsvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FxJNrEqsvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5FxJNrEqsvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5FxJNrEqsvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5FxJNrEqsvo"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "5FxJNrEqsvo",
+        "videoPublishedAt": "2026-09-27T22:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eN9cwaoi7OMhUbkapQ9VT5qXyTw",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLml6OWhta2N2R20w",
+      "snippet": {
+        "publishedAt": "2026-09-27T18:30:36Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Photo Was Taken Seconds Ago… But Who Took It? | CINERUSH",
+        "description": "Nora finds a photograph sitting on an empty park bench before sunrise.\n\nAt first, it looks ordinary.\n\nThen she realizes the photograph shows the exact park she's standing in… and she is already in the picture.\n\nBut there is something else in the photograph.\n\nSomething standing behind her.\n\nAnd when Nora turns around, nobody is there.\n\n#CineRush #MysteryShort #ShortFilm #CinematicShort #AIShortFilm #YouTubeShorts #Mystery #Suspense #CinematicStory #TwistEnding#CineRush #MysteryShort #ShortFilm #CinematicShort #AIShortFilm #YouTubeShorts #Mystery #Suspense #CinematicStory #TwistEnding #ShortFilm #AIStory #CinematicMystery #UnexpectedEnding #Storytelling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iz9hmkcvGm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iz9hmkcvGm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iz9hmkcvGm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iz9hmkcvGm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iz9hmkcvGm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iz9hmkcvGm0"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "iz9hmkcvGm0",
+        "videoPublishedAt": "2026-09-27T18:30:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5MtmWOwCdAqn_HokyOwyOzVXeI4",
+      "id": "VVVYcFhNTDFFZ2Frem1ZM0stVFN4VzJBLk1wenRCRzgzMzNn",
+      "snippet": {
+        "publishedAt": "2026-09-26T18:31:00Z",
+        "channelId": "UCXpXML1EgakzmY3K-TSxW2A",
+        "title": "The Creepiest Mystery in The Gentlemen Explained 👀",
+        "description": "What exactly is the Bannik in Netflix’s The Gentlemen Season 2? The strange supernatural figure comes from Slavic bathhouse folklore—and the finale deliberately leaves viewers questioning whether Bobby’s visions were really just imagination.\n\n#TheGentlemen #Netflix #MovieSecrets #CineRush\n\n#TheGentlemen #Netflix #MovieExplained #MovieSecrets #NetflixSeries #EndingExplained #CineRush #TVSecrets #MovieTok #Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MpztBG8333g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MpztBG8333g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MpztBG8333g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MpztBG8333g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MpztBG8333g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CineRush",
+        "playlistId": "UUXpXML1EgakzmY3K-TSxW2A",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MpztBG8333g"
+        },
+        "videoOwnerChannelTitle": "CineRush",
+        "videoOwnerChannelId": "UCXpXML1EgakzmY3K-TSxW2A"
+      },
+      "contentDetails": {
+        "videoId": "MpztBG8333g",
+        "videoPublishedAt": "2026-09-26T18:31:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 15
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "v5tJvOXX3aTv8BdzRv2AGLn1hDA",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e3BrqOGqEoRN35ezYmwkhm_ms8c",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3Lk1rSGNtZjVlTERv",
+      "snippet": {
+        "publishedAt": "2026-10-11T21:51:39Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "#history #coldwar #mkultra #cia #truestory #conspiracy #documentary #shorts #darkhistory",
+        "description": "MKUltra: The CIA’s Darkest Secret Experiments",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MkHcmf5eLDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MkHcmf5eLDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MkHcmf5eLDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MkHcmf5eLDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MkHcmf5eLDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MkHcmf5eLDo"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "MkHcmf5eLDo",
+        "videoPublishedAt": "2026-10-11T21:51:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TtOv_Bz_2xQ62pSApIi3ZECSF5E",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3Lk9MaEY2SU5adXVB",
+      "snippet": {
+        "publishedAt": "2026-10-10T20:35:36Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "#history #coldwar #spystory #operationgold #berlin #espionage #documentary #shorts #truestory #1950s",
+        "description": "Operation Gold: The Tunnel Under Berlin That Was Never a Secret\nIn the 1950s, American and British intelligence secretly dug a tunnel beneath East Berlin to tap Soviet phone lines. For a year, they recorded the Kremlin’s private conversations, never suspecting that Moscow had known about the operation from the very beginning thanks to a double agent. This is the story of Operation Gold, one of the boldest and most ironic spy operations of the Cold War",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLhF6INZuuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLhF6INZuuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLhF6INZuuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OLhF6INZuuA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OLhF6INZuuA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OLhF6INZuuA"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "OLhF6INZuuA",
+        "videoPublishedAt": "2026-10-10T20:35:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2VwLRjlXc0fLvUczk1GFL3cNsto",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LkxjNWthSWtfRmZj",
+      "snippet": {
+        "publishedAt": "2026-10-07T22:21:16Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "The Only Unsolved Hijacking in American History #interestingfacts #history #historical",
+        "description": "November 1971. A calm, well-dressed man hijacked a commercial flight, demanded $200,000 in cash, then jumped out of the plane mid-air into a violent storm — and was never seen again. Over 50 years later, the FBI still hasn't solved the case of",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lc5kaIk_Ffc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lc5kaIk_Ffc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lc5kaIk_Ffc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Lc5kaIk_Ffc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Lc5kaIk_Ffc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Lc5kaIk_Ffc"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "Lc5kaIk_Ffc",
+        "videoPublishedAt": "2026-10-07T22:21:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z4qOQkUitZqy3U26dLm6rQOtcfw",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LjdXWjZxZmZEV3c4",
+      "snippet": {
+        "publishedAt": "2026-10-07T22:18:43Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "1983: The Alarm That Almost Ended Everything",
+        "description": "1983. A Soviet early-warning system reported five incoming American nuclear missiles. One duty officer had minutes to decide whether to trust the machine — or his own judgment. His choice may have saved the entire planet",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7WZ6qffDWw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7WZ6qffDWw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7WZ6qffDWw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7WZ6qffDWw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7WZ6qffDWw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7WZ6qffDWw8"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "7WZ6qffDWw8",
+        "videoPublishedAt": "2026-10-07T22:18:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N1Meqdb0v3FRTuMucS2p72B_uiw",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LkJiN3ZJNkc0cVBB",
+      "snippet": {
+        "publishedAt": "2026-10-07T14:17:08Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "Operation “False Dollar”: How the Third Reich Nearly Crashed the U.S. Economy",
+        "description": "How German intelligence devised a plan to mass-produce perfect counterfeit American bills in order to strike at the U.S. financial system from within, and why the plan failed because of a single silly design flaw.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bb7vI6G4qPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bb7vI6G4qPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bb7vI6G4qPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bb7vI6G4qPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bb7vI6G4qPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bb7vI6G4qPA"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "Bb7vI6G4qPA",
+        "videoPublishedAt": "2026-10-07T14:17:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "axylgzu3b_ejLmcY2TW9WR6mWjE",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LjNQbEVpazlfQkhV",
+      "snippet": {
+        "publishedAt": "2026-09-29T15:11:21Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "#interestingfacts #history #historical #usa",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3PlEik9_BHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3PlEik9_BHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3PlEik9_BHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3PlEik9_BHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3PlEik9_BHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3PlEik9_BHU"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "3PlEik9_BHU",
+        "videoPublishedAt": "2026-09-29T15:11:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wNpq-N0fJaav8Qt6uVxt5r81V1s",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LmtJNmxDLUhpdldR",
+      "snippet": {
+        "publishedAt": "2026-09-29T12:30:27Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "The Ghost Army of WWII #history #historical #interestingfacts #usa",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kI6lC-HivWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kI6lC-HivWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kI6lC-HivWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kI6lC-HivWQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kI6lC-HivWQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kI6lC-HivWQ"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "kI6lC-HivWQ",
+        "videoPublishedAt": "2026-09-29T12:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WCo0D3xSY2Y8hmGLvDZWKI5nLm8",
+      "id": "VVV4azE0Ym9HYjZ5YTdFUVpudHgzaUN3LkxId2RaWnRlZjJn",
+      "snippet": {
+        "publishedAt": "2026-09-28T21:50:52Z",
+        "channelId": "UCxk14boGb6ya7EQZntx3iCw",
+        "title": "#interestingfacts #history",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LHwdZZtef2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LHwdZZtef2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHwdZZtef2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LHwdZZtef2g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LHwdZZtef2g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ApexMetrics",
+        "playlistId": "UUxk14boGb6ya7EQZntx3iCw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LHwdZZtef2g"
+        },
+        "videoOwnerChannelTitle": "ApexMetrics",
+        "videoOwnerChannelId": "UCxk14boGb6ya7EQZntx3iCw"
+      },
+      "contentDetails": {
+        "videoId": "LHwdZZtef2g",
+        "videoPublishedAt": "2026-09-28T21:50:52Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 8,
+    "resultsPerPage": 15
+  }
+}

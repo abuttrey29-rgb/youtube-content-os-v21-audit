@@ -1,0 +1,258 @@
+{
+  "module": "v2_1 analytics collector (prototype)",
+  "wave": "Vong do 24h/72h/7d — DIEM 1 (T0)",
+  "measured_at": "2026-10-12T01:44:20.085618+00:00",
+  "next_points": {
+    "diem_2_24h": "chay lai collector.py ~24h sau measured_at (13/10/2026)",
+    "diem_3_72h": "chay lai ~72h sau measured_at (15/10/2026)",
+    "diem_4_7d": "chay lai ~7 ngay sau measured_at (19/10/2026)",
+    "ghi_chu": "Moi diem luu file snapshot moi, khong ghi de diem cu. Chua co cron auto (cam tao cron trong v2_1 khi chua duoc duyet)."
+  },
+  "token_readonly_check": {
+    "token_file": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256_before": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "sha256_after": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "untouched": true,
+    "persist": "khong truyen token_path; refresh (neu co) chi trong memory"
+  },
+  "quota": {
+    "videos_list_cost_per_call": "1 unit",
+    "api_calls_made": 9,
+    "units_used_estimate": 9
+  },
+  "targets_measured": 6,
+  "targets_total": 9,
+  "results": [
+    {
+      "video_id": "deEOxCRVIjU",
+      "channel": "Film Verdict",
+      "batch": "2026-10-11",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.028997+00:00",
+      "published_at": "2026-10-11T14:30:36Z",
+      "age_hours": 11.2,
+      "title": "Clayface (2026): Can Horror Save DC's Boldest Bet?",
+      "privacy_status": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "BwjKllEAngI",
+      "channel": "Anime Galaxy World",
+      "batch": "2026-10-11",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.029060+00:00",
+      "published_at": "2026-10-11T14:45:13Z",
+      "age_hours": 11.0,
+      "title": "BTTH EP216: Soul Clan Strikes the Gu Clan's Jade | Battle Through the Heavens Breakdown",
+      "privacy_status": "public",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "xcCHCHU67GM",
+      "channel": "Cinema Verdict",
+      "batch": "2026-10-11",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.029079+00:00",
+      "published_at": "2026-10-11T15:00:14Z",
+      "age_hours": 10.7,
+      "title": "Anton Chigurh: The Villain Who Doesn't Need a Reason | Anatomy of a Character",
+      "privacy_status": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "R8_bR0bRnog",
+      "channel": "Anime Galaxy World",
+      "batch": "2026-10-12",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.029091+00:00",
+      "published_at": "2026-10-11T23:30:37Z",
+      "age_hours": 2.2,
+      "title": "BTTH EP217: 5 Predictions the Jade War MUST Answer | Battle Through the Heavens",
+      "privacy_status": "public",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "tHfgA52i7GY",
+      "channel": "Anime Galaxy World",
+      "batch": "2026-10-12",
+      "status": "NOT_FOUND",
+      "note": "videos.list qua token Film Verdict KHONG tra ve. Giai thich dung nhat: video PRIVATE tren kenh KHAC (AGW/CV) nen token kenh FV khong co quyen thay (da duoc xac minh PRIVATE luc 06:27 12/10). Khong ket luan da xoa/sai ID."
+    },
+    {
+      "video_id": "DHs2udvFGK8",
+      "channel": "Film Verdict",
+      "batch": "2026-10-12",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.029102+00:00",
+      "published_at": "2026-10-12T01:30:06Z",
+      "age_hours": 0.2,
+      "title": "Unabomber (2026): The True Story Behind Netflix's 40-Million-View Drama",
+      "privacy_status": "public",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "6p8radWOzwg",
+      "channel": "Film Verdict",
+      "batch": "2026-10-12",
+      "status": "SKIPPED_NOT_PUBLIC",
+      "privacy_status": "private",
+      "note": "Video PRIVATE tren chinh kenh Film Verdict (token owner nhin thay nen tra ve, nhung chua PUBLIC -> khong do o diem nay)."
+    },
+    {
+      "video_id": "qkcQsBSkErg",
+      "channel": "Cinema Verdict",
+      "batch": "2026-10-12",
+      "status": "MEASURED",
+      "measured_at": "2026-10-12T01:44:18.029114+00:00",
+      "published_at": "2026-10-12T01:30:06Z",
+      "age_hours": 0.2,
+      "title": "Digger: Why Tom Cruise Can't Save the Day — Ending Explained",
+      "privacy_status": "public",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "comments_note": null,
+      "ctr": "N/A",
+      "impressions": "N/A",
+      "retention": "N/A",
+      "watch_time": "N/A",
+      "na_reason": "Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo."
+    },
+    {
+      "video_id": "8c4e42XrEn4",
+      "channel": "Cinema Verdict",
+      "batch": "2026-10-12",
+      "status": "NOT_FOUND",
+      "note": "videos.list qua token Film Verdict KHONG tra ve. Giai thich dung nhat: video PRIVATE tren kenh KHAC (AGW/CV) nen token kenh FV khong co quyen thay (da duoc xac minh PRIVATE luc 06:27 12/10). Khong ket luan da xoa/sai ID."
+    }
+  ],
+  "channel_baselines": {
+    "Film Verdict": {
+      "channel_id": "UCoAG45ShtooaLDCgMKMgydA",
+      "videos": [
+        {
+          "video_id": "aaodTd1ORN8",
+          "title": "Street Fighter (2026): Can It Break the Video Game Curse?",
+          "published_at": "2026-10-10T10:52:13Z",
+          "age_hours": 38.9,
+          "views": 1,
+          "views_per_hour": 0.03,
+          "duration_seconds": 468
+        },
+        {
+          "video_id": "XEaUOMehxO8",
+          "title": "Verity Review: Critics HATE It, Audiences LOVE It - Who's Right?",
+          "published_at": "2026-10-08T14:33:13Z",
+          "age_hours": 83.2,
+          "views": 30,
+          "views_per_hour": 0.36,
+          "duration_seconds": 350
+        }
+      ],
+      "avg_views_per_hour": 0.2,
+      "baseline_note": "3-5 video long-form PUBLIC gan nhat (duration >= 180s, loai Shorts; loai video trong dot do). views/hour cua video cu tinh tren toan bo tuoi video — chi la moc tham khao tho, khong phai du bao."
+    },
+    "Anime Galaxy World": {
+      "channel_id": "UC58Yvk8AQL5n2vI-J9mQjWw",
+      "videos": [
+        {
+          "video_id": "U6MSo9tqU7s",
+          "title": "BTTH EP215: What the Trailer HID | Battle Through the Heavens Breakdown",
+          "published_at": "2026-10-10T10:53:01Z",
+          "age_hours": 38.9,
+          "views": 33,
+          "views_per_hour": 0.85,
+          "duration_seconds": 192
+        },
+        {
+          "video_id": "FnFp81EnnaA",
+          "title": "Martial Universe EP 45-46 | English Subtitles | 3D Chinese Animation | Action Fantasy Donghua",
+          "published_at": "2026-10-06T05:00:02Z",
+          "age_hours": 140.7,
+          "views": 38,
+          "views_per_hour": 0.27,
+          "duration_seconds": 2328
+        },
+        {
+          "video_id": "ihSaoFwVg04",
+          "title": "Forty Millenniums of Cultivation EP 15-16 | English Subtitles | 3D Chinese Animation",
+          "published_at": "2026-10-05T12:00:28Z",
+          "age_hours": 157.7,
+          "views": 54,
+          "views_per_hour": 0.34,
+          "duration_seconds": 1567
+        },
+        {
+          "video_id": "SmYF3QE6dq0",
+          "title": "Martial Universe EP 43-44 | English Subtitles | 3D Chinese Animation | Action Fantasy Donghua",
+          "published_at": "2026-10-05T05:00:12Z",
+          "age_hours": 164.7,
+          "views": 25,
+          "views_per_hour": 0.15,
+          "duration_seconds": 2488
+        },
+        {
+          "video_id": "5QWQCOoyaoM",
+          "title": "Forty Millenniums of Cultivation EP 13-14 | English Subtitles | 3D Chinese Animation",
+          "published_at": "2026-10-04T10:00:15Z",
+          "age_hours": 183.7,
+          "views": 20,
+          "views_per_hour": 0.11,
+          "duration_seconds": 1857
+        }
+      ],
+      "avg_views_per_hour": 0.34,
+      "baseline_note": "3-5 video long-form PUBLIC gan nhat (duration >= 180s, loai Shorts; loai video trong dot do). views/hour cua video cu tinh tren toan bo tuoi video — chi la moc tham khao tho, khong phai du bao."
+    },
+    "Cinema Verdict": {
+      "error": "uploads playlist trong"
+    }
+  },
+  "honesty": {
+    "ctr_impressions_retention_watchtime": "N/A — Chua duoc cap scope yt-analytics.readonly (du kien xin o wave sau); khong doan mo.",
+    "causal_inference": "Mau nho (n<=9), khong suy dien nguyen nhan; chi bao cao so lieu tho + so sanh tham khao.",
+    "visibility_limitation": "Token dung la cua kenh Film Verdict: chi thay duoc video PUBLIC cua kenh khac; video PRIVATE cua AGW/CV khong nhin thay qua token nay (khong phai loi do luong). De do day du, can token read-only rieng tung kenh (AGW, CV) o diem sau.",
+    "cv_baseline": "Kenh Cinema Verdict (UCaMtAP9nB8Jlip5Ce3QO3fQ) chi co 2 video trong uploads playlist va ca 2 deu la video dot do -> khong co baseline (n=0).",
+    "fv_baseline": "Film Verdict chi co 2 video long-form PUBLIC ngoai dot do (38.9h/30v va 83.2h/1v) -> baseline n=2, chi tham khao tho."
+  }
+}

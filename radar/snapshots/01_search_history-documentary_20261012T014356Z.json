@@ -1,0 +1,1120 @@
+{
+  "query": "history documentary",
+  "response": {
+    "kind": "youtube#searchListResponse",
+    "etag": "tYb53gVD2z_JsElti2ajz7TySTY",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "US",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "liR5LgaywWKwqWOqnXNGjGzrwUM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t1qP7fRi-JE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:02:49Z",
+          "channelId": "UCqF7HsgyH5CC_WtldYYkxVg",
+          "title": "How Did Ancient People Predict Eclipses? #history #shorts #shortvideo #documentary #eclipsephase",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t1qP7fRi-JE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t1qP7fRi-JE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t1qP7fRi-JE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t1qP7fRi-JE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t1qP7fRi-JE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "History revealed documentary",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:02:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EWw8C3PIqfQDET_YVvwe5NvXCVg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YgZxSb3ufMY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T01:00:26Z",
+          "channelId": "UCOQRqJU89y95K0xB-VCAqEA",
+          "title": "The bird worth more than a castle #medieval #history #rare",
+          "description": "Falcons were once the ultimate status symbol throughout medieval history. We explore the high-stakes world of falconry and the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YgZxSb3ufMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YgZxSb3ufMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YgZxSb3ufMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YgZxSb3ufMY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YgZxSb3ufMY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CurioFlux",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T01:00:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w8PmoYjefnvWqQq2l4boA3BToGk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fC0QoxECuD8"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:04Z",
+          "channelId": "UCfmQrUVKgOxJ2C6FwZg2jWg",
+          "title": "#bengalihistory #bengalistory #documentary #history #lovestory #music #emotionalstory",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fC0QoxECuD8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fC0QoxECuD8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fC0QoxECuD8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fC0QoxECuD8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fC0QoxECuD8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ForYou TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DYL4ayi52NVgCpgbs9BLscNn-Dc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "S9nRHxloQD0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-12T00:00:00Z",
+          "channelId": "UC2XTEWaVQg187j0MAvMoShA",
+          "title": "What the CIA Finally Admitted in 2013  #bunker #facts #history #documentary  #mustwatch #coldwar",
+          "description": "For decades, the U.S. government refused to acknowledge Area 51. In 2013, a declassified CIA history of the U-2 spy plane ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S9nRHxloQD0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S9nRHxloQD0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S9nRHxloQD0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S9nRHxloQD0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S9nRHxloQD0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Classified Intelligence",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-12T00:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UULz-y0rBG-6cPDaCQxueX5nG9I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "y7CkpWJyR-Q"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:30:28Z",
+          "channelId": "UCOd8tqfjZx-9ts89Fva4Qtg",
+          "title": "The Siege That Stopped the Ottoman Empire | History Documentary Short",
+          "description": "In 1565, Suleiman the Magnificent sent 30000 Ottoman soldiers to crush Malta — and a 70-year-old Grand Master stopped them.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/y7CkpWJyR-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/y7CkpWJyR-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/y7CkpWJyR-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/y7CkpWJyR-Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/y7CkpWJyR-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Empire Stories",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:30:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uxA68N4LfYbcz4NHVNVuI6ESydU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MVLcFuQYthI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T23:00:12Z",
+          "channelId": "UCmsYpg1BHh2o7vkWrqtOXwQ",
+          "title": "Kublai Khan: The Full Story | A Calm Bedtime History Documentary to Fall Asleep To",
+          "description": "Fall asleep to the complete story of Kublai Khan — grandson of Genghis Khan, who governed conquered Chinese lands as a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MVLcFuQYthI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MVLcFuQYthI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MVLcFuQYthI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MVLcFuQYthI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MVLcFuQYthI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SleepHistoryChannel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T23:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DeSAJfKiLrxuzLNpeZKo-dw34D0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "f7RRTL61qJc"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T22:20:53Z",
+          "channelId": "UCXU1CMTJz9noCcSISo3M3fw",
+          "title": "How Ancient Greeks Discovered Electricity from Fish ⚡🐟 #AncientHistory #HistoryDocumentary #viral",
+          "description": "Long before modern electricity, ancient Greeks discovered something shocking in the sea! ⚡   Discover how electric fish inspired ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f7RRTL61qJc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f7RRTL61qJc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f7RRTL61qJc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f7RRTL61qJc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f7RRTL61qJc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "INVOLOGY",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T22:20:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P17eKYt6MceJ77ClbLmNmRwkUA8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HRNT6uORg3k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:27:02Z",
+          "channelId": "UCOd8tqfjZx-9ts89Fva4Qtg",
+          "title": "The Skyjacker Who Vanished Into Thin Air | History Documentary Short",
+          "description": "On November 24, 1971, a man calling himself Dan Cooper hijacked a plane, collected $200000, and parachuted into a stormy ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HRNT6uORg3k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HRNT6uORg3k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HRNT6uORg3k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HRNT6uORg3k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HRNT6uORg3k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Empire Stories",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:27:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jny2sQh9A5eDh-rGyCb77beMfgU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0n0dXQ4D6ug"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T20:00:35Z",
+          "channelId": "UCH2EVOibV3TejOHNsOArBjg",
+          "title": "¿Qué ocurrió con los submarinos alemanes tras la Segunda Guerra Mundial? La Operación Deadlight #ww2",
+          "description": "El 8 de mayo de 1945, Alemania se rindió. Pero para más de un centenar de submarinos alemanes, la guerra no terminó ese día: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0n0dXQ4D6ug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0n0dXQ4D6ug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0n0dXQ4D6ug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0n0dXQ4D6ug/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0n0dXQ4D6ug/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cicatrices de la Historia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T20:00:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Y6WBFp2KMNodjkpm2L72AAVMVlY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wRIiZpTyuP0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:40:34Z",
+          "channelId": "UC4C5e2L2sRdM8B1rOR_BgyQ",
+          "title": "#History #HistoryFacts #HistoryShorts #AIHistory #HistoryDocumentary #AncientHistory #WorldHistory",
+          "description": "History #HistoryFacts #HistoryShorts #AIHistory #HistoryDocumentary #AncientHistory #WorldHistory #DarkHistory ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wRIiZpTyuP0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wRIiZpTyuP0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wRIiZpTyuP0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wRIiZpTyuP0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wRIiZpTyuP0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DoodleVerse",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:40:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vei3AhGONbMgiET0pKFYDSRzfkE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RkJxCR9p_vU"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:21:27Z",
+          "channelId": "UCq05p1hrReWcl9oXb-7KOmw",
+          "title": "El Picasso de Hace 36.000 años #documentary #history #spain",
+          "description": "El Picasso de Hace 36.000 años **¡SUSCRÍBETE Y VIAJA A TRAVÉS DE LA HISTORIA!** Si te apasionan la historia ilustrada, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RkJxCR9p_vU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cronicas de Tinta y Libertad",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:21:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vsMvZseCzhSrXqs7bY1ZsN4-BFU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MSRfLzGo32k"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T19:16:56Z",
+          "channelId": "UC2UJbn1acxGzqppMMvuW_fA",
+          "title": "The Shortest War in History ⏱️ #historydocumentary#DidYouKnow #incacivilization",
+          "description": "Did you know the shortest war in human history lasted less than 45 minutes? ⏱️On August 27, 1896, Great Britain went to war ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MSRfLzGo32k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MSRfLzGo32k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MSRfLzGo32k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MSRfLzGo32k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MSRfLzGo32k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hidden History Vault",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T19:16:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TVTgnAN4gFuiMKmecwQOyW7_BfA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QD_86Tg0dyY"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T18:00:32Z",
+          "channelId": "UCb536MbF4FG0CV3VKT-MKqA",
+          "title": "The USS Cole Attack: The Explosion That Shook the US Navy  #documentary #history #historical",
+          "description": "Fair Use Disclaimer: This content is for educational, commentary, and entertainment purposes. All video clips and images belong ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QD_86Tg0dyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QD_86Tg0dyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QD_86Tg0dyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QD_86Tg0dyY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QD_86Tg0dyY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "WarStoriesDaily",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T18:00:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "IAlJSNb-Loeb8r8qn17kNk9y9fU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Aj7VjaNK9AU"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:45:38Z",
+          "channelId": "UCyNh1mOCVsQ90_oTffjfsLg",
+          "title": "A Ship Found Sailing With No One Aboard. Sails Set. #history #documentary",
+          "description": "December 1872: a brigantine found sailing the Atlantic with no crew — sails set, full cargo, log nine days old. She had sailed ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Aj7VjaNK9AU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dark Chapters",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:45:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FGUEtx4m7yiEtY01svqcjh7hKak",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xNs4GCB7QaE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:45:39Z",
+          "channelId": "UCTsP5yOat1VjWZN_V6dY49A",
+          "title": "World War II: The War That Changed the World #history #historycomesalive #historydocumentary #movie",
+          "description": "The Entire History of World War II (1939–1945) Discover the complete story of World War II, the deadliest and one of the most ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xNs4GCB7QaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xNs4GCB7QaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xNs4GCB7QaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xNs4GCB7QaE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xNs4GCB7QaE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BOLO W",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:45:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aGo2eqj7NwLpAYbrzjN-TnSh1Cs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bdYs2KUP6P0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:26:09Z",
+          "channelId": "UCr3hw9oewY7V2I1oQQqPysA",
+          "title": "The Makeup That Killed Elizabeth Face #shortsfeed  #history #historydocumentary #shorts",
+          "description": "Elizabeth I painted her face with lead every single day. It killed her. She ruled England for 45 years. She never showed her bare ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bdYs2KUP6P0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bdYs2KUP6P0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bdYs2KUP6P0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bdYs2KUP6P0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bdYs2KUP6P0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Empire Mistakes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:26:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1ekrJnyUTcczhRN8IRV4uJio5do",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kn-lZUkhzWE"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:34Z",
+          "channelId": "UCHEncWP2Wf4QrziC0Zv6aog",
+          "title": "When Soviet Tanks Crushed the Iron Curtain Revolts 🛑 #coldwar  #history #historydocumentary",
+          "description": "The Cold War wasn't just fought between Washington and Moscow—millions lived under direct Soviet domination across Eastern ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kn-lZUkhzWE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kn-lZUkhzWE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kn-lZUkhzWE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kn-lZUkhzWE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kn-lZUkhzWE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shoresh Fx",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MihInL4BHgyvxZtfyd7VfOPpO04",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g_W5kL_1eJI"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:16Z",
+          "channelId": "UCJohLcd0BuaSzvUXVOcJM2Q",
+          "title": "WWII DOCUMENTARY | Adolf Hitler (The Dictator Who Changed History)",
+          "description": "Explore the world with DocuEra! Join us on a journey of discovery: https://bit.ly/DocuEraSUB ▻ A comprehensive historical ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/g_W5kL_1eJI/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "DocuEra – The History Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Vb4-P5SFmUzod89JFTwYoaGVi24",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JKFdrR6WJfM"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T16:00:16Z",
+          "channelId": "UCc4gnZLEnL1nqLCY0lamfOQ",
+          "title": "Tsunamis of Syrup The 1919 Boston Disaster #history #documentary #truehistory #historybuff",
+          "description": "In 1919, a 2.3-million-gallon steel tank ruptured, sending a 25-foot wave of dark molasses racing through the streets of Boston at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JKFdrR6WJfM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JKFdrR6WJfM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JKFdrR6WJfM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JKFdrR6WJfM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JKFdrR6WJfM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Echoes History",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T16:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kY7DlY75qE0f1J0zRszJO7RA19k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kW5wd6aalgs"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:56:21Z",
+          "channelId": "UCpt4ud9QbrAR-thb9kMyf6w",
+          "title": "entire history, history documentary, world history, ancient history, history explained,",
+          "description": "Welcome to GRAINHOUSE HISTORY — where the past comes alive. Explore the rise and fall of civilizations, ancient empires, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kW5wd6aalgs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kW5wd6aalgs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kW5wd6aalgs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kW5wd6aalgs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kW5wd6aalgs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Grain House History ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:56:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mMHZQZ_f3IUN8NDsNCF2QEcCI2E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZSf2NUzRFk0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:50:33Z",
+          "channelId": "UCPyw1nGMb3omoiDjmW-u6gw",
+          "title": "When 30 Seconds Felt Like Forever | Vietnam War Combat Footage  #vietnamwar #history #army",
+          "description": "This video contains combat footage that some viewers may find disturbing. Viewer discretion is advised. Thirty seconds on your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZSf2NUzRFk0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZSf2NUzRFk0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZSf2NUzRFk0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZSf2NUzRFk0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZSf2NUzRFk0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "National Historic Documentary",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:50:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2EVaKWimZ5LOJ_Z88EHvsI963sI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fzoHgHl96mw"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:33:32Z",
+          "channelId": "UCFy6QIVt1kuQD2kEW2tsLQw",
+          "title": "History of England #britishhistory #historydocumentary #historyexplained #theworldhistory",
+          "description": "The History of England – Chapter Two: From Norman Rule to Magna Carta (1066–1215) #ancientbritain #britishhistory ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fzoHgHl96mw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fzoHgHl96mw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fzoHgHl96mw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fzoHgHl96mw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fzoHgHl96mw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "theworldhistory",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:33:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dHP_blc0gs4wSAu49uMeVi6sPbA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aI87pz5hCy0"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:27:38Z",
+          "channelId": "UCmacw13jWFuGDoDnE5NljcQ",
+          "title": "The Titanic Disaster: What Really Happened in 1912? 🚢 | History Documentary",
+          "description": "Discover the tragic story of the RMS Titanic, the legendary passenger ship that sank in the North Atlantic Ocean in April 1912.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aI87pz5hCy0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aI87pz5hCy0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aI87pz5hCy0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aI87pz5hCy0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aI87pz5hCy0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The History 293",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:27:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SZE67Xub9qwM4vyC7NmPyefo5ug",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xxhB_VOTMxQ"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:20:13Z",
+          "channelId": "UC6JgxKTqHJT5h2VxwGQfJaQ",
+          "title": "COLONIZED #history #facts #indianhistory #historydocumentary #trending #shorts #shortvideo #short",
+          "description": "India was not conquered in a single day. First came trade. Then influence. Then revenue. And finally… an empire. But why did the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxhB_VOTMxQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxhB_VOTMxQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxhB_VOTMxQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xxhB_VOTMxQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xxhB_VOTMxQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Infinity Hub",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:20:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "km3JzU5MrwU3AEQioqyuacqwreQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kLadbwESr2c"
+        },
+        "snippet": {
+          "publishedAt": "2026-10-11T15:07:31Z",
+          "channelId": "UCqF7HsgyH5CC_WtldYYkxVg",
+          "title": "How Did Ancient People Predict Eclipses? history documentary #history #documentary #eclipsephase #ad",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kLadbwESr2c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kLadbwESr2c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kLadbwESr2c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kLadbwESr2c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kLadbwESr2c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "History revealed documentary",
+          "liveBroadcastContent": "none",
+          "publishTime": "2026-10-11T15:07:31Z"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "verifier": "oversight/watcher/verify_radar.py (independent of radar.py)",
+  "run_at_utc": "2026-10-12T01:46:56.053074+00:00",
+  "radar_source": "/home/hatch/workspace/youtube-os/v2_1/state/snapshots/breakout_radar_20261012/05_analysis_20261012T014403Z.json",
+  "api_call": "channels.list(id=<8 ids>, part=snippet,statistics) x1 — read-only",
+  "quota_units_used": 1,
+  "token_integrity_before": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "token_integrity_after": {
+    "path": "/home/hatch/workspace/youtube_api/.secrets/tokens_film_verdict.json",
+    "sha256": "bff8e3264f99a2d257fd75ad615925b549f517b26e468cba82254966d05f2bc7",
+    "size": 793,
+    "mtime_utc": "2026-10-09T12:47:02.798188+00:00"
+  },
+  "token_untouched": true,
+  "summary": {
+    "matched": 8,
+    "mismatched": 0,
+    "missing": 0
+  },
+  "entries": [
+    {
+      "channel_id": "UCErQaD-Mkc5Eg29NlB6USNQ",
+      "title": "gatsbygalaxykitty",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-29T21:07:47.750277Z",
+          "verify_value": "2026-09-29T21:07:47.750277Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "121",
+          "verify_value": "121",
+          "match": true,
+          "note": "|121-121|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "28447",
+          "verify_value": "28447",
+          "match": true,
+          "note": "within max(10, 2.0% of 28447)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "22",
+          "verify_value": "22",
+          "match": true,
+          "note": "|22-22|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCABTmppCsgdJd5UFYm6ioYg",
+      "title": "Crime Lore",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-19T17:54:05.750534Z",
+          "verify_value": "2026-09-19T17:54:05.750534Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "67",
+          "verify_value": "67",
+          "match": true,
+          "note": "|67-67|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "6571",
+          "verify_value": "6571",
+          "match": true,
+          "note": "within max(10, 2.0% of 6571)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "21",
+          "verify_value": "21",
+          "match": true,
+          "note": "|21-21|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCq05p1hrReWcl9oXb-7KOmw",
+      "title": "Cronicas de Tinta y Libertad",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-10-06T18:55:39.562769Z",
+          "verify_value": "2026-10-06T18:55:39.562769Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "15",
+          "verify_value": "15",
+          "match": true,
+          "note": "|15-15|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "150",
+          "verify_value": "150",
+          "match": true,
+          "note": "within max(10, 2.0% of 150)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "2",
+          "verify_value": "2",
+          "match": true,
+          "note": "|2-2|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCFy6QIVt1kuQD2kEW2tsLQw",
+      "title": "theworldhistory",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-10-10T20:16:05.904216Z",
+          "verify_value": "2026-10-10T20:16:05.904216Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "3",
+          "verify_value": "3",
+          "match": true,
+          "note": "|3-3|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "0",
+          "verify_value": "0",
+          "match": true,
+          "note": "within max(10, 2.0% of 0)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "2",
+          "verify_value": "2",
+          "match": true,
+          "note": "|2-2|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCTsP5yOat1VjWZN_V6dY49A",
+      "title": "BOLO W",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-25T11:06:13.392341Z",
+          "verify_value": "2026-09-25T11:06:13.392341Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "44",
+          "verify_value": "44",
+          "match": true,
+          "note": "|44-44|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "23793",
+          "verify_value": "23793",
+          "match": true,
+          "note": "within max(10, 2.0% of 23793)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "71",
+          "verify_value": "71",
+          "match": true,
+          "note": "|71-71|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCvS0HuI3-c9PK0xBbqVrSog",
+      "title": "stuffedcice",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-12T08:47:45.409996Z",
+          "verify_value": "2026-09-12T08:47:45.409996Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "72",
+          "verify_value": "72",
+          "match": true,
+          "note": "|72-72|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "12675",
+          "verify_value": "12675",
+          "match": true,
+          "note": "within max(10, 2.0% of 12675)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "26",
+          "verify_value": "26",
+          "match": true,
+          "note": "|26-26|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCp3btVAXQQ1aFPBcJEjn25Q",
+      "title": "Badge and Bloodshed",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-19T13:35:55.40357Z",
+          "verify_value": "2026-09-19T13:35:55.40357Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "46",
+          "verify_value": "46",
+          "match": true,
+          "note": "|46-46|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "7610",
+          "verify_value": "7610",
+          "match": true,
+          "note": "within max(10, 2.0% of 7610)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "16",
+          "verify_value": "16",
+          "match": true,
+          "note": "|16-16|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    },
+    {
+      "channel_id": "UCyNh1mOCVsQ90_oTffjfsLg",
+      "title": "Dark Chapters",
+      "fields": [
+        {
+          "field": "publishedAt",
+          "radar_value": "2026-09-26T02:22:47.617518Z",
+          "verify_value": "2026-09-26T02:22:47.617518Z",
+          "match": true,
+          "note": "exact match after fractional-second normalization"
+        },
+        {
+          "field": "subscriberCount",
+          "radar_value": "27",
+          "verify_value": "27",
+          "match": true,
+          "note": "|27-27|=0 <= 3"
+        },
+        {
+          "field": "viewCount",
+          "radar_value": "5103",
+          "verify_value": "5103",
+          "match": true,
+          "note": "within max(10, 2.0% of 5103)"
+        },
+        {
+          "field": "videoCount",
+          "radar_value": "16",
+          "verify_value": "16",
+          "match": true,
+          "note": "|16-16|=0 <= 1"
+        }
+      ],
+      "all_match": true
+    }
+  ]
+}

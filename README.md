@@ -33,3 +33,4 @@ Mọi số liệu trong hồ sơ được gắn nhãn: **LIVE VERIFIED** (gọi 
 - Không có API key, OAuth token, refresh token, client secret, private key hay mật khẩu.
 - Email trong JSON snapshot API (email liên hệ công khai của kênh YouTube) đã che thành `[EMAIL-REDACTED]`.
 - Email tài khoản quản trị đã che thành `[EMAIL-REDACTED]`.
+- Mã nguồn Python (15 file `.py`) đã TẠM GỠ khỏi repo public theo yêu cầu kiểm soát mã nguồn — chỉ đăng lại khi được duyệt riêng.
